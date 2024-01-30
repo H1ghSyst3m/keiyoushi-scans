@@ -5,8 +5,9 @@ let currentSort = { column: null, ascending: true };
 
 // Add an event listener for the DOMContentLoaded event to initialize the script once the DOM is fully loaded.
 document.addEventListener('DOMContentLoaded', function() {
+    const url = 'virus_total_results.json?t=' + new Date().getTime();
     // Fetch data from a JSON file and initialize the application with this data.
-    fetch('virus_total_results.json')
+    fetch(url)
         .then(response => response.json())
         .then(data => {
             currentData = data; // Store the fetched data in currentData.
