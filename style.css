@@ -114,29 +114,41 @@ header h1 {
 }
 
 @media screen and (max-width: 768px) {
-    .table {
+    .table tbody td {
         display: block;
+        text-align: center;
+        padding: 10px;
+        position: relative;
+        border: none !important;
+        border-bottom: 1px solid #e9ecef !important;
+    }
+
+    .table tbody td::before {
+        content: attr(data-label);
+        position: absolute;
+        left: 50%;
+        transform: translateX(-50%);
+        width: auto;
+        padding-right: 0;
+        text-align: center;
+        font-weight: bold;
+        color: #007bff;
+    }
+
+    .table td:last-child {
+        border-bottom: 2px solid #0080ff !important;
+    }
+    
+    .table tbody td:nth-last-child(3) {
+        display: none;
     }
 
     .table thead {
         display: none;
     }
 
-    .table tbody td {
-        display: block;
-        padding: 10px;
-        text-align: right;
-        position: relative;
-    }
-
-    .table tbody td::before {
-        content: attr(data-label);
-        position: absolute;
-        left: 0;
-        width: 50%;
-        padding-right: 15px;
-        text-align: left;
-        font-weight: bold;
+    .table-responsive {
+        overflow-x: auto;
     }
 
     header h1 {

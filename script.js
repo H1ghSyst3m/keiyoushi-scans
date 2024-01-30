@@ -111,7 +111,7 @@ function createTableRows(data) {
             <td>${item.positives}</td>
             <td>${item.total}</td>
             <td>${item.file_type}</td>
-            <td>${(item.file_size / 1024).toFixed(2)}</td>
+            <td>${(item.file_size / 1024).toFixed(2)} KB</td>
             <td><a href="${item.link}" class="btn btn-primary" target="_blank">Details</a></td>
         `;
         list.appendChild(row); // Append the new row to the table.
