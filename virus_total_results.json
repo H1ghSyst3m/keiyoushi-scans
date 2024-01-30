@@ -13237,5 +13237,16 @@
         "file_type": "Android",
         "file_size": 50833,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-zh.iqiyi-v1.4.2.apk",
+        "hash": "17fc3fd1697e250f49bcf1a07768ce7fe10fb0b255e7584b0ca11b93547ff023",
+        "link": "https://www.virustotal.com/gui/file/17fc3fd1697e250f49bcf1a07768ce7fe10fb0b255e7584b0ca11b93547ff023",
+        "scan_date": 1706658522,
+        "positives": 0,
+        "total": 64,
+        "file_type": "Android",
+        "file_size": 58934,
+        "detected_by": {}
     }
 ]
