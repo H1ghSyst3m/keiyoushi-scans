@@ -12,8 +12,5 @@ Welcome to the **Keiyoushi Extension Scans** page! This site is dedicated to pro
 ## Usage
 To use this webpage, simply browse through the table of scan results. You can also use the language filter to narrow down the results to specific languages.
 
-## Contributing
-If you would like to contribute to the development of this page or the underlying data, please refer to the [Keiyoushi Extensions repository](https://github.com/keiyoushi/extensions).
-
 ## License
 This project is open-source and available under [MIT License](LICENSE).
