@@ -13149,5 +13149,27 @@
         "file_type": "Android",
         "file_size": 60876,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-tr.mangatr-v1.4.12.apk",
+        "hash": "690fb8df013c0d1e04249bb1ab6c27d5befe7f1a4e7031f1f3549bb97beb1adc",
+        "link": "https://www.virustotal.com/gui/file/690fb8df013c0d1e04249bb1ab6c27d5befe7f1a4e7031f1f3549bb97beb1adc",
+        "scan_date": 1706627469,
+        "positives": 0,
+        "total": 64,
+        "file_type": "Android",
+        "file_size": 79098,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-ja.rawdevartart-v1.4.1.apk",
+        "hash": "6b79394c1f0528b3fe85fb315c4660cbbd3c24041ca88273316da99f23dbae68",
+        "link": "https://www.virustotal.com/gui/file/6b79394c1f0528b3fe85fb315c4660cbbd3c24041ca88273316da99f23dbae68",
+        "scan_date": 1706635075,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 51908,
+        "detected_by": {}
     }
 ]
