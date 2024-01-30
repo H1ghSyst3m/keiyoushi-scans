@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/css/select2.min.css" rel="stylesheet" />
+
+    <link rel="stylesheet" href="style.css">
+    <title>Mihon Extension Scans</title>
+    <style>
+    </style>
+</head>
+<body>
+    <div class="container mt-4">
+        <!-- Header section of the page -->
+        <header class="text-center mb-4">
+            <h1>Mihon Extension Scans</h1>  <!-- Main heading -->
+            <div id="summary-container" class="my-3"></div>  <!-- Container for displaying summary information -->
+            <p>APKs from <a href="https://github.com/keiyoushi/extensions"><b>https://github.com/keiyoushi/extensions</b></a></p>
+        </header>
+        <!-- Container for the language filter -->
+        <div class="filter-container mb-3">
+            <!-- Select box for language filtering with multiple selection enabled -->
+            <select class="language-filter" multiple="multiple">
+                <option value="all">ALL</option>
+                <option value="ar">AR</option>
+                <option value="bg">BG</option>
+                <option value="ca">CA</option>
+                <option value="cs">CS</option>
+                <option value="de">DE</option>
+                <option value="en">EN</option>
+                <option value="es">ES</option>
+                <option value="fr">FR</option>
+                <option value="hi">HI</option>
+                <option value="id">ID</option>
+                <option value="it">IT</option>
+                <option value="ja">JA</option>
+                <option value="ko">KO</option>
+                <option value="pl">PL</option>
+                <option value="pz">PZ</option>
+                <option value="ru">RU</option>
+                <option value="th">TH</option>
+                <option value="tr">TR</option>
+                <option value="uk">UR</option>
+                <option value="vi">VI</option>
+                <option value="zh">ZH</option>
+            </select>
+        </div>
+
+        <!-- Responsive table container -->
+        <div class="table-responsive">
+            <table class="table table-hover">
+                <thead>
+                    <tr>
+                        <!-- Table headers with data-sort attributes for sorting and span for sort symbols -->
+                        <th data-sort="filename">File Name <span class="sort-symbol"></span></th>
+                        <th data-sort="hash">Hash <span class="sort-symbol"></span></th>
+                        <th data-sort="scan_date">Scan Date <span class="sort-symbol"></span></th>
+                        <th data-sort="positives">Positives <span class="sort-symbol"></span></th>
+                        <th data-sort="total">Total <span class="sort-symbol"></span></th>
+                        <th data-sort="file_type">Type <span class="sort-symbol"></span></th>
+                        <th data-sort="file_size">File Size (KB) <span class="sort-symbol"></span></th>
+                        <th>Details</th>
+                    </tr>
+                </thead>
+                <tbody id="data-list"></tbody> <!-- Table body where data rows will be dynamically added -->
+            </table>
+        </div>
+    </div>
+    <script src="script.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/jquery/dist/jquery.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/js/select2.min.js"></script>
+</body>
+</html>
