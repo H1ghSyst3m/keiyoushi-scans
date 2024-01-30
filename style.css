@@ -1,0 +1,156 @@
+
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    line-height: 1.6;
+    overflow-x: hidden;
+}
+
+.container {
+    padding: 0 15px;
+}
+
+header {
+    background-color: #fff;
+    padding: 15px 0;
+    border-bottom: 1px solid #ddd;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+header h1 {
+    margin-bottom: 5px;
+    font-size: 24px;
+    color: #007bff;
+}
+
+#summary-container p {
+    font-size: 16px;
+    color: #666;
+}
+
+.filter-container {
+    margin-bottom: 15px;
+}
+
+.select2-container {
+    width: 100% !important;
+}
+
+.select2-container--default .select2-selection--multiple {
+    border: 1px solid #ced4da;
+    border-radius: 4px;
+    padding: 5px;
+}
+
+.select2-selection__choice {
+    background-color: #007bff;
+    color: #fff;
+    border: 1px solid #0056b3;
+    border-radius: 4px;
+    padding: 0 5px;
+    margin-right: 5px;
+    cursor: pointer;
+}
+
+.select2-selection__choice__remove {
+    color: #fff;
+    cursor: pointer;
+}
+
+/* Tabelle */
+.table {
+    width: 100%;
+    margin-bottom: 20px;
+    background-color: #fff;
+}
+
+.table th,
+.table td {
+    text-align: left;
+    padding: 12px;
+    border-top: 1px solid #dee2e6;
+}
+
+.table th {
+    background-color: #007bff;
+    color: #fff;
+    border-bottom: 2px solid #0056b3;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    font-size: 14px;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.table th:hover {
+    background-color: #0056b3; 
+}
+
+.table-responsive {
+    border-radius: 5px;
+    overflow-x: auto;
+}
+
+.btn {
+    background-color: #007bff;
+    color: #fff;
+    padding: 5px 10px;
+    border-radius: 4px;
+    border: 1px solid #0056b3;
+    text-align: center;
+    display: inline-block;
+    cursor: pointer;
+}
+
+@media screen and (max-width: 768px) {
+    .table {
+        display: block;
+    }
+
+    .table thead {
+        display: none;
+    }
+
+    .table tbody td {
+        display: block;
+        padding: 10px;
+        text-align: right;
+        position: relative;
+    }
+
+    .table tbody td::before {
+        content: attr(data-label);
+        position: absolute;
+        left: 0;
+        width: 50%;
+        padding-right: 15px;
+        text-align: left;
+        font-weight: bold;
+    }
+
+    header h1 {
+        font-size: 1.8rem;
+    }
+
+    #summary-container p {
+        font-size: 1rem;
+    }
+}
+
+@media screen and (max-width: 576px) {
+    .table th {
+        font-size: 12px;
+        padding: 8px;
+    }
+}
