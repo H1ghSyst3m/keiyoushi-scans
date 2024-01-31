@@ -13446,5 +13446,16 @@
         "file_type": "Android",
         "file_size": 57092,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-zh.manhuagui-v1.4.19.apk",
+        "hash": "ea1ead413aabb6dbc64edd6e4b3dc1c42ef0e1594eb76238b2839527774fd037",
+        "link": "https://www.virustotal.com/gui/file/ea1ead413aabb6dbc64edd6e4b3dc1c42ef0e1594eb76238b2839527774fd037",
+        "scan_date": 1706724487,
+        "positives": 0,
+        "total": 64,
+        "file_type": "Android",
+        "file_size": 78560,
+        "detected_by": {}
     }
 ]
