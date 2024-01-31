@@ -13424,5 +13424,27 @@
         "file_type": "Android",
         "file_size": 51814,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-all.ninenineninehentai-v1.4.6.apk",
+        "hash": "0706c9156b400ad678ac63bd4d178550718e69870fec599400e2dbe02718efd2",
+        "link": "https://www.virustotal.com/gui/file/0706c9156b400ad678ac63bd4d178550718e69870fec599400e2dbe02718efd2",
+        "scan_date": 1706724074,
+        "positives": 0,
+        "total": 64,
+        "file_type": "Android",
+        "file_size": 95124,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.opscans-v1.4.33.apk",
+        "hash": "174e674feac169cdfcf5dcd54928cd30e2729fddbab7d765e39288b754f0a403",
+        "link": "https://www.virustotal.com/gui/file/174e674feac169cdfcf5dcd54928cd30e2729fddbab7d765e39288b754f0a403",
+        "scan_date": 1706724078,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 57092,
+        "detected_by": {}
     }
 ]
