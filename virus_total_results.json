@@ -13391,5 +13391,27 @@
         "file_type": "Android",
         "file_size": 52108,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-all.batoto-v1.4.35.apk",
+        "hash": "7bb06d2dde87de5ae804e3d2caf3dd6eefb102f4a7fd25d9d906c5c1396561f4",
+        "link": "https://www.virustotal.com/gui/file/7bb06d2dde87de5ae804e3d2caf3dd6eefb102f4a7fd25d9d906c5c1396561f4",
+        "scan_date": 1706704106,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 69667,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-id.mangayu-v1.4.28.apk",
+        "hash": "8cf6c4361f6575a258ffe56c33dbb0151456dee4a18dc17f19002b4be6e2e116",
+        "link": "https://www.virustotal.com/gui/file/8cf6c4361f6575a258ffe56c33dbb0151456dee4a18dc17f19002b4be6e2e116",
+        "scan_date": 1706704111,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 77993,
+        "detected_by": {}
     }
 ]
