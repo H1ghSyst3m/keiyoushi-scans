@@ -13413,5 +13413,16 @@
         "file_type": "Android",
         "file_size": 77993,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.manhuascan-v1.4.8.apk",
+        "hash": "74c8ffdde40ef0ea1e1a0e062ccc766a502da2695b6db46881609d95b2c26ab5",
+        "link": "https://www.virustotal.com/gui/file/74c8ffdde40ef0ea1e1a0e062ccc766a502da2695b6db46881609d95b2c26ab5",
+        "scan_date": 1706715006,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 51814,
+        "detected_by": {}
     }
 ]
