@@ -13457,5 +13457,38 @@
         "file_type": "Android",
         "file_size": 78560,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-zh.mangabz-v1.4.8.apk",
+        "hash": "8fd189c0e807af2dfa4d221fabfeb4a36ec562aa3c6d6d9b014598e869e7af61",
+        "link": "https://www.virustotal.com/gui/file/8fd189c0e807af2dfa4d221fabfeb4a36ec562aa3c6d6d9b014598e869e7af61",
+        "scan_date": 1706823282,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 63893,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-zh.wnacg-v1.4.15.apk",
+        "hash": "0f38d6812010b1c320ad3c936fb612e83162c7f527d2f67086867523b599d55a",
+        "link": "https://www.virustotal.com/gui/file/0f38d6812010b1c320ad3c936fb612e83162c7f527d2f67086867523b599d55a",
+        "scan_date": 1706823285,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 64952,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-zh.zerobyw-v1.4.18.apk",
+        "hash": "50ada027a2986b9dca34613e7a72775fe93f566f20246380b327672e97ba6ce3",
+        "link": "https://www.virustotal.com/gui/file/50ada027a2986b9dca34613e7a72775fe93f566f20246380b327672e97ba6ce3",
+        "scan_date": 1706823287,
+        "positives": 0,
+        "total": 64,
+        "file_type": "Android",
+        "file_size": 76563,
+        "detected_by": {}
     }
 ]
