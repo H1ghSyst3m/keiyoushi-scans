@@ -13490,5 +13490,38 @@
         "file_type": "Android",
         "file_size": 76563,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-ar.mangaflame-v1.4.28.apk",
+        "hash": "5a7ecf8e8662157bc2808d77139b2f5fb5bea6ef8ca895caacdc052c0cf526b9",
+        "link": "https://www.virustotal.com/gui/file/5a7ecf8e8662157bc2808d77139b2f5fb5bea6ef8ca895caacdc052c0cf526b9",
+        "scan_date": 1706828765,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 67332,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-ar.thunderscans-v1.4.28.apk",
+        "hash": "cfee42d7f2bcb14661e4129e29ca010e13981064f42a8bdca71420fdfc1f37ef",
+        "link": "https://www.virustotal.com/gui/file/cfee42d7f2bcb14661e4129e29ca010e13981064f42a8bdca71420fdfc1f37ef",
+        "scan_date": 1706828770,
+        "positives": 0,
+        "total": 64,
+        "file_type": "Android",
+        "file_size": 62211,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.kaiscans-v1.4.29.apk",
+        "hash": "491b2fd53f8e6085b8a9d7bb63ff56327ca416066abf94f4a4d5adb6b4bc56e2",
+        "link": "https://www.virustotal.com/gui/file/491b2fd53f8e6085b8a9d7bb63ff56327ca416066abf94f4a4d5adb6b4bc56e2",
+        "scan_date": 1706828772,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 51897,
+        "detected_by": {}
     }
 ]
