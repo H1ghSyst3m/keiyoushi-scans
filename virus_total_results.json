@@ -13831,5 +13831,16 @@
         "file_type": "Android",
         "file_size": 123071,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-ar.mangaflame-v1.4.29.apk",
+        "hash": "ab73770d071eecc010391b1f5814e42df12a5baaf85be5712d3bc71b7107839b",
+        "link": "https://www.virustotal.com/gui/file/ab73770d071eecc010391b1f5814e42df12a5baaf85be5712d3bc71b7107839b",
+        "scan_date": 1706966460,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 67419,
+        "detected_by": {}
     }
 ]
