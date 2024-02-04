@@ -13842,5 +13842,27 @@
         "file_type": "Android",
         "file_size": 67419,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-es.hentaimode-v1.4.1.apk",
+        "hash": "f0b6cad94eea698426e83ffbb389259b455d55c65845d1f0d5bbdad70063cf46",
+        "link": "https://www.virustotal.com/gui/file/f0b6cad94eea698426e83ffbb389259b455d55c65845d1f0d5bbdad70063cf46",
+        "scan_date": 1706991927,
+        "positives": 0,
+        "total": 64,
+        "file_type": "Android",
+        "file_size": 52026,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-ru.remanga-v1.4.85.apk",
+        "hash": "af568f11657f4b4cf20f4436a13944a9f9790e0f0dba06917da94bb2b2decb7d",
+        "link": "https://www.virustotal.com/gui/file/af568f11657f4b4cf20f4436a13944a9f9790e0f0dba06917da94bb2b2decb7d",
+        "scan_date": 1706990479,
+        "positives": 0,
+        "total": 63,
+        "file_type": "Android",
+        "file_size": 123040,
+        "detected_by": {}
     }
 ]
