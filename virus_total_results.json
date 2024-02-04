@@ -14403,5 +14403,16 @@
         "file_type": "Android",
         "file_size": 67522,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-ar.teamx-v1.4.17.apk",
+        "hash": "15027ccfb647a24f7f3d3830b982c76bb1d6f76049b4c363196aa4e331d41f37",
+        "link": "https://www.virustotal.com/gui/file/15027ccfb647a24f7f3d3830b982c76bb1d6f76049b4c363196aa4e331d41f37",
+        "scan_date": 1707079960,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 37418,
+        "detected_by": {}
     }
 ]
