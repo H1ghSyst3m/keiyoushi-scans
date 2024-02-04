@@ -14238,5 +14238,38 @@
         "file_type": "Android",
         "file_size": 68362,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-fr.sushiscan-v1.4.39.apk",
+        "hash": "e54010d469147bb58aa50bf41368c3cda1236e5e49c1895b7ce8c5e25623bca4",
+        "link": "https://www.virustotal.com/gui/file/e54010d469147bb58aa50bf41368c3cda1236e5e49c1895b7ce8c5e25623bca4",
+        "scan_date": 1707054678,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 105217,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-fr.sushiscanfr-v1.4.30.apk",
+        "hash": "cade04edba9d5e53cc43adf484791775440b9dd8afbb498c392088823fdaa88f",
+        "link": "https://www.virustotal.com/gui/file/cade04edba9d5e53cc43adf484791775440b9dd8afbb498c392088823fdaa88f",
+        "scan_date": 1707054681,
+        "positives": 0,
+        "total": 64,
+        "file_type": "Android",
+        "file_size": 57538,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-ja.kisslove-v1.4.14.apk",
+        "hash": "810116a288566d138302298b181a0fd45c9197540dd2482e276ad0943af48aed",
+        "link": "https://www.virustotal.com/gui/file/810116a288566d138302298b181a0fd45c9197540dd2482e276ad0943af48aed",
+        "scan_date": 1707054683,
+        "positives": 0,
+        "total": 64,
+        "file_type": "Android",
+        "file_size": 66285,
+        "detected_by": {}
     }
 ]
