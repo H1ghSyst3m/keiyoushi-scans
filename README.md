@@ -1,4 +1,4 @@
-# Keiyoushi Extension Scans
+# Keiyoushi Extension Virus Scans
 
 ## Overview
 Welcome to the **Keiyoushi Extension Scans** page! This site is dedicated to providing users with comprehensive virus scan results of extensions from [Keiyoushi Extensions](https://github.com/keiyoushi/extensions). We utilize VirusTotal to ensure that each extension is thoroughly checked for any potential security threats.
