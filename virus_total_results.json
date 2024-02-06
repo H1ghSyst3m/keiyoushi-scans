@@ -14623,5 +14623,16 @@
         "file_type": "Android",
         "file_size": 62554,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-ja.manga1000-v1.4.10.apk",
+        "hash": "bbd38784bcae78f96f1c42cd9a3b67293dff4aea2ddcb2b996b25998b240bb19",
+        "link": "https://www.virustotal.com/gui/file/bbd38784bcae78f96f1c42cd9a3b67293dff4aea2ddcb2b996b25998b240bb19",
+        "scan_date": 1707178910,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 51652,
+        "detected_by": {}
     }
 ]
