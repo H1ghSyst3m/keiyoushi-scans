@@ -14812,5 +14812,16 @@
         "file_type": "Android",
         "file_size": 113223,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.infinityscans-v1.4.4.apk",
+        "hash": "7788111bad9993449979accecab02e893796c1bbe12400c28a1c283d1e91e529",
+        "link": "https://www.virustotal.com/gui/file/7788111bad9993449979accecab02e893796c1bbe12400c28a1c283d1e91e529",
+        "scan_date": 1707260978,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 79665,
+        "detected_by": {}
     }
 ]
