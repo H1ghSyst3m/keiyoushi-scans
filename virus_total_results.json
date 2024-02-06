@@ -14645,5 +14645,27 @@
         "file_type": "Android",
         "file_size": 46528,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-ar.mangalink-v1.4.33.apk",
+        "hash": "37d39ab10bfa71ac82a497adfe839433f62817d0086cdd99ea290b28ddc1eae6",
+        "link": "https://www.virustotal.com/gui/file/37d39ab10bfa71ac82a497adfe839433f62817d0086cdd99ea290b28ddc1eae6",
+        "scan_date": 1707181069,
+        "positives": 0,
+        "total": 62,
+        "file_type": "Android",
+        "file_size": 78017,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-pt.kingdombrasilscantrad-v1.4.1.apk",
+        "hash": "8d4fc083e21336519b6d29bdddeaa8664fe2a4fc4bca506aed6e475e192f2fb2",
+        "link": "https://www.virustotal.com/gui/file/8d4fc083e21336519b6d29bdddeaa8664fe2a4fc4bca506aed6e475e192f2fb2",
+        "scan_date": 1707181074,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 62361,
+        "detected_by": {}
     }
 ]
