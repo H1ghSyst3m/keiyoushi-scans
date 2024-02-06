@@ -14757,5 +14757,16 @@
         "file_type": "Android",
         "file_size": 233370,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-all.komga-v1.4.53.apk",
+        "hash": "fb591dcf7217b2659cd3b3a42c90cc7e63882e4b360bc772203633399091c691",
+        "link": "https://www.virustotal.com/gui/file/fb591dcf7217b2659cd3b3a42c90cc7e63882e4b360bc772203633399091c691",
+        "scan_date": 1707243527,
+        "positives": 0,
+        "total": 64,
+        "file_type": "Android",
+        "file_size": 429643,
+        "detected_by": {}
     }
 ]
