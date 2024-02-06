@@ -14667,5 +14667,29 @@
         "file_type": "Android",
         "file_size": 62361,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-es.lectormanga-v1.4.36.apk",
+        "hash": "9db4d912c4f70905bfaa68bc1c3d4c2714da5a8b1c031a3635bdd8a05eed8cdd",
+        "link": "https://www.virustotal.com/gui/file/9db4d912c4f70905bfaa68bc1c3d4c2714da5a8b1c031a3635bdd8a05eed8cdd",
+        "scan_date": 1707188922,
+        "positives": 1,
+        "total": 64,
+        "file_type": "Android",
+        "file_size": 78935,
+        "detected_by": {
+            "Zillya": "Trojan.Hiddad.Android.17743"
+        }
+    },
+    {
+        "filename": "tachiyomi-es.tumangaonline-v1.4.51.apk",
+        "hash": "a0c6ba48888e0c3080534e63c652c2dba97de7e2c3584f57d9e299681126f85f",
+        "link": "https://www.virustotal.com/gui/file/a0c6ba48888e0c3080534e63c652c2dba97de7e2c3584f57d9e299681126f85f",
+        "scan_date": 1707188824,
+        "positives": 0,
+        "total": 64,
+        "file_type": "Android",
+        "file_size": 62581,
+        "detected_by": {}
     }
 ]
