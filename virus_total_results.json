@@ -14768,5 +14768,27 @@
         "file_type": "Android",
         "file_size": 429643,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.likemanga-v1.4.4.apk",
+        "hash": "51f55bfac383bc671345b8dea630b1d5e4f1f8e9fa06ad06af67dcc3c5b476fc",
+        "link": "https://www.virustotal.com/gui/file/51f55bfac383bc671345b8dea630b1d5e4f1f8e9fa06ad06af67dcc3c5b476fc",
+        "scan_date": 1707250658,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 57351,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.zinmanhwa-v1.4.35.apk",
+        "hash": "f3699f447d69cec46b627c89472caee8cd2312b16692fad40a296bf443d0b0b3",
+        "link": "https://www.virustotal.com/gui/file/f3699f447d69cec46b627c89472caee8cd2312b16692fad40a296bf443d0b0b3",
+        "scan_date": 1707250663,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 91562,
+        "detected_by": {}
     }
 ]
