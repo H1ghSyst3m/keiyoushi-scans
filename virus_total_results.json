@@ -14691,5 +14691,71 @@
         "file_type": "Android",
         "file_size": 62581,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.creepyscans-v1.4.34.apk",
+        "hash": "5ca6bfbe0a9869a889f3c0d9ba5646f154906aa42a1ad89ae2d324b8dce4a114",
+        "link": "https://www.virustotal.com/gui/file/5ca6bfbe0a9869a889f3c0d9ba5646f154906aa42a1ad89ae2d324b8dce4a114",
+        "scan_date": 1707243174,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 62295,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.hentai20-v1.4.37.apk",
+        "hash": "3a669d1af9eec1953138889cced9d121309513e3525053e651e948e294c956de",
+        "link": "https://www.virustotal.com/gui/file/3a669d1af9eec1953138889cced9d121309513e3525053e651e948e294c956de",
+        "scan_date": 1707243176,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 54957,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.manhuaaz-v1.4.33.apk",
+        "hash": "26af15a49ebd560841b38b8fbf721505eb9a4607bfce9a4182f0066359a232d2",
+        "link": "https://www.virustotal.com/gui/file/26af15a49ebd560841b38b8fbf721505eb9a4607bfce9a4182f0066359a232d2",
+        "scan_date": 1707243178,
+        "positives": 0,
+        "total": 64,
+        "file_type": "Android",
+        "file_size": 73914,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-th.bakaman-v1.4.35.apk",
+        "hash": "d8264e8b2e64f8c78474334da39967b94d2f2d3f24d644bfeabf1042b0e8acff",
+        "link": "https://www.virustotal.com/gui/file/d8264e8b2e64f8c78474334da39967b94d2f2d3f24d644bfeabf1042b0e8acff",
+        "scan_date": 1707243182,
+        "positives": 0,
+        "total": 64,
+        "file_type": "Android",
+        "file_size": 80019,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-vi.ocumeo-v1.4.5.apk",
+        "hash": "4ca901ca54b5602ad888f4a2c4396ebe47cefc92a3a9d3fb38ce6c992853e513",
+        "link": "https://www.virustotal.com/gui/file/4ca901ca54b5602ad888f4a2c4396ebe47cefc92a3a9d3fb38ce6c992853e513",
+        "scan_date": 1707243185,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 48547,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-zh.jinmantiantang-v1.4.42.apk",
+        "hash": "7e27bee77ebd607858649413e34f87b451ac40b002ab315831404b3ab40b0925",
+        "link": "https://www.virustotal.com/gui/file/7e27bee77ebd607858649413e34f87b451ac40b002ab315831404b3ab40b0925",
+        "scan_date": 1707243187,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 233370,
+        "detected_by": {}
     }
 ]
