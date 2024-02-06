@@ -14801,5 +14801,16 @@
         "file_type": "Android",
         "file_size": 54382,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-ar.gatemanga-v1.4.35.apk",
+        "hash": "577ed32890ae72ea5af235f07df4a2040d8e3ed5bcac19e529abcdaa90af7c2e",
+        "link": "https://www.virustotal.com/gui/file/577ed32890ae72ea5af235f07df4a2040d8e3ed5bcac19e529abcdaa90af7c2e",
+        "scan_date": 1707259751,
+        "positives": 0,
+        "total": 64,
+        "file_type": "Android",
+        "file_size": 113223,
+        "detected_by": {}
     }
 ]
