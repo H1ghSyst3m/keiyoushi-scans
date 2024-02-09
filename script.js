@@ -10,8 +10,9 @@ document.addEventListener('DOMContentLoaded', function() {
     fetch(url)
         .then(response => response.json())
         .then(data => {
-            currentData = data; // Store the fetched data in currentData.
-            filteredData = data; // Initially, filteredData is the same as currentData.
+            const processedData = processData(data);
+            currentData = processedData; // Store the fetched data in currentData.
+            filteredData = processedData; // Initially, filteredData is the same as currentData.
             displaySummary(data); // Display summary information based on the fetched data.
             applyFilterAndSort(); // Apply filters and sorting to the data.
             addSortingEventListeners(); // Setup event listeners for table sorting.
@@ -99,22 +100,78 @@ function sortData(data, column, ascending) {
     });
 }
 
+// Function for processing data and merging duplicates
+function processData(data) {
+    let processedData = {};
+    data.forEach(item => {
+        const baseName = item.filename.split('-v')[0]; // Base name without version number
+        const version = item.filename.match(/-v([\d.]+)/)[1]; // Extract the version number
+
+        if (!processedData[baseName]) {
+            processedData[baseName] = {...item, versions: {}};
+        }
+        processedData[baseName].versions[version] = {...item, version};
+    });
+
+    // Convert the object back into an array and sort versions
+    return Object.values(processedData).map(item => {
+        const versions = Object.keys(item.versions).sort((a, b) => b.localeCompare(a)); // Sort versions descending
+        item.currentVersion = versions[0]; // Set the latest version as the current version
+        return item;
+    });
+}
+
+// Function for formating the date 
+function formatDate(timestamp) {
+    const date = new Date(timestamp);
+    const day = date.getDate().toString().padStart(2, '0');
+    const month = (date.getMonth() + 1).toString().padStart(2, '0'); // Months start at 0
+    const year = date.getFullYear();
+    return `${day}.${month}.${year}`;
+}
+
 // Function to create and append table rows based on the provided data.
 function createTableRows(data) {
     const list = document.getElementById('data-list');
     list.innerHTML = '';
     data.forEach(item => {
         const row = document.createElement('tr');
+        const versionOptions = Object.keys(item.versions).sort((a, b) => b.localeCompare(a))
+            .map(version => `<option value="${version}" ${version === item.currentVersion ? 'selected' : ''}>${version}</option>`)
+            .join('');
+
+        const formattedDate = formatDate(item.versions[item.currentVersion].scan_date * 1000);
         row.innerHTML = `
             <td>${item.filename}</td>
-            <td><input type="text" value="${item.hash}" class="form-control read-only-input" readonly></td>
-            <td>${new Date(item.scan_date * 1000).toLocaleDateString()}</td>
-            <td>${item.positives}</td>
-            <td>${item.total}</td>
-            <td>${item.file_type}</td>
-            <td>${(item.file_size / 1024).toFixed(2)} KB</td>
-            <td><a href="${item.link}" class="btn btn-primary" target="_blank">Details</a></td>
+            <td><select class="form-select version-select" data-basename="${item.filename.split('-v')[0]}">${versionOptions}</select></td>
+            <td><input type="text" value="${item.versions[item.currentVersion].hash}" class="form-control read-only-input" readonly></td>
+            <td>${formattedDate}</td>
+            <td>${item.versions[item.currentVersion].positives}</td>
+            <td>${item.versions[item.currentVersion].total}</td>
+            <td>${(item.versions[item.currentVersion].file_size / 1024).toFixed(2)} KB</td>
+            <td><a href="${item.versions[item.currentVersion].link}" class="btn btn-primary" target="_blank">Details</a></td>
         `;
-        list.appendChild(row); // Append the new row to the table.
+        list.appendChild(row);
     });
+
+    document.querySelectorAll('.version-select').forEach(select => {
+        select.addEventListener('change', function() {
+            updateRowData(this, this.value);
+        });
+    });
+}
+
+// Function for updating the data of a row based on the selected version
+function updateRowData(select, version) {
+    const baseName = select.getAttribute('data-basename');
+    const item = filteredData.find(item => item.filename.startsWith(baseName));
+    const versionData = item.versions[version];
+
+    const row = select.closest('tr');
+    row.querySelector('input').value = versionData.hash;
+    row.cells[3].textContent = new Date(versionData.scan_date * 1000).toLocaleDateString();
+    row.cells[4].textContent = versionData.positives;
+    row.cells[5].textContent = versionData.total;
+    row.cells[6].textContent = (versionData.file_size / 1024).toFixed(2) + ' KB';
+    row.cells[7].innerHTML = `<a href="${versionData.link}" class="btn btn-primary" target="_blank">Details</a>`;
 }
