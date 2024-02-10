@@ -15505,5 +15505,27 @@
         "file_type": "Android",
         "file_size": 68349,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-all.hentaicosplay-v1.4.3.apk",
+        "hash": "d47d634d489469cb2b91a7bb7a30b41e110e853d69e8d6e3e6ce88ab946fe162",
+        "link": "https://www.virustotal.com/gui/file/d47d634d489469cb2b91a7bb7a30b41e110e853d69e8d6e3e6ce88ab946fe162",
+        "scan_date": 1707601316,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 42865,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-vi.truyengihot-v1.4.5.apk",
+        "hash": "a8dd6512507d5379a119db0348713c861c64f1b7d4c766660b9b9d704cde4df7",
+        "link": "https://www.virustotal.com/gui/file/a8dd6512507d5379a119db0348713c861c64f1b7d4c766660b9b9d704cde4df7",
+        "scan_date": 1707601320,
+        "positives": 0,
+        "total": 64,
+        "file_type": "Android",
+        "file_size": 66215,
+        "detected_by": {}
     }
 ]
