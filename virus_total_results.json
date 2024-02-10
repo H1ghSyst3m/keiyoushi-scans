@@ -15494,5 +15494,16 @@
         "file_type": "Android",
         "file_size": 68365,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.mangahereonl-v1.4.27.apk",
+        "hash": "75cd32767183a8e07673b8ecdabe4cc78cfe75bdab19812f90c37413cd724514",
+        "link": "https://www.virustotal.com/gui/file/75cd32767183a8e07673b8ecdabe4cc78cfe75bdab19812f90c37413cd724514",
+        "scan_date": 1707565402,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 68349,
+        "detected_by": {}
     }
 ]
