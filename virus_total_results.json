@@ -15527,5 +15527,38 @@
         "file_type": "Android",
         "file_size": 66215,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-ar.mangaae-v1.4.12.apk",
+        "hash": "b426b10b73de2e25df9f6e326e4b45db6615a09352b8c352fbc2ac0f103bf9a3",
+        "link": "https://www.virustotal.com/gui/file/b426b10b73de2e25df9f6e326e4b45db6615a09352b8c352fbc2ac0f103bf9a3",
+        "scan_date": 1707656393,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 32288,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.mangasail-v1.4.5.apk",
+        "hash": "d573ee0aa7e76241f05b0fe1d4a2cfd51881401379df6f07bcdbf1cfab7fb80b",
+        "link": "https://www.virustotal.com/gui/file/d573ee0aa7e76241f05b0fe1d4a2cfd51881401379df6f07bcdbf1cfab7fb80b",
+        "scan_date": 1707656398,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 65236,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-tr.mangagezgini-v1.4.33.apk",
+        "hash": "632ddd91de2e9b4f6c52ea612eb6052cc630e8d53c79a9c35cc50f4fa159be8e",
+        "link": "https://www.virustotal.com/gui/file/632ddd91de2e9b4f6c52ea612eb6052cc630e8d53c79a9c35cc50f4fa159be8e",
+        "scan_date": 1707656401,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 108862,
+        "detected_by": {}
     }
 ]
