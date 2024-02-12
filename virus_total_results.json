@@ -15571,5 +15571,71 @@
         "file_type": "Android",
         "file_size": 63531,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.anchira-v1.4.7.apk",
+        "hash": "79aa956f6f9eaee9ab7a4a761bd04e12898dc7bb6d6338b5dd5efac7a8d3bc2e",
+        "link": "https://www.virustotal.com/gui/file/79aa956f6f9eaee9ab7a4a761bd04e12898dc7bb6d6338b5dd5efac7a8d3bc2e",
+        "scan_date": 1707746074,
+        "positives": 0,
+        "total": 63,
+        "file_type": "Android",
+        "file_size": 139968,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.magusmanga-v1.4.30.apk",
+        "hash": "ea48860c19fabb625bc96806e7355fd6eaf6c75a1c11d851b3a0a62513f35000",
+        "link": "https://www.virustotal.com/gui/file/ea48860c19fabb625bc96806e7355fd6eaf6c75a1c11d851b3a0a62513f35000",
+        "scan_date": 1707746077,
+        "positives": 0,
+        "total": 64,
+        "file_type": "Android",
+        "file_size": 93798,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-es.atlantisscan-v1.4.34.apk",
+        "hash": "12f1bba7c9020adb865f54db77bd9906de4b067fd55b5678638ce21113a33f9c",
+        "link": "https://www.virustotal.com/gui/file/12f1bba7c9020adb865f54db77bd9906de4b067fd55b5678638ce21113a33f9c",
+        "scan_date": 1707746080,
+        "positives": 0,
+        "total": 64,
+        "file_type": "Android",
+        "file_size": 87382,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-es.heavenmanga-v1.4.7.apk",
+        "hash": "f79f9ea38d4e14bcd2a85e89674b6d5fd23f587d2ef80d95bdda1f195cc5139e",
+        "link": "https://www.virustotal.com/gui/file/f79f9ea38d4e14bcd2a85e89674b6d5fd23f587d2ef80d95bdda1f195cc5139e",
+        "scan_date": 1707746081,
+        "positives": 0,
+        "total": 64,
+        "file_type": "Android",
+        "file_size": 77482,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-es.inarimanga-v1.4.36.apk",
+        "hash": "fadab54bdef2be84fb5af12df12e9f0d0dcb848fd416f8ebb4f40f3e3b58e4a5",
+        "link": "https://www.virustotal.com/gui/file/fadab54bdef2be84fb5af12df12e9f0d0dcb848fd416f8ebb4f40f3e3b58e4a5",
+        "scan_date": 1707746083,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 76852,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-es.lectormanga-v1.4.37.apk",
+        "hash": "1d70264364f0c400f5621da63b844b21010a69675004bd06bca232f4308efaf0",
+        "link": "https://www.virustotal.com/gui/file/1d70264364f0c400f5621da63b844b21010a69675004bd06bca232f4308efaf0",
+        "scan_date": 1707746085,
+        "positives": 0,
+        "total": 64,
+        "file_type": "Android",
+        "file_size": 79869,
+        "detected_by": {}
     }
 ]
