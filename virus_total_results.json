@@ -15637,5 +15637,27 @@
         "file_type": "Android",
         "file_size": 79869,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.mangadig-v1.4.2.apk",
+        "hash": "07b660e1e3d03fe3df42167c25a12ec0f167c6ff3326c454073af77ceb7115ea",
+        "link": "https://www.virustotal.com/gui/file/07b660e1e3d03fe3df42167c25a12ec0f167c6ff3326c454073af77ceb7115ea",
+        "scan_date": 1707846481,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 164004,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-zh.onemanhua-v1.4.17.apk",
+        "hash": "30fba7fd9f99e800eb578134e4f05118db49186d9e01810f8788dc1690918d89",
+        "link": "https://www.virustotal.com/gui/file/30fba7fd9f99e800eb578134e4f05118db49186d9e01810f8788dc1690918d89",
+        "scan_date": 1707846499,
+        "positives": 0,
+        "total": 64,
+        "file_type": "Android",
+        "file_size": 169011,
+        "detected_by": {}
     }
 ]
