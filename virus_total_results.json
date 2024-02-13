@@ -15659,5 +15659,49 @@
         "file_type": "Android",
         "file_size": 169011,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.xoxocomics-v1.4.7.apk",
+        "hash": "1edf185117abae570fa262e2f4003ffa101c27d403dba2ce2db2bf31ed490449",
+        "link": "https://www.virustotal.com/gui/file/1edf185117abae570fa262e2f4003ffa101c27d403dba2ce2db2bf31ed490449",
+        "scan_date": 1707850747,
+        "positives": 0,
+        "total": 64,
+        "file_type": "Android",
+        "file_size": 52070,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-fr.scanhentaifr-v1.4.33.apk",
+        "hash": "fb7ece4ff25c09cbadfc97f9a6b8c091b579cb3175afe2110a8a1e58d4c34730",
+        "link": "https://www.virustotal.com/gui/file/fb7ece4ff25c09cbadfc97f9a6b8c091b579cb3175afe2110a8a1e58d4c34730",
+        "scan_date": 1707850751,
+        "positives": 0,
+        "total": 63,
+        "file_type": "Android",
+        "file_size": 66149,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-vi.nettruyen-v1.4.26.apk",
+        "hash": "cda088eac75f54a55d781f35c2a3cbd3898ce81af6fe46973c10efc3d2f4e006",
+        "link": "https://www.virustotal.com/gui/file/cda088eac75f54a55d781f35c2a3cbd3898ce81af6fe46973c10efc3d2f4e006",
+        "scan_date": 1707850754,
+        "positives": 0,
+        "total": 64,
+        "file_type": "Android",
+        "file_size": 39375,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-vi.nhattruyen-v1.4.18.apk",
+        "hash": "28556f8e3efa93a94bf67bcdabddbaf4e60e20f4444a7073f72573835660a5f9",
+        "link": "https://www.virustotal.com/gui/file/28556f8e3efa93a94bf67bcdabddbaf4e60e20f4444a7073f72573835660a5f9",
+        "scan_date": 1707850756,
+        "positives": 0,
+        "total": 64,
+        "file_type": "Android",
+        "file_size": 39762,
+        "detected_by": {}
     }
 ]
