@@ -15703,5 +15703,16 @@
         "file_type": "Android",
         "file_size": 39762,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-es.copypastescan-v1.4.35.apk",
+        "hash": "0c1a958ad774a2cfacdf7e2a3a6e4d5243813e161a11db2c86f5372fbb08a5fa",
+        "link": "https://www.virustotal.com/gui/file/0c1a958ad774a2cfacdf7e2a3a6e4d5243813e161a11db2c86f5372fbb08a5fa",
+        "scan_date": 1707921968,
+        "positives": 0,
+        "total": 64,
+        "file_type": "Android",
+        "file_size": 90633,
+        "detected_by": {}
     }
 ]
