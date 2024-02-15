@@ -15769,5 +15769,16 @@
         "file_type": "Android",
         "file_size": 96907,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-tr.lilyumfansub-v1.4.33.apk",
+        "hash": "8e9189a057eaeeca7eea400bf188bea470e5e7596b36794c0db57b45d5c53aa0",
+        "link": "https://www.virustotal.com/gui/file/8e9189a057eaeeca7eea400bf188bea470e5e7596b36794c0db57b45d5c53aa0",
+        "scan_date": 1708022573,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 113189,
+        "detected_by": {}
     }
 ]
