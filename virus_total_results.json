@@ -15714,5 +15714,38 @@
         "file_type": "Android",
         "file_size": 90633,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.rudrascans-v1.4.2.apk",
+        "hash": "dcca05bed43d78416da47f671d3b4ee7fabd1de381e38bb298ccbb6c03bd49f8",
+        "link": "https://www.virustotal.com/gui/file/dcca05bed43d78416da47f671d3b4ee7fabd1de381e38bb298ccbb6c03bd49f8",
+        "scan_date": 1708006216,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 64313,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.wickedscans-v1.4.1.apk",
+        "hash": "aedc8d702958b680452d14afd9ec4f9d5f10311cfe2a1fb5a07b62e17f78ccf5",
+        "link": "https://www.virustotal.com/gui/file/aedc8d702958b680452d14afd9ec4f9d5f10311cfe2a1fb5a07b62e17f78ccf5",
+        "scan_date": 1708006220,
+        "positives": 0,
+        "total": 62,
+        "file_type": "Android",
+        "file_size": 96920,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-vi.dualeotruyen-v1.4.1.apk",
+        "hash": "7344229cab16c80855433a933cb2ce38a20c2dece0525d4aaead05b30cff6433",
+        "link": "https://www.virustotal.com/gui/file/7344229cab16c80855433a933cb2ce38a20c2dece0525d4aaead05b30cff6433",
+        "scan_date": 1708006222,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 49602,
+        "detected_by": {}
     }
 ]
