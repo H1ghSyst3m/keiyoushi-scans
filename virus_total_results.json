@@ -15780,5 +15780,38 @@
         "file_type": "Android",
         "file_size": 113189,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-ar.novelstown-v1.4.34.apk",
+        "hash": "8224aa77cc19318948bf7fa943d4b0a8e0fc71fd43d8799485ae42333662af62",
+        "link": "https://www.virustotal.com/gui/file/8224aa77cc19318948bf7fa943d4b0a8e0fc71fd43d8799485ae42333662af62",
+        "scan_date": 1708029825,
+        "positives": 0,
+        "total": 64,
+        "file_type": "Android",
+        "file_size": 84835,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-es.legendsnofansub-v1.4.34.apk",
+        "hash": "143201c9b0a4096567a270773f6464edc75a19eb7740f8d70c54c5ae392b11a0",
+        "link": "https://www.virustotal.com/gui/file/143201c9b0a4096567a270773f6464edc75a19eb7740f8d70c54c5ae392b11a0",
+        "scan_date": 1708029829,
+        "positives": 0,
+        "total": 64,
+        "file_type": "Android",
+        "file_size": 96898,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-ko.navercomic-v1.4.5.apk",
+        "hash": "9a869859a84135239814e22241b63b452c65d2d3875af59e184ca6377c23a569",
+        "link": "https://www.virustotal.com/gui/file/9a869859a84135239814e22241b63b452c65d2d3875af59e184ca6377c23a569",
+        "scan_date": 1708029832,
+        "positives": 0,
+        "total": 63,
+        "file_type": "Android",
+        "file_size": 82489,
+        "detected_by": {}
     }
 ]
