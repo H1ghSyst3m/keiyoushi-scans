@@ -15747,5 +15747,27 @@
         "file_type": "Android",
         "file_size": 49602,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-es.esmi2manga-v1.4.33.apk",
+        "hash": "646962be2bffdbcbd8964dfcbc11d66c275b4b0e9b42a9f1e107ffce1a28ef23",
+        "link": "https://www.virustotal.com/gui/file/646962be2bffdbcbd8964dfcbc11d66c275b4b0e9b42a9f1e107ffce1a28ef23",
+        "scan_date": 1708020738,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 76285,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-es.legendsnofansub-v1.4.33.apk",
+        "hash": "51ff4439ec09cf488b90b61997f5133a7055286f7e3ea7eedc1598e2cff85070",
+        "link": "https://www.virustotal.com/gui/file/51ff4439ec09cf488b90b61997f5133a7055286f7e3ea7eedc1598e2cff85070",
+        "scan_date": 1708020743,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 96907,
+        "detected_by": {}
     }
 ]
