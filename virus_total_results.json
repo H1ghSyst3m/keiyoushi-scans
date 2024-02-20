@@ -20340,5 +20340,16 @@
         "file_type": "Android",
         "file_size": 79936,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.wickedscans-v1.4.2.apk",
+        "hash": "3be98302d3ea3ee73f9de1270fc162cb865b7fd97955849342df1c6b3e221624",
+        "link": "https://www.virustotal.com/gui/file/3be98302d3ea3ee73f9de1270fc162cb865b7fd97955849342df1c6b3e221624",
+        "scan_date": 1708470206,
+        "positives": 0,
+        "total": 64,
+        "file_type": "Android",
+        "file_size": 97029,
+        "detected_by": {}
     }
 ]
