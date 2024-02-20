@@ -20307,5 +20307,38 @@
         "file_type": "Android",
         "file_size": 79878,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.todaymic-v1.4.36.apk",
+        "hash": "80377bf666055956f336f37c66deacb2dee49587aae52b8b75e8a061b6892d88",
+        "link": "https://www.virustotal.com/gui/file/80377bf666055956f336f37c66deacb2dee49587aae52b8b75e8a061b6892d88",
+        "scan_date": 1708470202,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 65736,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-es.daprob-v1.4.35.apk",
+        "hash": "12d49c9e282526afa3b3fc151baa7a5f8aec36ae007b73a503a5df4eba895def",
+        "link": "https://www.virustotal.com/gui/file/12d49c9e282526afa3b3fc151baa7a5f8aec36ae007b73a503a5df4eba895def",
+        "scan_date": 1708470207,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 68311,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-es.mantrazscan-v1.4.35.apk",
+        "hash": "6e7a147a17a27f341e321ec3131517a3fa7b65c7b3f72de6530e2d94bf041857",
+        "link": "https://www.virustotal.com/gui/file/6e7a147a17a27f341e321ec3131517a3fa7b65c7b3f72de6530e2d94bf041857",
+        "scan_date": 1708470209,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 79936,
+        "detected_by": {}
     }
 ]
