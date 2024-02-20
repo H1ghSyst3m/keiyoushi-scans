@@ -20230,5 +20230,82 @@
         "file_type": "Android",
         "file_size": 102648,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-fr.shadowtrad-v1.4.35.apk",
+        "hash": "72f176bd8d16ed98b301c0d92a44c6f6d32c86ce99d72b258393f80e4c10cffc",
+        "link": "https://www.virustotal.com/gui/file/72f176bd8d16ed98b301c0d92a44c6f6d32c86ce99d72b258393f80e4c10cffc",
+        "scan_date": 1708470221,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 67349,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-fr.thebeginningaftertheend-v1.4.36.apk",
+        "hash": "061fd19c052b58797bbf2b260a5651608f63bb1da9533d5f1a83d69cb996d9f3",
+        "link": "https://www.virustotal.com/gui/file/061fd19c052b58797bbf2b260a5651608f63bb1da9533d5f1a83d69cb996d9f3",
+        "scan_date": 1708470223,
+        "positives": 0,
+        "total": 64,
+        "file_type": "Android",
+        "file_size": 88214,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-hi.comicsvalley-v1.4.36.apk",
+        "hash": "eebd9d750f4c82cfb838ab83fc7193e5149638b07b1c92dd50eba252410ad4c0",
+        "link": "https://www.virustotal.com/gui/file/eebd9d750f4c82cfb838ab83fc7193e5149638b07b1c92dd50eba252410ad4c0",
+        "scan_date": 1708470225,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 96193,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-hi.comicsworld-v1.4.35.apk",
+        "hash": "e4efdcff180a2b8edef42fdcaac813811c33bbc650e797631985c3db147d76e1",
+        "link": "https://www.virustotal.com/gui/file/e4efdcff180a2b8edef42fdcaac813811c33bbc650e797631985c3db147d76e1",
+        "scan_date": 1708470227,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 89725,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-id.birdtoon-v1.4.35.apk",
+        "hash": "22f705184e3c18d8457e0f8cb3a6f1d77de7c18c51b9e39aa8503d419f20a88e",
+        "link": "https://www.virustotal.com/gui/file/22f705184e3c18d8457e0f8cb3a6f1d77de7c18c51b9e39aa8503d419f20a88e",
+        "scan_date": 1708470229,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 81931,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-id.klikmanga-v1.4.37.apk",
+        "hash": "dbc24fa70be16cf2224b8ac01c5f6482617fee0e321b76de2e078881ff95b091",
+        "link": "https://www.virustotal.com/gui/file/dbc24fa70be16cf2224b8ac01c5f6482617fee0e321b76de2e078881ff95b091",
+        "scan_date": 1708470232,
+        "positives": 0,
+        "total": 64,
+        "file_type": "Android",
+        "file_size": 62309,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-id.komikgue-v1.4.35.apk",
+        "hash": "c5c936bc08711ebc512958b4fc4844c0f90591c614d40a88f942d4ff198ee6f4",
+        "link": "https://www.virustotal.com/gui/file/c5c936bc08711ebc512958b4fc4844c0f90591c614d40a88f942d4ff198ee6f4",
+        "scan_date": 1708470234,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 79878,
+        "detected_by": {}
     }
 ]
