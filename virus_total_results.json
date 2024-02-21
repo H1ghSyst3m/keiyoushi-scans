@@ -21827,5 +21827,27 @@
         "file_type": "Android",
         "file_size": 37720,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-pt.manhastro-v1.4.37.apk",
+        "hash": "eb76f12a915200eaf5d6724b40179c4e9a721d4997bde63f5a2cef3ad2ae7e42",
+        "link": "https://www.virustotal.com/gui/file/eb76f12a915200eaf5d6724b40179c4e9a721d4997bde63f5a2cef3ad2ae7e42",
+        "scan_date": 1708535302,
+        "positives": 0,
+        "total": 61,
+        "file_type": "Android",
+        "file_size": 70466,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-pt.prismascans-v1.4.40.apk",
+        "hash": "3abd0e5d558eb2d0a0b83f592c4a956c53891d56bc76953fe1f64a82ee509a96",
+        "link": "https://www.virustotal.com/gui/file/3abd0e5d558eb2d0a0b83f592c4a956c53891d56bc76953fe1f64a82ee509a96",
+        "scan_date": 1708535304,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 101294,
+        "detected_by": {}
     }
 ]
