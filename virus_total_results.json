@@ -21794,5 +21794,38 @@
         "file_type": "Android",
         "file_size": 69360,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-ar.mangaswat-v1.4.44.apk",
+        "hash": "ed9911b0a17a855fde6825db024747919bee24dcd12922857bcf2b791d171e6a",
+        "link": "https://www.virustotal.com/gui/file/ed9911b0a17a855fde6825db024747919bee24dcd12922857bcf2b791d171e6a",
+        "scan_date": 1708534629,
+        "positives": 0,
+        "total": 64,
+        "file_type": "Android",
+        "file_size": 88756,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-es.mangasnosekai-v1.4.43.apk",
+        "hash": "741c27f5a8d202e18caf598ea04554f09ba5d0c5f53bc083d5aefcabb9dee928",
+        "link": "https://www.virustotal.com/gui/file/741c27f5a8d202e18caf598ea04554f09ba5d0c5f53bc083d5aefcabb9dee928",
+        "scan_date": 1708534635,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 118882,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-ru.comx-v1.4.29.apk",
+        "hash": "ff5c0eced31639aeee11a6880dd6254a9181814c719d01b8d83fed0f3d8e2a4d",
+        "link": "https://www.virustotal.com/gui/file/ff5c0eced31639aeee11a6880dd6254a9181814c719d01b8d83fed0f3d8e2a4d",
+        "scan_date": 1708534640,
+        "positives": 0,
+        "total": 64,
+        "file_type": "Android",
+        "file_size": 37720,
+        "detected_by": {}
     }
 ]
