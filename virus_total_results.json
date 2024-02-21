@@ -21706,5 +21706,16 @@
         "file_type": "Android",
         "file_size": 51638,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-zh.onemanhua-v1.4.18.apk",
+        "hash": "cc6d6cd1be638537862da7f0e5779e2133ed60b249b7c6677604a073e7fa2d1d",
+        "link": "https://www.virustotal.com/gui/file/cc6d6cd1be638537862da7f0e5779e2133ed60b249b7c6677604a073e7fa2d1d",
+        "scan_date": 1708530982,
+        "positives": 0,
+        "total": 60,
+        "file_type": "Android",
+        "file_size": 169070,
+        "detected_by": {}
     }
 ]
