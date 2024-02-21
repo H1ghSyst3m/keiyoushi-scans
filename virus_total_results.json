@@ -21695,5 +21695,16 @@
         "file_type": "Android",
         "file_size": 73777,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-zh.happymh-v1.4.8.apk",
+        "hash": "d93b2826792057b776e8d55a297a40b264157cc414fec6ed1fc1766c1af89b13",
+        "link": "https://www.virustotal.com/gui/file/d93b2826792057b776e8d55a297a40b264157cc414fec6ed1fc1766c1af89b13",
+        "scan_date": 1708530361,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 51638,
+        "detected_by": {}
     }
 ]
