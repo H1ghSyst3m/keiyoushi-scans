@@ -21717,5 +21717,82 @@
         "file_type": "Android",
         "file_size": 169070,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-pt.akimanga-v1.4.35.apk",
+        "hash": "2030b18cecc3067637bd529325f0495ccc340d3eeefc54e209b38df30ca98e77",
+        "link": "https://www.virustotal.com/gui/file/2030b18cecc3067637bd529325f0495ccc340d3eeefc54e209b38df30ca98e77",
+        "scan_date": 1708531587,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 69489,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-pt.arthurscan-v1.4.39.apk",
+        "hash": "60f609724739789b3e9b5fd376a7a7080ff0f61e5157e7f8dd2cdf56e1d6d1ba",
+        "link": "https://www.virustotal.com/gui/file/60f609724739789b3e9b5fd376a7a7080ff0f61e5157e7f8dd2cdf56e1d6d1ba",
+        "scan_date": 1708531592,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 95251,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-pt.cafecomyaoi-v1.4.36.apk",
+        "hash": "47527952c3f94568a8540f96f85af32921098aa75840ea7895b18183039ccf08",
+        "link": "https://www.virustotal.com/gui/file/47527952c3f94568a8540f96f85af32921098aa75840ea7895b18183039ccf08",
+        "scan_date": 1708531593,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 69477,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-pt.passamaoscan-v1.4.35.apk",
+        "hash": "359e20e53d8947d56f00e2359e7d741fb1b4152cba899eef44b9158e68d3c17f",
+        "link": "https://www.virustotal.com/gui/file/359e20e53d8947d56f00e2359e7d741fb1b4152cba899eef44b9158e68d3c17f",
+        "scan_date": 1708531595,
+        "positives": 0,
+        "total": 63,
+        "file_type": "Android",
+        "file_size": 69536,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-pt.tankouhentai-v1.4.35.apk",
+        "hash": "fc9f1268a3b419d0d1ccd09ba8eea1c6be030ecdc0088a4f07f879038bacb3cf",
+        "link": "https://www.virustotal.com/gui/file/fc9f1268a3b419d0d1ccd09ba8eea1c6be030ecdc0088a4f07f879038bacb3cf",
+        "scan_date": 1708531596,
+        "positives": 0,
+        "total": 64,
+        "file_type": "Android",
+        "file_size": 69535,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-pt.valkyriescan-v1.4.35.apk",
+        "hash": "fc9c5ca4c2e9141984ad360746c7be8aa66d20b86b370e2e8767e78bcb3715c0",
+        "link": "https://www.virustotal.com/gui/file/fc9c5ca4c2e9141984ad360746c7be8aa66d20b86b370e2e8767e78bcb3715c0",
+        "scan_date": 1708531598,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 69590,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-th.rh2plusmanga-v1.4.40.apk",
+        "hash": "cbe83d33e9830568018e9e1c5ed2f9f93b56bbdd421b70f45efbcca22631d707",
+        "link": "https://www.virustotal.com/gui/file/cbe83d33e9830568018e9e1c5ed2f9f93b56bbdd421b70f45efbcca22631d707",
+        "scan_date": 1708531600,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 69360,
+        "detected_by": {}
     }
 ]
