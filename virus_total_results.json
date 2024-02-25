@@ -22047,5 +22047,49 @@
         "file_type": "Android",
         "file_size": 39552,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.mangadistrict-v1.4.38.apk",
+        "hash": "d3047f34d7f695b43f3c17db24c05812908365a6682d2c024eb13faccf913004",
+        "link": "https://www.virustotal.com/gui/file/d3047f34d7f695b43f3c17db24c05812908365a6682d2c024eb13faccf913004",
+        "scan_date": 1708870233,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 95964,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.resetscans-v1.4.36.apk",
+        "hash": "a53c919919d55cc32a2c56c26fef310a7a75d001828b05caf89166018b357eb1",
+        "link": "https://www.virustotal.com/gui/file/a53c919919d55cc32a2c56c26fef310a7a75d001828b05caf89166018b357eb1",
+        "scan_date": 1708870243,
+        "positives": 0,
+        "total": 64,
+        "file_type": "Android",
+        "file_size": 101802,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-id.shinigami-v1.4.52.apk",
+        "hash": "8399ee0e038ee2c579ea86163deb0421c25bdc459d1262be5ee20145492790ea",
+        "link": "https://www.virustotal.com/gui/file/8399ee0e038ee2c579ea86163deb0421c25bdc459d1262be5ee20145492790ea",
+        "scan_date": 1708870252,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 228920,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-vi.dualeotruyen-v1.4.2.apk",
+        "hash": "d8203652e74648fee982fb38fd2edca921714aa86cc9a754087633116977cc33",
+        "link": "https://www.virustotal.com/gui/file/d8203652e74648fee982fb38fd2edca921714aa86cc9a754087633116977cc33",
+        "scan_date": 1708870262,
+        "positives": 0,
+        "total": 63,
+        "file_type": "Android",
+        "file_size": 49751,
+        "detected_by": {}
     }
 ]
