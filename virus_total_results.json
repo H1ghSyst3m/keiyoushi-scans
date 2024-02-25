@@ -22091,5 +22091,38 @@
         "file_type": "Android",
         "file_size": 49751,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-ru.remanga-v1.4.86.apk",
+        "hash": "e34c0055c97b93cd2edcbf3f484251cbdbcd6baa7c3c9d9ce3c51162185122c2",
+        "link": "https://www.virustotal.com/gui/file/e34c0055c97b93cd2edcbf3f484251cbdbcd6baa7c3c9d9ce3c51162185122c2",
+        "scan_date": 1708893476,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 123004,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-tr.hayalistic-v1.4.36.apk",
+        "hash": "be7784e8cda6cfab315808fcb516043531f8a6748b785983ab7243582092f991",
+        "link": "https://www.virustotal.com/gui/file/be7784e8cda6cfab315808fcb516043531f8a6748b785983ab7243582092f991",
+        "scan_date": 1708893479,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 98861,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-tr.summertoon-v1.4.29.apk",
+        "hash": "556ab5db402a3763935a31c6c57c574bc73eaecbda9983ba17de11a6ed9814ee",
+        "link": "https://www.virustotal.com/gui/file/556ab5db402a3763935a31c6c57c574bc73eaecbda9983ba17de11a6ed9814ee",
+        "scan_date": 1708893481,
+        "positives": 0,
+        "total": 64,
+        "file_type": "Android",
+        "file_size": 100351,
+        "detected_by": {}
     }
 ]
