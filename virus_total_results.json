@@ -24302,5 +24302,27 @@
         "file_type": "Android",
         "file_size": 43427,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-pt.franxxmangas-v1.4.29.apk",
+        "hash": "171d5b08dca1c020f1d545f55bd88d497c626b712df78ef1975306c07dc877d4",
+        "link": "https://www.virustotal.com/gui/file/171d5b08dca1c020f1d545f55bd88d497c626b712df78ef1975306c07dc877d4",
+        "scan_date": 1709475710,
+        "positives": 0,
+        "total": 64,
+        "file_type": "Android",
+        "file_size": 67431,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-pt.sssscanlator-v1.4.31.apk",
+        "hash": "c227c2baff143eb9f107ff9f3de5c5dfb06224a5b6f996989a9b4a6f9f0298af",
+        "link": "https://www.virustotal.com/gui/file/c227c2baff143eb9f107ff9f3de5c5dfb06224a5b6f996989a9b4a6f9f0298af",
+        "scan_date": 1709475728,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 67539,
+        "detected_by": {}
     }
 ]
