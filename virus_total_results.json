@@ -26339,5 +26339,84 @@
         "file_type": "Android",
         "file_size": 39553,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.irovedout-v1.4.4.apk",
+        "hash": "a53db0e76264aeac5fab065bd7af300d8194b37e300005482bb83d4f4ad0cdf8",
+        "link": "https://www.virustotal.com/gui/file/a53db0e76264aeac5fab065bd7af300d8194b37e300005482bb83d4f4ad0cdf8",
+        "scan_date": 1710014664,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 55746,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-es.ikigaimangas-v1.4.3.apk",
+        "hash": "505487c7f24755bfca8e4f2f6016bd31f39ff224443dbf0be7278c8d8d4feeaf",
+        "link": "https://www.virustotal.com/gui/file/505487c7f24755bfca8e4f2f6016bd31f39ff224443dbf0be7278c8d8d4feeaf",
+        "scan_date": 1710014675,
+        "positives": 1,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 64644,
+        "detected_by": {
+            "Microsoft": "Trojan:Script/Phonzy.B!ml"
+        }
+    },
+    {
+        "filename": "tachiyomi-id.inazumanga-v1.4.36.apk",
+        "hash": "4183f5472932abfd0a08a3d44fb4dde81f1e1ca577cc06213f2fbc3fb68880ec",
+        "link": "https://www.virustotal.com/gui/file/4183f5472932abfd0a08a3d44fb4dde81f1e1ca577cc06213f2fbc3fb68880ec",
+        "scan_date": 1710014681,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 84633,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-id.komikav-v1.4.32.apk",
+        "hash": "348fc55d14ea8250e3db755fb43b81190bd1d0c2fb4efb3be0320f07e30c0d2f",
+        "link": "https://www.virustotal.com/gui/file/348fc55d14ea8250e3db755fb43b81190bd1d0c2fb4efb3be0320f07e30c0d2f",
+        "scan_date": 1710014683,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 70585,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-id.mangkomik-v1.4.33.apk",
+        "hash": "abc7282564d618c4fd32cddcf90f15b9085f8fd1fa1f7dd5a5957d4e90ee9b41",
+        "link": "https://www.virustotal.com/gui/file/abc7282564d618c4fd32cddcf90f15b9085f8fd1fa1f7dd5a5957d4e90ee9b41",
+        "scan_date": 1710014718,
+        "positives": 0,
+        "total": 64,
+        "file_type": "Android",
+        "file_size": 80135,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-id.westmanga-v1.4.34.apk",
+        "hash": "a78888d7e506d2d3d1bb63609f5a48b2dbc3fac5cbdcbc847794dcd81bfe58ce",
+        "link": "https://www.virustotal.com/gui/file/a78888d7e506d2d3d1bb63609f5a48b2dbc3fac5cbdcbc847794dcd81bfe58ce",
+        "scan_date": 1710014722,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 97238,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-tr.ruyamanga-v1.4.37.apk",
+        "hash": "b54aa479e7ce593d3795e5046c5e4b9259a57e5a2f6fc941fa5509fdcbda4e6b",
+        "link": "https://www.virustotal.com/gui/file/b54aa479e7ce593d3795e5046c5e4b9259a57e5a2f6fc941fa5509fdcbda4e6b",
+        "scan_date": 1710014730,
+        "positives": 0,
+        "total": 64,
+        "file_type": "Android",
+        "file_size": 129295,
+        "detected_by": {}
     }
 ]
