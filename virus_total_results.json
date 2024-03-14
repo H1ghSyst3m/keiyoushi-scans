@@ -26418,5 +26418,71 @@
         "file_type": "Android",
         "file_size": 129295,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-ar.hentaislayer-v1.4.1.apk",
+        "hash": "cbec710602015d5c272c03bf09bfae9d94d95d665ede117db7705bfda03ecefa",
+        "link": "https://www.virustotal.com/gui/file/cbec710602015d5c272c03bf09bfae9d94d95d665ede117db7705bfda03ecefa",
+        "scan_date": 1710358395,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 62402,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.mangademon-v1.4.10.apk",
+        "hash": "7660d55962a01c2d29ae0ef19cd4aea5bd685dff579041751defa34b188be69e",
+        "link": "https://www.virustotal.com/gui/file/7660d55962a01c2d29ae0ef19cd4aea5bd685dff579041751defa34b188be69e",
+        "scan_date": 1710164216,
+        "positives": 0,
+        "total": 64,
+        "file_type": "Android",
+        "file_size": 60601,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.mangafreak-v1.4.10.apk",
+        "hash": "e2e969b41c217525b9fb4923890067c98df5f574e20cba7c8d829d80fdb83d06",
+        "link": "https://www.virustotal.com/gui/file/e2e969b41c217525b9fb4923890067c98df5f574e20cba7c8d829d80fdb83d06",
+        "scan_date": 1710211449,
+        "positives": 0,
+        "total": 64,
+        "file_type": "Android",
+        "file_size": 53825,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-es.demanhuas-v1.4.35.apk",
+        "hash": "afd3803bc05f474a30e91d9f31700285f731cdc1b07dcd919a4b64857c7e35e0",
+        "link": "https://www.virustotal.com/gui/file/afd3803bc05f474a30e91d9f31700285f731cdc1b07dcd919a4b64857c7e35e0",
+        "scan_date": 1710358402,
+        "positives": 0,
+        "total": 62,
+        "file_type": "Android",
+        "file_size": 96485,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-es.emperorscan-v1.4.37.apk",
+        "hash": "8ef7d0eecbb8a8a31f228e3d3f23c207250f59fed84bfb50d514a61fc62042f3",
+        "link": "https://www.virustotal.com/gui/file/8ef7d0eecbb8a8a31f228e3d3f23c207250f59fed84bfb50d514a61fc62042f3",
+        "scan_date": 1710358402,
+        "positives": 0,
+        "total": 64,
+        "file_type": "Android",
+        "file_size": 142405,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-es.territoriolealtad-v1.4.35.apk",
+        "hash": "6cd23b6298fd523ddba5a349ef483d0f13f294ba343e3848eea2851b87ef54ef",
+        "link": "https://www.virustotal.com/gui/file/6cd23b6298fd523ddba5a349ef483d0f13f294ba343e3848eea2851b87ef54ef",
+        "scan_date": 1710358402,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 91592,
+        "detected_by": {}
     }
 ]
