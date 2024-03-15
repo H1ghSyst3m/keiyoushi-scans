@@ -26726,5 +26726,27 @@
         "file_type": "Android",
         "file_size": 70994,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-ar.hentaislayer-v1.4.2.apk",
+        "hash": "8c467bd2e386f61813408bb8efaeb1d4d2895dfd6009ddaea5d6a1424e4595b6",
+        "link": "https://www.virustotal.com/gui/file/8c467bd2e386f61813408bb8efaeb1d4d2895dfd6009ddaea5d6a1424e4595b6",
+        "scan_date": 1710530005,
+        "positives": 0,
+        "total": 63,
+        "file_type": "Android",
+        "file_size": 62310,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-vi.dualeotruyen-v1.4.3.apk",
+        "hash": "698d2e795031b1decb4e75f498ca5a662cd423028b4b8415749a4d2a092fac43",
+        "link": "https://www.virustotal.com/gui/file/698d2e795031b1decb4e75f498ca5a662cd423028b4b8415749a4d2a092fac43",
+        "scan_date": 1710530025,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 49744,
+        "detected_by": {}
     }
 ]
