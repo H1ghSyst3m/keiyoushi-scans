@@ -27276,5 +27276,16 @@
         "file_type": "Android",
         "file_size": 49792,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-ar.ozulscans-v1.4.34.apk",
+        "hash": "502b4c3ef7f429fdc4ba6a7147d63d5f81e9925f26685576d0b1a2d6a1b140e7",
+        "link": "https://www.virustotal.com/gui/file/502b4c3ef7f429fdc4ba6a7147d63d5f81e9925f26685576d0b1a2d6a1b140e7",
+        "scan_date": 1711351957,
+        "positives": 0,
+        "total": 64,
+        "file_type": "Android",
+        "file_size": 100269,
+        "detected_by": {}
     }
 ]
