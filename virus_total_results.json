@@ -27661,5 +27661,82 @@
         "file_type": "Android",
         "file_size": 45025,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-ar.dilar-v1.4.5.apk",
+        "hash": "5d73c0858df6863775534ce8ae7bea187f661d9ed97b22590eac010bdbe4e05f",
+        "link": "https://www.virustotal.com/gui/file/5d73c0858df6863775534ce8ae7bea187f661d9ed97b22590eac010bdbe4e05f",
+        "scan_date": 1712605513,
+        "positives": 0,
+        "total": 64,
+        "file_type": "Android",
+        "file_size": 75480,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.flixscans-v1.4.6.apk",
+        "hash": "9d3097e079781b0092bdafabaa3a184f9338316ef13e81edf0675c08d5233afb",
+        "link": "https://www.virustotal.com/gui/file/9d3097e079781b0092bdafabaa3a184f9338316ef13e81edf0675c08d5233afb",
+        "scan_date": 1712595388,
+        "positives": 0,
+        "total": 64,
+        "file_type": "Android",
+        "file_size": 81230,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-es.celestialmoon-v1.4.9.apk",
+        "hash": "a5d709f0b69c474901bf56e1f87de0aab8468289857f520328dbcb76dcd1ec81",
+        "link": "https://www.virustotal.com/gui/file/a5d709f0b69c474901bf56e1f87de0aab8468289857f520328dbcb76dcd1ec81",
+        "scan_date": 1712098402,
+        "positives": 0,
+        "total": 64,
+        "file_type": "Android",
+        "file_size": 93213,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-es.datgarscanlation-v1.4.9.apk",
+        "hash": "de382466bdccbd637d3f58b61b962e9ea02cec8864f46460a765b3d179c01f48",
+        "link": "https://www.virustotal.com/gui/file/de382466bdccbd637d3f58b61b962e9ea02cec8864f46460a765b3d179c01f48",
+        "scan_date": 1711994441,
+        "positives": 0,
+        "total": 64,
+        "file_type": "Android",
+        "file_size": 141229,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-es.ikigaimangas-v1.4.4.apk",
+        "hash": "ce149556662f5841eac9edaacf9dfc96b02bae435fdc381add4b404a96eccc6e",
+        "link": "https://www.virustotal.com/gui/file/ce149556662f5841eac9edaacf9dfc96b02bae435fdc381add4b404a96eccc6e",
+        "scan_date": 1711929691,
+        "positives": 0,
+        "total": 64,
+        "file_type": "Android",
+        "file_size": 64630,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-es.plottwistnofansub-v1.4.3.apk",
+        "hash": "ed949189b20ce6a974988a004adebc7d4bd58bfe5f45e3b032face7125b449ed",
+        "link": "https://www.virustotal.com/gui/file/ed949189b20ce6a974988a004adebc7d4bd58bfe5f45e3b032face7125b449ed",
+        "scan_date": 1712025675,
+        "positives": 0,
+        "total": 64,
+        "file_type": "Android",
+        "file_size": 71915,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-es.tenkaiscan-v1.4.36.apk",
+        "hash": "1862ed57647d739d025a0ceb4b49f194ec4478d70101882f60dfe96f2d2d626c",
+        "link": "https://www.virustotal.com/gui/file/1862ed57647d739d025a0ceb4b49f194ec4478d70101882f60dfe96f2d2d626c",
+        "scan_date": 1712090462,
+        "positives": 0,
+        "total": 62,
+        "file_type": "Android",
+        "file_size": 43906,
+        "detected_by": {}
     }
 ]
