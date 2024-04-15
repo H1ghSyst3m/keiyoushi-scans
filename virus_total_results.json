@@ -28827,5 +28827,16 @@
         "file_type": "Android",
         "file_size": 52965,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-pt.covenscan-v1.4.35.apk",
+        "hash": "14c25fd5f625206a9a4ed864767b6dd92c3e7644fdc4e1959624b2613d6132c9",
+        "link": "https://www.virustotal.com/gui/file/14c25fd5f625206a9a4ed864767b6dd92c3e7644fdc4e1959624b2613d6132c9",
+        "scan_date": 1713196647,
+        "positives": 0,
+        "total": 64,
+        "file_type": "Android",
+        "file_size": 115090,
+        "detected_by": {}
     }
 ]
