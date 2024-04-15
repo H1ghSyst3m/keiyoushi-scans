@@ -28805,5 +28805,27 @@
         "file_type": "Android",
         "file_size": 47174,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.comicfans-v1.4.1.apk",
+        "hash": "c67cd9c188ab1b7ef436021e17f83b140b8e129f51255b30e44411f11791c425",
+        "link": "https://www.virustotal.com/gui/file/c67cd9c188ab1b7ef436021e17f83b140b8e129f51255b30e44411f11791c425",
+        "scan_date": 1713187485,
+        "positives": 0,
+        "total": 64,
+        "file_type": "Android",
+        "file_size": 78728,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-ja.raw1001-v1.4.1.apk",
+        "hash": "783676961941fd04472e156693ad1e32e2654f8920d60f88df827aa8363e0789",
+        "link": "https://www.virustotal.com/gui/file/783676961941fd04472e156693ad1e32e2654f8920d60f88df827aa8363e0789",
+        "scan_date": 1713187571,
+        "positives": 0,
+        "total": 63,
+        "file_type": "Android",
+        "file_size": 52965,
+        "detected_by": {}
     }
 ]
