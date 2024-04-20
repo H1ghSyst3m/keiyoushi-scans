@@ -28838,5 +28838,27 @@
         "file_type": "Android",
         "file_size": 115090,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-ar.mangaswat-v1.4.48.apk",
+        "hash": "6125c6c58b61a8356c4cb28093668bb0c3ce2f4ec3c5a52dbd130c99c31a385a",
+        "link": "https://www.virustotal.com/gui/file/6125c6c58b61a8356c4cb28093668bb0c3ce2f4ec3c5a52dbd130c99c31a385a",
+        "scan_date": 1713545248,
+        "positives": 0,
+        "total": 62,
+        "file_type": "Android",
+        "file_size": 96232,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-es.ikigaimangas-v1.4.5.apk",
+        "hash": "b7c676f2e9f86a42f39b0fe7015f4182a8b28943b8508287d52a158ec7086b8d",
+        "link": "https://www.virustotal.com/gui/file/b7c676f2e9f86a42f39b0fe7015f4182a8b28943b8508287d52a158ec7086b8d",
+        "scan_date": 1713646708,
+        "positives": 0,
+        "total": 63,
+        "file_type": "Android",
+        "file_size": 64734,
+        "detected_by": {}
     }
 ]
