@@ -29014,5 +29014,38 @@
         "file_type": "Android",
         "file_size": 108060,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-ar.mangapro-v1.4.31.apk",
+        "hash": "e149f55809cd86b4a8f71bfe664660e0a239b39ae176f435d74e18cd33c8e40f",
+        "link": "https://www.virustotal.com/gui/file/e149f55809cd86b4a8f71bfe664660e0a239b39ae176f435d74e18cd33c8e40f",
+        "scan_date": 1713654346,
+        "positives": 0,
+        "total": 64,
+        "file_type": "Android",
+        "file_size": 77222,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.anchira-v1.4.12.apk",
+        "hash": "41abf57f1d055632fcd2b38fdb585ff7bc3408d82da5324e6e2bb7a84d7ed01d",
+        "link": "https://www.virustotal.com/gui/file/41abf57f1d055632fcd2b38fdb585ff7bc3408d82da5324e6e2bb7a84d7ed01d",
+        "scan_date": 1713654348,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 143018,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-fr.scanhentaimenu-v1.4.37.apk",
+        "hash": "875df76c50ddd96d206ecf6056c1763681a1e4a4ba5d037d38e8c820f9189cde",
+        "link": "https://www.virustotal.com/gui/file/875df76c50ddd96d206ecf6056c1763681a1e4a4ba5d037d38e8c820f9189cde",
+        "scan_date": 1713654359,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 60077,
+        "detected_by": {}
     }
 ]
