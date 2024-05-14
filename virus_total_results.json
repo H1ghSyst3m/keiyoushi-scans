@@ -35295,5 +35295,16 @@
         "file_type": "Android",
         "file_size": 69850,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-pt.wickedwitchscannovo-v1.4.6.apk",
+        "hash": "a8488896ed0e4d5b0901ab0dd8e1ea3f24e24a727b5a1359e7bf6b6163d0cd9b",
+        "link": "https://www.virustotal.com/gui/file/a8488896ed0e4d5b0901ab0dd8e1ea3f24e24a727b5a1359e7bf6b6163d0cd9b",
+        "scan_date": 1715712363,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 68419,
+        "detected_by": {}
     }
 ]
