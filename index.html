@@ -1,75 +1,244 @@
 <!DOCTYPE html>
-<html lang="de">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
-    <link href="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/css/select2.min.css" rel="stylesheet" />
-
-    <link rel="stylesheet" href="style.css">
-    <title>keiyoushi Extension Scans</title>
+    <title>Virus Total Scans for Mihon Extensions</title>
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.11.5/css/jquery.dataTables.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.13/css/select2.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
     <style>
+        body {
+            padding: 20px;
+            font-family: 'Roboto', sans-serif;
+            background-color: #f8f9fa;
+        }
+        .container {
+            max-width: 1200px;
+            margin: auto;
+            background-color: #ffffff;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            font-weight: 500;
+            color: #333;
+            margin-bottom: 20px;
+        }
+        label {
+            font-weight: 500;
+            margin-bottom: 5px;
+        }
+        .form-control {
+            border-radius: 5px;
+            border: 1px solid #ced4da;
+            padding: 10px;
+            margin-bottom: 20px;
+        }
+        table.dataTable {
+            width: 100% !important;
+            border-collapse: collapse !important;
+        }
+        table.dataTable th,
+        table.dataTable td {
+            padding: 12px 15px;
+            border: 1px solid #dee2e6;
+            text-align: left;
+            vertical-align: middle;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+        table.dataTable th {
+            background-color: #e9ecef;
+            color: #495057;
+            font-weight: 500;
+        }
+        table.dataTable td {
+            background-color: #ffffff;
+            color: #212529;
+        }
+        table.dataTable tr:nth-child(even) td {
+            background-color: #f2f2f2;
+        }
+        table.dataTable tr.odd td {
+            background-color: #ffffff;
+        }
+        table.dataTable tr.even td {
+            background-color: #f2f2f2;
+        }
+        table.dataTable tbody tr td.sorted {
+            background-color: #d1ecf1 !important; /* Light blue background for sorted column */
+        }
+        .details-btn {
+            display: inline-block;
+            padding: 5px 10px;
+            font-size: 14px;
+            font-weight: 500;
+            color: #fff;
+            background-color: #007bff;
+            border-radius: 5px;
+            text-decoration: none;
+            transition: background-color 0.3s ease;
+        }
+        .details-btn:hover {
+            background-color: #0056b3;
+        }
+        .dataTables_wrapper .dataTables_paginate .paginate_button {
+            user-select: none;
+            -webkit-user-select: none; /* For Safari */
+            -moz-user-select: none; /* For Firefox */
+            -ms-user-select: none; /* For Internet Explorer/Edge */
+            outline: none;
+            padding: 5px 10px;
+            margin: 2px;
+            background-color: #007bff !important;
+            color: #fff !important;
+            border-radius: 5px !important;
+            text-decoration: none !important;
+            cursor: pointer !important;
+            transition: background-color 0.3s ease, color 0.3s ease, border-color 0.3s ease !important;
+            border: 1px solid transparent !important;
+        }
+        .dataTables_wrapper .dataTables_paginate .paginate_button:hover {
+            background-color: #0056b3 !important;
+            border-color: #0056b3 !important;
+        }
+        .dataTables_wrapper .dataTables_paginate .paginate_button:active {
+            background-color: #004085 !important;
+            border-color: #004085 !important;
+            color: #fff !important;
+        }
+        .dataTables_wrapper .dataTables_paginate .paginate_button.disabled {
+            background-color: #d6d8db !important;
+            color: #fff !important;
+            cursor: not-allowed !important;
+            border-color: #d6d8db !important;
+        }
+        .select2-container--default .select2-selection--multiple {
+            background-color: #fff;
+            border: 1px solid #ced4da;
+            border-radius: 5px;
+            padding: 5px;
+        }
+        .select2-container--default .select2-selection--multiple .select2-selection__choice {
+            background-color: #007bff;
+            border: 1px solid #007bff;
+            border-radius: 3px;
+            padding: 5px 10px;
+            color: #fff;
+            margin: 2px;
+        }
+        .select2-container--default .select2-selection--multiple .select2-selection__choice__remove {
+            color: #fff;
+            cursor: pointer;
+        }
+        .positives-info {
+            font-weight: bold;
+            margin-bottom: 20px;
+        }
+        /* Mobile view adjustments */
+        @media screen and (max-width: 768px) {
+            .dataTables_wrapper .dataTables_filter,
+            .dataTables_wrapper .dataTables_length,
+            .dataTables_wrapper .dataTables_info,
+            .dataTables_wrapper .dataTables_paginate {
+                text-align: center;
+            }
+            table.dataTable thead {
+                display: none;
+            }
+            table.dataTable tbody td {
+                display: flex;
+                justify-content: space-between;
+                text-align: left;
+                border: none;
+                padding: 5px 10px;
+                font-size: 14px;
+            }
+            table.dataTable tbody td::before {
+                content: attr(data-label);
+                flex: 1;
+                white-space: nowrap;
+                overflow: hidden;
+                text-overflow: ellipsis;
+                font-weight: bold;
+            }
+            table.dataTable td:nth-child(2) {
+                display: none; /* Hide hash column on mobile */
+            }
+        }
     </style>
 </head>
 <body>
-    <div class="container mt-4">
-        <!-- Header section of the page -->
-        <header class="text-center mb-4">
-            <h1>keiyoushi Extension Scans</h1>  <!-- Main heading -->
-            <div id="summary-container" class="my-3"></div>  <!-- Container for displaying summary information -->
-            <p>APKs from <a href="https://github.com/keiyoushi/extensions"><b>https://github.com/keiyoushi/extensions</b></a></p>
-        </header>
-        <!-- Container for the language filter -->
-        <div class="filter-container mb-3">
-            <!-- Select box for language filtering with multiple selection enabled -->
-            <select class="language-filter" multiple="multiple">
-                <option value="all">ALL</option>
-                <option value="ar">AR</option>
-                <option value="bg">BG</option>
-                <option value="ca">CA</option>
-                <option value="cs">CS</option>
-                <option value="de">DE</option>
-                <option value="en">EN</option>
-                <option value="es">ES</option>
-                <option value="fr">FR</option>
-                <option value="hi">HI</option>
-                <option value="id">ID</option>
-                <option value="it">IT</option>
-                <option value="ja">JA</option>
-                <option value="ko">KO</option>
-                <option value="pl">PL</option>
-                <option value="pz">PZ</option>
-                <option value="ru">RU</option>
-                <option value="th">TH</option>
-                <option value="tr">TR</option>
-                <option value="uk">UR</option>
-                <option value="vi">VI</option>
-                <option value="zh">ZH</option>
+    <div class="container">
+        <h1>Virus Total Scans for Mihon Extensions by keiyoushi</h1>
+        <div class="positives-info">
+            Total Positives: <span id="totalPositives">0</span>
+        </div>
+        <div class="mb-3">
+            <label for="languageFilter">Filter by Language:</label>
+            <select id="languageFilter" class="form-control" multiple="multiple">
+                <option value="all">All</option>
+                <option value="ar">Arabic</option>
+                <option value="bg">Bulgarian</option>
+                <option value="ca">Catalan</option>
+                <option value="zh">Chinese</option>
+                <option value="cs">Czech</option>
+                <option value="en">English</option>
+                <option value="fr">French</option>
+                <option value="de">German</option>
+                <option value="hi">Hindi</option>
+                <option value="id">Indonesian</option>
+                <option value="it">Italian</option>
+                <option value="ja">Japanese</option>
+                <option value="ko">Korean</option>
+                <option value="pl">Polish</option>
+                <option value="pt">Portuguese</option>
+                <option value="ru">Russian</option>
+                <option value="es">Spanish</option>
+                <option value="th">Thai</option>
+                <option value="tr">Turkish</option>
+                <option value="uk">Ukrainian</option>
+                <option value="vi">Vietnamese</option>
             </select>
         </div>
-
-        <!-- Responsive table container -->
-        <div class="table-responsive">
-            <table class="table table-hover">
-                <thead>
-                    <tr>
-                        <!-- Table headers with data-sort attributes for sorting and span for sort symbols -->
-                        <th data-sort="filename">File Name <span class="sort-symbol"></span></th>
-                        <th data-sort="hash">Hash <span class="sort-symbol"></span></th>
-                        <th data-sort="scan_date">Scan Date <span class="sort-symbol"></span></th>
-                        <th data-sort="positives">Positives <span class="sort-symbol"></span></th>
-                        <th data-sort="total">Total <span class="sort-symbol"></span></th>
-                        <th data-sort="file_type">Type <span class="sort-symbol"></span></th>
-                        <th data-sort="file_size">File Size (KB) <span class="sort-symbol"></span></th>
-                        <th>Details</th>
-                    </tr>
-                </thead>
-                <tbody id="data-list"></tbody> <!-- Table body where data rows will be dynamically added -->
-            </table>
+        <div class="mb-3">
+            <label for="sortOptions">Sort by:</label>
+            <select id="sortOptions" class="form-control">
+                <option value="filename-asc">Filename (A-Z)</option>
+                <option value="filename-desc">Filename (Z-A)</option>
+                <option value="date-asc">Scan Date (Oldest first)</option>
+                <option value="date-desc">Scan Date (Newest first)</option>
+                <option value="positives-asc">Positives (Fewest first)</option>
+                <option value="positives-desc">Positives (Most first)</option>
+                <option value="size-asc">File Size (Smallest first)</option>
+                <option value="size-desc">File Size (Largest first)</option>
+            </select>
         </div>
+        <table id="virusTable" class="display table table-striped table-bordered">
+            <thead>
+                <tr>
+                    <th style="max-width: 300px;">Filename</th>
+                    <th>Hash</th>
+                    <th>Scan Date</th>
+                    <th>Positives</th>
+                    <th>Total</th>
+                    <th>File Size (KB)</th>
+                    <th>Details</th>
+                </tr>
+            </thead>
+            <tbody>
+            </tbody>
+        </table>
     </div>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdn.datatables.net/1.11.5/js/jquery.dataTables.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.29.1/moment.min.js"></script>
+    <script src="https://cdn.datatables.net/plug-ins/1.11.5/sorting/datetime-moment.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.13/js/select2.min.js"></script>
     <script src="script.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/jquery/dist/jquery.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/js/select2.min.js"></script>
 </body>
 </html>

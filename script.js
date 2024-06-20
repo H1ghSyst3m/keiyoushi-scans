@@ -1,120 +1,137 @@
-// Declare global variables to hold the current and filtered data, and the current sorting state.
-let currentData = [];
-let filteredData = [];
-let currentSort = { column: null, ascending: true };
+$(document).ready(function() {
+    $.fn.dataTable.moment('DD-MM-YYYY');
 
-// Add an event listener for the DOMContentLoaded event to initialize the script once the DOM is fully loaded.
-document.addEventListener('DOMContentLoaded', function() {
-    const url = 'virus_total_results.json?t=' + new Date().getTime();
-    // Fetch data from a JSON file and initialize the application with this data.
-    fetch(url)
-        .then(response => response.json())
-        .then(data => {
-            currentData = data; // Store the fetched data in currentData.
-            filteredData = data; // Initially, filteredData is the same as currentData.
-            displaySummary(data); // Display summary information based on the fetched data.
-            applyFilterAndSort(); // Apply filters and sorting to the data.
-            addSortingEventListeners(); // Setup event listeners for table sorting.
-            initializeSelect2(); // Initialize the Select2 component for language filtering.
-        });
-});
+    $('#languageFilter').select2();
 
-// Function to display summary information in the 'summary-container' element.
-function displaySummary(data) {
-    // Calculate the total number of items and the number of items with viruses.
-    const totalItems = data.length;
-    const totalViruses = data.reduce((count, item) => count + (item.positives > 0 ? 1 : 0), 0);
-    // Update the innerHTML of the 'summary-container' with the summary information.
-    document.getElementById('summary-container').innerHTML = `
-        <p>Total number of scanned extensions: ${totalItems}</p>
-        <p>Number of viruses found: <b>${totalViruses}</b></p>
-    `;
-}
-
-// Function to initialize the Select2 component for language filtering.
-function initializeSelect2() {
-    $('.language-filter').select2({
-        placeholder: "Select a language",
-        allowClear: true
-    }).on('change', function() {
-        applyFilterAndSort(); // Apply filters and sorting when the selection changes.
+    var table = $('#virusTable').DataTable({
+        columns: [
+            { data: 'filename', title: 'Filename' },
+            { data: 'hash', title: 'Hash', render: function(data, type, row) {
+                return `<input type="text" value="${data}" readonly style="border:none; background:transparent; width:150px;" title="${data}" />`;
+            }},
+            { data: 'scan_date', title: 'Scan Date', render: function(data, type, row) {
+                return moment.unix(data).format('DD-MM-YYYY');
+            }},
+            { data: 'positives', title: 'Positives' },
+            { data: 'total', title: 'Total' },
+            { data: 'file_size', title: 'File Size (KB)', render: function(data, type, row) {
+                return (data / 1024).toFixed(2);
+            }, type: 'num' },
+            { data: 'link', title: 'Details', render: function(data, type, row) {
+                return `<a href="${data}" target="_blank" class="details-btn">Details</a>`;
+            }}
+        ],
+        order: [[2, 'desc']],
+        columnDefs: [
+            { type: 'num', targets: 5 },
+        ],
+        autoWidth: false,
+        createdRow: function(row, data, dataIndex) {
+            $('td', row).each(function(index, td) {
+                $(td).attr('data-label', table.column(index).header().innerText);
+            });
+        }
     });
-}
 
-// Function to apply filters and sorting to the data.
-function applyFilterAndSort() {
-    // Retrieve selected languages from the Select2 component.
-    const selectedLanguages = $('.language-filter').val();
-    filteredData = currentData;
-    // Filter data based on selected languages.
-    if (selectedLanguages && selectedLanguages.length > 0 && !selectedLanguages.includes("")) {
-        filteredData = filteredData.filter(item => {
-            const languageCode = item.filename.split('-')[1].split('.')[0];
-            return selectedLanguages.includes(languageCode) || (selectedLanguages.includes('all') && languageCode === 'all');
+    function fetchDataAndUpdateTable() {
+        $.getJSON('virus_total_results.json', function(data) {
+            var groupedData = groupByFilename(data);
+            var tableData = formatData(groupedData);
+            table.clear().rows.add(tableData).draw();
+            updateTotalPositives(tableData);
+            disableTextSelection();
         });
     }
 
-    // Sort the filtered data if a sorting column is defined.
-    if (currentSort.column) {
-        filteredData = sortData(filteredData, currentSort.column, currentSort.ascending);
+    fetchDataAndUpdateTable();
+
+    setInterval(fetchDataAndUpdateTable, 30000);
+
+    function groupByFilename(data) {
+        return data.reduce(function(acc, item) {
+            var baseName = item.filename.split('-v')[0];
+            if (!acc[baseName]) {
+                acc[baseName] = [];
+            }
+            acc[baseName].push(item);
+            return acc;
+        }, {});
     }
 
-    // Create table rows with the filtered and sorted data.
-    createTableRows(filteredData);
-}
+    function formatData(groupedData) {
+        var result = [];
+        for (var key in groupedData) {
+            groupedData[key].forEach(function(item) {
+                result.push(item);
+            });
+        }
+        return result;
+    }
 
-// Function to add event listeners to table headers for sorting functionality.
-function addSortingEventListeners() {
-    const headers = document.querySelectorAll('th[data-sort]');
-    headers.forEach(header => {
-        header.addEventListener('click', () => {
-            const sortKey = header.getAttribute('data-sort');
-            const isAscending = (sortKey === currentSort.column) ? !currentSort.ascending : true;
-            currentSort = { column: sortKey, ascending: isAscending };
-            updateSortSymbols(headers, sortKey, isAscending); // Update sort symbols in the headers.
-            applyFilterAndSort(); // Re-apply filters and sorting with the new sort order.
-        });
-    });
-}
+    function disableTextSelection() {
+        $('.dataTables_paginate .paginate_button').css('user-select', 'none');
+    }
 
-// Function to update sorting symbols (arrows) in the table headers.
-function updateSortSymbols(headers, activeSortKey, ascending) {
-    headers.forEach(header => {
-        const sortSymbol = header.querySelector('.sort-symbol');
-        if (header.getAttribute('data-sort') === activeSortKey) {
-            sortSymbol.textContent = ascending ? '↓' : '↑';
+    function updateTotalPositives(data) {
+        var totalPositives = data.reduce(function(sum, item) {
+            return sum + item.positives;
+        }, 0);
+        $('#totalPositives').text(totalPositives);
+    }
+
+    $('#languageFilter').on('change', function() {
+        var selectedLanguages = $(this).val();
+        if (selectedLanguages.length === 0 || selectedLanguages.includes('all')) {
+            table.column(0).search('').draw();
         } else {
-            sortSymbol.textContent = '';
+            var searchRegex = selectedLanguages.map(function(lang) {
+                return '\\b' + lang + '\\b';
+            }).join('|');
+            table.column(0).search(searchRegex, true, false).draw();
         }
     });
-}
 
-// Function to sort the data based on the specified column and order (ascending or descending).
-function sortData(data, column, ascending) {
-    return data.sort((a, b) => {
-        if (column === 'file_size' || column === 'scan_date' || column === 'positives' || column === 'total') {
-            return ascending ? a[column] - b[column] : b[column] - a[column];
+    $('#sortOptions').on('change', function() {
+        var sortOption = $(this).val();
+        var columnIdx, sortDir;
+
+        switch (sortOption) {
+            case 'filename-asc':
+                columnIdx = 0; sortDir = 'asc';
+                break;
+            case 'filename-desc':
+                columnIdx = 0; sortDir = 'desc';
+                break;
+            case 'date-asc':
+                columnIdx = 2; sortDir = 'asc';
+                break;
+            case 'date-desc':
+                columnIdx = 2; sortDir = 'desc';
+                break;
+            case 'positives-asc':
+                columnIdx = 3; sortDir = 'asc';
+                break;
+            case 'positives-desc':
+                columnIdx = 3; sortDir = 'desc';
+                break;
+            case 'size-asc':
+                columnIdx = 5; sortDir = 'asc';
+                break;
+            case 'size-desc':
+                columnIdx = 5; sortDir = 'desc';
+                break;
+            default:
+                return;
         }
-        return ascending ? a[column].localeCompare(b[column]) : b[column].localeCompare(a[column]);
-    });
-}
 
-// Function to create and append table rows based on the provided data.
-function createTableRows(data) {
-    const list = document.getElementById('data-list');
-    list.innerHTML = '';
-    data.forEach(item => {
-        const row = document.createElement('tr');
-        row.innerHTML = `
-            <td>${item.filename}</td>
-            <td><input type="text" value="${item.hash}" class="form-control read-only-input" readonly></td>
-            <td>${new Date(item.scan_date * 1000).toLocaleDateString()}</td>
-            <td>${item.positives}</td>
-            <td>${item.total}</td>
-            <td>${item.file_type}</td>
-            <td>${(item.file_size / 1024).toFixed(2)} KB</td>
-            <td><a href="${item.link}" class="btn btn-primary" target="_blank">Details</a></td>
-        `;
-        list.appendChild(row); // Append the new row to the table.
+        table.order([columnIdx, sortDir]).draw();
     });
-}
+
+    table.on('order.dt', function() {
+        table.columns().every(function() {
+            this.nodes().flatten().to$().removeClass('sorted');
+        });
+        var order = table.order()[0];
+        table.column(order[0]).nodes().flatten().to$().addClass('sorted');
+    });
+});
