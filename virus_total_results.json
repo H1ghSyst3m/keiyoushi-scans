@@ -39596,5 +39596,93 @@
         "file_type": "Android",
         "file_size": 125040,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-tr.mangaokutr-v1.4.30.apk",
+        "hash": "d30ea72da84599d09335ae8840c65b60d05efd12afe9d5f54e803d5710ab8854",
+        "link": "https://www.virustotal.com/gui/file/d30ea72da84599d09335ae8840c65b60d05efd12afe9d5f54e803d5710ab8854",
+        "scan_date": 1719403204,
+        "positives": 0,
+        "total": 68,
+        "file_type": "Android",
+        "file_size": 111964,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-all.unionmangas-v1.4.5.apk",
+        "hash": "d4874166e09099a8b31c9eb56dd80e132e6d9944e29ea0e758962ae27c2c6425",
+        "link": "https://www.virustotal.com/gui/file/d4874166e09099a8b31c9eb56dd80e132e6d9944e29ea0e758962ae27c2c6425",
+        "scan_date": 1719403206,
+        "positives": 0,
+        "total": 68,
+        "file_type": "Android",
+        "file_size": 64268,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-pt.yugenmangas-v1.4.40.apk",
+        "hash": "e7553d80a239114ed57285e41c9716257c762e1053e987c6fe732e47d6b60043",
+        "link": "https://www.virustotal.com/gui/file/e7553d80a239114ed57285e41c9716257c762e1053e987c6fe732e47d6b60043",
+        "scan_date": 1719403207,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 42392,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-pt.blackoutcomics-v1.4.4.apk",
+        "hash": "6b9eb564a423bb5c8357dd1eae1028ab444d9afe6808399adbb50fa3cff28de4",
+        "link": "https://www.virustotal.com/gui/file/6b9eb564a423bb5c8357dd1eae1028ab444d9afe6808399adbb50fa3cff28de4",
+        "scan_date": 1719403209,
+        "positives": 0,
+        "total": 68,
+        "file_type": "Android",
+        "file_size": 69395,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-id.shinigami-v1.4.58.apk",
+        "hash": "0969154c7ace89306195467f405359bb3eac72725de3a023df1104ce4fc2cda3",
+        "link": "https://www.virustotal.com/gui/file/0969154c7ace89306195467f405359bb3eac72725de3a023df1104ce4fc2cda3",
+        "scan_date": 1719403265,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 229516,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-tr.golgebahcesi-v1.4.30.apk",
+        "hash": "f1886b3e02aa13083ee2bc82e261764dc9235f96de8c2b547b2d1fbb38a86c5a",
+        "link": "https://www.virustotal.com/gui/file/f1886b3e02aa13083ee2bc82e261764dc9235f96de8c2b547b2d1fbb38a86c5a",
+        "scan_date": 1719403266,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 127151,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-pt.manhastro-v1.4.42.apk",
+        "hash": "195d9b49327c25a9f7894e5393a110dc6d5800062b6cad8bdeb422f52bb6cbf8",
+        "link": "https://www.virustotal.com/gui/file/195d9b49327c25a9f7894e5393a110dc6d5800062b6cad8bdeb422f52bb6cbf8",
+        "scan_date": 1719403268,
+        "positives": 0,
+        "total": 68,
+        "file_type": "Android",
+        "file_size": 124690,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-tr.ayatoon-v1.4.30.apk",
+        "hash": "b1f09290113bb949bc6e9c70914647478aa76c47b2a9b8ef80dbfe57e862df7f",
+        "link": "https://www.virustotal.com/gui/file/b1f09290113bb949bc6e9c70914647478aa76c47b2a9b8ef80dbfe57e862df7f",
+        "scan_date": 1719403269,
+        "positives": 0,
+        "total": 64,
+        "file_type": "Android",
+        "file_size": 121561,
+        "detected_by": {}
     }
 ]
