@@ -39695,5 +39695,49 @@
         "file_type": "Android",
         "file_size": 47443,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-es.lectormanga-v1.4.40.apk",
+        "hash": "e213b80e2a9a49bedcbe85d28c7b2265536a54883c09967c2218b19aeb52d4c9",
+        "link": "https://www.virustotal.com/gui/file/e213b80e2a9a49bedcbe85d28c7b2265536a54883c09967c2218b19aeb52d4c9",
+        "scan_date": 1719489604,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 80228,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.spyfakku-v1.4.2.apk",
+        "hash": "287a7a64841d5516ef719a75770c5e37f1266852031d2167054447f17d42821b",
+        "link": "https://www.virustotal.com/gui/file/287a7a64841d5516ef719a75770c5e37f1266852031d2167054447f17d42821b",
+        "scan_date": 1719489605,
+        "positives": 0,
+        "total": 61,
+        "file_type": "Android",
+        "file_size": 52129,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-es.tumangaonline-v1.4.55.apk",
+        "hash": "457cbdeed66ad6681299c5d8ea93af065eb1ff11ae43fb5c1933989eaa875b68",
+        "link": "https://www.virustotal.com/gui/file/457cbdeed66ad6681299c5d8ea93af065eb1ff11ae43fb5c1933989eaa875b68",
+        "scan_date": 1719489606,
+        "positives": 0,
+        "total": 68,
+        "file_type": "Android",
+        "file_size": 63840,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-es.traduccionesmoonlight-v1.4.41.apk",
+        "hash": "58fee9cd9dd7214b27c9b7de3bc675ac77bdcc450dc94c63653ecc1cdf063323",
+        "link": "https://www.virustotal.com/gui/file/58fee9cd9dd7214b27c9b7de3bc675ac77bdcc450dc94c63653ecc1cdf063323",
+        "scan_date": 1719489608,
+        "positives": 0,
+        "total": 68,
+        "file_type": "Android",
+        "file_size": 84144,
+        "detected_by": {}
     }
 ]
