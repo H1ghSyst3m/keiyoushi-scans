@@ -39827,5 +39827,38 @@
         "file_type": "Android",
         "file_size": 60145,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-es.scambertraslator-v1.4.40.apk",
+        "hash": "75f64c34925e9fad4c11e9c89e60784703020abe6e843a82df4f78cc27a24cf0",
+        "link": "https://www.virustotal.com/gui/file/75f64c34925e9fad4c11e9c89e60784703020abe6e843a82df4f78cc27a24cf0",
+        "scan_date": 1719662404,
+        "positives": 0,
+        "total": 68,
+        "file_type": "Android",
+        "file_size": 89620,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-es.brakeout-v1.4.2.apk",
+        "hash": "4d1c8596e8d0d60c841b3512339a64538eb41a2b395fecb6d2016fa5a676f972",
+        "link": "https://www.virustotal.com/gui/file/4d1c8596e8d0d60c841b3512339a64538eb41a2b395fecb6d2016fa5a676f972",
+        "scan_date": 1719662405,
+        "positives": 0,
+        "total": 68,
+        "file_type": "Android",
+        "file_size": 67325,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-id.komiktap-v1.4.32.apk",
+        "hash": "2e6b8f64ebc6bcce49e43985786c88027b368b7bd5be076ebd9d7ffab5cbd7e4",
+        "link": "https://www.virustotal.com/gui/file/2e6b8f64ebc6bcce49e43985786c88027b368b7bd5be076ebd9d7ffab5cbd7e4",
+        "scan_date": 1719662407,
+        "positives": 0,
+        "total": 64,
+        "file_type": "Android",
+        "file_size": 70749,
+        "detected_by": {}
     }
 ]
