@@ -39860,5 +39860,16 @@
         "file_type": "Android",
         "file_size": 70749,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-all.hentai3-v1.4.1.apk",
+        "hash": "e82939144a268702a9e611e004c6dfc9bac3f22f2e537d682644b7dbd46826b8",
+        "link": "https://www.virustotal.com/gui/file/e82939144a268702a9e611e004c6dfc9bac3f22f2e537d682644b7dbd46826b8",
+        "scan_date": 1719748803,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 41370,
+        "detected_by": {}
     }
 ]
