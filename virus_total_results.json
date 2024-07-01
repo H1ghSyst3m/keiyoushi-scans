@@ -39871,5 +39871,16 @@
         "file_type": "Android",
         "file_size": 41370,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-tr.tonizutoon-v1.4.38.apk",
+        "hash": "bb2492504105bab2c8082250242da2211a54105402feb9ea3ad56dc2649930cd",
+        "link": "https://www.virustotal.com/gui/file/bb2492504105bab2c8082250242da2211a54105402feb9ea3ad56dc2649930cd",
+        "scan_date": 1719792003,
+        "positives": 0,
+        "total": 68,
+        "file_type": "Android",
+        "file_size": 72196,
+        "detected_by": {}
     }
 ]
