@@ -39981,5 +39981,38 @@
         "file_type": "Android",
         "file_size": 67304,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-fr.epsilonscan-v1.4.37.apk",
+        "hash": "2d35ec5691377ef76ea93b45f37e5e0d36326ebbe471ab36c343990c97410f06",
+        "link": "https://www.virustotal.com/gui/file/2d35ec5691377ef76ea93b45f37e5e0d36326ebbe471ab36c343990c97410f06",
+        "scan_date": 1720094403,
+        "positives": 0,
+        "total": 68,
+        "file_type": "Android",
+        "file_size": 67579,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.mangahen-v1.4.1.apk",
+        "hash": "e7aece2b9a48ac846212370f1d1396bf89c24c24d2deb8d4debc46f7c4f7e37e",
+        "link": "https://www.virustotal.com/gui/file/e7aece2b9a48ac846212370f1d1396bf89c24c24d2deb8d4debc46f7c4f7e37e",
+        "scan_date": 1720094405,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 56199,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-fr.softepsilonscan-v1.4.37.apk",
+        "hash": "ba1494699d435bc174771e59e5c2463dc45f30ec8189727ba7a009dae89ae52d",
+        "link": "https://www.virustotal.com/gui/file/ba1494699d435bc174771e59e5c2463dc45f30ec8189727ba7a009dae89ae52d",
+        "scan_date": 1720094406,
+        "positives": 0,
+        "total": 68,
+        "file_type": "Android",
+        "file_size": 67697,
+        "detected_by": {}
     }
 ]
