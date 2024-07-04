@@ -39937,5 +39937,49 @@
         "file_type": "Android",
         "file_size": 61209,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-es.plottwistnofansub-v1.4.7.apk",
+        "hash": "e13ebd420c04a49b2958fd5b62fcda439eb3dafc489907391910317919df25fd",
+        "link": "https://www.virustotal.com/gui/file/e13ebd420c04a49b2958fd5b62fcda439eb3dafc489907391910317919df25fd",
+        "scan_date": 1720051204,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 78995,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.luminousscans-v1.4.37.apk",
+        "hash": "c8b9fbaca79d2db985585f282ad36732099148792c9970faa5d918c116332d66",
+        "link": "https://www.virustotal.com/gui/file/c8b9fbaca79d2db985585f282ad36732099148792c9970faa5d918c116332d66",
+        "scan_date": 1720051205,
+        "positives": 0,
+        "total": 68,
+        "file_type": "Android",
+        "file_size": 86413,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-all.pandachaika-v1.4.1.apk",
+        "hash": "fbc623757da8f1625a8707e2cabb61657a009b3668a96d2222a68fa7176a1cd4",
+        "link": "https://www.virustotal.com/gui/file/fbc623757da8f1625a8707e2cabb61657a009b3668a96d2222a68fa7176a1cd4",
+        "scan_date": 1720051207,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 73673,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-es.senpaiediciones-v1.4.32.apk",
+        "hash": "19069523f1d6733b5457e1d403e1c5781300d852dae3f316103435d7c46abe82",
+        "link": "https://www.virustotal.com/gui/file/19069523f1d6733b5457e1d403e1c5781300d852dae3f316103435d7c46abe82",
+        "scan_date": 1720051208,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 67304,
+        "detected_by": {}
     }
 ]
