@@ -40014,5 +40014,16 @@
         "file_type": "Android",
         "file_size": 67697,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.tcbscans-v1.4.8.apk",
+        "hash": "43b1bae32fcf5271836d24434d94687fd312dad99461dfc66cf4f47e6d7883a3",
+        "link": "https://www.virustotal.com/gui/file/43b1bae32fcf5271836d24434d94687fd312dad99461dfc66cf4f47e6d7883a3",
+        "scan_date": 1720095615,
+        "positives": 0,
+        "total": 68,
+        "file_type": "Android",
+        "file_size": 33298,
+        "detected_by": {}
     }
 ]
