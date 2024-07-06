@@ -40135,5 +40135,38 @@
         "file_type": "Android",
         "file_size": 61218,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.coloredmanga-v1.4.3.apk",
+        "hash": "a8f96a2648d95942f8b6390bb35773573904236fcdc74a3b8c708c36feceaede",
+        "link": "https://www.virustotal.com/gui/file/a8f96a2648d95942f8b6390bb35773573904236fcdc74a3b8c708c36feceaede",
+        "scan_date": 1720267206,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 62056,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.suryascans-v1.4.34.apk",
+        "hash": "e30e526caf446db2ba931d82b22fada3088d1c48105a31407a606da6e076972c",
+        "link": "https://www.virustotal.com/gui/file/e30e526caf446db2ba931d82b22fada3088d1c48105a31407a606da6e076972c",
+        "scan_date": 1720267208,
+        "positives": 0,
+        "total": 68,
+        "file_type": "Android",
+        "file_size": 87924,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-tr.hentaing-v1.4.36.apk",
+        "hash": "4826d185fbc7a3ae5f73375093ad5738a90049d0dfd7733a085c6f1f2941998b",
+        "link": "https://www.virustotal.com/gui/file/4826d185fbc7a3ae5f73375093ad5738a90049d0dfd7733a085c6f1f2941998b",
+        "scan_date": 1720267209,
+        "positives": 0,
+        "total": 68,
+        "file_type": "Android",
+        "file_size": 110935,
+        "detected_by": {}
     }
 ]
