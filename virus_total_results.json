@@ -40289,5 +40289,38 @@
         "file_type": "Android",
         "file_size": 121736,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.mangahen-v1.4.2.apk",
+        "hash": "44c77464a99bf49270a4b30e397a21e8c08cc67e676dd7de8a5585bdc9c7c79e",
+        "link": "https://www.virustotal.com/gui/file/44c77464a99bf49270a4b30e397a21e8c08cc67e676dd7de8a5585bdc9c7c79e",
+        "scan_date": 1720526405,
+        "positives": 0,
+        "total": 68,
+        "file_type": "Android",
+        "file_size": 56470,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-th.kumotran-v1.4.36.apk",
+        "hash": "9887e9462b8f452cdd1a560aab1a740c2def044ac4d28cbfd603a3d4e0ed0444",
+        "link": "https://www.virustotal.com/gui/file/9887e9462b8f452cdd1a560aab1a740c2def044ac4d28cbfd603a3d4e0ed0444",
+        "scan_date": 1720526407,
+        "positives": 0,
+        "total": 68,
+        "file_type": "Android",
+        "file_size": 120610,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-vi.teamlanhlung-v1.4.8.apk",
+        "hash": "31194a68233bc572c99f04d214016fc47b45b292105a6dbc9ae9fff56d4a3dab",
+        "link": "https://www.virustotal.com/gui/file/31194a68233bc572c99f04d214016fc47b45b292105a6dbc9ae9fff56d4a3dab",
+        "scan_date": 1720526409,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 62030,
+        "detected_by": {}
     }
 ]
