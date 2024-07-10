@@ -40322,5 +40322,16 @@
         "file_type": "Android",
         "file_size": 62030,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.resetscans-v1.4.39.apk",
+        "hash": "736f0c16a4282c935404a0e0dd75f372137a3dd0686514c3f1275f4fc1bba2cb",
+        "link": "https://www.virustotal.com/gui/file/736f0c16a4282c935404a0e0dd75f372137a3dd0686514c3f1275f4fc1bba2cb",
+        "scan_date": 1720527618,
+        "positives": 0,
+        "total": 68,
+        "file_type": "Android",
+        "file_size": 102368,
+        "detected_by": {}
     }
 ]
