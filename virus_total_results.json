@@ -40333,5 +40333,49 @@
         "file_type": "Android",
         "file_size": 102368,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-vi.fecomic-v1.4.36.apk",
+        "hash": "05a914ae8e6bf3f81fe129e7dd2d44665ed8ec14529388c363d2db98f8927dc9",
+        "link": "https://www.virustotal.com/gui/file/05a914ae8e6bf3f81fe129e7dd2d44665ed8ec14529388c363d2db98f8927dc9",
+        "scan_date": 1720656006,
+        "positives": 0,
+        "total": 68,
+        "file_type": "Android",
+        "file_size": 130605,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-tr.asurascanstr-v1.4.36.apk",
+        "hash": "57011120667c49438597a0b937d5dc5a3dca162a3e90ecdb139d437e1a7fc8b0",
+        "link": "https://www.virustotal.com/gui/file/57011120667c49438597a0b937d5dc5a3dca162a3e90ecdb139d437e1a7fc8b0",
+        "scan_date": 1720656008,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 123086,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-id.shinigami-v1.4.59.apk",
+        "hash": "38015f616275c8db0760755929231ef6f9abbc365b7155f84e72df8f86c6a88b",
+        "link": "https://www.virustotal.com/gui/file/38015f616275c8db0760755929231ef6f9abbc365b7155f84e72df8f86c6a88b",
+        "scan_date": 1720656010,
+        "positives": 0,
+        "total": 68,
+        "file_type": "Android",
+        "file_size": 229506,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-es.manhuaonline-v1.4.43.apk",
+        "hash": "021f728952d197c24827120b5d26c177fc9dd0df63e78b613eac1171ce3abf05",
+        "link": "https://www.virustotal.com/gui/file/021f728952d197c24827120b5d26c177fc9dd0df63e78b613eac1171ce3abf05",
+        "scan_date": 1720656012,
+        "positives": 0,
+        "total": 68,
+        "file_type": "Android",
+        "file_size": 96804,
+        "detected_by": {}
     }
 ]
