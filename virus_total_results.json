@@ -40377,5 +40377,16 @@
         "file_type": "Android",
         "file_size": 96804,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-es.mhscans-v1.4.38.apk",
+        "hash": "d2f37439f4b885d86c9c842f3aad2d9608184aa05b234c3dab4fee2bf789eab6",
+        "link": "https://www.virustotal.com/gui/file/d2f37439f4b885d86c9c842f3aad2d9608184aa05b234c3dab4fee2bf789eab6",
+        "scan_date": 1720742407,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 109886,
+        "detected_by": {}
     }
 ]
