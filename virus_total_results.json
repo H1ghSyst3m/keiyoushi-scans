@@ -40487,5 +40487,16 @@
         "file_type": "Android",
         "file_size": 126488,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.darkscience-v1.4.1.apk",
+        "hash": "e7b512f60739a9f8c3944f074d9fb5cb1871c8d2adb9435bd97a72fa3728a968",
+        "link": "https://www.virustotal.com/gui/file/e7b512f60739a9f8c3944f074d9fb5cb1871c8d2adb9435bd97a72fa3728a968",
+        "scan_date": 1720828806,
+        "positives": 0,
+        "total": 68,
+        "file_type": "Android",
+        "file_size": 116161,
+        "detected_by": {}
     }
 ]
