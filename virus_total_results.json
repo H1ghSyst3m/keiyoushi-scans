@@ -40498,5 +40498,71 @@
         "file_type": "Android",
         "file_size": 116161,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-fr.animesama-v1.4.2.apk",
+        "hash": "28c275852ab3ea459feb1f6ad111539e264e5ee357bd41eb41186a845e791ebc",
+        "link": "https://www.virustotal.com/gui/file/28c275852ab3ea459feb1f6ad111539e264e5ee357bd41eb41186a845e791ebc",
+        "scan_date": 1720872006,
+        "positives": 0,
+        "total": 68,
+        "file_type": "Android",
+        "file_size": 53122,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-tr.pijamalikoi-v1.4.30.apk",
+        "hash": "b719c4ad981706ae7d640f8466c6fcda6d72966f81a1587330b44b0eb3c249e7",
+        "link": "https://www.virustotal.com/gui/file/b719c4ad981706ae7d640f8466c6fcda6d72966f81a1587330b44b0eb3c249e7",
+        "scan_date": 1720872008,
+        "positives": 0,
+        "total": 68,
+        "file_type": "Android",
+        "file_size": 120543,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-all.mangapark-v1.4.20.apk",
+        "hash": "a6b7c0acce8128fc8603eeec3fe06baa3681b2a251cab0ab9f2a85fc59550e4e",
+        "link": "https://www.virustotal.com/gui/file/a6b7c0acce8128fc8603eeec3fe06baa3681b2a251cab0ab9f2a85fc59550e4e",
+        "scan_date": 1720872009,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 71614,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-ar.mangaswat-v1.4.49.apk",
+        "hash": "0f53a43f0168cddf6b87f96070f0d10aa5cb64c4c6f770177b568e8be1741e4a",
+        "link": "https://www.virustotal.com/gui/file/0f53a43f0168cddf6b87f96070f0d10aa5cb64c4c6f770177b568e8be1741e4a",
+        "scan_date": 1720872010,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 96058,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.taadd-v1.4.1.apk",
+        "hash": "7a938f1419013717f621fdfcc0bfe7246e2101b2fff245bafe26827c5c628b99",
+        "link": "https://www.virustotal.com/gui/file/7a938f1419013717f621fdfcc0bfe7246e2101b2fff245bafe26827c5c628b99",
+        "scan_date": 1720872066,
+        "positives": 0,
+        "total": 63,
+        "file_type": "Android",
+        "file_size": 51086,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.nyraxmanga-v1.4.30.apk",
+        "hash": "9386df24fded3353b7a6ae79b30e8a7684adc790fbe510aaddd8db2686983019",
+        "link": "https://www.virustotal.com/gui/file/9386df24fded3353b7a6ae79b30e8a7684adc790fbe510aaddd8db2686983019",
+        "scan_date": 1720872067,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 120735,
+        "detected_by": {}
     }
 ]
