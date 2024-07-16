@@ -40663,5 +40663,49 @@
         "file_type": "Android",
         "file_size": 82579,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-ru.yaoilib-v1.4.33.apk",
+        "hash": "2d5e0591473fbe90d66ef8ba90703f9052e081b3d90fb1aab2658ce2fe0abd64",
+        "link": "https://www.virustotal.com/gui/file/2d5e0591473fbe90d66ef8ba90703f9052e081b3d90fb1aab2658ce2fe0abd64",
+        "scan_date": 1721131206,
+        "positives": 0,
+        "total": 68,
+        "file_type": "Android",
+        "file_size": 87745,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-ru.hentailib-v1.4.48.apk",
+        "hash": "ec8b529c7bb0602cd367e8dfce6501b72a27ac964816290020e206a3fb9ec8c6",
+        "link": "https://www.virustotal.com/gui/file/ec8b529c7bb0602cd367e8dfce6501b72a27ac964816290020e206a3fb9ec8c6",
+        "scan_date": 1721131207,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 80146,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.koharu-v1.4.1.apk",
+        "hash": "28090718f57cec31171c1fc09cca1a7044b820615a38ebc993dec5c41994e67e",
+        "link": "https://www.virustotal.com/gui/file/28090718f57cec31171c1fc09cca1a7044b820615a38ebc993dec5c41994e67e",
+        "scan_date": 1721131209,
+        "positives": 0,
+        "total": 68,
+        "file_type": "Android",
+        "file_size": 50528,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-ru.mangalib-v1.4.103.apk",
+        "hash": "00b9b8a90d9e7384f3a590b972855d8e035fa6954912341c8fabbaf096c9de8d",
+        "link": "https://www.virustotal.com/gui/file/00b9b8a90d9e7384f3a590b972855d8e035fa6954912341c8fabbaf096c9de8d",
+        "scan_date": 1721131210,
+        "positives": 0,
+        "total": 68,
+        "file_type": "Android",
+        "file_size": 119372,
+        "detected_by": {}
     }
 ]
