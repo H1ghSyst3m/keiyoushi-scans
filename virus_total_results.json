@@ -41026,5 +41026,38 @@
         "file_type": "Android",
         "file_size": 56205,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.freemangatop-v1.4.39.apk",
+        "hash": "e2e63767d968893a8f7c1653027255c02b46eeae8508faab4e0e050b232d7de0",
+        "link": "https://www.virustotal.com/gui/file/e2e63767d968893a8f7c1653027255c02b46eeae8508faab4e0e050b232d7de0",
+        "scan_date": 1721390403,
+        "positives": 0,
+        "total": 68,
+        "file_type": "Android",
+        "file_size": 161392,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.hachi-v1.4.1.apk",
+        "hash": "662d5a2ead71da7e611521527ea82f23faf11db7a87a6b1c6fcedac4ca0597bc",
+        "link": "https://www.virustotal.com/gui/file/662d5a2ead71da7e611521527ea82f23faf11db7a87a6b1c6fcedac4ca0597bc",
+        "scan_date": 1721390405,
+        "positives": 0,
+        "total": 68,
+        "file_type": "Android",
+        "file_size": 121984,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-es.mantrazscan-v1.4.38.apk",
+        "hash": "c830cbd0cc99631516e57891971ef510299bd0512b88cd7cbdb52e23e2a45f2a",
+        "link": "https://www.virustotal.com/gui/file/c830cbd0cc99631516e57891971ef510299bd0512b88cd7cbdb52e23e2a45f2a",
+        "scan_date": 1721390406,
+        "positives": 0,
+        "total": 68,
+        "file_type": "Android",
+        "file_size": 80351,
+        "detected_by": {}
     }
 ]
