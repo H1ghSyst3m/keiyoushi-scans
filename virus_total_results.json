@@ -41081,5 +41081,38 @@
         "file_type": "Android",
         "file_size": 229504,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-ar.mangaswat-v1.4.50.apk",
+        "hash": "d1de418116254bc0ead8f27110c8c4fd7cdffb4ab6371591766760fc81ae8c32",
+        "link": "https://www.virustotal.com/gui/file/d1de418116254bc0ead8f27110c8c4fd7cdffb4ab6371591766760fc81ae8c32",
+        "scan_date": 1721476804,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 80456,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-es.senshimanga-v1.4.4.apk",
+        "hash": "a79107b206837fcebf8dc48724dd504f4a6152592bd4b92fef331c7a7fb4fc08",
+        "link": "https://www.virustotal.com/gui/file/a79107b206837fcebf8dc48724dd504f4a6152592bd4b92fef331c7a7fb4fc08",
+        "scan_date": 1721476805,
+        "positives": 0,
+        "total": 68,
+        "file_type": "Android",
+        "file_size": 55476,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.hentaihere-v1.4.5.apk",
+        "hash": "4fd17ecd6172b54c947dfe8be1dc5502158971bb02abc7ccbd2e3ee9fbe81023",
+        "link": "https://www.virustotal.com/gui/file/4fd17ecd6172b54c947dfe8be1dc5502158971bb02abc7ccbd2e3ee9fbe81023",
+        "scan_date": 1721476807,
+        "positives": 0,
+        "total": 68,
+        "file_type": "Android",
+        "file_size": 40984,
+        "detected_by": {}
     }
 ]
