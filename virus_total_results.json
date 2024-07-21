@@ -41202,5 +41202,16 @@
         "file_type": "Android",
         "file_size": 126034,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.mangagojo-v1.4.30.apk",
+        "hash": "68a13c40dff268be1feb875acb78473de115ea175c4bb3005062be0221f900a9",
+        "link": "https://www.virustotal.com/gui/file/68a13c40dff268be1feb875acb78473de115ea175c4bb3005062be0221f900a9",
+        "scan_date": 1721563927,
+        "positives": 0,
+        "total": 68,
+        "file_type": "Android",
+        "file_size": 116469,
+        "detected_by": {}
     }
 ]
