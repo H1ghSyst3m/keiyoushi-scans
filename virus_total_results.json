@@ -41213,5 +41213,38 @@
         "file_type": "Android",
         "file_size": 116469,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-pt.bakai-v1.4.4.apk",
+        "hash": "e2fe10128510084760470d3a7603490ded33f666044568b5eb161255dda2b855",
+        "link": "https://www.virustotal.com/gui/file/e2fe10128510084760470d3a7603490ded33f666044568b5eb161255dda2b855",
+        "scan_date": 1721649603,
+        "positives": 0,
+        "total": 68,
+        "file_type": "Android",
+        "file_size": 84437,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-all.hitomi-v1.4.32.apk",
+        "hash": "e7f65fe22b79fe8f8769b8a966b7cbf830572b8a8b1aa6f006c3224a52135bf9",
+        "link": "https://www.virustotal.com/gui/file/e7f65fe22b79fe8f8769b8a966b7cbf830572b8a8b1aa6f006c3224a52135bf9",
+        "scan_date": 1721649604,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 73992,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-id.shinigami-v1.4.61.apk",
+        "hash": "887a1795509e252d26be02ac144eb3ca885830306fe1aaa9ccce4d8ecdb7e6ba",
+        "link": "https://www.virustotal.com/gui/file/887a1795509e252d26be02ac144eb3ca885830306fe1aaa9ccce4d8ecdb7e6ba",
+        "scan_date": 1721649606,
+        "positives": 0,
+        "total": 68,
+        "file_type": "Android",
+        "file_size": 231304,
+        "detected_by": {}
     }
 ]
