@@ -41301,5 +41301,71 @@
         "file_type": "Android",
         "file_size": 97369,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-vi.nhattruyen-v1.4.24.apk",
+        "hash": "29b65c3ade0c75b72131bf845cef98a087f6de2676a1d7257b2150567cfc7e9f",
+        "link": "https://www.virustotal.com/gui/file/29b65c3ade0c75b72131bf845cef98a087f6de2676a1d7257b2150567cfc7e9f",
+        "scan_date": 1721908803,
+        "positives": 0,
+        "total": 68,
+        "file_type": "Android",
+        "file_size": 47579,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.omegascans-v1.4.43.apk",
+        "hash": "d1ef8d983250f1a628acc15793f85a4923d1a4f349b4c6232d1ed439167cbb00",
+        "link": "https://www.virustotal.com/gui/file/d1ef8d983250f1a628acc15793f85a4923d1a4f349b4c6232d1ed439167cbb00",
+        "scan_date": 1721908804,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 97422,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.templescan-v1.4.42.apk",
+        "hash": "35d07b078a9f8e88f877a0f3270738cfe40bce3616209c56027d65f0c05282cb",
+        "link": "https://www.virustotal.com/gui/file/35d07b078a9f8e88f877a0f3270738cfe40bce3616209c56027d65f0c05282cb",
+        "scan_date": 1721908806,
+        "positives": 0,
+        "total": 68,
+        "file_type": "Android",
+        "file_size": 102053,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.readcomicsbook-v1.4.1.apk",
+        "hash": "72ae1adc165f0b0a3d89d960bca3f47eff9009aad4b49e679b58cf74a90da417",
+        "link": "https://www.virustotal.com/gui/file/72ae1adc165f0b0a3d89d960bca3f47eff9009aad4b49e679b58cf74a90da417",
+        "scan_date": 1721908807,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 98681,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-pt.modescanlator-v1.4.26.apk",
+        "hash": "7a286fab7db2734d652c781f17282eb2888b2e7ca7ed694040964bfe9ef55328",
+        "link": "https://www.virustotal.com/gui/file/7a286fab7db2734d652c781f17282eb2888b2e7ca7ed694040964bfe9ef55328",
+        "scan_date": 1721908863,
+        "positives": 0,
+        "total": 68,
+        "file_type": "Android",
+        "file_size": 84642,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-fr.perfscan-v1.4.25.apk",
+        "hash": "c3e31c560353c43a076be442896bd6e0a1305d265030add976bee47570a2fe6f",
+        "link": "https://www.virustotal.com/gui/file/c3e31c560353c43a076be442896bd6e0a1305d265030add976bee47570a2fe6f",
+        "scan_date": 1721908865,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 87924,
+        "detected_by": {}
     }
 ]
