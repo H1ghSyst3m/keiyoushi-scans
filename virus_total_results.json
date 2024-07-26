@@ -41389,5 +41389,16 @@
         "file_type": "Android",
         "file_size": 114138,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-es.ikigaimangas-v1.4.13.apk",
+        "hash": "007a9884e95d6fc2d8b5a0d011c377f3c87af007d07c452c8ddeb1cabace60eb",
+        "link": "https://www.virustotal.com/gui/file/007a9884e95d6fc2d8b5a0d011c377f3c87af007d07c452c8ddeb1cabace60eb",
+        "scan_date": 1721988827,
+        "positives": 0,
+        "total": 68,
+        "file_type": "Android",
+        "file_size": 66397,
+        "detected_by": {}
     }
 ]
