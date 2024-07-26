@@ -41400,5 +41400,49 @@
         "file_type": "Android",
         "file_size": 66397,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.asurascans-v1.4.36.apk",
+        "hash": "6b835a6141c62ec05183cbf7b60c9cff606324d4ddfd1c0a54f228a436215056",
+        "link": "https://www.virustotal.com/gui/file/6b835a6141c62ec05183cbf7b60c9cff606324d4ddfd1c0a54f228a436215056",
+        "scan_date": 1721995203,
+        "positives": 0,
+        "total": 69,
+        "file_type": "Android",
+        "file_size": 71477,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-es.senshimanga-v1.4.5.apk",
+        "hash": "16a5dada22b480999da36088249348a4205e51848c4a082dcbec1fafa54a0031",
+        "link": "https://www.virustotal.com/gui/file/16a5dada22b480999da36088249348a4205e51848c4a082dcbec1fafa54a0031",
+        "scan_date": 1721995205,
+        "positives": 0,
+        "total": 69,
+        "file_type": "Android",
+        "file_size": 55470,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-pt.yaoifanclub-v1.4.9.apk",
+        "hash": "3894a840f8e95f8c59b99b2f9d494f325f06346bcc6efe53ab49a0fe7079ae14",
+        "link": "https://www.virustotal.com/gui/file/3894a840f8e95f8c59b99b2f9d494f325f06346bcc6efe53ab49a0fe7079ae14",
+        "scan_date": 1721995206,
+        "positives": 0,
+        "total": 69,
+        "file_type": "Android",
+        "file_size": 82890,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.manhwahentaime-v1.4.40.apk",
+        "hash": "2cffe172ae296f3b3a25a3edd3aab5c65d058b04359cd42050debfcbea8a20cc",
+        "link": "https://www.virustotal.com/gui/file/2cffe172ae296f3b3a25a3edd3aab5c65d058b04359cd42050debfcbea8a20cc",
+        "scan_date": 1721995207,
+        "positives": 0,
+        "total": 69,
+        "file_type": "Android",
+        "file_size": 88860,
+        "detected_by": {}
     }
 ]
