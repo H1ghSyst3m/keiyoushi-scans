@@ -41510,5 +41510,82 @@
         "file_type": "Android",
         "file_size": 96279,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.luascans-v1.4.35.apk",
+        "hash": "43b334e692e9b3fecb85ca2c9445e1da9b9c66c173cba15ec132abdab926b662",
+        "link": "https://www.virustotal.com/gui/file/43b334e692e9b3fecb85ca2c9445e1da9b9c66c173cba15ec132abdab926b662",
+        "scan_date": 1722124803,
+        "positives": 0,
+        "total": 68,
+        "file_type": "Android",
+        "file_size": 76662,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.webnovel-v1.4.12.apk",
+        "hash": "09193e52ddf0758e34b3ce00dc399ecf9fc90196356ad9c9568b4e8aaf311b80",
+        "link": "https://www.virustotal.com/gui/file/09193e52ddf0758e34b3ce00dc399ecf9fc90196356ad9c9568b4e8aaf311b80",
+        "scan_date": 1722124806,
+        "positives": 0,
+        "total": 68,
+        "file_type": "Android",
+        "file_size": 89525,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-tr.siyahmelek-v1.4.43.apk",
+        "hash": "75c2d5aa55990a957e682fb20a9685fd5fd2c58a6bd0f44650cd14a990d9fd4e",
+        "link": "https://www.virustotal.com/gui/file/75c2d5aa55990a957e682fb20a9685fd5fd2c58a6bd0f44650cd14a990d9fd4e",
+        "scan_date": 1722124808,
+        "positives": 0,
+        "total": 69,
+        "file_type": "Android",
+        "file_size": 64153,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.kami18-v1.4.1.apk",
+        "hash": "a5ce055f6a31f45e98eeb213ed32b9446db906bf3c96571a57eca33c94ddb802",
+        "link": "https://www.virustotal.com/gui/file/a5ce055f6a31f45e98eeb213ed32b9446db906bf3c96571a57eca33c94ddb802",
+        "scan_date": 1722124863,
+        "positives": 0,
+        "total": 69,
+        "file_type": "Android",
+        "file_size": 46873,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-ar.teamx-v1.4.18.apk",
+        "hash": "e9016a83b991a5b37b18502db6caa12a9fb64efb11fe869aaab77c6aa8a70bcf",
+        "link": "https://www.virustotal.com/gui/file/e9016a83b991a5b37b18502db6caa12a9fb64efb11fe869aaab77c6aa8a70bcf",
+        "scan_date": 1722124864,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 39915,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.koharu-v1.4.5.apk",
+        "hash": "03e67ef7bd5b908026920b3a7ac9a500f80123a505480bb2229efbad940d8ca2",
+        "link": "https://www.virustotal.com/gui/file/03e67ef7bd5b908026920b3a7ac9a500f80123a505480bb2229efbad940d8ca2",
+        "scan_date": 1722124866,
+        "positives": 0,
+        "total": 69,
+        "file_type": "Android",
+        "file_size": 53093,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.mangago-v1.4.16.apk",
+        "hash": "c495e4c659948b7d346115aaaa40ada6f179b3cd12a3d9b2de072c4563ec41ba",
+        "link": "https://www.virustotal.com/gui/file/c495e4c659948b7d346115aaaa40ada6f179b3cd12a3d9b2de072c4563ec41ba",
+        "scan_date": 1722124867,
+        "positives": 0,
+        "total": 69,
+        "file_type": "Android",
+        "file_size": 62501,
+        "detected_by": {}
     }
 ]
