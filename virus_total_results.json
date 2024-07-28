@@ -41587,5 +41587,16 @@
         "file_type": "Android",
         "file_size": 62501,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-all.thunderscans-v1.4.33.apk",
+        "hash": "a4cb67d5fc33bd5dc265bc4718d6024c2d83ed8c63d71bae5e4803c47e029cd4",
+        "link": "https://www.virustotal.com/gui/file/a4cb67d5fc33bd5dc265bc4718d6024c2d83ed8c63d71bae5e4803c47e029cd4",
+        "scan_date": 1722125527,
+        "positives": 0,
+        "total": 68,
+        "file_type": "Android",
+        "file_size": 66767,
+        "detected_by": {}
     }
 ]
