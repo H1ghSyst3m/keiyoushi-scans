@@ -41598,5 +41598,49 @@
         "file_type": "Android",
         "file_size": 66767,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-vi.teamlanhlung-v1.4.9.apk",
+        "hash": "a3544ace93c5452c09825c129714830fca89b68394108990e5e3dca8046024b2",
+        "link": "https://www.virustotal.com/gui/file/a3544ace93c5452c09825c129714830fca89b68394108990e5e3dca8046024b2",
+        "scan_date": 1722168004,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 62038,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-tr.prunusscans-v1.4.30.apk",
+        "hash": "a9eee058a561f275b87fe453768ca3d7964ae592a3c84ef0780486b19e051a3c",
+        "link": "https://www.virustotal.com/gui/file/a9eee058a561f275b87fe453768ca3d7964ae592a3c84ef0780486b19e051a3c",
+        "scan_date": 1722168005,
+        "positives": 0,
+        "total": 69,
+        "file_type": "Android",
+        "file_size": 110183,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.astrascans-v1.4.30.apk",
+        "hash": "1998e10443c5e2eb845a2172d141879740058319a4063522cd6ec95449a04f79",
+        "link": "https://www.virustotal.com/gui/file/1998e10443c5e2eb845a2172d141879740058319a4063522cd6ec95449a04f79",
+        "scan_date": 1722168006,
+        "positives": 0,
+        "total": 68,
+        "file_type": "Android",
+        "file_size": 95670,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.kami18-v1.4.2.apk",
+        "hash": "b15aaa08273b7421574866e8d79cadd6637a542b35b5e1b0826e1c3fe45a3a18",
+        "link": "https://www.virustotal.com/gui/file/b15aaa08273b7421574866e8d79cadd6637a542b35b5e1b0826e1c3fe45a3a18",
+        "scan_date": 1722168008,
+        "positives": 0,
+        "total": 68,
+        "file_type": "Android",
+        "file_size": 46893,
+        "detected_by": {}
     }
 ]
