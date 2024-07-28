@@ -41499,5 +41499,16 @@
         "file_type": "Android",
         "file_size": 61659,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-ja.mangarawplus-v1.4.41.apk",
+        "hash": "aef2b7ed70f02dd1421e75d21d87515df1b2643049e43040ecd5ab7de3469e0e",
+        "link": "https://www.virustotal.com/gui/file/aef2b7ed70f02dd1421e75d21d87515df1b2643049e43040ecd5ab7de3469e0e",
+        "scan_date": 1722117505,
+        "positives": 0,
+        "total": 68,
+        "file_type": "Android",
+        "file_size": 96279,
+        "detected_by": {}
     }
 ]
