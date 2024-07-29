@@ -41642,5 +41642,16 @@
         "file_type": "Android",
         "file_size": 46893,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.asurascans-v1.4.38.apk",
+        "hash": "b19304f58bbea196b33482b5882a251330af6e48f1a3ddb1084871cc402ebbcf",
+        "link": "https://www.virustotal.com/gui/file/b19304f58bbea196b33482b5882a251330af6e48f1a3ddb1084871cc402ebbcf",
+        "scan_date": 1722230294,
+        "positives": 0,
+        "total": 68,
+        "file_type": "Android",
+        "file_size": 71383,
+        "detected_by": {}
     }
 ]
