@@ -41840,5 +41840,27 @@
         "file_type": "Android",
         "file_size": 56698,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.manhwahentaime-v1.4.41.apk",
+        "hash": "e346855a5381714b63ffd64d31cf65f25043027594281ad83bfb29ac3d243a35",
+        "link": "https://www.virustotal.com/gui/file/e346855a5381714b63ffd64d31cf65f25043027594281ad83bfb29ac3d243a35",
+        "scan_date": 1722427204,
+        "positives": 0,
+        "total": 69,
+        "file_type": "Android",
+        "file_size": 88895,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-fr.mangascan-v1.4.16.apk",
+        "hash": "cfaadb4b15297452f14c5e25f0b0a8b6bb02fddeb8fd8d4307327c4194bbbe41",
+        "link": "https://www.virustotal.com/gui/file/cfaadb4b15297452f14c5e25f0b0a8b6bb02fddeb8fd8d4307327c4194bbbe41",
+        "scan_date": 1722427205,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 54297,
+        "detected_by": {}
     }
 ]
