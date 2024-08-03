@@ -41950,5 +41950,49 @@
         "file_type": "Android",
         "file_size": 54245,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.omegascans-v1.4.44.apk",
+        "hash": "f489a5cc8d19b98e5d188f485c6e606116c2944ecf5230ffbdb4f8ffeee6c415",
+        "link": "https://www.virustotal.com/gui/file/f489a5cc8d19b98e5d188f485c6e606116c2944ecf5230ffbdb4f8ffeee6c415",
+        "scan_date": 1722643204,
+        "positives": 0,
+        "total": 68,
+        "file_type": "Android",
+        "file_size": 97460,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-fr.perfscan-v1.4.26.apk",
+        "hash": "86264114d131f2987b7b37c4aceb31dae9d23a3b3f61b64887d371ab28eff076",
+        "link": "https://www.virustotal.com/gui/file/86264114d131f2987b7b37c4aceb31dae9d23a3b3f61b64887d371ab28eff076",
+        "scan_date": 1722643205,
+        "positives": 0,
+        "total": 68,
+        "file_type": "Android",
+        "file_size": 87945,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.reaperscans-v1.4.53.apk",
+        "hash": "cfcc0f9f982534fe1b8a5f12dfe9e02b37c390289f737b24e55a04d18912db92",
+        "link": "https://www.virustotal.com/gui/file/cfcc0f9f982534fe1b8a5f12dfe9e02b37c390289f737b24e55a04d18912db92",
+        "scan_date": 1722643207,
+        "positives": 0,
+        "total": 68,
+        "file_type": "Android",
+        "file_size": 91566,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-pt.modescanlator-v1.4.27.apk",
+        "hash": "9cf61ad4e89eeb1779f19f0ee2bad7b2723d639ed3a4ecbe18f520814fe5b3aa",
+        "link": "https://www.virustotal.com/gui/file/9cf61ad4e89eeb1779f19f0ee2bad7b2723d639ed3a4ecbe18f520814fe5b3aa",
+        "scan_date": 1722643208,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 84679,
+        "detected_by": {}
     }
 ]
