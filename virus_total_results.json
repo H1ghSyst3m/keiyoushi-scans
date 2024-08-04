@@ -41994,5 +41994,93 @@
         "file_type": "Android",
         "file_size": 84679,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-pt.pussytoons-v1.4.36.apk",
+        "hash": "fc10889b0223aea957707e4116e3e959080bbc6db28edf0ce7fb42842276bb2c",
+        "link": "https://www.virustotal.com/gui/file/fc10889b0223aea957707e4116e3e959080bbc6db28edf0ce7fb42842276bb2c",
+        "scan_date": 1722772804,
+        "positives": 0,
+        "total": 68,
+        "file_type": "Android",
+        "file_size": 123732,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-ar.mangahub-v1.4.9.apk",
+        "hash": "32737fa99175f0c886ffa3f37e7801f6365647f3697191dad5e9b7c28338d254",
+        "link": "https://www.virustotal.com/gui/file/32737fa99175f0c886ffa3f37e7801f6365647f3697191dad5e9b7c28338d254",
+        "scan_date": 1722772805,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 69225,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-pt.ancientcomics-v1.4.36.apk",
+        "hash": "5ea4afb4ef0c2d66240bf9ca3cf12ad1364fd2b30b75f5bde90fd787aefcb896",
+        "link": "https://www.virustotal.com/gui/file/5ea4afb4ef0c2d66240bf9ca3cf12ad1364fd2b30b75f5bde90fd787aefcb896",
+        "scan_date": 1722772808,
+        "positives": 0,
+        "total": 68,
+        "file_type": "Android",
+        "file_size": 119613,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-id.lumoskomik-v1.4.36.apk",
+        "hash": "1e8d5fc05e0af99df212141aa4e17ef6a446901bc239f76a39dcefe0b0dc25d7",
+        "link": "https://www.virustotal.com/gui/file/1e8d5fc05e0af99df212141aa4e17ef6a446901bc239f76a39dcefe0b0dc25d7",
+        "scan_date": 1722772809,
+        "positives": 0,
+        "total": 68,
+        "file_type": "Android",
+        "file_size": 128617,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-tr.hyperionscans-v1.4.9.apk",
+        "hash": "a3a6ed9fa21d9bc689dca2099fc9c7d1500ce20028c542b1c34123858905a8a2",
+        "link": "https://www.virustotal.com/gui/file/a3a6ed9fa21d9bc689dca2099fc9c7d1500ce20028c542b1c34123858905a8a2",
+        "scan_date": 1722772863,
+        "positives": 0,
+        "total": 68,
+        "file_type": "Android",
+        "file_size": 126304,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.firescans-v1.4.38.apk",
+        "hash": "18995558dc823e4bc5237e7ae15954e7c00d924ca7ee2c3b0d1d1a512595d31c",
+        "link": "https://www.virustotal.com/gui/file/18995558dc823e4bc5237e7ae15954e7c00d924ca7ee2c3b0d1d1a512595d31c",
+        "scan_date": 1722772865,
+        "positives": 0,
+        "total": 68,
+        "file_type": "Android",
+        "file_size": 172323,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-id.magerin-v1.4.9.apk",
+        "hash": "8c23aca4c1d627dcd1d680120fdd6f6420ff7bd20543f133a92155d741a3263a",
+        "link": "https://www.virustotal.com/gui/file/8c23aca4c1d627dcd1d680120fdd6f6420ff7bd20543f133a92155d741a3263a",
+        "scan_date": 1722772866,
+        "positives": 0,
+        "total": 68,
+        "file_type": "Android",
+        "file_size": 79721,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-tr.mangaokusana-v1.4.36.apk",
+        "hash": "f57b8aefd25d578145c7b720f8859dc2cfbb0596d5a394f0f2e92b4e052a5da4",
+        "link": "https://www.virustotal.com/gui/file/f57b8aefd25d578145c7b720f8859dc2cfbb0596d5a394f0f2e92b4e052a5da4",
+        "scan_date": 1722772868,
+        "positives": 0,
+        "total": 68,
+        "file_type": "Android",
+        "file_size": 131751,
+        "detected_by": {}
     }
 ]
