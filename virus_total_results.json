@@ -42093,5 +42093,71 @@
         "file_type": "Android",
         "file_size": 65935,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-pt.lunarscan-v1.4.38.apk",
+        "hash": "b3e9c4e009eb7d9644b9069d4eb87e0695d1719aa94ef94d74b9f369b82a7259",
+        "link": "https://www.virustotal.com/gui/file/b3e9c4e009eb7d9644b9069d4eb87e0695d1719aa94ef94d74b9f369b82a7259",
+        "scan_date": 1722902404,
+        "positives": 0,
+        "total": 69,
+        "file_type": "Android",
+        "file_size": 84309,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-all.foamgirl-v1.4.1.apk",
+        "hash": "173a79c465518afc0b4b0c7e325d267fa0beb5eb1834b22d362697a7ca2a27e4",
+        "link": "https://www.virustotal.com/gui/file/173a79c465518afc0b4b0c7e325d267fa0beb5eb1834b22d362697a7ca2a27e4",
+        "scan_date": 1722902405,
+        "positives": 0,
+        "total": 69,
+        "file_type": "Android",
+        "file_size": 42367,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-pt.pussytoons-v1.4.37.apk",
+        "hash": "789153e5fa3d6c540e9c94f37bd8d3d204f79a81d5c9c41a864ac09651aba9fa",
+        "link": "https://www.virustotal.com/gui/file/789153e5fa3d6c540e9c94f37bd8d3d204f79a81d5c9c41a864ac09651aba9fa",
+        "scan_date": 1722902406,
+        "positives": 0,
+        "total": 69,
+        "file_type": "Android",
+        "file_size": 123761,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-es.darkroomfansub-v1.4.9.apk",
+        "hash": "80b6f813704a152092a46e984a1c04bbcead2aaa8abd686cedae5ed2851cd3a2",
+        "link": "https://www.virustotal.com/gui/file/80b6f813704a152092a46e984a1c04bbcead2aaa8abd686cedae5ed2851cd3a2",
+        "scan_date": 1722902409,
+        "positives": 0,
+        "total": 69,
+        "file_type": "Android",
+        "file_size": 145803,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.altayscans-v1.4.30.apk",
+        "hash": "66a711440a525491533e2f869d6f473f7f378c3f696091411b030ce93aabfaa3",
+        "link": "https://www.virustotal.com/gui/file/66a711440a525491533e2f869d6f473f7f378c3f696091411b030ce93aabfaa3",
+        "scan_date": 1722902464,
+        "positives": 0,
+        "total": 68,
+        "file_type": "Android",
+        "file_size": 86491,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-all.batoto-v1.4.37.apk",
+        "hash": "3b2c87bf315118a0a731b1e736839f5ff1e0a3289402800088b7f3da13ccd2e7",
+        "link": "https://www.virustotal.com/gui/file/3b2c87bf315118a0a731b1e736839f5ff1e0a3289402800088b7f3da13ccd2e7",
+        "scan_date": 1722902465,
+        "positives": 0,
+        "total": 69,
+        "file_type": "Android",
+        "file_size": 69216,
+        "detected_by": {}
     }
 ]
