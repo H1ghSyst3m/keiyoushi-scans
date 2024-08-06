@@ -42159,5 +42159,49 @@
         "file_type": "Android",
         "file_size": 69216,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-pt.huntersscans-v1.4.39.apk",
+        "hash": "f5d8f7ed265461d972ad9ddda46b1906b77dfe0838edb8990182b77358fabed8",
+        "link": "https://www.virustotal.com/gui/file/f5d8f7ed265461d972ad9ddda46b1906b77dfe0838edb8990182b77358fabed8",
+        "scan_date": 1722945603,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 99921,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-es.ikigaimangas-v1.4.14.apk",
+        "hash": "bb9ba68c4f498e3b3d881fe12c0bd6275873c0deafb9e63f6e439957bf90196f",
+        "link": "https://www.virustotal.com/gui/file/bb9ba68c4f498e3b3d881fe12c0bd6275873c0deafb9e63f6e439957bf90196f",
+        "scan_date": 1722945605,
+        "positives": 0,
+        "total": 69,
+        "file_type": "Android",
+        "file_size": 66395,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.asurascans-v1.4.39.apk",
+        "hash": "1ab04c429d0b4fc55c1d5e530f17d9ba209588d78f7eee889ff748840cf8bdb4",
+        "link": "https://www.virustotal.com/gui/file/1ab04c429d0b4fc55c1d5e530f17d9ba209588d78f7eee889ff748840cf8bdb4",
+        "scan_date": 1722945606,
+        "positives": 0,
+        "total": 69,
+        "file_type": "Android",
+        "file_size": 71395,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-pt.blackoutcomics-v1.4.5.apk",
+        "hash": "8dfa71ff3bd5cbd262ec9ce8f074fd90966eba17d097c8b630433cae1dcf689f",
+        "link": "https://www.virustotal.com/gui/file/8dfa71ff3bd5cbd262ec9ce8f074fd90966eba17d097c8b630433cae1dcf689f",
+        "scan_date": 1722945607,
+        "positives": 0,
+        "total": 69,
+        "file_type": "Android",
+        "file_size": 70629,
+        "detected_by": {}
     }
 ]
