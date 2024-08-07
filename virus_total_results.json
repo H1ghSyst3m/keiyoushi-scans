@@ -42346,5 +42346,27 @@
         "file_type": "Android",
         "file_size": 43580,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.arvenscans-v1.4.36.apk",
+        "hash": "1d140b09952308019d71015f794cfc08eff0ed287cd53927d05225d9fa921ce2",
+        "link": "https://www.virustotal.com/gui/file/1d140b09952308019d71015f794cfc08eff0ed287cd53927d05225d9fa921ce2",
+        "scan_date": 1723032792,
+        "positives": 0,
+        "total": 68,
+        "file_type": "Android",
+        "file_size": 125749,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.manytoon-v1.4.42.apk",
+        "hash": "5af486822f2f468ff45f2733fe5103c287a9f1bcc4357eab473acd3c5c14eb93",
+        "link": "https://www.virustotal.com/gui/file/5af486822f2f468ff45f2733fe5103c287a9f1bcc4357eab473acd3c5c14eb93",
+        "scan_date": 1723032794,
+        "positives": 0,
+        "total": 69,
+        "file_type": "Android",
+        "file_size": 77474,
+        "detected_by": {}
     }
 ]
