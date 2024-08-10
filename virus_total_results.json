@@ -42621,5 +42621,49 @@
         "file_type": "Android",
         "file_size": 79047,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.templescan-v1.4.44.apk",
+        "hash": "4fd732d20d98833b7cdc08349335f81fea5325e05627b345e6935585fd1c656d",
+        "link": "https://www.virustotal.com/gui/file/4fd732d20d98833b7cdc08349335f81fea5325e05627b345e6935585fd1c656d",
+        "scan_date": 1723248004,
+        "positives": 0,
+        "total": 69,
+        "file_type": "Android",
+        "file_size": 80996,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-all.hentaicosplay-v1.4.4.apk",
+        "hash": "615745c2dd79b6abc34a80e3a01a874ad0bf68ac7b393ae4131ea63f5c6dfbbb",
+        "link": "https://www.virustotal.com/gui/file/615745c2dd79b6abc34a80e3a01a874ad0bf68ac7b393ae4131ea63f5c6dfbbb",
+        "scan_date": 1723248006,
+        "positives": 0,
+        "total": 69,
+        "file_type": "Android",
+        "file_size": 42219,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.mangadistrict-v1.4.42.apk",
+        "hash": "c681efc3f51634b8100f9cc91f32bd2b90b6cc880ddb661be2cb96b6b1ac4a4b",
+        "link": "https://www.virustotal.com/gui/file/c681efc3f51634b8100f9cc91f32bd2b90b6cc880ddb661be2cb96b6b1ac4a4b",
+        "scan_date": 1723248008,
+        "positives": 0,
+        "total": 69,
+        "file_type": "Android",
+        "file_size": 98029,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-ar.mangapro-v1.4.33.apk",
+        "hash": "83cfa5c7e6f3b9fd1cfb0a8c3c9c35774359c6449e84bda6812dea29d069272b",
+        "link": "https://www.virustotal.com/gui/file/83cfa5c7e6f3b9fd1cfb0a8c3c9c35774359c6449e84bda6812dea29d069272b",
+        "scan_date": 1723248010,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 75842,
+        "detected_by": {}
     }
 ]
