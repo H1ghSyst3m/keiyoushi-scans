@@ -42665,5 +42665,27 @@
         "file_type": "Android",
         "file_size": 75842,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.koharu-v1.4.6.apk",
+        "hash": "c346dcbf24c1d2c399b5a99bc71eb270f11aaad3d24882a9612d70a00bc32040",
+        "link": "https://www.virustotal.com/gui/file/c346dcbf24c1d2c399b5a99bc71eb270f11aaad3d24882a9612d70a00bc32040",
+        "scan_date": 1723291205,
+        "positives": 0,
+        "total": 69,
+        "file_type": "Android",
+        "file_size": 53661,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.spyfakku-v1.4.6.apk",
+        "hash": "5cdd127827d616a9a84a305731986edb5458c45478973253284516e094a31e4c",
+        "link": "https://www.virustotal.com/gui/file/5cdd127827d616a9a84a305731986edb5458c45478973253284516e094a31e4c",
+        "scan_date": 1723291208,
+        "positives": 0,
+        "total": 68,
+        "file_type": "Android",
+        "file_size": 52584,
+        "detected_by": {}
     }
 ]
