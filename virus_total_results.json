@@ -42830,5 +42830,16 @@
         "file_type": "Android",
         "file_size": 127827,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.zinchanmanga-v1.4.38.apk",
+        "hash": "c8aaca1c67dc73699ba43ef1155dfd36e27e60de041ed5bb9e912d49c9966b37",
+        "link": "https://www.virustotal.com/gui/file/c8aaca1c67dc73699ba43ef1155dfd36e27e60de041ed5bb9e912d49c9966b37",
+        "scan_date": 1723335191,
+        "positives": 0,
+        "total": 63,
+        "file_type": "Android",
+        "file_size": 63578,
+        "detected_by": {}
     }
 ]
