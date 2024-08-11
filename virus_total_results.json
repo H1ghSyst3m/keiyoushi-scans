@@ -42841,5 +42841,27 @@
         "file_type": "Android",
         "file_size": 63578,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.manhwafreakxyz-v1.4.30.apk",
+        "hash": "f3fa3b847758f21508f7856b03ce2965e0f115a118c2d7bf0f33958f6fe77d1f",
+        "link": "https://www.virustotal.com/gui/file/f3fa3b847758f21508f7856b03ce2965e0f115a118c2d7bf0f33958f6fe77d1f",
+        "scan_date": 1723377603,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 114498,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.hentaidex-v1.4.30.apk",
+        "hash": "d423a66a081b8ae5e1caa22323a7e4dd879bb6e93c9f99266f36c2e2d8e7db9f",
+        "link": "https://www.virustotal.com/gui/file/d423a66a081b8ae5e1caa22323a7e4dd879bb6e93c9f99266f36c2e2d8e7db9f",
+        "scan_date": 1723377604,
+        "positives": 0,
+        "total": 69,
+        "file_type": "Android",
+        "file_size": 68756,
+        "detected_by": {}
     }
 ]
