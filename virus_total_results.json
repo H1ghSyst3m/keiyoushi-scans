@@ -42863,5 +42863,16 @@
         "file_type": "Android",
         "file_size": 68756,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-all.nhentai-v1.4.41.apk",
+        "hash": "a7da8474ee3cac5cc927061dc3764000f8b43b7a220149af3c83be753aaf45a4",
+        "link": "https://www.virustotal.com/gui/file/a7da8474ee3cac5cc927061dc3764000f8b43b7a220149af3c83be753aaf45a4",
+        "scan_date": 1723441108,
+        "positives": 0,
+        "total": 69,
+        "file_type": "Android",
+        "file_size": 56723,
+        "detected_by": {}
     }
 ]
