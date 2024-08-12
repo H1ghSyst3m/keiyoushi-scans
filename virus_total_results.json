@@ -42874,5 +42874,16 @@
         "file_type": "Android",
         "file_size": 56723,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-pt.diskusscan-v1.4.40.apk",
+        "hash": "62dc45e25ba925977082086ec31b9154f2d6c7578edef2fdd9911daa2bebd9b3",
+        "link": "https://www.virustotal.com/gui/file/62dc45e25ba925977082086ec31b9154f2d6c7578edef2fdd9911daa2bebd9b3",
+        "scan_date": 1723464004,
+        "positives": 0,
+        "total": 60,
+        "file_type": "Android",
+        "file_size": 74575,
+        "detected_by": {}
     }
 ]
