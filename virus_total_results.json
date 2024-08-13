@@ -42984,5 +42984,16 @@
         "file_type": "Android",
         "file_size": 79044,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-tr.koreliscans-v1.4.36.apk",
+        "hash": "505b2b478b7d94710f28650cea3a76672ac3cfc4e35cd3408e477f95da66d811",
+        "link": "https://www.virustotal.com/gui/file/505b2b478b7d94710f28650cea3a76672ac3cfc4e35cd3408e477f95da66d811",
+        "scan_date": 1723551129,
+        "positives": 0,
+        "total": 69,
+        "file_type": "Android",
+        "file_size": 116582,
+        "detected_by": {}
     }
 ]
