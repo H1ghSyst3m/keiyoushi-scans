@@ -42995,5 +42995,95 @@
         "file_type": "Android",
         "file_size": 116582,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.koharu-v1.4.7.apk",
+        "hash": "91772c7380830bb08ebc2f4c15031c2ad40db7a9c8bb6089fcb2232dad070c70",
+        "link": "https://www.virustotal.com/gui/file/91772c7380830bb08ebc2f4c15031c2ad40db7a9c8bb6089fcb2232dad070c70",
+        "scan_date": 1723636804,
+        "positives": 0,
+        "total": 69,
+        "file_type": "Android",
+        "file_size": 53379,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-tr.nabiscans-v1.4.36.apk",
+        "hash": "9636ef2328c53dff073c9c969c7451d8978d23b7b7f896ead01f079d8394679d",
+        "link": "https://www.virustotal.com/gui/file/9636ef2328c53dff073c9c969c7451d8978d23b7b7f896ead01f079d8394679d",
+        "scan_date": 1723636805,
+        "positives": 1,
+        "total": 69,
+        "file_type": "Android",
+        "file_size": 85386,
+        "detected_by": {
+            "VirIT": "Trojan.Win32.MulDrop7.DOQR"
+        }
+    },
+    {
+        "filename": "tachiyomi-ko.blacktoon-v1.4.1.apk",
+        "hash": "9661ce86dfdecf2b62c11119a3ddc1703cde37a7636b013fbcc6efc494d0f2fe",
+        "link": "https://www.virustotal.com/gui/file/9661ce86dfdecf2b62c11119a3ddc1703cde37a7636b013fbcc6efc494d0f2fe",
+        "scan_date": 1723636807,
+        "positives": 0,
+        "total": 69,
+        "file_type": "Android",
+        "file_size": 52603,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-pt.atemporal-v1.4.37.apk",
+        "hash": "ea714573b96569de137be83752e1fe059cb09d657f00aa0aff46c525b18881ca",
+        "link": "https://www.virustotal.com/gui/file/ea714573b96569de137be83752e1fe059cb09d657f00aa0aff46c525b18881ca",
+        "scan_date": 1723636809,
+        "positives": 0,
+        "total": 69,
+        "file_type": "Android",
+        "file_size": 126187,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.coloredmanga-v1.4.36.apk",
+        "hash": "e709e0a6d8fbcaa3e0b0847dc5f7c010155fb54dbdc646c95e2ae6135196ae4e",
+        "link": "https://www.virustotal.com/gui/file/e709e0a6d8fbcaa3e0b0847dc5f7c010155fb54dbdc646c95e2ae6135196ae4e",
+        "scan_date": 1723636864,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 62401,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-all.akuma-v1.4.5.apk",
+        "hash": "97251a1776e8cc1eadb56820c5efe1afaf90522aa6cfbcd5f8d85795528d150b",
+        "link": "https://www.virustotal.com/gui/file/97251a1776e8cc1eadb56820c5efe1afaf90522aa6cfbcd5f8d85795528d150b",
+        "scan_date": 1723636866,
+        "positives": 0,
+        "total": 69,
+        "file_type": "Android",
+        "file_size": 43005,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.mangadistrict-v1.4.43.apk",
+        "hash": "6080680fe12b58db42beb37ccc69572c3e43af1754455d089e951dcd802e00b9",
+        "link": "https://www.virustotal.com/gui/file/6080680fe12b58db42beb37ccc69572c3e43af1754455d089e951dcd802e00b9",
+        "scan_date": 1723636867,
+        "positives": 0,
+        "total": 69,
+        "file_type": "Android",
+        "file_size": 98126,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-all.eromanhwa-v1.4.36.apk",
+        "hash": "b4db7dcbf0e177a9deb43616e56d87edeb212c830cfc578c4495780c724f097e",
+        "link": "https://www.virustotal.com/gui/file/b4db7dcbf0e177a9deb43616e56d87edeb212c830cfc578c4495780c724f097e",
+        "scan_date": 1723636868,
+        "positives": 0,
+        "total": 68,
+        "file_type": "Android",
+        "file_size": 87005,
+        "detected_by": {}
     }
 ]
