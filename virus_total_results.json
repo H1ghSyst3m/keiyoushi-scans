@@ -43492,5 +43492,71 @@
         "file_type": "Android",
         "file_size": 55947,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.readcomicnet-v1.4.2.apk",
+        "hash": "18a4d1825ad471c2b3c96b5b279cccecad4b2478fa0fc888b3dd1200f5df9f66",
+        "link": "https://www.virustotal.com/gui/file/18a4d1825ad471c2b3c96b5b279cccecad4b2478fa0fc888b3dd1200f5df9f66",
+        "scan_date": 1723982404,
+        "positives": 0,
+        "total": 69,
+        "file_type": "Android",
+        "file_size": 39338,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-ar.yonabar-v1.4.39.apk",
+        "hash": "aea8b1c2300ab4bb2a4b4bb222d522e7d4646fd7735357f93f957270646eb710",
+        "link": "https://www.virustotal.com/gui/file/aea8b1c2300ab4bb2a4b4bb222d522e7d4646fd7735357f93f957270646eb710",
+        "scan_date": 1723982406,
+        "positives": 0,
+        "total": 69,
+        "file_type": "Android",
+        "file_size": 94572,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-ar.yurimoonsub-v1.4.10.apk",
+        "hash": "2646afc00faf03668ed5185ec8f702842afdea1a2c217f08d4ae40420d5ad6c0",
+        "link": "https://www.virustotal.com/gui/file/2646afc00faf03668ed5185ec8f702842afdea1a2c217f08d4ae40420d5ad6c0",
+        "scan_date": 1723982408,
+        "positives": 0,
+        "total": 69,
+        "file_type": "Android",
+        "file_size": 90757,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-tr.culturesubs-v1.4.30.apk",
+        "hash": "35689d868fd0db7d1c9cc28c1772d2cdffe7e5e271beb226de7336e8cce65f4b",
+        "link": "https://www.virustotal.com/gui/file/35689d868fd0db7d1c9cc28c1772d2cdffe7e5e271beb226de7336e8cce65f4b",
+        "scan_date": 1723982410,
+        "positives": 0,
+        "total": 69,
+        "file_type": "Android",
+        "file_size": 157868,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-ja.rawinu-v1.4.10.apk",
+        "hash": "741493a653dee86e385e82dac6413b2748e31e2ee1a0f804f274081292bea32a",
+        "link": "https://www.virustotal.com/gui/file/741493a653dee86e385e82dac6413b2748e31e2ee1a0f804f274081292bea32a",
+        "scan_date": 1723982464,
+        "positives": 0,
+        "total": 69,
+        "file_type": "Android",
+        "file_size": 62070,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.kappabeast-v1.4.30.apk",
+        "hash": "1c384f092c1301a6bedb11f6244e1dfcbe3df068542868e4a13f5cfc6a5ca594",
+        "link": "https://www.virustotal.com/gui/file/1c384f092c1301a6bedb11f6244e1dfcbe3df068542868e4a13f5cfc6a5ca594",
+        "scan_date": 1723982465,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 51836,
+        "detected_by": {}
     }
 ]
