@@ -43459,5 +43459,27 @@
         "file_type": "Android",
         "file_size": 55934,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-th.reapertrans-v1.4.30.apk",
+        "hash": "d925544cd2f5dd1c00ece77d77999bd283ac50ac7c7519dfaee44cce3f020048",
+        "link": "https://www.virustotal.com/gui/file/d925544cd2f5dd1c00ece77d77999bd283ac50ac7c7519dfaee44cce3f020048",
+        "scan_date": 1723939203,
+        "positives": 0,
+        "total": 69,
+        "file_type": "Android",
+        "file_size": 102033,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.spyfakku-v1.4.7.apk",
+        "hash": "7820a24f1981fde59e8e43e8831e4c4134f58bb1ab7b980b9552061d9a102ae2",
+        "link": "https://www.virustotal.com/gui/file/7820a24f1981fde59e8e43e8831e4c4134f58bb1ab7b980b9552061d9a102ae2",
+        "scan_date": 1723939205,
+        "positives": 0,
+        "total": 68,
+        "file_type": "Android",
+        "file_size": 52604,
+        "detected_by": {}
     }
 ]
