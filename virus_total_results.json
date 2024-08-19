@@ -43569,5 +43569,38 @@
         "file_type": "Android",
         "file_size": 116621,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-pt.noindexscan-v1.4.37.apk",
+        "hash": "d2bc61559c7f47a06b8e20760383af7d69670ea6259ded1e8c4938913b488f92",
+        "link": "https://www.virustotal.com/gui/file/d2bc61559c7f47a06b8e20760383af7d69670ea6259ded1e8c4938913b488f92",
+        "scan_date": 1724068803,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 61408,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-id.doujinku-v1.4.31.apk",
+        "hash": "9b72ebc2647a7bb36c2a6ae56ccbe17e45285d34fdd866c399f431d2cdd79d69",
+        "link": "https://www.virustotal.com/gui/file/9b72ebc2647a7bb36c2a6ae56ccbe17e45285d34fdd866c399f431d2cdd79d69",
+        "scan_date": 1724068805,
+        "positives": 0,
+        "total": 69,
+        "file_type": "Android",
+        "file_size": 104796,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-all.nhentai-v1.4.46.apk",
+        "hash": "f79c899291998f06e4a94767ea2fd9d3ec763f7176a39ac52239db961be3e0d9",
+        "link": "https://www.virustotal.com/gui/file/f79c899291998f06e4a94767ea2fd9d3ec763f7176a39ac52239db961be3e0d9",
+        "scan_date": 1724068808,
+        "positives": 0,
+        "total": 69,
+        "file_type": "Android",
+        "file_size": 55956,
+        "detected_by": {}
     }
 ]
