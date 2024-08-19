@@ -43558,5 +43558,16 @@
         "file_type": "Android",
         "file_size": 51836,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-ar.empirewebtoon-v1.4.40.apk",
+        "hash": "276e8497fd0fe5d912306aad1c1ae8e3c906f83d85c6be50bf9d417847d9fc6c",
+        "link": "https://www.virustotal.com/gui/file/276e8497fd0fe5d912306aad1c1ae8e3c906f83d85c6be50bf9d417847d9fc6c",
+        "scan_date": 1724025603,
+        "positives": 0,
+        "total": 69,
+        "file_type": "Android",
+        "file_size": 116621,
+        "detected_by": {}
     }
 ]
