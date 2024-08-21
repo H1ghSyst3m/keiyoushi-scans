@@ -43602,5 +43602,27 @@
         "file_type": "Android",
         "file_size": 55956,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-ja.manga1000-v1.4.12.apk",
+        "hash": "a0f030a77ef1b87ff9662bb455fa551a71b10308721028e6e17c568ca3630151",
+        "link": "https://www.virustotal.com/gui/file/a0f030a77ef1b87ff9662bb455fa551a71b10308721028e6e17c568ca3630151",
+        "scan_date": 1724198403,
+        "positives": 0,
+        "total": 69,
+        "file_type": "Android",
+        "file_size": 55554,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-id.ngamenkomik-v1.4.9.apk",
+        "hash": "b1c61108fe4e87f7c7c2a1bb347482d00d11aabdd925476d5bf8c88534b26a4c",
+        "link": "https://www.virustotal.com/gui/file/b1c61108fe4e87f7c7c2a1bb347482d00d11aabdd925476d5bf8c88534b26a4c",
+        "scan_date": 1724198405,
+        "positives": 0,
+        "total": 69,
+        "file_type": "Android",
+        "file_size": 69889,
+        "detected_by": {}
     }
 ]
