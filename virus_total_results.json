@@ -43657,5 +43657,16 @@
         "file_type": "Android",
         "file_size": 90639,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-es.leercomicsonline-v1.4.1.apk",
+        "hash": "aa8dd03f671ace2fabafe83a93916c5ee6644ac79c52260783c4b8a6723108bc",
+        "link": "https://www.virustotal.com/gui/file/aa8dd03f671ace2fabafe83a93916c5ee6644ac79c52260783c4b8a6723108bc",
+        "scan_date": 1724500803,
+        "positives": 0,
+        "total": 69,
+        "file_type": "Android",
+        "file_size": 140780,
+        "detected_by": {}
     }
 ]
