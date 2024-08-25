@@ -43833,5 +43833,27 @@
         "file_type": "Android",
         "file_size": 44045,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.nightscans-v1.4.38.apk",
+        "hash": "2be64bd58ad8bce6aee4645406d025e2e835e72ea3377e6119d6d39c486e5775",
+        "link": "https://www.virustotal.com/gui/file/2be64bd58ad8bce6aee4645406d025e2e835e72ea3377e6119d6d39c486e5775",
+        "scan_date": 1724588050,
+        "positives": 0,
+        "total": 68,
+        "file_type": "Android",
+        "file_size": 97686,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.luminousscans-v1.4.39.apk",
+        "hash": "781e7fc15508813368faa4ef8238d688933d8ef59023ab0dfd548bf9ffc4af87",
+        "link": "https://www.virustotal.com/gui/file/781e7fc15508813368faa4ef8238d688933d8ef59023ab0dfd548bf9ffc4af87",
+        "scan_date": 1724588051,
+        "positives": 0,
+        "total": 69,
+        "file_type": "Android",
+        "file_size": 84800,
+        "detected_by": {}
     }
 ]
