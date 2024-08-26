@@ -44020,5 +44020,16 @@
         "file_type": "Android",
         "file_size": 96760,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-fr.vfscan-v1.4.31.apk",
+        "hash": "2eb0e4447d40bf0f4c28299999d2c255c46b50fd6f47beea092b91cdaa7c07ad",
+        "link": "https://www.virustotal.com/gui/file/2eb0e4447d40bf0f4c28299999d2c255c46b50fd6f47beea092b91cdaa7c07ad",
+        "scan_date": 1724674445,
+        "positives": 0,
+        "total": 68,
+        "file_type": "Android",
+        "file_size": 69248,
+        "detected_by": {}
     }
 ]
