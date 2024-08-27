@@ -44031,5 +44031,27 @@
         "file_type": "Android",
         "file_size": 69248,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-id.comicaso-v1.4.32.apk",
+        "hash": "43a385e2bb1f62c6f51c9d68496c97d001282325bf63e0c93597a72156c63535",
+        "link": "https://www.virustotal.com/gui/file/43a385e2bb1f62c6f51c9d68496c97d001282325bf63e0c93597a72156c63535",
+        "scan_date": 1724760003,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 67752,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.reaperscans-v1.4.55.apk",
+        "hash": "64ab388428902a53c8afc51db4fa9dd77d30e33e92e15d1a2b882c1014c6a8a7",
+        "link": "https://www.virustotal.com/gui/file/64ab388428902a53c8afc51db4fa9dd77d30e33e92e15d1a2b882c1014c6a8a7",
+        "scan_date": 1724760005,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 95208,
+        "detected_by": {}
     }
 ]
