@@ -44053,5 +44053,49 @@
         "file_type": "Android",
         "file_size": 95208,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-vi.truyentranhdammy-v1.4.37.apk",
+        "hash": "a95a60dbec890851e43df76448f559ba09c3abacee99bf849004f11dca5ca436",
+        "link": "https://www.virustotal.com/gui/file/a95a60dbec890851e43df76448f559ba09c3abacee99bf849004f11dca5ca436",
+        "scan_date": 1724847006,
+        "positives": 0,
+        "total": 69,
+        "file_type": "Android",
+        "file_size": 147113,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-tr.atikrost-v1.4.37.apk",
+        "hash": "231d561dd79da16ee13b4a955f90656ef700bfe05f6fb23d1dcfd0da3ae99bbc",
+        "link": "https://www.virustotal.com/gui/file/231d561dd79da16ee13b4a955f90656ef700bfe05f6fb23d1dcfd0da3ae99bbc",
+        "scan_date": 1724847008,
+        "positives": 0,
+        "total": 70,
+        "file_type": "Android",
+        "file_size": 140161,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-vi.nhattruyen-v1.4.25.apk",
+        "hash": "a4d183d2bc485255d95f2b8cd09d927cb8202d3aa52fd85d123d46c76ae75398",
+        "link": "https://www.virustotal.com/gui/file/a4d183d2bc485255d95f2b8cd09d927cb8202d3aa52fd85d123d46c76ae75398",
+        "scan_date": 1724847010,
+        "positives": 0,
+        "total": 70,
+        "file_type": "Android",
+        "file_size": 47564,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.mangaclick-v1.4.38.apk",
+        "hash": "362d0efd89eed1d38248c0aa4cc53d1ed411533392d4505a13640a50eb4751bb",
+        "link": "https://www.virustotal.com/gui/file/362d0efd89eed1d38248c0aa4cc53d1ed411533392d4505a13640a50eb4751bb",
+        "scan_date": 1724847011,
+        "positives": 0,
+        "total": 70,
+        "file_type": "Android",
+        "file_size": 110862,
+        "detected_by": {}
     }
 ]
