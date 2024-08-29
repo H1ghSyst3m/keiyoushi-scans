@@ -44097,5 +44097,71 @@
         "file_type": "Android",
         "file_size": 110862,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-pt.cafecomyaoi-v1.4.38.apk",
+        "hash": "934c91842b21ceb3b56307018aa1d8b477a64c728cb7b5e92f4f035be10ac7b2",
+        "link": "https://www.virustotal.com/gui/file/934c91842b21ceb3b56307018aa1d8b477a64c728cb7b5e92f4f035be10ac7b2",
+        "scan_date": 1724932803,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 91952,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-th.sodsaime-v1.4.32.apk",
+        "hash": "6bf4e856fa1e590bde558ea931261e4766190e788fcac5d19d0f62e22bc787d5",
+        "link": "https://www.virustotal.com/gui/file/6bf4e856fa1e590bde558ea931261e4766190e788fcac5d19d0f62e22bc787d5",
+        "scan_date": 1724932805,
+        "positives": 0,
+        "total": 69,
+        "file_type": "Android",
+        "file_size": 86869,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.lemonfont-v1.4.3.apk",
+        "hash": "715399e4fa08675a8c09c54a6bd4e49a94a324bd04443d4f477acde1055463fe",
+        "link": "https://www.virustotal.com/gui/file/715399e4fa08675a8c09c54a6bd4e49a94a324bd04443d4f477acde1055463fe",
+        "scan_date": 1724932806,
+        "positives": 0,
+        "total": 69,
+        "file_type": "Android",
+        "file_size": 61126,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-id.komikindoinfo-v1.4.2.apk",
+        "hash": "a12c21744cce9a7c7a39f09ba0bb81d1073f8a95f058bb5afec7b1966bd8f04f",
+        "link": "https://www.virustotal.com/gui/file/a12c21744cce9a7c7a39f09ba0bb81d1073f8a95f058bb5afec7b1966bd8f04f",
+        "scan_date": 1724932807,
+        "positives": 0,
+        "total": 69,
+        "file_type": "Android",
+        "file_size": 93525,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-it.nifteam-v1.4.4.apk",
+        "hash": "6096dcc66723db47af2cd3fa7ffcd7623f70bf1cf80435b4f8fd8fee55530283",
+        "link": "https://www.virustotal.com/gui/file/6096dcc66723db47af2cd3fa7ffcd7623f70bf1cf80435b4f8fd8fee55530283",
+        "scan_date": 1724932863,
+        "positives": 0,
+        "total": 69,
+        "file_type": "Android",
+        "file_size": 65649,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-it.tuttoanimemanga-v1.4.7.apk",
+        "hash": "087da82c313ba58c42d56029fb88f5525d53813bbaeae93830df56086c93ed03",
+        "link": "https://www.virustotal.com/gui/file/087da82c313ba58c42d56029fb88f5525d53813bbaeae93830df56086c93ed03",
+        "scan_date": 1724932865,
+        "positives": 0,
+        "total": 69,
+        "file_type": "Android",
+        "file_size": 122414,
+        "detected_by": {}
     }
 ]
