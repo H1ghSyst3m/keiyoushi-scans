@@ -44284,5 +44284,38 @@
         "file_type": "Android",
         "file_size": 79704,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.mangademon-v1.4.14.apk",
+        "hash": "e71d0d54cddc5355f88d4a1a689f8daa2e4e4beb1c872fdd75ffe21143f84c84",
+        "link": "https://www.virustotal.com/gui/file/e71d0d54cddc5355f88d4a1a689f8daa2e4e4beb1c872fdd75ffe21143f84c84",
+        "scan_date": 1725105603,
+        "positives": 0,
+        "total": 68,
+        "file_type": "Android",
+        "file_size": 56859,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-tr.noxscans-v1.4.30.apk",
+        "hash": "2daca7392f7e861c70706804ae04695a08aced842984e2ebb5febb4b9c676916",
+        "link": "https://www.virustotal.com/gui/file/2daca7392f7e861c70706804ae04695a08aced842984e2ebb5febb4b9c676916",
+        "scan_date": 1725105605,
+        "positives": 0,
+        "total": 68,
+        "file_type": "Android",
+        "file_size": 122536,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-tr.mangatilkisi-v1.4.36.apk",
+        "hash": "ebf0ce1d231a7f1075526e84e8528f72dc296cef6c7605ec59f3b75ba0055b49",
+        "link": "https://www.virustotal.com/gui/file/ebf0ce1d231a7f1075526e84e8528f72dc296cef6c7605ec59f3b75ba0055b49",
+        "scan_date": 1725105606,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 118763,
+        "detected_by": {}
     }
 ]
