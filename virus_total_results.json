@@ -44383,5 +44383,93 @@
         "file_type": "Android",
         "file_size": 83258,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.dynasty-v1.4.25.apk",
+        "hash": "7da16f45e678be4ac62dc9934e3b513ee7485d73c7112967e51c94a1f4ed58ed",
+        "link": "https://www.virustotal.com/gui/file/7da16f45e678be4ac62dc9934e3b513ee7485d73c7112967e51c94a1f4ed58ed",
+        "scan_date": 1725494404,
+        "positives": 0,
+        "total": 69,
+        "file_type": "Android",
+        "file_size": 79167,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-id.manhwalistid-v1.4.32.apk",
+        "hash": "4ac8566defa17511da3ae273a118dc3aec0f56b7ed1df0fc6466fcd4cac68584",
+        "link": "https://www.virustotal.com/gui/file/4ac8566defa17511da3ae273a118dc3aec0f56b7ed1df0fc6466fcd4cac68584",
+        "scan_date": 1725494407,
+        "positives": 0,
+        "total": 69,
+        "file_type": "Android",
+        "file_size": 81858,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-ar.rocksmanga-v1.4.38.apk",
+        "hash": "51c3858b88c18156650807f86ff7ffe48ee0b889f16d8679f462a6f7e71df94a",
+        "link": "https://www.virustotal.com/gui/file/51c3858b88c18156650807f86ff7ffe48ee0b889f16d8679f462a6f7e71df94a",
+        "scan_date": 1725494409,
+        "positives": 0,
+        "total": 69,
+        "file_type": "Android",
+        "file_size": 120220,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-it.hentaiarchive-v1.4.1.apk",
+        "hash": "6013814268ccd49023cd339bae641a70fb856b0c263e5c781284d74eefa73f68",
+        "link": "https://www.virustotal.com/gui/file/6013814268ccd49023cd339bae641a70fb856b0c263e5c781284d74eefa73f68",
+        "scan_date": 1725494410,
+        "positives": 0,
+        "total": 69,
+        "file_type": "Android",
+        "file_size": 43026,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-vi.teamlanhlung-v1.4.10.apk",
+        "hash": "64c2eed52c64d2b068363e39b7afd22ddb8f226e1fe05df6b87d83ecdcbcc57a",
+        "link": "https://www.virustotal.com/gui/file/64c2eed52c64d2b068363e39b7afd22ddb8f226e1fe05df6b87d83ecdcbcc57a",
+        "scan_date": 1725494463,
+        "positives": 0,
+        "total": 69,
+        "file_type": "Android",
+        "file_size": 62047,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-id.lianscans-v1.4.31.apk",
+        "hash": "a30707a7b3f5b1bcff1129ea6455a43ce7ca8ca8c47bf89a2744f2021ee6a1fd",
+        "link": "https://www.virustotal.com/gui/file/a30707a7b3f5b1bcff1129ea6455a43ce7ca8ca8c47bf89a2744f2021ee6a1fd",
+        "scan_date": 1725494465,
+        "positives": 0,
+        "total": 69,
+        "file_type": "Android",
+        "file_size": 85068,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-all.comicsvalley-v1.4.38.apk",
+        "hash": "58a7a9669fc3047fb04ab9f635382e6ccf24aa2acc0668d2d5b56ec5992b8e3e",
+        "link": "https://www.virustotal.com/gui/file/58a7a9669fc3047fb04ab9f635382e6ccf24aa2acc0668d2d5b56ec5992b8e3e",
+        "scan_date": 1725494466,
+        "positives": 0,
+        "total": 69,
+        "file_type": "Android",
+        "file_size": 96602,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-pt.prismascans-v1.4.47.apk",
+        "hash": "ffbab78f34b869eada324f8535c2920b9bb8378485498b1ef647f850cf6cbc97",
+        "link": "https://www.virustotal.com/gui/file/ffbab78f34b869eada324f8535c2920b9bb8378485498b1ef647f850cf6cbc97",
+        "scan_date": 1725494467,
+        "positives": 0,
+        "total": 69,
+        "file_type": "Android",
+        "file_size": 79636,
+        "detected_by": {}
     }
 ]
