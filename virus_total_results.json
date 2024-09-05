@@ -44471,5 +44471,27 @@
         "file_type": "Android",
         "file_size": 79636,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-es.ikigaimangas-v1.4.16.apk",
+        "hash": "8240f47220b34216221d96caaeb3d635bb36b945f988c7d31af5e7b675b0e30e",
+        "link": "https://www.virustotal.com/gui/file/8240f47220b34216221d96caaeb3d635bb36b945f988c7d31af5e7b675b0e30e",
+        "scan_date": 1725537603,
+        "positives": 0,
+        "total": 68,
+        "file_type": "Android",
+        "file_size": 67699,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-it.hentaifantasy-v1.4.5.apk",
+        "hash": "0faeed61dc9a592183beb08287532d3c241db99b0dbfa779a284d734d6448d27",
+        "link": "https://www.virustotal.com/gui/file/0faeed61dc9a592183beb08287532d3c241db99b0dbfa779a284d734d6448d27",
+        "scan_date": 1725537604,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 36788,
+        "detected_by": {}
     }
 ]
