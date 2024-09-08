@@ -44504,5 +44504,82 @@
         "file_type": "Android",
         "file_size": 140643,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-th.cat300-v1.4.38.apk",
+        "hash": "82135409acb1b84f3e30ad3f440c38994d4d93a734d35bc98a31577d4b29f7cb",
+        "link": "https://www.virustotal.com/gui/file/82135409acb1b84f3e30ad3f440c38994d4d93a734d35bc98a31577d4b29f7cb",
+        "scan_date": 1725796803,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 104942,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.flamecomics-v1.4.33.apk",
+        "hash": "97d4466a95cb35ddc35b29c5442659b6962540051a66a920447902a9f55a791a",
+        "link": "https://www.virustotal.com/gui/file/97d4466a95cb35ddc35b29c5442659b6962540051a66a920447902a9f55a791a",
+        "scan_date": 1725796804,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 80076,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.magusmanga-v1.4.40.apk",
+        "hash": "1d2daa75967d459e5cb2b0378255aa07022369bb3567a92ea33bc5b5967a8512",
+        "link": "https://www.virustotal.com/gui/file/1d2daa75967d459e5cb2b0378255aa07022369bb3567a92ea33bc5b5967a8512",
+        "scan_date": 1725796806,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 107422,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-all.mangaplus-v1.4.52.apk",
+        "hash": "85c1ad2d76e7784e54609c90bcad83ce7abda53c09fdea7dc64e26b8a1f97aa4",
+        "link": "https://www.virustotal.com/gui/file/85c1ad2d76e7784e54609c90bcad83ce7abda53c09fdea7dc64e26b8a1f97aa4",
+        "scan_date": 1725796807,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 99435,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.mangadig-v1.4.4.apk",
+        "hash": "83918d9c1d6361a50fe0847484ab43abafeadc25871802cf5cf05dfc96aff235",
+        "link": "https://www.virustotal.com/gui/file/83918d9c1d6361a50fe0847484ab43abafeadc25871802cf5cf05dfc96aff235",
+        "scan_date": 1725796863,
+        "positives": 0,
+        "total": 63,
+        "file_type": "Android",
+        "file_size": 163453,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-zh.onemanhua-v1.4.19.apk",
+        "hash": "39a5bd091ac3e6846029147f4f512ae6c6fb82c809655ae4eeceeae343d418af",
+        "link": "https://www.virustotal.com/gui/file/39a5bd091ac3e6846029147f4f512ae6c6fb82c809655ae4eeceeae343d418af",
+        "scan_date": 1725796865,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 168465,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-vi.truyenvn-v1.4.40.apk",
+        "hash": "6eb62e5b9da94764277fb1b56ea6bbb84b4e096e912f780bd38ba142c3bbeb3d",
+        "link": "https://www.virustotal.com/gui/file/6eb62e5b9da94764277fb1b56ea6bbb84b4e096e912f780bd38ba142c3bbeb3d",
+        "scan_date": 1725796866,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 168798,
+        "detected_by": {}
     }
 ]
