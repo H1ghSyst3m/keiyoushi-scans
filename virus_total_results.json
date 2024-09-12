@@ -44812,5 +44812,49 @@
         "file_type": "Android",
         "file_size": 59611,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-tr.hayalistic-v1.4.38.apk",
+        "hash": "330629508d355d3ba2225f6937c7957de695c5d9ee2aba65a453438e10a77648",
+        "link": "https://www.virustotal.com/gui/file/330629508d355d3ba2225f6937c7957de695c5d9ee2aba65a453438e10a77648",
+        "scan_date": 1726142404,
+        "positives": 0,
+        "total": 68,
+        "file_type": "Android",
+        "file_size": 99376,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-all.mitaku-v1.4.1.apk",
+        "hash": "414a34da20c7cd5da03b8b63f7f917923eed0862479f2ea863318673628b36b6",
+        "link": "https://www.virustotal.com/gui/file/414a34da20c7cd5da03b8b63f7f917923eed0862479f2ea863318673628b36b6",
+        "scan_date": 1726142405,
+        "positives": 0,
+        "total": 68,
+        "file_type": "Android",
+        "file_size": 87936,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-es.mangasnosekai-v1.4.52.apk",
+        "hash": "0d952c254b4ae4967ed01a10c565e24f784dacccc7e3f8b762cd1e876a1d0d33",
+        "link": "https://www.virustotal.com/gui/file/0d952c254b4ae4967ed01a10c565e24f784dacccc7e3f8b762cd1e876a1d0d33",
+        "scan_date": 1726142407,
+        "positives": 0,
+        "total": 68,
+        "file_type": "Android",
+        "file_size": 240842,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-id.mangatale-v1.4.34.apk",
+        "hash": "03e5df83a83a3ef9e80c4261639a1dd8119ad122053d5bfc120635288a5251da",
+        "link": "https://www.virustotal.com/gui/file/03e5df83a83a3ef9e80c4261639a1dd8119ad122053d5bfc120635288a5251da",
+        "scan_date": 1726142409,
+        "positives": 0,
+        "total": 68,
+        "file_type": "Android",
+        "file_size": 66527,
+        "detected_by": {}
     }
 ]
