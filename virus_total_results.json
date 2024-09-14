@@ -44999,5 +44999,16 @@
         "file_type": "Android",
         "file_size": 77902,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.luascans-v1.4.36.apk",
+        "hash": "0f3f05a5db81b5cd4f6a22b1f842f85c5a15fd0d4337ed3c605a8e56caa711ec",
+        "link": "https://www.virustotal.com/gui/file/0f3f05a5db81b5cd4f6a22b1f842f85c5a15fd0d4337ed3c605a8e56caa711ec",
+        "scan_date": 1726315997,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 53702,
+        "detected_by": {}
     }
 ]
