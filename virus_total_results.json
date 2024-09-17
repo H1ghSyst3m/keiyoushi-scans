@@ -45197,5 +45197,49 @@
         "file_type": "Android",
         "file_size": 67795,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-zh.comicabc-v1.4.2.apk",
+        "hash": "6e40cd586c02d7a82026056acd6eb128da3579f1392845aadcf11948a0ebd9da",
+        "link": "https://www.virustotal.com/gui/file/6e40cd586c02d7a82026056acd6eb128da3579f1392845aadcf11948a0ebd9da",
+        "scan_date": 1726574404,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 71071,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-all.batoto-v1.4.38.apk",
+        "hash": "147a68a7940e3043b59439fc6809bf7fa35c6271afdff66d6768a9c90ba6dbb2",
+        "link": "https://www.virustotal.com/gui/file/147a68a7940e3043b59439fc6809bf7fa35c6271afdff66d6768a9c90ba6dbb2",
+        "scan_date": 1726574405,
+        "positives": 0,
+        "total": 64,
+        "file_type": "Android",
+        "file_size": 69981,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-zh.happymh-v1.4.12.apk",
+        "hash": "aefd9b9bf4f8b4846d50a225e40989fc999f1c3c3dcfc25baf9a142c73e56539",
+        "link": "https://www.virustotal.com/gui/file/aefd9b9bf4f8b4846d50a225e40989fc999f1c3c3dcfc25baf9a142c73e56539",
+        "scan_date": 1726574406,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 52019,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-es.koinoboriscan-v1.4.37.apk",
+        "hash": "02061b0787861c2645c685621b8c1190ce76ef6888f2c6afe7f1b91b9555f519",
+        "link": "https://www.virustotal.com/gui/file/02061b0787861c2645c685621b8c1190ce76ef6888f2c6afe7f1b91b9555f519",
+        "scan_date": 1726574407,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 78495,
+        "detected_by": {}
     }
 ]
