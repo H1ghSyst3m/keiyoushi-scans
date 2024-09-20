@@ -45296,5 +45296,16 @@
         "file_type": "Android",
         "file_size": 49707,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-es.lectortmo-v1.4.3.apk",
+        "hash": "c72892ca177f868312a859547bb4fe7fc2feb928c934862ede2b8a5b5f3de684",
+        "link": "https://www.virustotal.com/gui/file/c72892ca177f868312a859547bb4fe7fc2feb928c934862ede2b8a5b5f3de684",
+        "scan_date": 1726827750,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 65886,
+        "detected_by": {}
     }
 ]
