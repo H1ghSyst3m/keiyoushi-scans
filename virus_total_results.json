@@ -45439,5 +45439,82 @@
         "file_type": "Android",
         "file_size": 70011,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-es.ikigaimangas-v1.4.17.apk",
+        "hash": "ae7549cb68fb42c77f1f96e80a47e52f96b6e401261a84ef62c05391a8026bfa",
+        "link": "https://www.virustotal.com/gui/file/ae7549cb68fb42c77f1f96e80a47e52f96b6e401261a84ef62c05391a8026bfa",
+        "scan_date": 1727006404,
+        "positives": 0,
+        "total": 68,
+        "file_type": "Android",
+        "file_size": 68416,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-pt.ninjascan-v1.4.38.apk",
+        "hash": "3fbc4888cdbd274f290d7798c5a3e80809bd380f0f645f8630ae22619f8b71e1",
+        "link": "https://www.virustotal.com/gui/file/3fbc4888cdbd274f290d7798c5a3e80809bd380f0f645f8630ae22619f8b71e1",
+        "scan_date": 1727006405,
+        "positives": 0,
+        "total": 68,
+        "file_type": "Android",
+        "file_size": 90208,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-all.photos18-v1.4.4.apk",
+        "hash": "5c3dc05b3c69c8e6c0912390f2c606da9ecf6f5ac06cfc1433551a26826edb06",
+        "link": "https://www.virustotal.com/gui/file/5c3dc05b3c69c8e6c0912390f2c606da9ecf6f5ac06cfc1433551a26826edb06",
+        "scan_date": 1727006406,
+        "positives": 0,
+        "total": 68,
+        "file_type": "Android",
+        "file_size": 50072,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-vi.teamlanhlung-v1.4.11.apk",
+        "hash": "76af8b6c25bd5d0fccc0e0ef34e1b5c63cbbb9ae2a595e49503e7e90bfdb4d66",
+        "link": "https://www.virustotal.com/gui/file/76af8b6c25bd5d0fccc0e0ef34e1b5c63cbbb9ae2a595e49503e7e90bfdb4d66",
+        "scan_date": 1727006407,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 62051,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.hentairead-v1.4.43.apk",
+        "hash": "2a9f1e736ceecc9e304dd3ea2033c1e4b96e4d655f5c832fed3b5b1f826fa4e2",
+        "link": "https://www.virustotal.com/gui/file/2a9f1e736ceecc9e304dd3ea2033c1e4b96e4d655f5c832fed3b5b1f826fa4e2",
+        "scan_date": 1727006465,
+        "positives": 0,
+        "total": 68,
+        "file_type": "Android",
+        "file_size": 79997,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-vi.lxhentai-v1.4.8.apk",
+        "hash": "88ae48babcfe4f73c2d0c1de48c64d48c416d82e04039e4af1a06d13512794c3",
+        "link": "https://www.virustotal.com/gui/file/88ae48babcfe4f73c2d0c1de48c64d48c416d82e04039e4af1a06d13512794c3",
+        "scan_date": 1727006466,
+        "positives": 0,
+        "total": 68,
+        "file_type": "Android",
+        "file_size": 37808,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-all.pixiv-v1.4.9.apk",
+        "hash": "cac3f455c13f5a10ccf1f296f13d9606f40c4cd51eee3b6c8d0d7ce2639c7da4",
+        "link": "https://www.virustotal.com/gui/file/cac3f455c13f5a10ccf1f296f13d9606f40c4cd51eee3b6c8d0d7ce2639c7da4",
+        "scan_date": 1727006467,
+        "positives": 0,
+        "total": 68,
+        "file_type": "Android",
+        "file_size": 73941,
+        "detected_by": {}
     }
 ]
