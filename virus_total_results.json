@@ -45626,5 +45626,71 @@
         "file_type": "Android",
         "file_size": 71390,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-id.komikindoid-v1.4.14.apk",
+        "hash": "73eea48dccf61d1642973426c8f34bda244ab106b042352acc0bc5bdce7d3d81",
+        "link": "https://www.virustotal.com/gui/file/73eea48dccf61d1642973426c8f34bda244ab106b042352acc0bc5bdce7d3d81",
+        "scan_date": 1727308804,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 38803,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-zh.manhuadui-v1.4.29.apk",
+        "hash": "85590262af024e99e3e2b0d060b6469460fc154a1982987bebb5245b48378b50",
+        "link": "https://www.virustotal.com/gui/file/85590262af024e99e3e2b0d060b6469460fc154a1982987bebb5245b48378b50",
+        "scan_date": 1727308805,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 67612,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-ja.nicovideoseiga-v1.4.5.apk",
+        "hash": "7f95ab9cc7a6ee51ee69f0ab247fd51145dc54f3bc461983e0a2a3ae227fe70d",
+        "link": "https://www.virustotal.com/gui/file/7f95ab9cc7a6ee51ee69f0ab247fd51145dc54f3bc461983e0a2a3ae227fe70d",
+        "scan_date": 1727308807,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 50774,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-es.emperorscan-v1.4.41.apk",
+        "hash": "b8473102ec2a590f09585d76b5d67b20f260c920d8130a19a6c92b45e7696e01",
+        "link": "https://www.virustotal.com/gui/file/b8473102ec2a590f09585d76b5d67b20f260c920d8130a19a6c92b45e7696e01",
+        "scan_date": 1727308809,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 142653,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-vi.hentaivnplus-v1.4.39.apk",
+        "hash": "43e80720e53ac6bd22fd7d89bb60e5dfc18bca35b536c0346e1f58ce39785fa8",
+        "link": "https://www.virustotal.com/gui/file/43e80720e53ac6bd22fd7d89bb60e5dfc18bca35b536c0346e1f58ce39785fa8",
+        "scan_date": 1727308864,
+        "positives": 0,
+        "total": 64,
+        "file_type": "Android",
+        "file_size": 123267,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.drakescans-v1.4.44.apk",
+        "hash": "169f4ddc9edcb0e9fb8d86deba06326a308e87357d983a987380ba4796334082",
+        "link": "https://www.virustotal.com/gui/file/169f4ddc9edcb0e9fb8d86deba06326a308e87357d983a987380ba4796334082",
+        "scan_date": 1727308865,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 120349,
+        "detected_by": {}
     }
 ]
