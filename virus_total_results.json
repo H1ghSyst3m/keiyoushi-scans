@@ -45692,5 +45692,16 @@
         "file_type": "Android",
         "file_size": 120349,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.infernalvoidscans-v1.4.39.apk",
+        "hash": "4c5cf850b707f3ae8cf49b2b665ac698b2e890e56583c7220c32a1e6139ca279",
+        "link": "https://www.virustotal.com/gui/file/4c5cf850b707f3ae8cf49b2b665ac698b2e890e56583c7220c32a1e6139ca279",
+        "scan_date": 1727395203,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 73942,
+        "detected_by": {}
     }
 ]
