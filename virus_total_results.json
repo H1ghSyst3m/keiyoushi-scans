@@ -45703,5 +45703,38 @@
         "file_type": "Android",
         "file_size": 73942,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.mangahere-v1.4.21.apk",
+        "hash": "91e20ea6974269f976fa7fdb77f7fa5a30e61a4f7e89f147c6b01a45256e1239",
+        "link": "https://www.virustotal.com/gui/file/91e20ea6974269f976fa7fdb77f7fa5a30e61a4f7e89f147c6b01a45256e1239",
+        "scan_date": 1727481317,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 79384,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.asurascans-v1.4.41.apk",
+        "hash": "118b7205fafe26ce69bc2166c6d061b9d52295b9df080d5c17601bf4bec322a9",
+        "link": "https://www.virustotal.com/gui/file/118b7205fafe26ce69bc2166c6d061b9d52295b9df080d5c17601bf4bec322a9",
+        "scan_date": 1727481315,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 71472,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-es.inarimanga-v1.4.42.apk",
+        "hash": "4d07c460cf3ebc1613c3a842f867ab368e32fc8eb440161cf99e92806caf7c04",
+        "link": "https://www.virustotal.com/gui/file/4d07c460cf3ebc1613c3a842f867ab368e32fc8eb440161cf99e92806caf7c04",
+        "scan_date": 1727468313,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 77423,
+        "detected_by": {}
     }
 ]
