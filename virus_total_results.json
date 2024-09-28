@@ -45736,5 +45736,82 @@
         "file_type": "Android",
         "file_size": 77423,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-es.taikutsu-v1.4.1.apk",
+        "hash": "0a58d4a494b93ba295819cdc31a248d5405ca00f285fd54ff9d3eee1511e8faf",
+        "link": "https://www.virustotal.com/gui/file/0a58d4a494b93ba295819cdc31a248d5405ca00f285fd54ff9d3eee1511e8faf",
+        "scan_date": 1727481604,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 58827,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-es.senshimanga-v1.4.6.apk",
+        "hash": "2452634e224642c4a42990079a428864abea6371525e2a0eb332fd5a0240f1ef",
+        "link": "https://www.virustotal.com/gui/file/2452634e224642c4a42990079a428864abea6371525e2a0eb332fd5a0240f1ef",
+        "scan_date": 1727481605,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 55839,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-th.manga168-v1.4.31.apk",
+        "hash": "845366a4567e11615e0bc47f4f43a092e0dfcb57c23b0f64812097c66ccc52dc",
+        "link": "https://www.virustotal.com/gui/file/845366a4567e11615e0bc47f4f43a092e0dfcb57c23b0f64812097c66ccc52dc",
+        "scan_date": 1727481606,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 137005,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.mangagalaxy-v1.4.44.apk",
+        "hash": "370212cb165061bef0a3aebcea085aa15088c329a0360a3f15f76d39c2d2d3fe",
+        "link": "https://www.virustotal.com/gui/file/370212cb165061bef0a3aebcea085aa15088c329a0360a3f15f76d39c2d2d3fe",
+        "scan_date": 1727481609,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 57388,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-tr.mangadenizi-v1.4.5.apk",
+        "hash": "41dad11555d68fd8e8527dc7b60e7065c80ab03166aeb4bc0268fbe8b7f15696",
+        "link": "https://www.virustotal.com/gui/file/41dad11555d68fd8e8527dc7b60e7065c80ab03166aeb4bc0268fbe8b7f15696",
+        "scan_date": 1727481663,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 47214,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-es.lectorjpg-v1.4.2.apk",
+        "hash": "09a407d2f9a6a15a03cbc4f9bf85863602854b69269fe11da04421a9a9c7c39d",
+        "link": "https://www.virustotal.com/gui/file/09a407d2f9a6a15a03cbc4f9bf85863602854b69269fe11da04421a9a9c7c39d",
+        "scan_date": 1727481665,
+        "positives": 0,
+        "total": 64,
+        "file_type": "Android",
+        "file_size": 93870,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-th.nekopostco-v1.4.37.apk",
+        "hash": "b43ca2210b53f97fa858636013e2657382db39ac75e9ef1a6f27316fae671441",
+        "link": "https://www.virustotal.com/gui/file/b43ca2210b53f97fa858636013e2657382db39ac75e9ef1a6f27316fae671441",
+        "scan_date": 1727481667,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 137065,
+        "detected_by": {}
     }
 ]
