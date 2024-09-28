@@ -45901,5 +45901,27 @@
         "file_type": "Android",
         "file_size": 427323,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-ru.mangapoisk-v1.4.11.apk",
+        "hash": "be5a7b4fa1307480a1c0445be28217f072a8cff112c0567596a5d597a52a94e9",
+        "link": "https://www.virustotal.com/gui/file/be5a7b4fa1307480a1c0445be28217f072a8cff112c0567596a5d597a52a94e9",
+        "scan_date": 1727525537,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 57674,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-es.lectortmo-v1.4.4.apk",
+        "hash": "5566be893bcc688462dc01e13886d6382a816c6444fc5489476353abcac31469",
+        "link": "https://www.virustotal.com/gui/file/5566be893bcc688462dc01e13886d6382a816c6444fc5489476353abcac31469",
+        "scan_date": 1727525539,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 65828,
+        "detected_by": {}
     }
 ]
