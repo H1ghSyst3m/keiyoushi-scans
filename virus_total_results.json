@@ -45934,5 +45934,16 @@
         "file_type": "Android",
         "file_size": 64443,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-zh.manwa-v1.4.7.apk",
+        "hash": "44131f9a50ad4765ca9e5bd1aed31adbc513486399f7e3068eb6296d3f0b2203",
+        "link": "https://www.virustotal.com/gui/file/44131f9a50ad4765ca9e5bd1aed31adbc513486399f7e3068eb6296d3f0b2203",
+        "scan_date": 1727611806,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 68205,
+        "detected_by": {}
     }
 ]
