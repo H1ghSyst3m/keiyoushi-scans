@@ -45923,5 +45923,16 @@
         "file_type": "Android",
         "file_size": 65828,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.readcomiconline-v1.4.28.apk",
+        "hash": "cc499512ec26d5dbcc86e82fb8f0c207d7a9f9caf634e0147d2603adaa82df39",
+        "link": "https://www.virustotal.com/gui/file/cc499512ec26d5dbcc86e82fb8f0c207d7a9f9caf634e0147d2603adaa82df39",
+        "scan_date": 1727568003,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 64443,
+        "detected_by": {}
     }
 ]
