@@ -45945,5 +45945,49 @@
         "file_type": "Android",
         "file_size": 68205,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-es.catharsisworld-v1.4.30.apk",
+        "hash": "3e89b1ce064efbd83094a9d38f37c3f00db1dd11c38ec0e719aa961a90f1ed56",
+        "link": "https://www.virustotal.com/gui/file/3e89b1ce064efbd83094a9d38f37c3f00db1dd11c38ec0e719aa961a90f1ed56",
+        "scan_date": 1727740803,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 109051,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-id.mangatale-v1.4.35.apk",
+        "hash": "34e0d9c6e9ef349df6a857dc0997455c68712af48720fd83c4090c317205ec30",
+        "link": "https://www.virustotal.com/gui/file/34e0d9c6e9ef349df6a857dc0997455c68712af48720fd83c4090c317205ec30",
+        "scan_date": 1727740804,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 62678,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-id.kofiscans-v1.4.30.apk",
+        "hash": "99a1c1f5f2b3c80ea8e4ee5670487adc213fc13579b0dd40dfc6958a5eb10bda",
+        "link": "https://www.virustotal.com/gui/file/99a1c1f5f2b3c80ea8e4ee5670487adc213fc13579b0dd40dfc6958a5eb10bda",
+        "scan_date": 1727740806,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 60507,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.batcave-v1.4.1.apk",
+        "hash": "89c0d9b93d690d58e5fb0bd340a7f73ab386b9d79d2cacdeba2a1c0790af73b2",
+        "link": "https://www.virustotal.com/gui/file/89c0d9b93d690d58e5fb0bd340a7f73ab386b9d79d2cacdeba2a1c0790af73b2",
+        "scan_date": 1727740807,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 48798,
+        "detected_by": {}
     }
 ]
