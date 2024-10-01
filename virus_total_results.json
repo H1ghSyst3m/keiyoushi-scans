@@ -45989,5 +45989,16 @@
         "file_type": "Android",
         "file_size": 48798,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.skymanga-v1.4.30.apk",
+        "hash": "a07fbd8be4fc7212fe44093269e734284ca59913173b90bd0faa02b1ffe1a55d",
+        "link": "https://www.virustotal.com/gui/file/a07fbd8be4fc7212fe44093269e734284ca59913173b90bd0faa02b1ffe1a55d",
+        "scan_date": 1727741468,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 80362,
+        "detected_by": {}
     }
 ]
