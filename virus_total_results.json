@@ -46022,5 +46022,104 @@
         "file_type": "Android",
         "file_size": 102406,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-es.brakeout-v1.4.3.apk",
+        "hash": "b90550245f6aa1e7b77aa1a1bb15bcc69f9c5ba3761ca9f12f21be402a705473",
+        "link": "https://www.virustotal.com/gui/file/b90550245f6aa1e7b77aa1a1bb15bcc69f9c5ba3761ca9f12f21be402a705473",
+        "scan_date": 1728043203,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 67148,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.spyfakku-v1.4.8.apk",
+        "hash": "25097392ed09b572de4cac6792a6526acfab185dd17615da36041bbae4abe03f",
+        "link": "https://www.virustotal.com/gui/file/25097392ed09b572de4cac6792a6526acfab185dd17615da36041bbae4abe03f",
+        "scan_date": 1728043204,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 55463,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.pmscans-v1.4.37.apk",
+        "hash": "1379be9d4100cac4c8896b0468b9e473304937a0d864c8829d8d147eb984764c",
+        "link": "https://www.virustotal.com/gui/file/1379be9d4100cac4c8896b0468b9e473304937a0d864c8829d8d147eb984764c",
+        "scan_date": 1728043206,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 77491,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.holymanga-v1.4.9.apk",
+        "hash": "690c8be7259caa3715bd9d466a5cda85cb38173efda08816285875f4788f6125",
+        "link": "https://www.virustotal.com/gui/file/690c8be7259caa3715bd9d466a5cda85cb38173efda08816285875f4788f6125",
+        "scan_date": 1728043207,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 54747,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-vi.ungtycomics-v1.4.2.apk",
+        "hash": "cde922beb79b805a2ef924af09a6d295e81782bbb13efbb778d0c34963c812a5",
+        "link": "https://www.virustotal.com/gui/file/cde922beb79b805a2ef924af09a6d295e81782bbb13efbb778d0c34963c812a5",
+        "scan_date": 1728043263,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 45514,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.theblank-v1.4.38.apk",
+        "hash": "ec6701624cec2924da7b952acdbe1365dbe635b279b2a657cf99d87c2e07a627",
+        "link": "https://www.virustotal.com/gui/file/ec6701624cec2924da7b952acdbe1365dbe635b279b2a657cf99d87c2e07a627",
+        "scan_date": 1728043265,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 98371,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-vi.umetruyen-v1.4.3.apk",
+        "hash": "4bcd1a1840e1b953c954c41dbebb347a1483f86e80b41ca5a57e45dd70e6a93f",
+        "link": "https://www.virustotal.com/gui/file/4bcd1a1840e1b953c954c41dbebb347a1483f86e80b41ca5a57e45dd70e6a93f",
+        "scan_date": 1728043266,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 40150,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-es.nekoscans-v1.4.32.apk",
+        "hash": "685296ce7aa3e60d26dc6db7458dc4848aa4f33d44c1ce2bb9d6929d65079b2b",
+        "link": "https://www.virustotal.com/gui/file/685296ce7aa3e60d26dc6db7458dc4848aa4f33d44c1ce2bb9d6929d65079b2b",
+        "scan_date": 1728043267,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 98216,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-es.ikigaimangas-v1.4.18.apk",
+        "hash": "c0699195dd4f7efe4dfbf2dedb3a181644a852128b01fa40a1d79d94bbaca171",
+        "link": "https://www.virustotal.com/gui/file/c0699195dd4f7efe4dfbf2dedb3a181644a852128b01fa40a1d79d94bbaca171",
+        "scan_date": 1728043323,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 68674,
+        "detected_by": {}
     }
 ]
