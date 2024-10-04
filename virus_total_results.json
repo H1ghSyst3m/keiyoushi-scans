@@ -46000,5 +46000,27 @@
         "file_type": "Android",
         "file_size": 80362,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-id.masterkomik-v1.4.35.apk",
+        "hash": "c30f1dc7199659e80f95660661eaecafd6cea7de93269ba9df6b7c1410d54b9b",
+        "link": "https://www.virustotal.com/gui/file/c30f1dc7199659e80f95660661eaecafd6cea7de93269ba9df6b7c1410d54b9b",
+        "scan_date": 1727986491,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 92611,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.resetscans-v1.4.42.apk",
+        "hash": "6956c9ae4d74986108067d7280a8d3990aa56aa7512118a27ff14502911e647b",
+        "link": "https://www.virustotal.com/gui/file/6956c9ae4d74986108067d7280a8d3990aa56aa7512118a27ff14502911e647b",
+        "scan_date": 1727986478,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 102406,
+        "detected_by": {}
     }
 ]
