@@ -46143,5 +46143,16 @@
         "file_type": "Android",
         "file_size": 122194,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-zh.komiic-v1.4.1.apk",
+        "hash": "0669610d3687022f9b7b3f1836119679a5ad5ee90c1f8d8f64107a7478f37623",
+        "link": "https://www.virustotal.com/gui/file/0669610d3687022f9b7b3f1836119679a5ad5ee90c1f8d8f64107a7478f37623",
+        "scan_date": 1728130210,
+        "positives": 0,
+        "total": 64,
+        "file_type": "Android",
+        "file_size": 75641,
+        "detected_by": {}
     }
 ]
