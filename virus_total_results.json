@@ -46121,5 +46121,27 @@
         "file_type": "Android",
         "file_size": 68674,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-pt.yushukemangas-v1.4.1.apk",
+        "hash": "357a34249b32d5253fce53414090dfde182306f04dd54bdd1fa0727206089707",
+        "link": "https://www.virustotal.com/gui/file/357a34249b32d5253fce53414090dfde182306f04dd54bdd1fa0727206089707",
+        "scan_date": 1728129603,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 71585,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-ar.manganoon-v1.4.37.apk",
+        "hash": "1038edeb7e48be6200cf5bca7c932e040d8f346dafaf1a9adc1228aecc7e6a0e",
+        "link": "https://www.virustotal.com/gui/file/1038edeb7e48be6200cf5bca7c932e040d8f346dafaf1a9adc1228aecc7e6a0e",
+        "scan_date": 1728129605,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 122194,
+        "detected_by": {}
     }
 ]
