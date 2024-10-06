@@ -46154,5 +46154,49 @@
         "file_type": "Android",
         "file_size": 75641,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-id.soulscans-v1.4.32.apk",
+        "hash": "ce4560fe5551cda48ddf906f839a9aa637398a3afbdedfb627fc7bf3f8173fb5",
+        "link": "https://www.virustotal.com/gui/file/ce4560fe5551cda48ddf906f839a9aa637398a3afbdedfb627fc7bf3f8173fb5",
+        "scan_date": 1728216004,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 95971,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-vi.teamlanhlung-v1.4.13.apk",
+        "hash": "d0eb816a4d24b06dd8f5f61eb86a6ef38be3743d390067aee587254b04f57671",
+        "link": "https://www.virustotal.com/gui/file/d0eb816a4d24b06dd8f5f61eb86a6ef38be3743d390067aee587254b04f57671",
+        "scan_date": 1728216005,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 62052,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-ar.areamanga-v1.4.31.apk",
+        "hash": "99ea60469447ecc018038e6fb67ebf97aa8bf76177581d8002a12c0f19321285",
+        "link": "https://www.virustotal.com/gui/file/99ea60469447ecc018038e6fb67ebf97aa8bf76177581d8002a12c0f19321285",
+        "scan_date": 1728216007,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 74547,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-all.batoto-v1.4.41.apk",
+        "hash": "280fb28ba39d79e4ccaa8b4940289620f7e60d84b793e399904593a54ff42377",
+        "link": "https://www.virustotal.com/gui/file/280fb28ba39d79e4ccaa8b4940289620f7e60d84b793e399904593a54ff42377",
+        "scan_date": 1728216063,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 70121,
+        "detected_by": {}
     }
 ]
