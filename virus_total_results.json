@@ -46341,5 +46341,38 @@
         "file_type": "Android",
         "file_size": 108281,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.infernalvoidscans-v1.4.40.apk",
+        "hash": "841eeb2239ccdaf65a9a2f6eecb676405448f33490267133989d174e96233816",
+        "link": "https://www.virustotal.com/gui/file/841eeb2239ccdaf65a9a2f6eecb676405448f33490267133989d174e96233816",
+        "scan_date": 1728432003,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 73910,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.spyfakku-v1.4.9.apk",
+        "hash": "070acaa85ac2f0725b3803c3cda1641639b5e71c84f4ccefc051ffc83b7fe7ca",
+        "link": "https://www.virustotal.com/gui/file/070acaa85ac2f0725b3803c3cda1641639b5e71c84f4ccefc051ffc83b7fe7ca",
+        "scan_date": 1728432004,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 55798,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.mangademon-v1.4.15.apk",
+        "hash": "959a543e2a36b8b9d5b66d5e6bf24a485334e82a5a3090b145ee0551ce96637b",
+        "link": "https://www.virustotal.com/gui/file/959a543e2a36b8b9d5b66d5e6bf24a485334e82a5a3090b145ee0551ce96637b",
+        "scan_date": 1728432006,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 56867,
+        "detected_by": {}
     }
 ]
