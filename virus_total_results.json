@@ -46495,5 +46495,27 @@
         "file_type": "Android",
         "file_size": 113291,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.flamecomics-v1.4.34.apk",
+        "hash": "86417094f1743f12ad91279ac5460349f1f416c1c2455d37822f16dd527e9ad9",
+        "link": "https://www.virustotal.com/gui/file/86417094f1743f12ad91279ac5460349f1f416c1c2455d37822f16dd527e9ad9",
+        "scan_date": 1728734403,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 80051,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-zh.manwa-v1.4.8.apk",
+        "hash": "ff60b58f308b9042e9cb388491141d1db2a8ab11ca48fc130c193bd9baff6d27",
+        "link": "https://www.virustotal.com/gui/file/ff60b58f308b9042e9cb388491141d1db2a8ab11ca48fc130c193bd9baff6d27",
+        "scan_date": 1728734404,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 68037,
+        "detected_by": {}
     }
 ]
