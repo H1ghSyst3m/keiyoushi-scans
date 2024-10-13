@@ -46517,5 +46517,71 @@
         "file_type": "Android",
         "file_size": 68037,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-pt.brmangastop-v1.4.36.apk",
+        "hash": "bba0989d0278946889c425e4cb5d08b228e3be4ac3e6a91f53ff9e8b5ebefabc",
+        "link": "https://www.virustotal.com/gui/file/bba0989d0278946889c425e4cb5d08b228e3be4ac3e6a91f53ff9e8b5ebefabc",
+        "scan_date": 1728820803,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 64624,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-ja.magcomi-v1.4.6.apk",
+        "hash": "b944c402f96f6bf0652d1b5e83ab9c95152f59421d809b9087b519768c8536e2",
+        "link": "https://www.virustotal.com/gui/file/b944c402f96f6bf0652d1b5e83ab9c95152f59421d809b9087b519768c8536e2",
+        "scan_date": 1728820805,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 53986,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-zh.baozimhorg-v1.4.32.apk",
+        "hash": "3d532598e682e45c7eb7a64291ffce54c8d86e56f04ce1f929f22dc4f7b5cf56",
+        "link": "https://www.virustotal.com/gui/file/3d532598e682e45c7eb7a64291ffce54c8d86e56f04ce1f929f22dc4f7b5cf56",
+        "scan_date": 1728820806,
+        "positives": 0,
+        "total": 62,
+        "file_type": "Android",
+        "file_size": 50370,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-pt.huntersscans-v1.4.41.apk",
+        "hash": "510154f47457811abe131d3c936db637c0a5be1c0b91d68c9ae7bc53ab7e359f",
+        "link": "https://www.virustotal.com/gui/file/510154f47457811abe131d3c936db637c0a5be1c0b91d68c9ae7bc53ab7e359f",
+        "scan_date": 1728820807,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 100024,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.rezoscans-v1.4.7.apk",
+        "hash": "40ffc6f81ada838f3f87f53bfcedb51da25f6115be279d11328a367a307ac3c9",
+        "link": "https://www.virustotal.com/gui/file/40ffc6f81ada838f3f87f53bfcedb51da25f6115be279d11328a367a307ac3c9",
+        "scan_date": 1728820863,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 59857,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-zh.zaimanhua-v1.4.2.apk",
+        "hash": "a73380c9d24dd153ffbd1e1fe4bc759dc6c2d96fb7da88dc531671ffde4a6a22",
+        "link": "https://www.virustotal.com/gui/file/a73380c9d24dd153ffbd1e1fe4bc759dc6c2d96fb7da88dc531671ffde4a6a22",
+        "scan_date": 1728820865,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 55424,
+        "detected_by": {}
     }
 ]
