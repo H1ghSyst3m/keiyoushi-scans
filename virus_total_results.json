@@ -46704,5 +46704,60 @@
         "file_type": "Android",
         "file_size": 120157,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-vi.blogtruyenvn-v1.4.3.apk",
+        "hash": "bc2da77f38ce991369adac0dae97038d18ccfa8dcc40084d6e8586d4ac032548",
+        "link": "https://www.virustotal.com/gui/file/bc2da77f38ce991369adac0dae97038d18ccfa8dcc40084d6e8586d4ac032548",
+        "scan_date": 1728993603,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 42364,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-vi.blogtruyen-v1.4.20.apk",
+        "hash": "71cc9363d8e689d89a30b5ae52ebbe23c31feac6ae8b921e81e52bc8f5c9c3e6",
+        "link": "https://www.virustotal.com/gui/file/71cc9363d8e689d89a30b5ae52ebbe23c31feac6ae8b921e81e52bc8f5c9c3e6",
+        "scan_date": 1728993605,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 66909,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-es.koinoboriscan-v1.4.38.apk",
+        "hash": "3b63927a7a680699a9017aa2f7e8be5ca60717990e8e32fe6aa97201938f2f64",
+        "link": "https://www.virustotal.com/gui/file/3b63927a7a680699a9017aa2f7e8be5ca60717990e8e32fe6aa97201938f2f64",
+        "scan_date": 1728993606,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 79438,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-pt.diskusscan-v1.4.43.apk",
+        "hash": "fd7efac5758a87f8190572d8b4f7027ea1f3a8fbcb030c8884ae4d240656ad77",
+        "link": "https://www.virustotal.com/gui/file/fd7efac5758a87f8190572d8b4f7027ea1f3a8fbcb030c8884ae4d240656ad77",
+        "scan_date": 1728993607,
+        "positives": 0,
+        "total": 62,
+        "file_type": "Android",
+        "file_size": 77171,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-pt.hikariganai-v1.4.37.apk",
+        "hash": "27edf14491ffc5403ec438cfebed00d0952f1852c5bbf02973fab5893a7dd2c3",
+        "link": "https://www.virustotal.com/gui/file/27edf14491ffc5403ec438cfebed00d0952f1852c5bbf02973fab5893a7dd2c3",
+        "scan_date": 1728993663,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 114703,
+        "detected_by": {}
     }
 ]
