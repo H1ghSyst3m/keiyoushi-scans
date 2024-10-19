@@ -46814,5 +46814,38 @@
         "file_type": "Android",
         "file_size": 37084,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-pt.fenixmanhwas-v1.4.9.apk",
+        "hash": "52dabb8754394e68b2736c15645c906ea8a28e1a8860064c9bc68167df00e991",
+        "link": "https://www.virustotal.com/gui/file/52dabb8754394e68b2736c15645c906ea8a28e1a8860064c9bc68167df00e991",
+        "scan_date": 1729296004,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 100206,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-es.inarimanga-v1.4.43.apk",
+        "hash": "cc7feefabe251246b76bcaa858df211c0e4ca80b6ca7ed2d54d65e57a5bfeee8",
+        "link": "https://www.virustotal.com/gui/file/cc7feefabe251246b76bcaa858df211c0e4ca80b6ca7ed2d54d65e57a5bfeee8",
+        "scan_date": 1729296005,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 72906,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-id.tukangkomik-v1.4.32.apk",
+        "hash": "4e09f3f69de7169052ced51753ff2349a5429ebb91bed61ca1269358694a9d1e",
+        "link": "https://www.virustotal.com/gui/file/4e09f3f69de7169052ced51753ff2349a5429ebb91bed61ca1269358694a9d1e",
+        "scan_date": 1729296006,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 67386,
+        "detected_by": {}
     }
 ]
