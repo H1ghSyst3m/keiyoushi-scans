@@ -46990,5 +46990,60 @@
         "file_type": "Android",
         "file_size": 80882,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-id.yuramanga-v1.4.37.apk",
+        "hash": "02063cf9d7f8ecb34fd43f5981079211c4480de3a10b920b65eaf4504ba85c1b",
+        "link": "https://www.virustotal.com/gui/file/02063cf9d7f8ecb34fd43f5981079211c4480de3a10b920b65eaf4504ba85c1b",
+        "scan_date": 1729468803,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 31151,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-id.lumoskomik-v1.4.37.apk",
+        "hash": "7a2c6a69c2135f18a7aa2a118934bb8e2e5e72253709f13aa58510442fb4ef31",
+        "link": "https://www.virustotal.com/gui/file/7a2c6a69c2135f18a7aa2a118934bb8e2e5e72253709f13aa58510442fb4ef31",
+        "scan_date": 1729468805,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 128689,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-vi.teamlanhlung-v1.4.14.apk",
+        "hash": "40404a3f2363d32d345a259c23317946eb8a18e35fa566afefe2e73a1432fb3e",
+        "link": "https://www.virustotal.com/gui/file/40404a3f2363d32d345a259c23317946eb8a18e35fa566afefe2e73a1432fb3e",
+        "scan_date": 1729468806,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 62052,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.suryascans-v1.4.36.apk",
+        "hash": "0212a93af2f604ae32f795184dd070a8f038f0254d8914693cbb26772e6d8cc6",
+        "link": "https://www.virustotal.com/gui/file/0212a93af2f604ae32f795184dd070a8f038f0254d8914693cbb26772e6d8cc6",
+        "scan_date": 1729468807,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 67909,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.hentairead-v1.4.44.apk",
+        "hash": "b1209209a24b339820e1a00a23c291660e3b6a822a96925dd92e6e9b5796240a",
+        "link": "https://www.virustotal.com/gui/file/b1209209a24b339820e1a00a23c291660e3b6a822a96925dd92e6e9b5796240a",
+        "scan_date": 1729468864,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 79988,
+        "detected_by": {}
     }
 ]
