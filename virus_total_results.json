@@ -47111,5 +47111,27 @@
         "file_type": "Android",
         "file_size": 76410,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-all.myreadingmanga-v1.4.53.apk",
+        "hash": "ee154574c81c1b8ba99f4784f9ce7bc1c5c0e30e9f127fc5edb1920412fb1f72",
+        "link": "https://www.virustotal.com/gui/file/ee154574c81c1b8ba99f4784f9ce7bc1c5c0e30e9f127fc5edb1920412fb1f72",
+        "scan_date": 1729684803,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 43043,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-pt.hikariscan-v1.4.36.apk",
+        "hash": "a17c8db1fe51a00bfbdc5e960ff75bd1131dec5df3ae6de62550f918e385587a",
+        "link": "https://www.virustotal.com/gui/file/a17c8db1fe51a00bfbdc5e960ff75bd1131dec5df3ae6de62550f918e385587a",
+        "scan_date": 1729684806,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 82093,
+        "detected_by": {}
     }
 ]
