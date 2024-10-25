@@ -47397,5 +47397,49 @@
         "file_type": "Android",
         "file_size": 66568,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.hentaiwebtoon-v1.4.39.apk",
+        "hash": "e4ea5624a8b47d27c101569bce639af4734ddcac0af79bba5d170ffd7ede1b26",
+        "link": "https://www.virustotal.com/gui/file/e4ea5624a8b47d27c101569bce639af4734ddcac0af79bba5d170ffd7ede1b26",
+        "scan_date": 1729857603,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 68343,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-all.comickfun-v1.4.48.apk",
+        "hash": "4919770284cbefb97a3f9778a72ef28595448620808bb08c83f8eb6836e4c59f",
+        "link": "https://www.virustotal.com/gui/file/4919770284cbefb97a3f9778a72ef28595448620808bb08c83f8eb6836e4c59f",
+        "scan_date": 1729857604,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 104119,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.adultwebtoon-v1.4.40.apk",
+        "hash": "abf94690b3e48f352c083dcb58dbd7509831020c7683c2e7b3a2c457cc2ccbbd",
+        "link": "https://www.virustotal.com/gui/file/abf94690b3e48f352c083dcb58dbd7509831020c7683c2e7b3a2c457cc2ccbbd",
+        "scan_date": 1729857606,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 78897,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-fr.reaperscans-v1.4.12.apk",
+        "hash": "205bb401670a26fcb472dabb1d7adda51b7b576574475e29af6f958d7056ff7b",
+        "link": "https://www.virustotal.com/gui/file/205bb401670a26fcb472dabb1d7adda51b7b576574475e29af6f958d7056ff7b",
+        "scan_date": 1729857607,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 64160,
+        "detected_by": {}
     }
 ]
