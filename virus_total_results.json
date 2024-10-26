@@ -47441,5 +47441,49 @@
         "file_type": "Android",
         "file_size": 64160,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-pt.plumacomics-v1.4.36.apk",
+        "hash": "2610e56c331a080df4024a4ae7886d898b3b07bfe7edb9aa666c811c626dcb69",
+        "link": "https://www.virustotal.com/gui/file/2610e56c331a080df4024a4ae7886d898b3b07bfe7edb9aa666c811c626dcb69",
+        "scan_date": 1729900803,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 126203,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.rezoscans-v1.4.9.apk",
+        "hash": "f8623d53c9ccc1368997f2f819f15f198d52508d9708b6c18aa3c69a573c8aba",
+        "link": "https://www.virustotal.com/gui/file/f8623d53c9ccc1368997f2f819f15f198d52508d9708b6c18aa3c69a573c8aba",
+        "scan_date": 1729900805,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 64432,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-vi.lxhentai-v1.4.9.apk",
+        "hash": "01e8fc9664db8eac8e24f1398f1ad77b3bb0c67e257c2111e3cc4b0677e3197f",
+        "link": "https://www.virustotal.com/gui/file/01e8fc9664db8eac8e24f1398f1ad77b3bb0c67e257c2111e3cc4b0677e3197f",
+        "scan_date": 1729900806,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 37994,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-es.inmortalscan-v1.4.38.apk",
+        "hash": "75495588ff2daf86399940843c38c8aa2aa1e14722a91ec392aba542478fd01c",
+        "link": "https://www.virustotal.com/gui/file/75495588ff2daf86399940843c38c8aa2aa1e14722a91ec392aba542478fd01c",
+        "scan_date": 1729900807,
+        "positives": 0,
+        "total": 64,
+        "file_type": "Android",
+        "file_size": 72339,
+        "detected_by": {}
     }
 ]
