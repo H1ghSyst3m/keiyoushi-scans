@@ -47485,5 +47485,38 @@
         "file_type": "Android",
         "file_size": 72339,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-es.leermanga-v1.4.36.apk",
+        "hash": "0566d327be1c289ce5a52e3e2965ea6684bf50e2d2a1b11e87b77313fe849b34",
+        "link": "https://www.virustotal.com/gui/file/0566d327be1c289ce5a52e3e2965ea6684bf50e2d2a1b11e87b77313fe849b34",
+        "scan_date": 1730030404,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 64735,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-all.cosplaytele-v1.4.3.apk",
+        "hash": "dce9e17608c886d6990b8563f0ff9faa9c87b11d76d16231ae8de2812164ebe7",
+        "link": "https://www.virustotal.com/gui/file/dce9e17608c886d6990b8563f0ff9faa9c87b11d76d16231ae8de2812164ebe7",
+        "scan_date": 1730030405,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 48942,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.vyvymanga-v1.4.37.apk",
+        "hash": "b9417e898726b8b8128b6f9d583cf3f9de1c0719751104c278900fbe43f59258",
+        "link": "https://www.virustotal.com/gui/file/b9417e898726b8b8128b6f9d583cf3f9de1c0719751104c278900fbe43f59258",
+        "scan_date": 1730030407,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 47776,
+        "detected_by": {}
     }
 ]
