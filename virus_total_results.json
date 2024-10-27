@@ -47518,5 +47518,16 @@
         "file_type": "Android",
         "file_size": 47776,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.vyvymangaorg-v1.4.36.apk",
+        "hash": "e30ae6920ffa8d36d54be8ddfd1986d9ae214d1de0a8c554841b7d07761d4c01",
+        "link": "https://www.virustotal.com/gui/file/e30ae6920ffa8d36d54be8ddfd1986d9ae214d1de0a8c554841b7d07761d4c01",
+        "scan_date": 1730031067,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 74558,
+        "detected_by": {}
     }
 ]
