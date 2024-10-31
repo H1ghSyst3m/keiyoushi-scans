@@ -47716,5 +47716,93 @@
         "file_type": "Android",
         "file_size": 113473,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.theblank-v1.4.39.apk",
+        "hash": "d926ecdc59a7ef816dfe174fb3b32890abd8e16f686da335b0cd6f338dda5249",
+        "link": "https://www.virustotal.com/gui/file/d926ecdc59a7ef816dfe174fb3b32890abd8e16f686da335b0cd6f338dda5249",
+        "scan_date": 1730327768,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 98713,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-es.mangaland-v1.4.37.apk",
+        "hash": "3eea515edd2fb8a282791b5f2d299613fba4c99dd7c1441e68b4a0be03324425",
+        "link": "https://www.virustotal.com/gui/file/3eea515edd2fb8a282791b5f2d299613fba4c99dd7c1441e68b4a0be03324425",
+        "scan_date": 1730313353,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 90959,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.leviatanscans-v1.4.52.apk",
+        "hash": "40a4aa9a506e4cbb2633fd41d1b66cc9e2561dae8076346ba62327ba0097c245",
+        "link": "https://www.virustotal.com/gui/file/40a4aa9a506e4cbb2633fd41d1b66cc9e2561dae8076346ba62327ba0097c245",
+        "scan_date": 1730327765,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 80645,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-es.inmortalscan-v1.4.39.apk",
+        "hash": "732b859e29bb56c883ccef5f032957b135e53a6c4ec23f3cdc79f5d0ff8f449b",
+        "link": "https://www.virustotal.com/gui/file/732b859e29bb56c883ccef5f032957b135e53a6c4ec23f3cdc79f5d0ff8f449b",
+        "scan_date": 1730330007,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 72731,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-es.legendsnofansub-v1.4.39.apk",
+        "hash": "3750987c52a806bd3b3ece33c8ddce785f66cdee943bf27a5ee1f5471eda2c48",
+        "link": "https://www.virustotal.com/gui/file/3750987c52a806bd3b3ece33c8ddce785f66cdee943bf27a5ee1f5471eda2c48",
+        "scan_date": 1730330755,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 111702,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-es.haremdekira-v1.4.37.apk",
+        "hash": "6a152f5edd14b846b42721c1824590cdfdc8f494d324b17834b39960e4e674d7",
+        "link": "https://www.virustotal.com/gui/file/6a152f5edd14b846b42721c1824590cdfdc8f494d324b17834b39960e4e674d7",
+        "scan_date": 1730330499,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 79250,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-es.barmanga-v1.4.38.apk",
+        "hash": "26d2b40d03cde65d910bdec72ae816d32f420c06f8fbcf5842fcb40644ab4c7c",
+        "link": "https://www.virustotal.com/gui/file/26d2b40d03cde65d910bdec72ae816d32f420c06f8fbcf5842fcb40644ab4c7c",
+        "scan_date": 1730329984,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 99168,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-es.bokugentranslation-v1.4.38.apk",
+        "hash": "5dc3bbd8c1910417964d776da38529254fa560e281865aa7974345394e9d116f",
+        "link": "https://www.virustotal.com/gui/file/5dc3bbd8c1910417964d776da38529254fa560e281865aa7974345394e9d116f",
+        "scan_date": 1730330327,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 113307,
+        "detected_by": {}
     }
 ]
