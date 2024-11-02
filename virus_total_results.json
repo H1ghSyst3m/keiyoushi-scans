@@ -53359,5 +53359,148 @@
         "file_type": "Android",
         "file_size": 82257,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.ohnomanga-v1.4.37.apk",
+        "hash": "c64709efd4794d1242c11ba85d9f4211c4e2562b35180a05fc3b46503c77c577",
+        "link": "https://www.virustotal.com/gui/file/c64709efd4794d1242c11ba85d9f4211c4e2562b35180a05fc3b46503c77c577",
+        "scan_date": 1730505604,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 78691,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.itsyourrightmanhua-v1.4.39.apk",
+        "hash": "8769c079395851f7deddd537f73371ed855f281f58ebefaca625785ae3d36f75",
+        "link": "https://www.virustotal.com/gui/file/8769c079395851f7deddd537f73371ed855f281f58ebefaca625785ae3d36f75",
+        "scan_date": 1730505606,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 139014,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.manhuaaz-v1.4.37.apk",
+        "hash": "51f7598390e953fdfce854cd38f84b8280179f83a7fd919ba547d240f2a6740c",
+        "link": "https://www.virustotal.com/gui/file/51f7598390e953fdfce854cd38f84b8280179f83a7fd919ba547d240f2a6740c",
+        "scan_date": 1730505608,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 73687,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.manga68-v1.4.38.apk",
+        "hash": "b87eec1607e505d99ce68d9aef576c4b2fea8bfee7f7c2251ce38d7df8f82230",
+        "link": "https://www.virustotal.com/gui/file/b87eec1607e505d99ce68d9aef576c4b2fea8bfee7f7c2251ce38d7df8f82230",
+        "scan_date": 1730505609,
+        "positives": 0,
+        "total": 61,
+        "file_type": "Android",
+        "file_size": 94648,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.hentaixdickgirl-v1.4.37.apk",
+        "hash": "655114832692a4808ce36d70d3336eed32ae5d10fd8a7bbd4f1846bc09d756b1",
+        "link": "https://www.virustotal.com/gui/file/655114832692a4808ce36d70d3336eed32ae5d10fd8a7bbd4f1846bc09d756b1",
+        "scan_date": 1730505663,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 165923,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-th.mangaisekaithai-v1.4.37.apk",
+        "hash": "bdfc07d46deda215bc495cc0a2b5c7c4365453a6e0351afcc54fc007d699c454",
+        "link": "https://www.virustotal.com/gui/file/bdfc07d46deda215bc495cc0a2b5c7c4365453a6e0351afcc54fc007d699c454",
+        "scan_date": 1730505665,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 153627,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-pt.wintersun-v1.4.37.apk",
+        "hash": "a71a97fe5f5adf2e29cd01486f0c506b2adbfa9de342e4f081d12476778640f5",
+        "link": "https://www.virustotal.com/gui/file/a71a97fe5f5adf2e29cd01486f0c506b2adbfa9de342e4f081d12476778640f5",
+        "scan_date": 1730505666,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 87849,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-tr.mindafansub-v1.4.37.apk",
+        "hash": "a3aa53c95119e876736005f6330871754bd388c0ca635e776263c5d5a99c03f6",
+        "link": "https://www.virustotal.com/gui/file/a3aa53c95119e876736005f6330871754bd388c0ca635e776263c5d5a99c03f6",
+        "scan_date": 1730505667,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 165261,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-th.manhuabug-v1.4.37.apk",
+        "hash": "0e609483ad22a9a6ee234184a1afd0b820cecb65dd4c3375b743d6edc2a469f6",
+        "link": "https://www.virustotal.com/gui/file/0e609483ad22a9a6ee234184a1afd0b820cecb65dd4c3375b743d6edc2a469f6",
+        "scan_date": 1730505722,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 130348,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-es.princediciones-v1.4.37.apk",
+        "hash": "2942aedba90520ae7cd77f975b9ec5b893c5aa5849e804eb3be06096e7f6a6da",
+        "link": "https://www.virustotal.com/gui/file/2942aedba90520ae7cd77f975b9ec5b893c5aa5849e804eb3be06096e7f6a6da",
+        "scan_date": 1730505724,
+        "positives": 0,
+        "total": 64,
+        "file_type": "Android",
+        "file_size": 107997,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-es.topcomicporno-v1.4.37.apk",
+        "hash": "c9dfdf6aa741873cc1fdbf3c47df362157a068426a4d8dc06b3aa46135f34a96",
+        "link": "https://www.virustotal.com/gui/file/c9dfdf6aa741873cc1fdbf3c47df362157a068426a4d8dc06b3aa46135f34a96",
+        "scan_date": 1730505725,
+        "positives": 0,
+        "total": 64,
+        "file_type": "Android",
+        "file_size": 110707,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.adultwebtoon-v1.4.41.apk",
+        "hash": "c34607d81bbedf5088000d950d6c7ba96328fc7b440ef4071871eb4d132fce63",
+        "link": "https://www.virustotal.com/gui/file/c34607d81bbedf5088000d950d6c7ba96328fc7b440ef4071871eb4d132fce63",
+        "scan_date": 1730505727,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 79297,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-fr.hentaiorigines-v1.4.37.apk",
+        "hash": "383768483ddc61d7a716627ba34251c02faf4cb71f315085c191c8291fff2f67",
+        "link": "https://www.virustotal.com/gui/file/383768483ddc61d7a716627ba34251c02faf4cb71f315085c191c8291fff2f67",
+        "scan_date": 1730505783,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 123242,
+        "detected_by": {}
     }
 ]
