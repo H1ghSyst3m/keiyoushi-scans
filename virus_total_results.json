@@ -53502,5 +53502,16 @@
         "file_type": "Android",
         "file_size": 123242,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-th.doujinlc-v1.4.37.apk",
+        "hash": "ba787d05ebd2cbe05d958842d732eb3fb9a9a299c8e9202a299a79dd1519b63d",
+        "link": "https://www.virustotal.com/gui/file/ba787d05ebd2cbe05d958842d732eb3fb9a9a299c8e9202a299a79dd1519b63d",
+        "scan_date": 1730507001,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 147600,
+        "detected_by": {}
     }
 ]
