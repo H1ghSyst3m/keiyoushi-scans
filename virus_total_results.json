@@ -53315,5 +53315,49 @@
         "file_type": "Android",
         "file_size": 85477,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-id.sisigelap-v1.4.41.apk",
+        "hash": "3dc74edb67a68dd7adbbb47a7ef1f6d8f968c5bb06e89c6a6c7602ab0ffbe627",
+        "link": "https://www.virustotal.com/gui/file/3dc74edb67a68dd7adbbb47a7ef1f6d8f968c5bb06e89c6a6c7602ab0ffbe627",
+        "scan_date": 1730465279,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 60183,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-es.jeazscans-v1.4.41.apk",
+        "hash": "48b0123ad405698645f8326bf34623a7e0153ffc1818d2aeedb6accd1b5a97bf",
+        "link": "https://www.virustotal.com/gui/file/48b0123ad405698645f8326bf34623a7e0153ffc1818d2aeedb6accd1b5a97bf",
+        "scan_date": 1730330012,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 88019,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.hentai4free-v1.4.37.apk",
+        "hash": "76fe8ded769774beb8a37e67fdcc8f2ec4ed2bb8cb6be225db0528d98efb60dc",
+        "link": "https://www.virustotal.com/gui/file/76fe8ded769774beb8a37e67fdcc8f2ec4ed2bb8cb6be225db0528d98efb60dc",
+        "scan_date": 1730349072,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 71531,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.hm2d-v1.4.39.apk",
+        "hash": "325b2f2c7a0f5553b41e7cdee57134b7bb265dbe8d61266afff240062da5ab4e",
+        "link": "https://www.virustotal.com/gui/file/325b2f2c7a0f5553b41e7cdee57134b7bb265dbe8d61266afff240062da5ab4e",
+        "scan_date": 1730349077,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 82257,
+        "detected_by": {}
     }
 ]
