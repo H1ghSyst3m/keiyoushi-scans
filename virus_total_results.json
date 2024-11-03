@@ -53524,5 +53524,137 @@
         "file_type": "Android",
         "file_size": 104400,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-pt.mangalivre-v1.4.2.apk",
+        "hash": "04d2b6e9fb47be5f624ad070b4097635ccd0f6e1b2f0ffcfd7ea9ee9d12a72fb",
+        "link": "https://www.virustotal.com/gui/file/04d2b6e9fb47be5f624ad070b4097635ccd0f6e1b2f0ffcfd7ea9ee9d12a72fb",
+        "scan_date": 1730635809,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 53313,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-pt.blackscans-v1.4.1.apk",
+        "hash": "581957383db0c6c7a1bdea391da8435845e658775c3c0d8b265d148dc505b6a6",
+        "link": "https://www.virustotal.com/gui/file/581957383db0c6c7a1bdea391da8435845e658775c3c0d8b265d148dc505b6a6",
+        "scan_date": 1730635810,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 46977,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.mangago-v1.4.21.apk",
+        "hash": "9daf2e60c0e978bd6aa66ec9b8171f0396bfdbbae2827f37f6b7a29b2ef72902",
+        "link": "https://www.virustotal.com/gui/file/9daf2e60c0e978bd6aa66ec9b8171f0396bfdbbae2827f37f6b7a29b2ef72902",
+        "scan_date": 1730635811,
+        "positives": 0,
+        "total": 64,
+        "file_type": "Android",
+        "file_size": 71294,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-pt.zettahq-v1.4.1.apk",
+        "hash": "df80e88454c7372494658cf44978f266d947fb409b952b107b0b4cd90c7a4d87",
+        "link": "https://www.virustotal.com/gui/file/df80e88454c7372494658cf44978f266d947fb409b952b107b0b4cd90c7a4d87",
+        "scan_date": 1730635813,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 143865,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-pt.arcticscan-v1.4.37.apk",
+        "hash": "70557ffb53cd6a422b5a8643a43719bcc0ae9656e8b706246f65e6c677029db2",
+        "link": "https://www.virustotal.com/gui/file/70557ffb53cd6a422b5a8643a43719bcc0ae9656e8b706246f65e6c677029db2",
+        "scan_date": 1730635869,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 62864,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-es.foyscan-v1.4.4.apk",
+        "hash": "e8bcc08ccf3ade495d88117d11c394699e6bc1ea173ab70b6717b6bc391953c7",
+        "link": "https://www.virustotal.com/gui/file/e8bcc08ccf3ade495d88117d11c394699e6bc1ea173ab70b6717b6bc391953c7",
+        "scan_date": 1730635870,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 77193,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-pt.silencescan-v1.4.36.apk",
+        "hash": "59aca0ddfc4f027c129547d76aaa6b5a0237502bfbe901b8fcc2305239ab0b33",
+        "link": "https://www.virustotal.com/gui/file/59aca0ddfc4f027c129547d76aaa6b5a0237502bfbe901b8fcc2305239ab0b33",
+        "scan_date": 1730635872,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 73457,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-es.lectorjpg-v1.4.3.apk",
+        "hash": "23b529fadddf9972691d8751f908b691b6ac05623d79d36df2fab9297b491926",
+        "link": "https://www.virustotal.com/gui/file/23b529fadddf9972691d8751f908b691b6ac05623d79d36df2fab9297b491926",
+        "scan_date": 1730635929,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 93964,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-es.mangaesp-v1.4.5.apk",
+        "hash": "af7bb53ece8ec24f4524c5e4be80520b8df0c89227fc3df45f1efaffeddd0119",
+        "link": "https://www.virustotal.com/gui/file/af7bb53ece8ec24f4524c5e4be80520b8df0c89227fc3df45f1efaffeddd0119",
+        "scan_date": 1730635930,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 65124,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-es.templescanesp-v1.4.38.apk",
+        "hash": "c1286c9d3b35dd24ffd43b7330a6e7601b2c2a939857f8cb63bb9f208967db39",
+        "link": "https://www.virustotal.com/gui/file/c1286c9d3b35dd24ffd43b7330a6e7601b2c2a939857f8cb63bb9f208967db39",
+        "scan_date": 1730635932,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 92022,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-es.anonimustls-v1.4.3.apk",
+        "hash": "3c460603fe409027e9bf2c58fb206f1ee4f536cb55bcc5f57fe45c5826809809",
+        "link": "https://www.virustotal.com/gui/file/3c460603fe409027e9bf2c58fb206f1ee4f536cb55bcc5f57fe45c5826809809",
+        "scan_date": 1730635934,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 80436,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-all.eternalmangas-v1.4.4.apk",
+        "hash": "ba904d5f3f6708b32f50a98b8e8ac3c19a19f792a5df7305d60467b13999e43e",
+        "link": "https://www.virustotal.com/gui/file/ba904d5f3f6708b32f50a98b8e8ac3c19a19f792a5df7305d60467b13999e43e",
+        "scan_date": 1730635989,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 114048,
+        "detected_by": {}
     }
 ]
