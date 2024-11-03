@@ -53513,5 +53513,16 @@
         "file_type": "Android",
         "file_size": 147600,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-es.manhwalatino-v1.4.45.apk",
+        "hash": "38d0e28b0fd23307e525692998a2b1bc1f1a3096128534f89837525cc71325ca",
+        "link": "https://www.virustotal.com/gui/file/38d0e28b0fd23307e525692998a2b1bc1f1a3096128534f89837525cc71325ca",
+        "scan_date": 1730635203,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 104400,
+        "detected_by": {}
     }
 ]
