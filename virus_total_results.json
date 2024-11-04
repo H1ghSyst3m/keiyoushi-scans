@@ -53656,5 +53656,16 @@
         "file_type": "Android",
         "file_size": 114048,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-es.traduccionesmoonlight-v1.4.42.apk",
+        "hash": "7f39078226b78dfee88066a73b1d73bd7518141dd6ba5be652b360f72617adb3",
+        "link": "https://www.virustotal.com/gui/file/7f39078226b78dfee88066a73b1d73bd7518141dd6ba5be652b360f72617adb3",
+        "scan_date": 1730636596,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 84371,
+        "detected_by": {}
     }
 ]
