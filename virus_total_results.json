@@ -53667,5 +53667,16 @@
         "file_type": "Android",
         "file_size": 84371,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-all.ehentai-v1.4.22.apk",
+        "hash": "836d74d8f30cb4803ceac9f6d1a2d63082c7a26a208f66959ab71051891abc98",
+        "link": "https://www.virustotal.com/gui/file/836d74d8f30cb4803ceac9f6d1a2d63082c7a26a208f66959ab71051891abc98",
+        "scan_date": 1730730581,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 54380,
+        "detected_by": {}
     }
 ]
