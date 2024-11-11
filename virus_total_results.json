@@ -54030,5 +54030,16 @@
         "file_type": "Android",
         "file_size": 37603,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.harimanga-v1.4.41.apk",
+        "hash": "1db4fff4e314c2d6cc286e4fd11db0756fbf7dc87290d522734008b70e5e3015",
+        "link": "https://www.virustotal.com/gui/file/1db4fff4e314c2d6cc286e4fd11db0756fbf7dc87290d522734008b70e5e3015",
+        "scan_date": 1731320627,
+        "positives": 0,
+        "total": 68,
+        "file_type": "Android",
+        "file_size": 71292,
+        "detected_by": {}
     }
 ]
