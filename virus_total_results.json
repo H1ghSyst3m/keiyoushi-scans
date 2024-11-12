@@ -54195,5 +54195,16 @@
         "file_type": "Android",
         "file_size": 45910,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.arvenscans-v1.4.39.apk",
+        "hash": "76f92bd415f233a0775b2edc0247c74e23b75bb2aed4675f27f9bbf18bce0e3e",
+        "link": "https://www.virustotal.com/gui/file/76f92bd415f233a0775b2edc0247c74e23b75bb2aed4675f27f9bbf18bce0e3e",
+        "scan_date": 1731327194,
+        "positives": 0,
+        "total": 68,
+        "file_type": "Android",
+        "file_size": 126517,
+        "detected_by": {}
     }
 ]
