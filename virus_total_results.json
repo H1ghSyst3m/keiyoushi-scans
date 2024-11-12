@@ -54206,5 +54206,16 @@
         "file_type": "Android",
         "file_size": 126517,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-vi.hentaicube-v1.4.46.apk",
+        "hash": "5496b1610b5df880bc51bfa1c13a648ce233960da2ae622bac736863f68f03f2",
+        "link": "https://www.virustotal.com/gui/file/5496b1610b5df880bc51bfa1c13a648ce233960da2ae622bac736863f68f03f2",
+        "scan_date": 1731369604,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 72456,
+        "detected_by": {}
     }
 ]
