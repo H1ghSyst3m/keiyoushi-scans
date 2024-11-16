@@ -54426,5 +54426,49 @@
         "file_type": "Android",
         "file_size": 71060,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-pt.readmangas-v1.4.30.apk",
+        "hash": "76e1fa1e772d2db69a81797479da64c39fd636334843324ff2b10b2d8f6719cf",
+        "link": "https://www.virustotal.com/gui/file/76e1fa1e772d2db69a81797479da64c39fd636334843324ff2b10b2d8f6719cf",
+        "scan_date": 1731758403,
+        "positives": 0,
+        "total": 69,
+        "file_type": "Android",
+        "file_size": 72395,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-all.everiaclubcom-v1.4.1.apk",
+        "hash": "6df65b910bfc4066bb1a518d5d6894edcfc18ee16ba774f0ba2c319edac0cb0b",
+        "link": "https://www.virustotal.com/gui/file/6df65b910bfc4066bb1a518d5d6894edcfc18ee16ba774f0ba2c319edac0cb0b",
+        "scan_date": 1731758404,
+        "positives": 0,
+        "total": 69,
+        "file_type": "Android",
+        "file_size": 65213,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.roliascan-v1.4.1.apk",
+        "hash": "c9ce52d67ebaaab43bb600dce30ca0c18acf1a65cbf0c7085689ef15af16c64a",
+        "link": "https://www.virustotal.com/gui/file/c9ce52d67ebaaab43bb600dce30ca0c18acf1a65cbf0c7085689ef15af16c64a",
+        "scan_date": 1731758406,
+        "positives": 0,
+        "total": 63,
+        "file_type": "Android",
+        "file_size": 62097,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-id.cosmicscansid-v1.4.37.apk",
+        "hash": "931b74f243828eddfd658c3b3fdb413d0453347e507a6d9ae7f43d94a06d668a",
+        "link": "https://www.virustotal.com/gui/file/931b74f243828eddfd658c3b3fdb413d0453347e507a6d9ae7f43d94a06d668a",
+        "scan_date": 1731758408,
+        "positives": 0,
+        "total": 69,
+        "file_type": "Android",
+        "file_size": 80974,
+        "detected_by": {}
     }
 ]
