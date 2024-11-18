@@ -54481,5 +54481,170 @@
         "file_type": "Android",
         "file_size": 62559,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-ru.rumix-v1.4.27.apk",
+        "hash": "dc6f01ca29a6e9880f014df3612954a4ffbf12fe7deacc4185ae08c8dc8ca3dd",
+        "link": "https://www.virustotal.com/gui/file/dc6f01ca29a6e9880f014df3612954a4ffbf12fe7deacc4185ae08c8dc8ca3dd",
+        "scan_date": 1731888004,
+        "positives": 0,
+        "total": 69,
+        "file_type": "Android",
+        "file_size": 69217,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-ru.seimanga-v1.4.26.apk",
+        "hash": "78046516d9c62b84e2e46609cafd3fc29aaf47b640cf24e1fa062d7e28facf80",
+        "link": "https://www.virustotal.com/gui/file/78046516d9c62b84e2e46609cafd3fc29aaf47b640cf24e1fa062d7e28facf80",
+        "scan_date": 1731888005,
+        "positives": 0,
+        "total": 69,
+        "file_type": "Android",
+        "file_size": 86267,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.webcomics-v1.4.4.apk",
+        "hash": "94c3c09c9035a32485ee3fd80718deaefc3380a83b9180903cbf1111bf09328c",
+        "link": "https://www.virustotal.com/gui/file/94c3c09c9035a32485ee3fd80718deaefc3380a83b9180903cbf1111bf09328c",
+        "scan_date": 1731888007,
+        "positives": 0,
+        "total": 69,
+        "file_type": "Android",
+        "file_size": 90301,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-ru.allhentai-v1.4.50.apk",
+        "hash": "11a55cd535e2b0f720051f5f51ae812e55409cd30de2e93ac4b8dba2431465e7",
+        "link": "https://www.virustotal.com/gui/file/11a55cd535e2b0f720051f5f51ae812e55409cd30de2e93ac4b8dba2431465e7",
+        "scan_date": 1731888063,
+        "positives": 0,
+        "total": 68,
+        "file_type": "Android",
+        "file_size": 59143,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-ru.readmanga-v1.4.72.apk",
+        "hash": "da7869578dcdf9f46df1fe3892722c8be8a26422260b811a50a721d73346d4eb",
+        "link": "https://www.virustotal.com/gui/file/da7869578dcdf9f46df1fe3892722c8be8a26422260b811a50a721d73346d4eb",
+        "scan_date": 1731888065,
+        "positives": 0,
+        "total": 69,
+        "file_type": "Android",
+        "file_size": 93175,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.animatedglitchedcomics-v1.4.31.apk",
+        "hash": "3e32d9927271467c7318cea843b43b2d46569fd1c42312f09c700335164ca222",
+        "link": "https://www.virustotal.com/gui/file/3e32d9927271467c7318cea843b43b2d46569fd1c42312f09c700335164ca222",
+        "scan_date": 1731888066,
+        "positives": 0,
+        "total": 68,
+        "file_type": "Android",
+        "file_size": 90069,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.manhwa18-v1.4.12.apk",
+        "hash": "b2e7c0187e30c0665e941f9de81c7103b77f53bb1dea25d77f5eca9ff03cb86f",
+        "link": "https://www.virustotal.com/gui/file/b2e7c0187e30c0665e941f9de81c7103b77f53bb1dea25d77f5eca9ff03cb86f",
+        "scan_date": 1731888067,
+        "positives": 0,
+        "total": 69,
+        "file_type": "Android",
+        "file_size": 93116,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-id.mangkomik-v1.4.34.apk",
+        "hash": "8558a077ac2f70d13e23e4ddf944169194b2ec950b1df7a4d12e643397bb9b63",
+        "link": "https://www.virustotal.com/gui/file/8558a077ac2f70d13e23e4ddf944169194b2ec950b1df7a4d12e643397bb9b63",
+        "scan_date": 1731888123,
+        "positives": 0,
+        "total": 68,
+        "file_type": "Android",
+        "file_size": 85880,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-pt.slimeread-v1.4.14.apk",
+        "hash": "dca8a3de105aceb38cd783d5cb851b5d65b988605f24dee6acf2b9961b069ee3",
+        "link": "https://www.virustotal.com/gui/file/dca8a3de105aceb38cd783d5cb851b5d65b988605f24dee6acf2b9961b069ee3",
+        "scan_date": 1731888125,
+        "positives": 0,
+        "total": 69,
+        "file_type": "Android",
+        "file_size": 70221,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-all.koharu-v1.4.11.apk",
+        "hash": "569a0a6c6ac60d6196b5e9d49e833237b7f5cb69539cfaead199f2f4630b5474",
+        "link": "https://www.virustotal.com/gui/file/569a0a6c6ac60d6196b5e9d49e833237b7f5cb69539cfaead199f2f4630b5474",
+        "scan_date": 1731888126,
+        "positives": 0,
+        "total": 68,
+        "file_type": "Android",
+        "file_size": 54762,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-ru.selfmanga-v1.4.48.apk",
+        "hash": "7362fd82bc38e7f89b76d80aadf31de760787f4f6e5573fc06c1347c91c49dcb",
+        "link": "https://www.virustotal.com/gui/file/7362fd82bc38e7f89b76d80aadf31de760787f4f6e5573fc06c1347c91c49dcb",
+        "scan_date": 1731888128,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 82472,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-vi.nhattruyens-v1.4.8.apk",
+        "hash": "a594ec1e9bd566cf36166c35c25e2c18c3dd2d638acea618c532f7d064d22187",
+        "link": "https://www.virustotal.com/gui/file/a594ec1e9bd566cf36166c35c25e2c18c3dd2d638acea618c532f7d064d22187",
+        "scan_date": 1731888183,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 44011,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-vi.hentaivnplus-v1.4.41.apk",
+        "hash": "39c46cc6a7dc7879b43f0656640000c1df3dacb284b292b87d0baa7834c16231",
+        "link": "https://www.virustotal.com/gui/file/39c46cc6a7dc7879b43f0656640000c1df3dacb284b292b87d0baa7834c16231",
+        "scan_date": 1731888185,
+        "positives": 0,
+        "total": 69,
+        "file_type": "Android",
+        "file_size": 123624,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-ru.mintmanga-v1.4.72.apk",
+        "hash": "6666587b973faafaa50e1b570b6bd3e22bde66a09daaeb5a78aeec049d793763",
+        "link": "https://www.virustotal.com/gui/file/6666587b973faafaa50e1b570b6bd3e22bde66a09daaeb5a78aeec049d793763",
+        "scan_date": 1731888186,
+        "positives": 0,
+        "total": 68,
+        "file_type": "Android",
+        "file_size": 94145,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-ru.usagi-v1.4.26.apk",
+        "hash": "50f25c79c69d0275e31f11402f9a6464546a33f1d46b91e7511bbc709525b7e6",
+        "link": "https://www.virustotal.com/gui/file/50f25c79c69d0275e31f11402f9a6464546a33f1d46b91e7511bbc709525b7e6",
+        "scan_date": 1731888188,
+        "positives": 0,
+        "total": 68,
+        "file_type": "Android",
+        "file_size": 109622,
+        "detected_by": {}
     }
 ]
