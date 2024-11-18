@@ -54646,5 +54646,16 @@
         "file_type": "Android",
         "file_size": 109622,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-vi.vlogtruyen-v1.4.2.apk",
+        "hash": "dca50ffedd18c17753fd487d6095c3d72ce1fc7611c9c81d582ed3433be3800a",
+        "link": "https://www.virustotal.com/gui/file/dca50ffedd18c17753fd487d6095c3d72ce1fc7611c9c81d582ed3433be3800a",
+        "scan_date": 1731888848,
+        "positives": 0,
+        "total": 69,
+        "file_type": "Android",
+        "file_size": 71544,
+        "detected_by": {}
     }
 ]
