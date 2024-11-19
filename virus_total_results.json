@@ -54802,5 +54802,38 @@
         "file_type": "Android",
         "file_size": 73380,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-all.mangaplus-v1.4.53.apk",
+        "hash": "adf7d71edcb9d98d1f2679f97b746432c5afdc5795eb789cc11723fa0422faee",
+        "link": "https://www.virustotal.com/gui/file/adf7d71edcb9d98d1f2679f97b746432c5afdc5795eb789cc11723fa0422faee",
+        "scan_date": 1732017607,
+        "positives": 0,
+        "total": 68,
+        "file_type": "Android",
+        "file_size": 99549,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-zh.happymh-v1.4.13.apk",
+        "hash": "2b5f1d547295ca4fc3a29089032bbec137711ba4399c086839d168929de48153",
+        "link": "https://www.virustotal.com/gui/file/2b5f1d547295ca4fc3a29089032bbec137711ba4399c086839d168929de48153",
+        "scan_date": 1732017609,
+        "positives": 0,
+        "total": 68,
+        "file_type": "Android",
+        "file_size": 52174,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-pt.randomscan-v1.4.55.apk",
+        "hash": "b53dd71ee16791a13634f43ac41f9700da0f75f380c99146a211042571e53e5d",
+        "link": "https://www.virustotal.com/gui/file/b53dd71ee16791a13634f43ac41f9700da0f75f380c99146a211042571e53e5d",
+        "scan_date": 1732017610,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 82373,
+        "detected_by": {}
     }
 ]
