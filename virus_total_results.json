@@ -54780,5 +54780,16 @@
         "file_type": "Android",
         "file_size": 137561,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.mangago-v1.4.22.apk",
+        "hash": "935c430746b422151052499712448da420a08fe41f4b0ce2f24dcaf8193fce15",
+        "link": "https://www.virustotal.com/gui/file/935c430746b422151052499712448da420a08fe41f4b0ce2f24dcaf8193fce15",
+        "scan_date": 1731975133,
+        "positives": 0,
+        "total": 68,
+        "file_type": "Android",
+        "file_size": 71307,
+        "detected_by": {}
     }
 ]
