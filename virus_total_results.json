@@ -55077,5 +55077,38 @@
         "file_type": "Android",
         "file_size": 67493,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.philiascans-v1.4.5.apk",
+        "hash": "dca19971688d81f141a84993d01cc4936c663aea57d0d109c21dca3f7f24ae01",
+        "link": "https://www.virustotal.com/gui/file/dca19971688d81f141a84993d01cc4936c663aea57d0d109c21dca3f7f24ae01",
+        "scan_date": 1732363204,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 112995,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.cocomic-v1.4.38.apk",
+        "hash": "2eb678ccf54a020367ff65f4d4089e055d0ed201063328a01820f68fd2f81c4f",
+        "link": "https://www.virustotal.com/gui/file/2eb678ccf54a020367ff65f4d4089e055d0ed201063328a01820f68fd2f81c4f",
+        "scan_date": 1732363207,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 83955,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-es.lmtoonline-v1.4.38.apk",
+        "hash": "b21fd4fe653a4185e94b598ee6f30a0348aeba2a3507a81d968ecee586b3c822",
+        "link": "https://www.virustotal.com/gui/file/b21fd4fe653a4185e94b598ee6f30a0348aeba2a3507a81d968ecee586b3c822",
+        "scan_date": 1732363210,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 81281,
+        "detected_by": {}
     }
 ]
