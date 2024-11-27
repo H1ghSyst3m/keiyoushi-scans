@@ -55110,5 +55110,49 @@
         "file_type": "Android",
         "file_size": 81281,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-es.olympusscanlation-v1.4.11.apk",
+        "hash": "e7d0af2e6eadbefe076c2c3a4972b60582d45ba73468068ab5dad3f532726344",
+        "link": "https://www.virustotal.com/gui/file/e7d0af2e6eadbefe076c2c3a4972b60582d45ba73468068ab5dad3f532726344",
+        "scan_date": 1732666206,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 92720,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-pt.slimeread-v1.4.15.apk",
+        "hash": "6dc1e5f0c72e4253e9b6770cd60b2c730b5f4441e41abb788b03848f3cf66354",
+        "link": "https://www.virustotal.com/gui/file/6dc1e5f0c72e4253e9b6770cd60b2c730b5f4441e41abb788b03848f3cf66354",
+        "scan_date": 1732666207,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 70221,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-tr.yaoimangaoku-v1.4.38.apk",
+        "hash": "fe348772c6465823211e34db107f0a9f4bd0935f415123443a4ee4ea35f5c68a",
+        "link": "https://www.virustotal.com/gui/file/fe348772c6465823211e34db107f0a9f4bd0935f415123443a4ee4ea35f5c68a",
+        "scan_date": 1732666209,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 115709,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-tr.mangabari-v1.4.37.apk",
+        "hash": "1f2f5a71af00ac27c72c2e7fc955ab4386677c0d1fe1ff78a8f1cd2af8c96093",
+        "link": "https://www.virustotal.com/gui/file/1f2f5a71af00ac27c72c2e7fc955ab4386677c0d1fe1ff78a8f1cd2af8c96093",
+        "scan_date": 1732666211,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 118748,
+        "detected_by": {}
     }
 ]
