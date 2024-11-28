@@ -55154,5 +55154,93 @@
         "file_type": "Android",
         "file_size": 118748,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-vi.toptruyen-v1.4.9.apk",
+        "hash": "920fd900600315cd7348fcd8aa5d1fed226b777e37cbb193146703e58056a464",
+        "link": "https://www.virustotal.com/gui/file/920fd900600315cd7348fcd8aa5d1fed226b777e37cbb193146703e58056a464",
+        "scan_date": 1732752004,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 65796,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-vi.truyengg-v1.4.3.apk",
+        "hash": "c6a321f5aa5c3a1118af7b849fab1eef868274f5bc21c620c626e02443ec20b0",
+        "link": "https://www.virustotal.com/gui/file/c6a321f5aa5c3a1118af7b849fab1eef868274f5bc21c620c626e02443ec20b0",
+        "scan_date": 1732752005,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 70610,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-id.komikcast-v1.4.61.apk",
+        "hash": "227df4ec075942f83356c06cbf015c38b5f7df8ddacc1c524dcd856b35097977",
+        "link": "https://www.virustotal.com/gui/file/227df4ec075942f83356c06cbf015c38b5f7df8ddacc1c524dcd856b35097977",
+        "scan_date": 1732752008,
+        "positives": 0,
+        "total": 64,
+        "file_type": "Android",
+        "file_size": 127491,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.hentaidex-v1.4.31.apk",
+        "hash": "03621ef13edfb618140fb757cefffe79663886192cd362ab1f84b5db6b975b88",
+        "link": "https://www.virustotal.com/gui/file/03621ef13edfb618140fb757cefffe79663886192cd362ab1f84b5db6b975b88",
+        "scan_date": 1732752065,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 69670,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-ja.raw18-v1.4.6.apk",
+        "hash": "00be108c6a2ec6de7f1a4336005a447900be8ff3c7b9ec187b0ca1c150077acd",
+        "link": "https://www.virustotal.com/gui/file/00be108c6a2ec6de7f1a4336005a447900be8ff3c7b9ec187b0ca1c150077acd",
+        "scan_date": 1732752066,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 71747,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-id.kiryuu-v1.4.39.apk",
+        "hash": "e2605c6db8ca38325f6d34ed07fdbc65d55e3352cfc6992c2193522025a5e013",
+        "link": "https://www.virustotal.com/gui/file/e2605c6db8ca38325f6d34ed07fdbc65d55e3352cfc6992c2193522025a5e013",
+        "scan_date": 1732752067,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 79082,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-vi.truyenqq-v1.4.16.apk",
+        "hash": "c4edaa01723a0b00f29ffcb177ef0bf4bd02f887a238b29a87a48ddc3318f296",
+        "link": "https://www.virustotal.com/gui/file/c4edaa01723a0b00f29ffcb177ef0bf4bd02f887a238b29a87a48ddc3318f296",
+        "scan_date": 1732752123,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 52873,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-es.manhwases-v1.4.37.apk",
+        "hash": "b4ea7a7246d34136376b62732b8c0a8835d16bdde3e1302aff452db923f576ab",
+        "link": "https://www.virustotal.com/gui/file/b4ea7a7246d34136376b62732b8c0a8835d16bdde3e1302aff452db923f576ab",
+        "scan_date": 1732752125,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 76466,
+        "detected_by": {}
     }
 ]
