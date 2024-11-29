@@ -55319,5 +55319,38 @@
         "file_type": "Android",
         "file_size": 120976,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-id.yuramanga-v1.4.39.apk",
+        "hash": "06ceaaf23f9c18ae9103a04ce5a8897e3f09872d71599cec5f350c24d471aa7b",
+        "link": "https://www.virustotal.com/gui/file/06ceaaf23f9c18ae9103a04ce5a8897e3f09872d71599cec5f350c24d471aa7b",
+        "scan_date": 1732881605,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 31934,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.flamecomics-v1.4.36.apk",
+        "hash": "04680448ab939949778c43c9d22f0f733d158cd1d13be40ce42b929a74f659a5",
+        "link": "https://www.virustotal.com/gui/file/04680448ab939949778c43c9d22f0f733d158cd1d13be40ce42b929a74f659a5",
+        "scan_date": 1732881607,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 71132,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.weebcentral-v1.4.6.apk",
+        "hash": "3a0f63e784075a7b2221b34f79ea181f5409df3a3acdf8933d2c41378d210dca",
+        "link": "https://www.virustotal.com/gui/file/3a0f63e784075a7b2221b34f79ea181f5409df3a3acdf8933d2c41378d210dca",
+        "scan_date": 1732881608,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 67564,
+        "detected_by": {}
     }
 ]
