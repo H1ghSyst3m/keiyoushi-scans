@@ -55242,5 +55242,27 @@
         "file_type": "Android",
         "file_size": 76466,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-zh.happymh-v1.4.14.apk",
+        "hash": "10f9514ae870d6ebee22d14ac1da97cb079bc21e5fa90e67287f681eb80b0344",
+        "link": "https://www.virustotal.com/gui/file/10f9514ae870d6ebee22d14ac1da97cb079bc21e5fa90e67287f681eb80b0344",
+        "scan_date": 1732796411,
+        "positives": 0,
+        "total": 61,
+        "file_type": "Android",
+        "file_size": 52173,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.nineanime-v1.4.5.apk",
+        "hash": "55bf8c2bcd207cf4e8672acacedabad8db130ef2acddcada61b836d7c54292aa",
+        "link": "https://www.virustotal.com/gui/file/55bf8c2bcd207cf4e8672acacedabad8db130ef2acddcada61b836d7c54292aa",
+        "scan_date": 1732796412,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 48228,
+        "detected_by": {}
     }
 ]
