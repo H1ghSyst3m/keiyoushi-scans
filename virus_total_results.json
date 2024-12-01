@@ -55374,5 +55374,60 @@
         "file_type": "Android",
         "file_size": 62656,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-all.comickfun-v1.4.50.apk",
+        "hash": "8590a3cfacdd474d2359f0bd351008af5465bfaf3bc80f52d90f702b5e9d11fa",
+        "link": "https://www.virustotal.com/gui/file/8590a3cfacdd474d2359f0bd351008af5465bfaf3bc80f52d90f702b5e9d11fa",
+        "scan_date": 1733006028,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 106421,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-all.kemono-v1.4.15.apk",
+        "hash": "aa8e8fd16801c7db683bc28b6f4873ccaaf658cdbdcfadce2885fd4de6b8773e",
+        "link": "https://www.virustotal.com/gui/file/aa8e8fd16801c7db683bc28b6f4873ccaaf658cdbdcfadce2885fd4de6b8773e",
+        "scan_date": 1733006020,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 67401,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.flamecomics-v1.4.37.apk",
+        "hash": "78d7e1ccae11a92000c03400ea2bf452d70bd88021e649d53d021f532aca6a93",
+        "link": "https://www.virustotal.com/gui/file/78d7e1ccae11a92000c03400ea2bf452d70bd88021e649d53d021f532aca6a93",
+        "scan_date": 1733006022,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 72166,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-all.batoto-v1.4.42.apk",
+        "hash": "e397b5ab451dcc0fef0d9a1e44027a9cbac24c47f08e0eb7da77b05de7d8b92c",
+        "link": "https://www.virustotal.com/gui/file/e397b5ab451dcc0fef0d9a1e44027a9cbac24c47f08e0eb7da77b05de7d8b92c",
+        "scan_date": 1733006032,
+        "positives": 0,
+        "total": 64,
+        "file_type": "Android",
+        "file_size": 70137,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-all.coomer-v1.4.15.apk",
+        "hash": "fe95a86c871ef58ea47d7e69c684b647bd0597969eccc970b2be68ea0b27fc07",
+        "link": "https://www.virustotal.com/gui/file/fe95a86c871ef58ea47d7e69c684b647bd0597969eccc970b2be68ea0b27fc07",
+        "scan_date": 1733006025,
+        "positives": 0,
+        "total": 63,
+        "file_type": "Android",
+        "file_size": 54605,
+        "detected_by": {}
     }
 ]
