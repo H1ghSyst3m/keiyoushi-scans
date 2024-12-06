@@ -55715,5 +55715,16 @@
         "file_type": "Android",
         "file_size": 72465,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-es.tojimangas-v1.4.1.apk",
+        "hash": "3cec6e79f7eef82edce9660d31a5cb18287196c843e030943936a988c29f1873",
+        "link": "https://www.virustotal.com/gui/file/3cec6e79f7eef82edce9660d31a5cb18287196c843e030943936a988c29f1873",
+        "scan_date": 1733444659,
+        "positives": 0,
+        "total": 64,
+        "file_type": "Android",
+        "file_size": 43861,
+        "detected_by": {}
     }
 ]
