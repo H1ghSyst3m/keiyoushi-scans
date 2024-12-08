@@ -55726,5 +55726,104 @@
         "file_type": "Android",
         "file_size": 43861,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-id.klikmanga-v1.4.40.apk",
+        "hash": "55885870fac9ceafe74e4b2b5ef6199d525e6f52cddc47f7e775151ea02dc6e7",
+        "link": "https://www.virustotal.com/gui/file/55885870fac9ceafe74e4b2b5ef6199d525e6f52cddc47f7e775151ea02dc6e7",
+        "scan_date": 1733616003,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 62983,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-id.mgkomik-v1.4.52.apk",
+        "hash": "ab084a1a4a102b95fa50ffb0741994ddc8c9226a0ad053b8c9b0a57c09287ece",
+        "link": "https://www.virustotal.com/gui/file/ab084a1a4a102b95fa50ffb0741994ddc8c9226a0ad053b8c9b0a57c09287ece",
+        "scan_date": 1733616005,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 116647,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-id.birdtoon-v1.4.38.apk",
+        "hash": "69fa44fea1202af69a71904b9395142ee727645d6dd28117ce46c398f3d6a4c3",
+        "link": "https://www.virustotal.com/gui/file/69fa44fea1202af69a71904b9395142ee727645d6dd28117ce46c398f3d6a4c3",
+        "scan_date": 1733616007,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 82544,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-ja.kadocomi-v1.4.1.apk",
+        "hash": "b7a49037bec64c0ed3684efff56ee99be0358cea8f66982d6564d724fa5ea0e3",
+        "link": "https://www.virustotal.com/gui/file/b7a49037bec64c0ed3684efff56ee99be0358cea8f66982d6564d724fa5ea0e3",
+        "scan_date": 1733616008,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 43071,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-tr.mangawt-v1.4.40.apk",
+        "hash": "2702b374bed9c30f52d70722a5d46303c29d607a46447a453ba32ef800ac80c3",
+        "link": "https://www.virustotal.com/gui/file/2702b374bed9c30f52d70722a5d46303c29d607a46447a453ba32ef800ac80c3",
+        "scan_date": 1733616063,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 106074,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-ja.mangakoinu-v1.4.6.apk",
+        "hash": "10b431da534177a13d07456dcfd87e34fb3cf32005cb5b6f74721fe89ee9426d",
+        "link": "https://www.virustotal.com/gui/file/10b431da534177a13d07456dcfd87e34fb3cf32005cb5b6f74721fe89ee9426d",
+        "scan_date": 1733616065,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 85775,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-tr.mangakazani-v1.4.30.apk",
+        "hash": "daf48ba7cf39be09eba6456fd07c65655c2fed6e01b4a4544384b78997590987",
+        "link": "https://www.virustotal.com/gui/file/daf48ba7cf39be09eba6456fd07c65655c2fed6e01b4a4544384b78997590987",
+        "scan_date": 1733616067,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 73617,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-id.komikindoid-v1.4.15.apk",
+        "hash": "3b5d207fced3b5c1181123d51a72156661cb887a1eccca31cee19ee3b5e9ce96",
+        "link": "https://www.virustotal.com/gui/file/3b5d207fced3b5c1181123d51a72156661cb887a1eccca31cee19ee3b5e9ce96",
+        "scan_date": 1733616068,
+        "positives": 0,
+        "total": 62,
+        "file_type": "Android",
+        "file_size": 38814,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-vi.hentaicube-v1.4.48.apk",
+        "hash": "ea2096b1d13cf310d729fb3ae7e35ed5cc2a0d6422623248846e467502411cd6",
+        "link": "https://www.virustotal.com/gui/file/ea2096b1d13cf310d729fb3ae7e35ed5cc2a0d6422623248846e467502411cd6",
+        "scan_date": 1733616123,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 72405,
+        "detected_by": {}
     }
 ]
