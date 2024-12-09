@@ -55825,5 +55825,126 @@
         "file_type": "Android",
         "file_size": 72405,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.manga18x-v1.4.38.apk",
+        "hash": "0aeed1fe03f793249e76a2469bfb79a1e335d2106f4527445af97d2e204499cf",
+        "link": "https://www.virustotal.com/gui/file/0aeed1fe03f793249e76a2469bfb79a1e335d2106f4527445af97d2e204499cf",
+        "scan_date": 1733702404,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 76720,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-ja.shonenjumpplus-v1.4.8.apk",
+        "hash": "2072d88b8f2318306d54f678b60a30d66cf8dfd6e14ac40aa17e86e28b509b98",
+        "link": "https://www.virustotal.com/gui/file/2072d88b8f2318306d54f678b60a30d66cf8dfd6e14ac40aa17e86e28b509b98",
+        "scan_date": 1733702405,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 60102,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-ja.kuragebunch-v1.4.6.apk",
+        "hash": "d8f501cc40802e64208326088568632529f79b14128beae49bac89707f56b1f3",
+        "link": "https://www.virustotal.com/gui/file/d8f501cc40802e64208326088568632529f79b14128beae49bac89707f56b1f3",
+        "scan_date": 1733702406,
+        "positives": 0,
+        "total": 60,
+        "file_type": "Android",
+        "file_size": 46919,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-ja.tonarinoyoungjump-v1.4.6.apk",
+        "hash": "be4ac4ae580f161107545993dae7c65dde0df2ee51e3b2f058748a78502db173",
+        "link": "https://www.virustotal.com/gui/file/be4ac4ae580f161107545993dae7c65dde0df2ee51e3b2f058748a78502db173",
+        "scan_date": 1733702407,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 46708,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-ja.sundaywebevery-v1.4.6.apk",
+        "hash": "b22fe736bc314acbf11ba6742e95b3eadaa2a834308f528807cc1301d56ecad4",
+        "link": "https://www.virustotal.com/gui/file/b22fe736bc314acbf11ba6742e95b3eadaa2a834308f528807cc1301d56ecad4",
+        "scan_date": 1733702465,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 50125,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-ar.mangaswat-v1.4.55.apk",
+        "hash": "7e43bc753566278242e842df95f5b4b593fb37f7ebb622c3cf791e0ee043dc98",
+        "link": "https://www.virustotal.com/gui/file/7e43bc753566278242e842df95f5b4b593fb37f7ebb622c3cf791e0ee043dc98",
+        "scan_date": 1733702466,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 80165,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-ja.comicdays-v1.4.6.apk",
+        "hash": "322ec50871a55adeccb4e70d73da9346ce083a910d2e94a93fb2655b720f1b68",
+        "link": "https://www.virustotal.com/gui/file/322ec50871a55adeccb4e70d73da9346ce083a910d2e94a93fb2655b720f1b68",
+        "scan_date": 1733702467,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 63579,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-ja.magcomi-v1.4.7.apk",
+        "hash": "ee50676f53b96405df299cf110341a824ff73f80cdcd907c638f15d207debcd0",
+        "link": "https://www.virustotal.com/gui/file/ee50676f53b96405df299cf110341a824ff73f80cdcd907c638f15d207debcd0",
+        "scan_date": 1733702524,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 53873,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.snowmtl-v1.4.3.apk",
+        "hash": "4f8c987b23995b94861a2dd4bcef76d6826ec8603e1ab445487f5b0c2b457f16",
+        "link": "https://www.virustotal.com/gui/file/4f8c987b23995b94861a2dd4bcef76d6826ec8603e1ab445487f5b0c2b457f16",
+        "scan_date": 1733702525,
+        "positives": 0,
+        "total": 62,
+        "file_type": "Android",
+        "file_size": 143770,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-ja.magazinepocket-v1.4.6.apk",
+        "hash": "d0c1691cdf431fb136a4146d812172c417586ea94efb45d7dc13a22ee0465be9",
+        "link": "https://www.virustotal.com/gui/file/d0c1691cdf431fb136a4146d812172c417586ea94efb45d7dc13a22ee0465be9",
+        "scan_date": 1733702527,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 79882,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-ja.comiplex-v1.4.6.apk",
+        "hash": "d29eae99fd0dbd8aabeadece96ab3f9264e405dacc0247435ab0296b32bd9189",
+        "link": "https://www.virustotal.com/gui/file/d29eae99fd0dbd8aabeadece96ab3f9264e405dacc0247435ab0296b32bd9189",
+        "scan_date": 1733702529,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 39854,
+        "detected_by": {}
     }
 ]
