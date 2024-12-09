@@ -55946,5 +55946,16 @@
         "file_type": "Android",
         "file_size": 39854,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-ja.comicgardo-v1.4.6.apk",
+        "hash": "2b71d1389fd269fd1f2dd332ae5ed18d63a47e3d93210fd384b54af91562d24d",
+        "link": "https://www.virustotal.com/gui/file/2b71d1389fd269fd1f2dd332ae5ed18d63a47e3d93210fd384b54af91562d24d",
+        "scan_date": 1733703192,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 54482,
+        "detected_by": {}
     }
 ]
