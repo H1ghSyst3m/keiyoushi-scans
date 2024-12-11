@@ -55990,5 +55990,27 @@
         "file_type": "Android",
         "file_size": 153488,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-ja.pixivcomic-v1.4.3.apk",
+        "hash": "d4caab3b0e0e7bdb7654596afd18a5eec178773eb0d025c57be5cb19fb8bf178",
+        "link": "https://www.virustotal.com/gui/file/d4caab3b0e0e7bdb7654596afd18a5eec178773eb0d025c57be5cb19fb8bf178",
+        "scan_date": 1733875214,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 63082,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-all.otakusanctuary-v1.4.6.apk",
+        "hash": "ef950efb0a859760262717b87393512dd544702e27bee49694bc2e3393830d0c",
+        "link": "https://www.virustotal.com/gui/file/ef950efb0a859760262717b87393512dd544702e27bee49694bc2e3393830d0c",
+        "scan_date": 1733875216,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 78489,
+        "detected_by": {}
     }
 ]
