@@ -56034,5 +56034,38 @@
         "file_type": "Android",
         "file_size": 35558,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-id.doujindesu-v1.4.7.apk",
+        "hash": "35f5a4eec2267439be15af2732e403d9ac044b5251c4a134be51e08f6983f83e",
+        "link": "https://www.virustotal.com/gui/file/35f5a4eec2267439be15af2732e403d9ac044b5251c4a134be51e08f6983f83e",
+        "scan_date": 1734004805,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 82122,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-pt.readmangas-v1.4.32.apk",
+        "hash": "c2b3613c515a138e4d9f94a20731f4fdffe32a7f2a156e5c565fd76265dc355d",
+        "link": "https://www.virustotal.com/gui/file/c2b3613c515a138e4d9f94a20731f4fdffe32a7f2a156e5c565fd76265dc355d",
+        "scan_date": 1734004806,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 153908,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-zh.happymh-v1.4.15.apk",
+        "hash": "c48362794661d83aadee178cf63ea1e0b050ef1faa7fb5e30a7ca4aad3326a3a",
+        "link": "https://www.virustotal.com/gui/file/c48362794661d83aadee178cf63ea1e0b050ef1faa7fb5e30a7ca4aad3326a3a",
+        "scan_date": 1734004807,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 55867,
+        "detected_by": {}
     }
 ]
