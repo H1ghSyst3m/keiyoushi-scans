@@ -56914,5 +56914,38 @@
         "file_type": "Android",
         "file_size": 54203,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.mangatoday-v1.4.29.apk",
+        "hash": "bd9901e11e2a90b6043a589e098dae7a4ead2bbf4065bb85dd3e8f39e8acf4b7",
+        "link": "https://www.virustotal.com/gui/file/bd9901e11e2a90b6043a589e098dae7a4ead2bbf4065bb85dd3e8f39e8acf4b7",
+        "scan_date": 1734524829,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 67846,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-ar.onma-v1.4.12.apk",
+        "hash": "d08cdcd800dd54b62e4817b2ce47db36b10b5c8ecfb09a53e3731b98da42eda3",
+        "link": "https://www.virustotal.com/gui/file/d08cdcd800dd54b62e4817b2ce47db36b10b5c8ecfb09a53e3731b98da42eda3",
+        "scan_date": 1734524840,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 65010,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-it.lupiteam-v1.4.6.apk",
+        "hash": "2a8665b80b0524d525cb1182d252b86d97ffda47d14ff3cab2c37feebb297e48",
+        "link": "https://www.virustotal.com/gui/file/2a8665b80b0524d525cb1182d252b86d97ffda47d14ff3cab2c37feebb297e48",
+        "scan_date": 1734524843,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 89660,
+        "detected_by": {}
     }
 ]
