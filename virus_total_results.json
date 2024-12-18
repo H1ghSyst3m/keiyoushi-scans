@@ -56166,5 +56166,27 @@
         "file_type": "Android",
         "file_size": 77098,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-es.tmohentai-v1.4.9.apk",
+        "hash": "419cf7c0a1cabb340b8c2e1d42d9f72179211ba3245060a82d4147381ea6df7d",
+        "link": "https://www.virustotal.com/gui/file/419cf7c0a1cabb340b8c2e1d42d9f72179211ba3245060a82d4147381ea6df7d",
+        "scan_date": 1734496958,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 60915,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-es.olympusscanlation-v1.4.12.apk",
+        "hash": "3469a92af6dc2efc7edb6de0a4013925cf2250b969a24ebee134616efc4b5eb5",
+        "link": "https://www.virustotal.com/gui/file/3469a92af6dc2efc7edb6de0a4013925cf2250b969a24ebee134616efc4b5eb5",
+        "scan_date": 1734505069,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 92759,
+        "detected_by": {}
     }
 ]
