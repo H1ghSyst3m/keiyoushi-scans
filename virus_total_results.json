@@ -57200,5 +57200,16 @@
         "file_type": "Android",
         "file_size": 50081,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-all.imhentai-v1.4.19.apk",
+        "hash": "b85c61175fc2d33afd9104c7c77e26872c082d685674037821efc63337bc6019",
+        "link": "https://www.virustotal.com/gui/file/b85c61175fc2d33afd9104c7c77e26872c082d685674037821efc63337bc6019",
+        "scan_date": 1734849527,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 85217,
+        "detected_by": {}
     }
 ]
