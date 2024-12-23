@@ -57365,5 +57365,16 @@
         "file_type": "Android",
         "file_size": 52439,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-all.batoto-v1.4.44.apk",
+        "hash": "280e9f55285d97144171974e3c985e21e56cba57dbc539e11e0e6d0374543608",
+        "link": "https://www.virustotal.com/gui/file/280e9f55285d97144171974e3c985e21e56cba57dbc539e11e0e6d0374543608",
+        "scan_date": 1734898795,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 69429,
+        "detected_by": {}
     }
 ]
