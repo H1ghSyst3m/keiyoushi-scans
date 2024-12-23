@@ -57376,5 +57376,49 @@
         "file_type": "Android",
         "file_size": 69429,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-pt.readmangas-v1.4.33.apk",
+        "hash": "e561605e8d228ea28dda0b4de8bae64f2ce9457c9b98074b94378e3fa08ee626",
+        "link": "https://www.virustotal.com/gui/file/e561605e8d228ea28dda0b4de8bae64f2ce9457c9b98074b94378e3fa08ee626",
+        "scan_date": 1734912004,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 153920,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-ja.mangakuro-v1.4.1.apk",
+        "hash": "bda6d2b25b93bf803b7354eb5bc12b11171038429330881505706b0d9f96410b",
+        "link": "https://www.virustotal.com/gui/file/bda6d2b25b93bf803b7354eb5bc12b11171038429330881505706b0d9f96410b",
+        "scan_date": 1734912005,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 89609,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-vi.teamlanhlung-v1.4.17.apk",
+        "hash": "a2ec3ed1213103d21e7c278cf4fc78090c3c9b8de3e3c45122fad1d341567a8c",
+        "link": "https://www.virustotal.com/gui/file/a2ec3ed1213103d21e7c278cf4fc78090c3c9b8de3e3c45122fad1d341567a8c",
+        "scan_date": 1734912006,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 62054,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.madaradex-v1.4.39.apk",
+        "hash": "d06db2e3cf5a12afa26cd9de51582345831d6611e119300f47a04588e84d537a",
+        "link": "https://www.virustotal.com/gui/file/d06db2e3cf5a12afa26cd9de51582345831d6611e119300f47a04588e84d537a",
+        "scan_date": 1734912008,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 67098,
+        "detected_by": {}
     }
 ]
