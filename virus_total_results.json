@@ -57420,5 +57420,49 @@
         "file_type": "Android",
         "file_size": 67098,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.readchainsawmanmangaonline-v1.4.5.apk",
+        "hash": "1a89ef9405f4749fdd26f000ff34487b3160b24ad520a4526d8b7b5351b1b681",
+        "link": "https://www.virustotal.com/gui/file/1a89ef9405f4749fdd26f000ff34487b3160b24ad520a4526d8b7b5351b1b681",
+        "scan_date": 1735041604,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 28553,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.nightscans-v1.4.39.apk",
+        "hash": "45a3006b7cf397b52666bdd13e557e3187c0305776764ac3428ddcd779ee744b",
+        "link": "https://www.virustotal.com/gui/file/45a3006b7cf397b52666bdd13e557e3187c0305776764ac3428ddcd779ee744b",
+        "scan_date": 1735041605,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 98592,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-all.deviantart-v1.4.1.apk",
+        "hash": "67f261db99897bbb4f9719807b6c5d5f5d471385412c37086f75ad3a6ec1363b",
+        "link": "https://www.virustotal.com/gui/file/67f261db99897bbb4f9719807b6c5d5f5d471385412c37086f75ad3a6ec1363b",
+        "scan_date": 1735041606,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 42809,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-all.thunderscans-v1.4.38.apk",
+        "hash": "4b6527ba0df739e477499b27efc89ae99216f7de5a1e5664c4c34eda1adee3d5",
+        "link": "https://www.virustotal.com/gui/file/4b6527ba0df739e477499b27efc89ae99216f7de5a1e5664c4c34eda1adee3d5",
+        "scan_date": 1735041608,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 66206,
+        "detected_by": {}
     }
 ]
