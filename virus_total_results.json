@@ -57706,5 +57706,27 @@
         "file_type": "Android",
         "file_size": 65800,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.quantumscans-v1.4.32.apk",
+        "hash": "3e55f45fc71858fc742883e9ed70b49e78cf1ba820e3a433a9e90738d95ef5ed",
+        "link": "https://www.virustotal.com/gui/file/3e55f45fc71858fc742883e9ed70b49e78cf1ba820e3a433a9e90738d95ef5ed",
+        "scan_date": 1735128790,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 104133,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-id.siimanga-v1.4.40.apk",
+        "hash": "75c5e7fcd4e8ac8fd1f1a018a29db12b65dc750a3153e3eeac7f46039fa2ab0d",
+        "link": "https://www.virustotal.com/gui/file/75c5e7fcd4e8ac8fd1f1a018a29db12b65dc750a3153e3eeac7f46039fa2ab0d",
+        "scan_date": 1735128791,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 64734,
+        "detected_by": {}
     }
 ]
