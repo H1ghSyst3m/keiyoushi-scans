@@ -57596,5 +57596,115 @@
         "file_type": "Android",
         "file_size": 119388,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-zh.happymh-v1.4.16.apk",
+        "hash": "ce2356aa0c2589e17d19c3fafd2836f9c0eb8d0922faf6b6df28ebf101e59f26",
+        "link": "https://www.virustotal.com/gui/file/ce2356aa0c2589e17d19c3fafd2836f9c0eb8d0922faf6b6df28ebf101e59f26",
+        "scan_date": 1735128004,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 57203,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.holymanga-v1.4.10.apk",
+        "hash": "3940b0e90f73262289be11270fc1f015771160e3972400ce32198173672ad338",
+        "link": "https://www.virustotal.com/gui/file/3940b0e90f73262289be11270fc1f015771160e3972400ce32198173672ad338",
+        "scan_date": 1735128006,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 54834,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-id.mikoroku-v1.4.12.apk",
+        "hash": "b93e2695801af88e2974fd1052ac2badaf77698b0fe3c321e3ce52b2885293c7",
+        "link": "https://www.virustotal.com/gui/file/b93e2695801af88e2974fd1052ac2badaf77698b0fe3c321e3ce52b2885293c7",
+        "scan_date": 1735128007,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 85448,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.spiderscans-v1.4.37.apk",
+        "hash": "1644ba91288394b95be704424f44b3aa29190cc0b5c7906883f980a0667a2482",
+        "link": "https://www.virustotal.com/gui/file/1644ba91288394b95be704424f44b3aa29190cc0b5c7906883f980a0667a2482",
+        "scan_date": 1735128009,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 97314,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-ar.mangatuk-v1.4.37.apk",
+        "hash": "c7e532e5a3fe2568243181a8e5e1b8d60825c4b7cb2b083e3dfe2d053e5c52f2",
+        "link": "https://www.virustotal.com/gui/file/c7e532e5a3fe2568243181a8e5e1b8d60825c4b7cb2b083e3dfe2d053e5c52f2",
+        "scan_date": 1735128064,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 73193,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-es.nekoscans-v1.4.34.apk",
+        "hash": "12761ff4f2295e7f07b914cb45b1ab64e0a27f9ee41ec5d2d783b4ac3c11edbd",
+        "link": "https://www.virustotal.com/gui/file/12761ff4f2295e7f07b914cb45b1ab64e0a27f9ee41ec5d2d783b4ac3c11edbd",
+        "scan_date": 1735128065,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 98172,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.sitemanga-v1.4.37.apk",
+        "hash": "6611a6d1c0fbd3f65a0909e5f1bd9f680be1d2b0c80b83acb805b6256f2d4c67",
+        "link": "https://www.virustotal.com/gui/file/6611a6d1c0fbd3f65a0909e5f1bd9f680be1d2b0c80b83acb805b6256f2d4c67",
+        "scan_date": 1735128067,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 91090,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-ja.mangarawplus-v1.4.43.apk",
+        "hash": "f49c1cd89f985d6ee344932d6620fe96ab92d99cb5f6a1b2e0136d4da9fb277b",
+        "link": "https://www.virustotal.com/gui/file/f49c1cd89f985d6ee344932d6620fe96ab92d99cb5f6a1b2e0136d4da9fb277b",
+        "scan_date": 1735128124,
+        "positives": 0,
+        "total": 64,
+        "file_type": "Android",
+        "file_size": 96681,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-tr.mangagezgini-v1.4.41.apk",
+        "hash": "b22bc4d6434e8e209f0f5e93600d64b32174f18abcc2f5bd7a1862419d926a6f",
+        "link": "https://www.virustotal.com/gui/file/b22bc4d6434e8e209f0f5e93600d64b32174f18abcc2f5bd7a1862419d926a6f",
+        "scan_date": 1735128127,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 153080,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-vi.toptruyen-v1.4.10.apk",
+        "hash": "ebaa2f30fe45314a6f865227905d8322f0ba54725e0346924f875ea490d39119",
+        "link": "https://www.virustotal.com/gui/file/ebaa2f30fe45314a6f865227905d8322f0ba54725e0346924f875ea490d39119",
+        "scan_date": 1735128128,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 65800,
+        "detected_by": {}
     }
 ]
