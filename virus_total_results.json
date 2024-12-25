@@ -57574,5 +57574,27 @@
         "file_type": "Android",
         "file_size": 77927,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-pt.slimeread-v1.4.16.apk",
+        "hash": "68188039cd066c61fc93212c77e7a41cc68bc41a3392440540d707deb78c0df1",
+        "link": "https://www.virustotal.com/gui/file/68188039cd066c61fc93212c77e7a41cc68bc41a3392440540d707deb78c0df1",
+        "scan_date": 1735086015,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 69614,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-pt.mahouscan-v1.4.1.apk",
+        "hash": "1fbd87a6b4d6ea2d4d2af702f4dc63d2e6f7b7cf5b4ddd25f6269712c459d74c",
+        "link": "https://www.virustotal.com/gui/file/1fbd87a6b4d6ea2d4d2af702f4dc63d2e6f7b7cf5b4ddd25f6269712c459d74c",
+        "scan_date": 1735086017,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 119388,
+        "detected_by": {}
     }
 ]
