@@ -57772,5 +57772,16 @@
         "file_type": "Android",
         "file_size": 42840,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-ar.mangapro-v1.4.34.apk",
+        "hash": "37dbc4082954f2ead96e3434dc461a6f4792ff7ae8469d444322e7df3be12ebc",
+        "link": "https://www.virustotal.com/gui/file/37dbc4082954f2ead96e3434dc461a6f4792ff7ae8469d444322e7df3be12ebc",
+        "scan_date": 1735301466,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 66210,
+        "detected_by": {}
     }
 ]
