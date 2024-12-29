@@ -57860,5 +57860,27 @@
         "file_type": "Android",
         "file_size": 132189,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-zh.zaimanhua-v1.4.5.apk",
+        "hash": "4df6cdc77a49064f167205d352b6030795af20334fdcded804e684c616e897e9",
+        "link": "https://www.virustotal.com/gui/file/4df6cdc77a49064f167205d352b6030795af20334fdcded804e684c616e897e9",
+        "scan_date": 1735474328,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 58926,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.ninehentai-v1.4.4.apk",
+        "hash": "09822114e41bd9cef18c0c00d40b927f9370383cea527987159936c00bd59a20",
+        "link": "https://www.virustotal.com/gui/file/09822114e41bd9cef18c0c00d40b927f9370383cea527987159936c00bd59a20",
+        "scan_date": 1735474329,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 67059,
+        "detected_by": {}
     }
 ]
