@@ -57783,5 +57783,82 @@
         "file_type": "Android",
         "file_size": 66210,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.erosscans-v1.4.32.apk",
+        "hash": "474c3979016bff6faf5fad4dc85959da067122618fd608e1c432499ddcfe7cae",
+        "link": "https://www.virustotal.com/gui/file/474c3979016bff6faf5fad4dc85959da067122618fd608e1c432499ddcfe7cae",
+        "scan_date": 1735473604,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 121555,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-vi.comanhua-v1.4.7.apk",
+        "hash": "432d44bb3e2bd933124a84ca8fb0e860bfad7c28a949f15c977917a774a565e6",
+        "link": "https://www.virustotal.com/gui/file/432d44bb3e2bd933124a84ca8fb0e860bfad7c28a949f15c977917a774a565e6",
+        "scan_date": 1735473605,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 100306,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-tr.webtoonhatti-v1.4.42.apk",
+        "hash": "05e9227bf2e3f2786aff84c5367b3b667cef9c6097911cc14a1d98ba56161b02",
+        "link": "https://www.virustotal.com/gui/file/05e9227bf2e3f2786aff84c5367b3b667cef9c6097911cc14a1d98ba56161b02",
+        "scan_date": 1735473608,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 100133,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.infinityscans-v1.4.7.apk",
+        "hash": "9d5dbd880a0732e6fbc57f696fd6fe8aea1660c787fb26ba148d390146f3c853",
+        "link": "https://www.virustotal.com/gui/file/9d5dbd880a0732e6fbc57f696fd6fe8aea1660c787fb26ba148d390146f3c853",
+        "scan_date": 1735473665,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 79902,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.yakshascans-v1.4.38.apk",
+        "hash": "f138f594cb599f7d73b74bf70b71a7c9428c8271cc58c23b8aaa5a9ea1232872",
+        "link": "https://www.virustotal.com/gui/file/f138f594cb599f7d73b74bf70b71a7c9428c8271cc58c23b8aaa5a9ea1232872",
+        "scan_date": 1735473666,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 61731,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-es.manhuaonline-v1.4.48.apk",
+        "hash": "be0f0fc23b5f7dd9b7a23318e09c4064b86c1c2689d4033c03493785155e09a8",
+        "link": "https://www.virustotal.com/gui/file/be0f0fc23b5f7dd9b7a23318e09c4064b86c1c2689d4033c03493785155e09a8",
+        "scan_date": 1735473667,
+        "positives": 0,
+        "total": 64,
+        "file_type": "Android",
+        "file_size": 97180,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-pt.montetai-v1.4.37.apk",
+        "hash": "c9f075ec8be430585220ad6a80adb17324c2565db0168cff30d4bae2ab09acf9",
+        "link": "https://www.virustotal.com/gui/file/c9f075ec8be430585220ad6a80adb17324c2565db0168cff30d4bae2ab09acf9",
+        "scan_date": 1735473724,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 132189,
+        "detected_by": {}
     }
 ]
