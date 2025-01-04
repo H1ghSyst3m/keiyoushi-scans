@@ -58443,5 +58443,82 @@
         "file_type": "Android",
         "file_size": 83582,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-pt.prismascans-v1.4.48.apk",
+        "hash": "49b6593d3c13ef5b3861a074a8ffd8ae92c24383eb922fc4931133d2d9336d6d",
+        "link": "https://www.virustotal.com/gui/file/49b6593d3c13ef5b3861a074a8ffd8ae92c24383eb922fc4931133d2d9336d6d",
+        "scan_date": 1735949408,
+        "positives": 0,
+        "total": 64,
+        "file_type": "Android",
+        "file_size": 80566,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-ko.wolfdotcom-v1.4.1.apk",
+        "hash": "fd11d9abcf72a966e045e5f63090316b8dc643ebe36eba1bee45a86b724442bd",
+        "link": "https://www.virustotal.com/gui/file/fd11d9abcf72a966e045e5f63090316b8dc643ebe36eba1bee45a86b724442bd",
+        "scan_date": 1735949410,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 47424,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.arvenscans-v1.4.42.apk",
+        "hash": "077bbe2fc8978effb98a8324b996260d3a9bd9afb29a0b29dc3f2a7575015023",
+        "link": "https://www.virustotal.com/gui/file/077bbe2fc8978effb98a8324b996260d3a9bd9afb29a0b29dc3f2a7575015023",
+        "scan_date": 1735949411,
+        "positives": 0,
+        "total": 64,
+        "file_type": "Android",
+        "file_size": 127622,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-zh.boylove-v1.4.12.apk",
+        "hash": "f03c3c99a2e5f8f013a97222eb12fe1adbaaedc6022b413513a85fa638d00dc3",
+        "link": "https://www.virustotal.com/gui/file/f03c3c99a2e5f8f013a97222eb12fe1adbaaedc6022b413513a85fa638d00dc3",
+        "scan_date": 1735949412,
+        "positives": 0,
+        "total": 64,
+        "file_type": "Android",
+        "file_size": 57734,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-pt.argosscan-v1.4.24.apk",
+        "hash": "aa4d17697d78c6680dc1d49cf3b12f9dac52b85697567b565023b209fb5b4d01",
+        "link": "https://www.virustotal.com/gui/file/aa4d17697d78c6680dc1d49cf3b12f9dac52b85697567b565023b209fb5b4d01",
+        "scan_date": 1735949469,
+        "positives": 0,
+        "total": 64,
+        "file_type": "Android",
+        "file_size": 55568,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-all.komga-v1.4.59.apk",
+        "hash": "10451059a5eb68265317aba20b2f6ecee196317c1458c0bb30f08ba8f9fee5a7",
+        "link": "https://www.virustotal.com/gui/file/10451059a5eb68265317aba20b2f6ecee196317c1458c0bb30f08ba8f9fee5a7",
+        "scan_date": 1735949470,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 427325,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.comicextra-v1.4.17.apk",
+        "hash": "007ac48d85f3870763679e3a56b3400a396820eadb2b95ede7464de90a0a7dbb",
+        "link": "https://www.virustotal.com/gui/file/007ac48d85f3870763679e3a56b3400a396820eadb2b95ede7464de90a0a7dbb",
+        "scan_date": 1735949471,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 38913,
+        "detected_by": {}
     }
 ]
