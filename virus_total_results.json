@@ -58520,5 +58520,16 @@
         "file_type": "Android",
         "file_size": 38913,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.manytoon-v1.4.47.apk",
+        "hash": "07a327f60296075398c387bad5f223c72d77f0320ecf2f0ca2f81cf526d058dc",
+        "link": "https://www.virustotal.com/gui/file/07a327f60296075398c387bad5f223c72d77f0320ecf2f0ca2f81cf526d058dc",
+        "scan_date": 1736079007,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 79406,
+        "detected_by": {}
     }
 ]
