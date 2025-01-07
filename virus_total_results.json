@@ -58531,5 +58531,93 @@
         "file_type": "Android",
         "file_size": 79406,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.igniscomic-v1.4.30.apk",
+        "hash": "5097d5b5db0df25320775d55dd8d0f1737d4ed15d481e84bc6e7e9e3ddf7053c",
+        "link": "https://www.virustotal.com/gui/file/5097d5b5db0df25320775d55dd8d0f1737d4ed15d481e84bc6e7e9e3ddf7053c",
+        "scan_date": 1736208004,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 100158,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-th.popsmanga-v1.4.31.apk",
+        "hash": "9d5fbaac27e20268fb9bbcf12aec9ab42925ce28707b2ab1fcee8c91c9815837",
+        "link": "https://www.virustotal.com/gui/file/9d5fbaac27e20268fb9bbcf12aec9ab42925ce28707b2ab1fcee8c91c9815837",
+        "scan_date": 1736208005,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 87892,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.shojoscans-v1.4.31.apk",
+        "hash": "80c3191051f9f8ba7b0044db4440612eccd11d88fb1c43ae70f1028e4a49c766",
+        "link": "https://www.virustotal.com/gui/file/80c3191051f9f8ba7b0044db4440612eccd11d88fb1c43ae70f1028e4a49c766",
+        "scan_date": 1736208007,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 84221,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.reaperscansunoriginal-v1.4.31.apk",
+        "hash": "ecbdbb36159abbb2aed65c3abdcd5c97a0da82e23158702b39fa51d106c68d37",
+        "link": "https://www.virustotal.com/gui/file/ecbdbb36159abbb2aed65c3abdcd5c97a0da82e23158702b39fa51d106c68d37",
+        "scan_date": 1736208008,
+        "positives": 0,
+        "total": 60,
+        "file_type": "Android",
+        "file_size": 57509,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-tr.tortugaceviri-v1.4.38.apk",
+        "hash": "6708297841b5a3f24bd7db853408259a4dfe6e1a54562d1c6db49a26ab88a3a7",
+        "link": "https://www.virustotal.com/gui/file/6708297841b5a3f24bd7db853408259a4dfe6e1a54562d1c6db49a26ab88a3a7",
+        "scan_date": 1736208064,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 112932,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-fr.poseidonscans-v1.4.37.apk",
+        "hash": "2c65b5109d7b36dbd5c63688c69057017e79a1b83c74951484c5b3d7dc194630",
+        "link": "https://www.virustotal.com/gui/file/2c65b5109d7b36dbd5c63688c69057017e79a1b83c74951484c5b3d7dc194630",
+        "scan_date": 1736208065,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 88771,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-ar.paradisebl-v1.4.37.apk",
+        "hash": "a3f5b0f11162d79ac315a2249bbc946a12f9d5063c1f2465f2348c103166db91",
+        "link": "https://www.virustotal.com/gui/file/a3f5b0f11162d79ac315a2249bbc946a12f9d5063c1f2465f2348c103166db91",
+        "scan_date": 1736208066,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 153418,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-pt.sussyscan-v1.4.44.apk",
+        "hash": "2bb9602a0f49b553cb2ada2e6ee7c31eb4689ba367169338b16ea44d83dfcb19",
+        "link": "https://www.virustotal.com/gui/file/2bb9602a0f49b553cb2ada2e6ee7c31eb4689ba367169338b16ea44d83dfcb19",
+        "scan_date": 1736208067,
+        "positives": 0,
+        "total": 64,
+        "file_type": "Android",
+        "file_size": 84420,
+        "detected_by": {}
     }
 ]
