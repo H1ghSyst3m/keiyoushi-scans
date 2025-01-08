@@ -58619,5 +58619,71 @@
         "file_type": "Android",
         "file_size": 84420,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-ko.toon11-v1.4.1.apk",
+        "hash": "960a6e8406905e036a9fdc24569ee55b055ef70fdab0f7837b61d720a40c2131",
+        "link": "https://www.virustotal.com/gui/file/960a6e8406905e036a9fdc24569ee55b055ef70fdab0f7837b61d720a40c2131",
+        "scan_date": 1736294404,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 51712,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-pt.yushukemangas-v1.4.2.apk",
+        "hash": "a4028f22346c0161c9060a020d9bd7c26aefd682ac85dd0e90b60e57a4140c8f",
+        "link": "https://www.virustotal.com/gui/file/a4028f22346c0161c9060a020d9bd7c26aefd682ac85dd0e90b60e57a4140c8f",
+        "scan_date": 1736294405,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 78067,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-all.meituatop-v1.4.9.apk",
+        "hash": "8f3547eebb20d07aa1dfecf91f4eb150b34c3165dd8381377ece5c7bd93ceb16",
+        "link": "https://www.virustotal.com/gui/file/8f3547eebb20d07aa1dfecf91f4eb150b34c3165dd8381377ece5c7bd93ceb16",
+        "scan_date": 1736294406,
+        "positives": 0,
+        "total": 64,
+        "file_type": "Android",
+        "file_size": 32499,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-tr.mangagezgini-v1.4.42.apk",
+        "hash": "65cbf165a2b0bbf0fa3449f8310575420b9c72d1bd783db0740de2266a80266a",
+        "link": "https://www.virustotal.com/gui/file/65cbf165a2b0bbf0fa3449f8310575420b9c72d1bd783db0740de2266a80266a",
+        "scan_date": 1736294408,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 153081,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-zh.jinmantiantang-v1.4.44.apk",
+        "hash": "68aec911f12242697e856da0529a95a91310f0a8578b85b4d784e925c4f7231b",
+        "link": "https://www.virustotal.com/gui/file/68aec911f12242697e856da0529a95a91310f0a8578b85b4d784e925c4f7231b",
+        "scan_date": 1736294464,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 233005,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-pt.sussyscan-v1.4.45.apk",
+        "hash": "1a40768917171efce5ab7c2d46cbae21fce145d69ba271900195f8e8d52aae49",
+        "link": "https://www.virustotal.com/gui/file/1a40768917171efce5ab7c2d46cbae21fce145d69ba271900195f8e8d52aae49",
+        "scan_date": 1736294465,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 86548,
+        "detected_by": {}
     }
 ]
