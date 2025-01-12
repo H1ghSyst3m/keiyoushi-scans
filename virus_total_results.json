@@ -59191,5 +59191,84 @@
         "file_type": "Android",
         "file_size": 59299,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.holymanga-v1.4.11.apk",
+        "hash": "de5d0ffb8a13f8fbce93609cee81fd8536a207de91bad4de304137df1d3a7949",
+        "link": "https://www.virustotal.com/gui/file/de5d0ffb8a13f8fbce93609cee81fd8536a207de91bad4de304137df1d3a7949",
+        "scan_date": 1736683204,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 59660,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-all.ehentai-v1.4.24.apk",
+        "hash": "9fccf3f9ed59caec06d6e1c6a4dcbd1394980a93aa7d1694836598aaa4d07d8f",
+        "link": "https://www.virustotal.com/gui/file/9fccf3f9ed59caec06d6e1c6a4dcbd1394980a93aa7d1694836598aaa4d07d8f",
+        "scan_date": 1736683205,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 54847,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-es.novatoscans-v1.4.10.apk",
+        "hash": "5883bced2e14ea708fda2ef4baedeceb6c75f0016be0dff91201b61e3096be9c",
+        "link": "https://www.virustotal.com/gui/file/5883bced2e14ea708fda2ef4baedeceb6c75f0016be0dff91201b61e3096be9c",
+        "scan_date": 1736683206,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 96441,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-all.namicomi-v1.4.1.apk",
+        "hash": "af6d9acce1ae5ee1e70815d848ece1db0a6cee0a3ff12e31190e0e0a70147b0e",
+        "link": "https://www.virustotal.com/gui/file/af6d9acce1ae5ee1e70815d848ece1db0a6cee0a3ff12e31190e0e0a70147b0e",
+        "scan_date": 1736683208,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 94833,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-es.lazonadellirio-v1.4.30.apk",
+        "hash": "32e3069147fba9ead5156cd31b9d9bbce700bbf30df49ac5a83c5cd171f897ce",
+        "link": "https://www.virustotal.com/gui/file/32e3069147fba9ead5156cd31b9d9bbce700bbf30df49ac5a83c5cd171f897ce",
+        "scan_date": 1736683263,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 109181,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-fr.phenixscans-v1.4.32.apk",
+        "hash": "d120192d23c23f84411d90533e592924f71a62e0ab1cd62d54c7cd7632e5d897",
+        "link": "https://www.virustotal.com/gui/file/d120192d23c23f84411d90533e592924f71a62e0ab1cd62d54c7cd7632e5d897",
+        "scan_date": 1736683265,
+        "positives": 1,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 87406,
+        "detected_by": {
+            "Zillya": "Dropper.Shedun.Android.2282"
+        }
+    },
+    {
+        "filename": "tachiyomi-en.asmotoon-v1.4.11.apk",
+        "hash": "256c6b8ca598c151e0d8d9f3dc657a95038c942f36f6863298c4f4fe5f313a17",
+        "link": "https://www.virustotal.com/gui/file/256c6b8ca598c151e0d8d9f3dc657a95038c942f36f6863298c4f4fe5f313a17",
+        "scan_date": 1736683266,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 83584,
+        "detected_by": {}
     }
 ]
