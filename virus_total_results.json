@@ -59611,5 +59611,16 @@
         "file_type": "Android",
         "file_size": 71600,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-pt.sussyscan-v1.4.47.apk",
+        "hash": "614d49a1b2ac2e50ba5d11565debc541e76b36d59eb203d75afaf20f98b54bbe",
+        "link": "https://www.virustotal.com/gui/file/614d49a1b2ac2e50ba5d11565debc541e76b36d59eb203d75afaf20f98b54bbe",
+        "scan_date": 1736856013,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 94921,
+        "detected_by": {}
     }
 ]
