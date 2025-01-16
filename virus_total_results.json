@@ -59787,5 +59787,27 @@
         "file_type": "Android",
         "file_size": 94303,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-vi.yurineko-v1.4.6.apk",
+        "hash": "1f5c9d701e1a842adf578c6c41aa5b865a6d27963288fabed76982a4ec3be0cb",
+        "link": "https://www.virustotal.com/gui/file/1f5c9d701e1a842adf578c6c41aa5b865a6d27963288fabed76982a4ec3be0cb",
+        "scan_date": 1736986455,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 73517,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-all.solarmtl-v1.4.2.apk",
+        "hash": "941e399b69dbb4e5298abc594d4b24e134c6467238b7052580552fbc612a5fc2",
+        "link": "https://www.virustotal.com/gui/file/941e399b69dbb4e5298abc594d4b24e134c6467238b7052580552fbc612a5fc2",
+        "scan_date": 1736986456,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 155558,
+        "detected_by": {}
     }
 ]
