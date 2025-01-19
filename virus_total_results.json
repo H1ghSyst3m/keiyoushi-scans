@@ -59919,5 +59919,38 @@
         "file_type": "Android",
         "file_size": 58646,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-es.noblessetranslations-v1.4.43.apk",
+        "hash": "be7f6d024bc30ad93aa1c41aff4f5c08e9bc772a326c897e1896f61113af5305",
+        "link": "https://www.virustotal.com/gui/file/be7f6d024bc30ad93aa1c41aff4f5c08e9bc772a326c897e1896f61113af5305",
+        "scan_date": 1737275125,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 88195,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-es.manhwalatino-v1.4.46.apk",
+        "hash": "c1ceb44d25acbe13746b0ee8a5a798b7ae3167813530a4df2dbaad0589e9b417",
+        "link": "https://www.virustotal.com/gui/file/c1ceb44d25acbe13746b0ee8a5a798b7ae3167813530a4df2dbaad0589e9b417",
+        "scan_date": 1737275010,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 104618,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.mangarockteam-v1.4.39.apk",
+        "hash": "ee0edb4b9b3cbb301736e6ee8f993015c7b2aa0e492b90aa6292b2a7e17a5387",
+        "link": "https://www.virustotal.com/gui/file/ee0edb4b9b3cbb301736e6ee8f993015c7b2aa0e492b90aa6292b2a7e17a5387",
+        "scan_date": 1737281594,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 90518,
+        "detected_by": {}
     }
 ]
