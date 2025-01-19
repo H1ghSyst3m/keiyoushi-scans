@@ -61173,5 +61173,16 @@
         "file_type": "Android",
         "file_size": 115047,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-pt.mysticmoon-v1.4.38.apk",
+        "hash": "84aa090051a46530db39b27336c365bb289de3132a82acd9522226a5bd807199",
+        "link": "https://www.virustotal.com/gui/file/84aa090051a46530db39b27336c365bb289de3132a82acd9522226a5bd807199",
+        "scan_date": 1737290403,
+        "positives": 0,
+        "total": 64,
+        "file_type": "Android",
+        "file_size": 94544,
+        "detected_by": {}
     }
 ]
