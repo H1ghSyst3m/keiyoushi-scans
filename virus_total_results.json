@@ -59875,5 +59875,49 @@
         "file_type": "Android",
         "file_size": 97585,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-ar.azora-v1.4.45.apk",
+        "hash": "be0ed6a15b71bd6d3b33ed916c5ca0a775806b0ecdc55eb040f0c7c9dca67d28",
+        "link": "https://www.virustotal.com/gui/file/be0ed6a15b71bd6d3b33ed916c5ca0a775806b0ecdc55eb040f0c7c9dca67d28",
+        "scan_date": 1737244804,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 74443,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-pt.crystalcomics-v1.4.39.apk",
+        "hash": "6d304a80df2b3e7603d7ef930abd6d59bfb2e7ec338a6d03e0d67ea5e87e7e0c",
+        "link": "https://www.virustotal.com/gui/file/6d304a80df2b3e7603d7ef930abd6d59bfb2e7ec338a6d03e0d67ea5e87e7e0c",
+        "scan_date": 1737244805,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 37462,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-pt.readmangas-v1.4.35.apk",
+        "hash": "2e3e5df888af527bba9c4f6f28b200ffa5c14e526838fb0c4c31eb0ca8184fc9",
+        "link": "https://www.virustotal.com/gui/file/2e3e5df888af527bba9c4f6f28b200ffa5c14e526838fb0c4c31eb0ca8184fc9",
+        "scan_date": 1737244806,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 153913,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.myhentaicomics-v1.4.3.apk",
+        "hash": "22da3cf3ca151f017759ce9ef7b97652de58534e5e3d52bd0dcc3769b7608456",
+        "link": "https://www.virustotal.com/gui/file/22da3cf3ca151f017759ce9ef7b97652de58534e5e3d52bd0dcc3769b7608456",
+        "scan_date": 1737244807,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 58646,
+        "detected_by": {}
     }
 ]
