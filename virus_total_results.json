@@ -62581,5 +62581,49 @@
         "file_type": "Android",
         "file_size": 87457,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.mangarolls-v1.4.39.apk",
+        "hash": "36e897768881920edf07c1e36479efa812ec33d88536dc3eef285c3fc4ca4c2a",
+        "link": "https://www.virustotal.com/gui/file/36e897768881920edf07c1e36479efa812ec33d88536dc3eef285c3fc4ca4c2a",
+        "scan_date": 1737334150,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 91876,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-es.scambertraslator-v1.4.42.apk",
+        "hash": "ac46eb3b449088565fd0489235b36db07d7003dee5913aa0dc632609bf21f624",
+        "link": "https://www.virustotal.com/gui/file/ac46eb3b449088565fd0489235b36db07d7003dee5913aa0dc632609bf21f624",
+        "scan_date": 1737275243,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 90238,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-es.mantrazscan-v1.4.41.apk",
+        "hash": "c35cf9c80f0730afb7aa84a151190425bd70eb897eeb87793b3ed971e562445c",
+        "link": "https://www.virustotal.com/gui/file/c35cf9c80f0730afb7aa84a151190425bd70eb897eeb87793b3ed971e562445c",
+        "scan_date": 1737275060,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 81006,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-es.dragontranslationnet-v1.4.38.apk",
+        "hash": "d5d94450a62add94b5f86d9acb9cf9b0dff64c3653fc82e03bc1a514777fabe0",
+        "link": "https://www.virustotal.com/gui/file/d5d94450a62add94b5f86d9acb9cf9b0dff64c3653fc82e03bc1a514777fabe0",
+        "scan_date": 1737274700,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 135395,
+        "detected_by": {}
     }
 ]
