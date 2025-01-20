@@ -62570,5 +62570,16 @@
         "file_type": "Android",
         "file_size": 117939,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-fr.hentaiscantrad-v1.4.39.apk",
+        "hash": "79cbc5a1c09a2ccc85c4be6931f1c33c417c69b7a8f4c1f11aa50dc0888f8617",
+        "link": "https://www.virustotal.com/gui/file/79cbc5a1c09a2ccc85c4be6931f1c33c417c69b7a8f4c1f11aa50dc0888f8617",
+        "scan_date": 1737333544,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 87457,
+        "detected_by": {}
     }
 ]
