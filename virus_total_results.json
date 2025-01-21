@@ -65815,5 +65815,16 @@
         "file_type": "Android",
         "file_size": 132344,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-all.comicznetv2-v1.4.38.apk",
+        "hash": "e2055459e0d7c01f5b4c5166960f5f7cfb22cf4034944ee9785a75bc563a4fcf",
+        "link": "https://www.virustotal.com/gui/file/e2055459e0d7c01f5b4c5166960f5f7cfb22cf4034944ee9785a75bc563a4fcf",
+        "scan_date": 1737462015,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 76143,
+        "detected_by": {}
     }
 ]
