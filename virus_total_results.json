@@ -66079,5 +66079,27 @@
         "file_type": "Android",
         "file_size": 55841,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-all.mangadex-v1.4.197.apk",
+        "hash": "9e15eeb8ed2ac79f51aa671c1dbe0aa6f680a824dea68635276e655a204ecfae",
+        "link": "https://www.virustotal.com/gui/file/9e15eeb8ed2ac79f51aa671c1dbe0aa6f680a824dea68635276e655a204ecfae",
+        "scan_date": 1737934639,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 142041,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.weebcentral-v1.4.9.apk",
+        "hash": "c147778d8070f0d3dd6036fc382ae4bc4af32ebdf2e55184f023fde271410c59",
+        "link": "https://www.virustotal.com/gui/file/c147778d8070f0d3dd6036fc382ae4bc4af32ebdf2e55184f023fde271410c59",
+        "scan_date": 1737934772,
+        "positives": 0,
+        "total": 64,
+        "file_type": "Android",
+        "file_size": 67979,
+        "detected_by": {}
     }
 ]
