@@ -66508,5 +66508,38 @@
         "file_type": "Android",
         "file_size": 113780,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-fr.reaperscans-v1.4.17.apk",
+        "hash": "54cd20462caf6132720c70d7d64e89328733f37951d1e6471110639f70e7ab93",
+        "link": "https://www.virustotal.com/gui/file/54cd20462caf6132720c70d7d64e89328733f37951d1e6471110639f70e7ab93",
+        "scan_date": 1737980438,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 66327,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-zh.roumanwu-v1.4.15.apk",
+        "hash": "f82a3be08aaa74cfd3d02d67823d645c3bd4f57959a8057cb06599bf3b382544",
+        "link": "https://www.virustotal.com/gui/file/f82a3be08aaa74cfd3d02d67823d645c3bd4f57959a8057cb06599bf3b382544",
+        "scan_date": 1737980439,
+        "positives": 0,
+        "total": 62,
+        "file_type": "Android",
+        "file_size": 53029,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.quantumscans-v1.4.36.apk",
+        "hash": "02f46a53c07793f07e0151a17ed9fa90ead9ccf90d42cbd4f47de3c387ac520f",
+        "link": "https://www.virustotal.com/gui/file/02f46a53c07793f07e0151a17ed9fa90ead9ccf90d42cbd4f47de3c387ac520f",
+        "scan_date": 1737980440,
+        "positives": 0,
+        "total": 61,
+        "file_type": "Android",
+        "file_size": 104473,
+        "detected_by": {}
     }
 ]
