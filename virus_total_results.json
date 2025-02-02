@@ -67069,5 +67069,16 @@
         "file_type": "Android",
         "file_size": 40312,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-pt.yushukemangas-v1.4.3.apk",
+        "hash": "d9315ca72ed466d2857a9a4140522b94fcf52118f3cb5dd58b34eaeb4c2e4a0f",
+        "link": "https://www.virustotal.com/gui/file/d9315ca72ed466d2857a9a4140522b94fcf52118f3cb5dd58b34eaeb4c2e4a0f",
+        "scan_date": 1738455379,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 78075,
+        "detected_by": {}
     }
 ]
