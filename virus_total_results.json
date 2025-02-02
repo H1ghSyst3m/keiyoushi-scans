@@ -66794,5 +66794,27 @@
         "file_type": "Android",
         "file_size": 80112,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-all.hitomi-v1.4.36.apk",
+        "hash": "00651f28c8be37da05c16b131c0b1b1cf1812838133ffcbb825dd4725c2a9129",
+        "link": "https://www.virustotal.com/gui/file/00651f28c8be37da05c16b131c0b1b1cf1812838133ffcbb825dd4725c2a9129",
+        "scan_date": 1738424760,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 75994,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-all.kemono-v1.4.17.apk",
+        "hash": "a90e7f39edd59cdef73fc00af0f906f582234577a2d379c3ea368d05eefe1e85",
+        "link": "https://www.virustotal.com/gui/file/a90e7f39edd59cdef73fc00af0f906f582234577a2d379c3ea368d05eefe1e85",
+        "scan_date": 1738428432,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 67514,
+        "detected_by": {}
     }
 ]
