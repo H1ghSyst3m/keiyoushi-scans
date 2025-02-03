@@ -68576,5 +68576,16 @@
         "file_type": "Android",
         "file_size": 154521,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-ar.detectiveconanar-v1.4.41.apk",
+        "hash": "2e2a9af726bc55e9b783986b804ac021edf7d7c16a6b4d81e11ca252502f18a8",
+        "link": "https://www.virustotal.com/gui/file/2e2a9af726bc55e9b783986b804ac021edf7d7c16a6b4d81e11ca252502f18a8",
+        "scan_date": 1738586466,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 85268,
+        "detected_by": {}
     }
 ]
