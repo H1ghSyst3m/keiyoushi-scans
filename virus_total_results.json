@@ -71161,5 +71161,27 @@
         "file_type": "Android",
         "file_size": 57789,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-es.catmanhwas-v1.4.39.apk",
+        "hash": "1e2b1300286768bce9b0124985de3a387ca2c0aca2221e6f17754426adaa7f35",
+        "link": "https://www.virustotal.com/gui/file/1e2b1300286768bce9b0124985de3a387ca2c0aca2221e6f17754426adaa7f35",
+        "scan_date": 1738671966,
+        "positives": 0,
+        "total": 63,
+        "file_type": "Android",
+        "file_size": 103213,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-pt.wonderlandscan-v1.4.42.apk",
+        "hash": "9579f7de8fef5ca738fd5e49b00649a7bd1789a4f97a8841e484fd223037f407",
+        "link": "https://www.virustotal.com/gui/file/9579f7de8fef5ca738fd5e49b00649a7bd1789a4f97a8841e484fd223037f407",
+        "scan_date": 1738672680,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 70344,
+        "detected_by": {}
     }
 ]
