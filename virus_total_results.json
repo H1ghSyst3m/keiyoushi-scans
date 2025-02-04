@@ -69885,5 +69885,16 @@
         "file_type": "Android",
         "file_size": 89299,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-pt.limitedtimeproject-v1.4.40.apk",
+        "hash": "3f230ca8fc79d9848a0dd12645f973b2d343c9c0bd52ee87874eeaf521513664",
+        "link": "https://www.virustotal.com/gui/file/3f230ca8fc79d9848a0dd12645f973b2d343c9c0bd52ee87874eeaf521513664",
+        "scan_date": 1738629546,
+        "positives": 0,
+        "total": 64,
+        "file_type": "Android",
+        "file_size": 127112,
+        "detected_by": {}
     }
 ]
