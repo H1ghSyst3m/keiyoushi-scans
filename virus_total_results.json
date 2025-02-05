@@ -72987,5 +72987,27 @@
         "file_type": "Android",
         "file_size": 95607,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.zinchanmangacom-v1.4.40.apk",
+        "hash": "80fb8541e1bb0038aa2fa8b583d2d08657365debfb0217bf6a909ba908054c1e",
+        "link": "https://www.virustotal.com/gui/file/80fb8541e1bb0038aa2fa8b583d2d08657365debfb0217bf6a909ba908054c1e",
+        "scan_date": 1738757832,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 64224,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.mangarolls-v1.4.40.apk",
+        "hash": "b8a257a77bc7ad3a044fd5f1eb4df82ba9c5cc0945958e7dff8dd9550e521858",
+        "link": "https://www.virustotal.com/gui/file/b8a257a77bc7ad3a044fd5f1eb4df82ba9c5cc0945958e7dff8dd9550e521858",
+        "scan_date": 1738757839,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 91961,
+        "detected_by": {}
     }
 ]
