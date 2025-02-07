@@ -73009,5 +73009,16 @@
         "file_type": "Android",
         "file_size": 91961,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-ru.mangachan-v1.4.18.apk",
+        "hash": "d81bbfbf5c4e523cd342f30873b10e1e995cb3e83b7192c921d17e2931faee6d",
+        "link": "https://www.virustotal.com/gui/file/d81bbfbf5c4e523cd342f30873b10e1e995cb3e83b7192c921d17e2931faee6d",
+        "scan_date": 1738864336,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 45487,
+        "detected_by": {}
     }
 ]
