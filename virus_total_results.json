@@ -73229,5 +73229,82 @@
         "file_type": "Android",
         "file_size": 68103,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.kaiscans-v1.4.37.apk",
+        "hash": "58a633fee55c3a9f8f85a64e3cc2d9874ea9d4db4f56693ceca770c82106f512",
+        "link": "https://www.virustotal.com/gui/file/58a633fee55c3a9f8f85a64e3cc2d9874ea9d4db4f56693ceca770c82106f512",
+        "scan_date": 1739102403,
+        "positives": 0,
+        "total": 64,
+        "file_type": "Android",
+        "file_size": 66229,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-vi.truyenqq-v1.4.17.apk",
+        "hash": "32fa592ec4c91b8c8040ef0bce3649c16db420cb82f68c0cb3db5ea26c384c65",
+        "link": "https://www.virustotal.com/gui/file/32fa592ec4c91b8c8040ef0bce3649c16db420cb82f68c0cb3db5ea26c384c65",
+        "scan_date": 1739102404,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 52891,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-vi.truyengg-v1.4.4.apk",
+        "hash": "c9c3e3172872c837ed1c5d7dd7850556796f0967374ae1bb12c9e5aa75aa19c8",
+        "link": "https://www.virustotal.com/gui/file/c9c3e3172872c837ed1c5d7dd7850556796f0967374ae1bb12c9e5aa75aa19c8",
+        "scan_date": 1739102405,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 70639,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-es.catharsisworld-v1.4.39.apk",
+        "hash": "8c33d2bf69cd0bb72f894d1a33f9ea755f8fb15dae30bb46488df6ed6de4a2ae",
+        "link": "https://www.virustotal.com/gui/file/8c33d2bf69cd0bb72f894d1a33f9ea755f8fb15dae30bb46488df6ed6de4a2ae",
+        "scan_date": 1739102407,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 115711,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.cypherscans-v1.4.31.apk",
+        "hash": "ccdf1b6e2264ca51fdfd66b3a970eaa9f42b4f659407197f09c01c22598f0095",
+        "link": "https://www.virustotal.com/gui/file/ccdf1b6e2264ca51fdfd66b3a970eaa9f42b4f659407197f09c01c22598f0095",
+        "scan_date": 1739102464,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 108158,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.manhwaclan-v1.4.41.apk",
+        "hash": "752d7139671ab37021584aa13b116eb6bf4246ea295f3fb41d3760ca5f0f4ed8",
+        "link": "https://www.virustotal.com/gui/file/752d7139671ab37021584aa13b116eb6bf4246ea295f3fb41d3760ca5f0f4ed8",
+        "scan_date": 1739102465,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 75873,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-es.inarimanga-v1.4.48.apk",
+        "hash": "d5d52cb307dbfff02a56c05bf116d5a6adafbb3fb062ea9c6b39dbfe15b8efcf",
+        "link": "https://www.virustotal.com/gui/file/d5d52cb307dbfff02a56c05bf116d5a6adafbb3fb062ea9c6b39dbfe15b8efcf",
+        "scan_date": 1739102466,
+        "positives": 0,
+        "total": 61,
+        "file_type": "Android",
+        "file_size": 79463,
+        "detected_by": {}
     }
 ]
