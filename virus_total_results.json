@@ -73306,5 +73306,49 @@
         "file_type": "Android",
         "file_size": 79463,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-all.snowmtl-v1.4.12.apk",
+        "hash": "ceb79f326d735d38ff787b65d6c2817494a0066274e67c57e83c69c7af8569a2",
+        "link": "https://www.virustotal.com/gui/file/ceb79f326d735d38ff787b65d6c2817494a0066274e67c57e83c69c7af8569a2",
+        "scan_date": 1739232004,
+        "positives": 0,
+        "total": 64,
+        "file_type": "Android",
+        "file_size": 168303,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-th.goddoujin-v1.4.30.apk",
+        "hash": "ec5ce85ede8828e6000fae9d2bae1a97f8cae7c7ae0c2744e30ee238902b1d13",
+        "link": "https://www.virustotal.com/gui/file/ec5ce85ede8828e6000fae9d2bae1a97f8cae7c7ae0c2744e30ee238902b1d13",
+        "scan_date": 1739232006,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 73441,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-pt.safirescan-v1.4.10.apk",
+        "hash": "d0cf1625eb2006e32aeb30e753347c4d4dfe93b1b2daada0a75257b8db2271ab",
+        "link": "https://www.virustotal.com/gui/file/d0cf1625eb2006e32aeb30e753347c4d4dfe93b1b2daada0a75257b8db2271ab",
+        "scan_date": 1739232008,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 102996,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-pt.yushukemangas-v1.4.5.apk",
+        "hash": "1a30863ed65170d8f39e03b3142dc0644b486967e5dd1b78b9fd76877ab4142c",
+        "link": "https://www.virustotal.com/gui/file/1a30863ed65170d8f39e03b3142dc0644b486967e5dd1b78b9fd76877ab4142c",
+        "scan_date": 1739232010,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 79229,
+        "detected_by": {}
     }
 ]
