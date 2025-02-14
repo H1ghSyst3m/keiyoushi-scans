@@ -73548,5 +73548,27 @@
         "file_type": "Android",
         "file_size": 82126,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-id.manhwadesu-v1.4.37.apk",
+        "hash": "c5a1767e18433645bf54ff27d7f971708467d9ff538063808bd58f1f33af978c",
+        "link": "https://www.virustotal.com/gui/file/c5a1767e18433645bf54ff27d7f971708467d9ff538063808bd58f1f33af978c",
+        "scan_date": 1739491204,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 64418,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-all.mangafire-v1.4.9.apk",
+        "hash": "ad56d60f3b0ea12186f9b08465f5679f84e25d54f5de138ba042b2444e8cfcd1",
+        "link": "https://www.virustotal.com/gui/file/ad56d60f3b0ea12186f9b08465f5679f84e25d54f5de138ba042b2444e8cfcd1",
+        "scan_date": 1739491206,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 58434,
+        "detected_by": {}
     }
 ]
