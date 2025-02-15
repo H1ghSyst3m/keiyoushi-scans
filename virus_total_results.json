@@ -73570,5 +73570,38 @@
         "file_type": "Android",
         "file_size": 58434,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.flonescans-v1.4.30.apk",
+        "hash": "1d69d3c17da12227b6d67fc00c3958ce4a7f2723c467cd70aa80459b581e50ce",
+        "link": "https://www.virustotal.com/gui/file/1d69d3c17da12227b6d67fc00c3958ce4a7f2723c467cd70aa80459b581e50ce",
+        "scan_date": 1739620803,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 112776,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.infernalvoidscans-v1.4.43.apk",
+        "hash": "31f3ca07117ce370bf4ceb13303ac13cf9301bc9035ef1f59b0994fc65b9145f",
+        "link": "https://www.virustotal.com/gui/file/31f3ca07117ce370bf4ceb13303ac13cf9301bc9035ef1f59b0994fc65b9145f",
+        "scan_date": 1739620804,
+        "positives": 0,
+        "total": 64,
+        "file_type": "Android",
+        "file_size": 65970,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.dxdscans-v1.4.13.apk",
+        "hash": "9fc38db10943dfc50f56248fa9a7570ea0956ff298e6a1a23a9db808d47ae8ee",
+        "link": "https://www.virustotal.com/gui/file/9fc38db10943dfc50f56248fa9a7570ea0956ff298e6a1a23a9db808d47ae8ee",
+        "scan_date": 1739620806,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 85444,
+        "detected_by": {}
     }
 ]
