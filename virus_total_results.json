@@ -73625,5 +73625,71 @@
         "file_type": "Android",
         "file_size": 69330,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-vi.truyenvn-v1.4.51.apk",
+        "hash": "471df05757d9f20a921fd15286203c46f6d92233e4b80e386517840e0e607f1c",
+        "link": "https://www.virustotal.com/gui/file/471df05757d9f20a921fd15286203c46f6d92233e4b80e386517840e0e607f1c",
+        "scan_date": 1739707204,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 171383,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-vi.doctruyen3q-v1.4.9.apk",
+        "hash": "40bcb9010a588bf350401154a6eb6fb294007d6d91f9478f229620fe9da9d152",
+        "link": "https://www.virustotal.com/gui/file/40bcb9010a588bf350401154a6eb6fb294007d6d91f9478f229620fe9da9d152",
+        "scan_date": 1739707205,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 59870,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-es.dragontranslationnet-v1.4.40.apk",
+        "hash": "090ab2d80691b9bf84d036085aba7c4780f3b35e265336e58e95d5c1690b69d8",
+        "link": "https://www.virustotal.com/gui/file/090ab2d80691b9bf84d036085aba7c4780f3b35e265336e58e95d5c1690b69d8",
+        "scan_date": 1739707206,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 101362,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.rizzcomic-v1.4.38.apk",
+        "hash": "37431128d5c792e565d8b13e09c937a362d2b3e8b91bbd925a01404604d037d7",
+        "link": "https://www.virustotal.com/gui/file/37431128d5c792e565d8b13e09c937a362d2b3e8b91bbd925a01404604d037d7",
+        "scan_date": 1739707209,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 80362,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.philiascans-v1.4.39.apk",
+        "hash": "a4320f6c4ff6f1c831d8384e78c71b6b775f4b116b549452ef0372dbdfe04d3d",
+        "link": "https://www.virustotal.com/gui/file/a4320f6c4ff6f1c831d8384e78c71b6b775f4b116b549452ef0372dbdfe04d3d",
+        "scan_date": 1739707264,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 127887,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-vi.toptruyen-v1.4.13.apk",
+        "hash": "79c2559a073906d2c4b48b8d95de0a36c28a6cee3d51d96e06afccef2389e1e9",
+        "link": "https://www.virustotal.com/gui/file/79c2559a073906d2c4b48b8d95de0a36c28a6cee3d51d96e06afccef2389e1e9",
+        "scan_date": 1739707265,
+        "positives": 0,
+        "total": 63,
+        "file_type": "Android",
+        "file_size": 65832,
+        "detected_by": {}
     }
 ]
