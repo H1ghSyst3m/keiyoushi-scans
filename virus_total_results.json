@@ -73603,5 +73603,27 @@
         "file_type": "Android",
         "file_size": 85444,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-all.mangareaderto-v1.4.8.apk",
+        "hash": "ea7c7232230da899cf8851bef33071b3d92f4dcaa8857da58296bd85e7a01983",
+        "link": "https://www.virustotal.com/gui/file/ea7c7232230da899cf8851bef33071b3d92f4dcaa8857da58296bd85e7a01983",
+        "scan_date": 1739664003,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 74228,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-es.ikigaimangas-v1.4.23.apk",
+        "hash": "d2a428d044656741057d23d7ab0226ddf7735d9b5c377bad6c56b4cf5ca4c99b",
+        "link": "https://www.virustotal.com/gui/file/d2a428d044656741057d23d7ab0226ddf7735d9b5c377bad6c56b4cf5ca4c99b",
+        "scan_date": 1739664005,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 69330,
+        "detected_by": {}
     }
 ]
