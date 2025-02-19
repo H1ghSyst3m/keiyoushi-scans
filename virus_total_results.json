@@ -73768,5 +73768,38 @@
         "file_type": "Android",
         "file_size": 55667,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-all.snowmtl-v1.4.13.apk",
+        "hash": "5b278b94f8433ccbb6f95d0f25d9d1124f9b352debb7f97498df67af0f8ffe18",
+        "link": "https://www.virustotal.com/gui/file/5b278b94f8433ccbb6f95d0f25d9d1124f9b352debb7f97498df67af0f8ffe18",
+        "scan_date": 1739966404,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 168333,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-all.solarmtl-v1.4.4.apk",
+        "hash": "0d0dc4a5ccacdb578cefa63dc73f85a13ee3668c54720515f1710a063a51b226",
+        "link": "https://www.virustotal.com/gui/file/0d0dc4a5ccacdb578cefa63dc73f85a13ee3668c54720515f1710a063a51b226",
+        "scan_date": 1739966406,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 164029,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.quantumscans-v1.4.37.apk",
+        "hash": "2a0aef2349baa977c0fa13e0e56fd04ec37602c1c5d3980bd0db06a0f994f29f",
+        "link": "https://www.virustotal.com/gui/file/2a0aef2349baa977c0fa13e0e56fd04ec37602c1c5d3980bd0db06a0f994f29f",
+        "scan_date": 1739966409,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 129830,
+        "detected_by": {}
     }
 ]
