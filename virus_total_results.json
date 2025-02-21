@@ -75066,5 +75066,16 @@
         "file_type": "Android",
         "file_size": 86383,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-all.mangaforfree-v1.4.41.apk",
+        "hash": "9982eeae9847d49f6ba95db43f073d790c997081d78dc133c9813d541b9197d1",
+        "link": "https://www.virustotal.com/gui/file/9982eeae9847d49f6ba95db43f073d790c997081d78dc133c9813d541b9197d1",
+        "scan_date": 1740098439,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 80074,
+        "detected_by": {}
     }
 ]
