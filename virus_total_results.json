@@ -76430,5 +76430,16 @@
         "file_type": "Android",
         "file_size": 64569,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-tr.opiatoon-v1.4.41.apk",
+        "hash": "8bd16afd403bef698b9d463d79bcdc7eefe7974a9be29e7fd1b75e6d0bfba34c",
+        "link": "https://www.virustotal.com/gui/file/8bd16afd403bef698b9d463d79bcdc7eefe7974a9be29e7fd1b75e6d0bfba34c",
+        "scan_date": 1740141544,
+        "positives": 0,
+        "total": 71,
+        "file_type": "Android",
+        "file_size": 140972,
+        "detected_by": {}
     }
 ]
