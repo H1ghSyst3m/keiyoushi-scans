@@ -75077,5 +75077,38 @@
         "file_type": "Android",
         "file_size": 80074,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-ar.manhatic-v1.4.40.apk",
+        "hash": "7b02ae66676a63fb037f61fcc6c6d231789daaec3dd257a1ae3ff06b8092c5dd",
+        "link": "https://www.virustotal.com/gui/file/7b02ae66676a63fb037f61fcc6c6d231789daaec3dd257a1ae3ff06b8092c5dd",
+        "scan_date": 1740099050,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 69547,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.manhuatop-v1.4.40.apk",
+        "hash": "1827c094a238452c5f1282018d5029d3e3030e85b67ae1e3cc99fbe1542c5834",
+        "link": "https://www.virustotal.com/gui/file/1827c094a238452c5f1282018d5029d3e3030e85b67ae1e3cc99fbe1542c5834",
+        "scan_date": 1740131948,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 114273,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-ru.readmanga-v1.4.76.apk",
+        "hash": "b25f1d5e3096ac37937298179fec566d90ae4c8105f0e0083fbb36829d148ef2",
+        "link": "https://www.virustotal.com/gui/file/b25f1d5e3096ac37937298179fec566d90ae4c8105f0e0083fbb36829d148ef2",
+        "scan_date": 1740083472,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 93673,
+        "detected_by": {}
     }
 ]
