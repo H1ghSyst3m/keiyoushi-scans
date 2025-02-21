@@ -73801,5 +73801,38 @@
         "file_type": "Android",
         "file_size": 129830,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-ru.usagi-v1.4.30.apk",
+        "hash": "591994eba4b82306a42cd95cccdd727af7f613feee6b9823175076ce58bb5cbe",
+        "link": "https://www.virustotal.com/gui/file/591994eba4b82306a42cd95cccdd727af7f613feee6b9823175076ce58bb5cbe",
+        "scan_date": 1740083476,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 110088,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.toonily-v1.4.52.apk",
+        "hash": "b6c115e8280e8629ca46ac3dbf9d3358bdf9a0a32014547d2023fcf70dad4744",
+        "link": "https://www.virustotal.com/gui/file/b6c115e8280e8629ca46ac3dbf9d3358bdf9a0a32014547d2023fcf70dad4744",
+        "scan_date": 1740065163,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 70477,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-ru.seimanga-v1.4.30.apk",
+        "hash": "488b99a339a4dd66c0b4b724f7e626170388fb9f957a5ac59d26ece0a8aaf578",
+        "link": "https://www.virustotal.com/gui/file/488b99a339a4dd66c0b4b724f7e626170388fb9f957a5ac59d26ece0a8aaf578",
+        "scan_date": 1740083474,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 86742,
+        "detected_by": {}
     }
 ]
