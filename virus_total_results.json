@@ -78993,5 +78993,38 @@
         "file_type": "Android",
         "file_size": 165789,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-tr.yaoimangaoku-v1.4.41.apk",
+        "hash": "0026a5c0dbd30bcdfbac35423e63238fff0fdb81c0a5ee42389e20bb69b2c612",
+        "link": "https://www.virustotal.com/gui/file/0026a5c0dbd30bcdfbac35423e63238fff0fdb81c0a5ee42389e20bb69b2c612",
+        "scan_date": 1740227795,
+        "positives": 0,
+        "total": 71,
+        "file_type": "Android",
+        "file_size": 116250,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-pt.maidsecret-v1.4.40.apk",
+        "hash": "74b5761dd42866c32d4a69df25a7b0bd755b9b1a8799096042be9c977f57323c",
+        "link": "https://www.virustotal.com/gui/file/74b5761dd42866c32d4a69df25a7b0bd755b9b1a8799096042be9c977f57323c",
+        "scan_date": 1740227797,
+        "positives": 0,
+        "total": 71,
+        "file_type": "Android",
+        "file_size": 151441,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-es.manhwases-v1.4.40.apk",
+        "hash": "4686047d8b99f2da3aa23dcf262995e63fd40df9cf318b52a964a1d7daa967e4",
+        "link": "https://www.virustotal.com/gui/file/4686047d8b99f2da3aa23dcf262995e63fd40df9cf318b52a964a1d7daa967e4",
+        "scan_date": 1740227806,
+        "positives": 0,
+        "total": 71,
+        "file_type": "Android",
+        "file_size": 77013,
+        "detected_by": {}
     }
 ]
