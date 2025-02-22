@@ -77816,5 +77816,16 @@
         "file_type": "Android",
         "file_size": 119416,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-all.manhwa18cc-v1.4.45.apk",
+        "hash": "3dfefdd279a0f5338d33b9dbce62e35dd3c099e0e2fc326c3b3bf4162bf2292e",
+        "link": "https://www.virustotal.com/gui/file/3dfefdd279a0f5338d33b9dbce62e35dd3c099e0e2fc326c3b3bf4162bf2292e",
+        "scan_date": 1740184745,
+        "positives": 0,
+        "total": 69,
+        "file_type": "Android",
+        "file_size": 72927,
+        "detected_by": {}
     }
 ]
