@@ -76441,5 +76441,82 @@
         "file_type": "Android",
         "file_size": 140972,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.weebcentral-v1.4.12.apk",
+        "hash": "56091cbdd08bfbcbe0365ef6ecfd731d88179591c84ae7a3f1723af65a3a41ff",
+        "link": "https://www.virustotal.com/gui/file/56091cbdd08bfbcbe0365ef6ecfd731d88179591c84ae7a3f1723af65a3a41ff",
+        "scan_date": 1740163959,
+        "positives": 0,
+        "total": 70,
+        "file_type": "Android",
+        "file_size": 68202,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.sectscans-v1.4.40.apk",
+        "hash": "a08bdc988e90ed052ac66bb9df663a3ec2d2322bdeb521c87db6a4b5ee21a684",
+        "link": "https://www.virustotal.com/gui/file/a08bdc988e90ed052ac66bb9df663a3ec2d2322bdeb521c87db6a4b5ee21a684",
+        "scan_date": 1740142151,
+        "positives": 0,
+        "total": 69,
+        "file_type": "Android",
+        "file_size": 78504,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.mangakomi-v1.4.45.apk",
+        "hash": "2a5c6b8cf7802d2fc5e748c57e4cb45d27ea880dc58252ddfd08a18073f0e6d6",
+        "link": "https://www.virustotal.com/gui/file/2a5c6b8cf7802d2fc5e748c57e4cb45d27ea880dc58252ddfd08a18073f0e6d6",
+        "scan_date": 1740163809,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 73946,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-es.manhwalatino-v1.4.48.apk",
+        "hash": "8a52de8486c0b30cc828327c8a4efc1722304f4c9863cd44d6c2c01e5435149d",
+        "link": "https://www.virustotal.com/gui/file/8a52de8486c0b30cc828327c8a4efc1722304f4c9863cd44d6c2c01e5435149d",
+        "scan_date": 1740121386,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 104894,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-es.mangacrab-v1.4.50.apk",
+        "hash": "412d2163383816869ce20f0798eb2acaca85c736cd48482cde3d1b298b527fc5",
+        "link": "https://www.virustotal.com/gui/file/412d2163383816869ce20f0798eb2acaca85c736cd48482cde3d1b298b527fc5",
+        "scan_date": 1740121330,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 133808,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-ru.mintmanga-v1.4.76.apk",
+        "hash": "8bcd254704da68dec90006675ae449c391d3de2aada21e6beb59235e684ab155",
+        "link": "https://www.virustotal.com/gui/file/8bcd254704da68dec90006675ae449c391d3de2aada21e6beb59235e684ab155",
+        "scan_date": 1740083469,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 94560,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.madaradex-v1.4.42.apk",
+        "hash": "a50a23d64bf962f654f7ab73dde0894f1d67b55044ca510a74826fbd71ddafb6",
+        "link": "https://www.virustotal.com/gui/file/a50a23d64bf962f654f7ab73dde0894f1d67b55044ca510a74826fbd71ddafb6",
+        "scan_date": 1740107803,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 67628,
+        "detected_by": {}
     }
 ]
