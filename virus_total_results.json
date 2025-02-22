@@ -77827,5 +77827,38 @@
         "file_type": "Android",
         "file_size": 72927,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-pt.limboscan-v1.4.40.apk",
+        "hash": "0112f6f3708ed278f3f6fb7eacab44c0757a61a25264adaa95738cc3610f0eb5",
+        "link": "https://www.virustotal.com/gui/file/0112f6f3708ed278f3f6fb7eacab44c0757a61a25264adaa95738cc3610f0eb5",
+        "scan_date": 1740185352,
+        "positives": 0,
+        "total": 70,
+        "file_type": "Android",
+        "file_size": 71479,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-es.emperorscan-v1.4.46.apk",
+        "hash": "0340a2855c78ed7dddaea9f9804213d431c81789b28933f01dcd3289cbf88ca8",
+        "link": "https://www.virustotal.com/gui/file/0340a2855c78ed7dddaea9f9804213d431c81789b28933f01dcd3289cbf88ca8",
+        "scan_date": 1740121292,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 143501,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.mangareadorg-v1.4.42.apk",
+        "hash": "50f4c859bc3b0633c74d419592b1cf3fd0e1b9738c9dc70eb8827fb40d5beb6e",
+        "link": "https://www.virustotal.com/gui/file/50f4c859bc3b0633c74d419592b1cf3fd0e1b9738c9dc70eb8827fb40d5beb6e",
+        "scan_date": 1740163857,
+        "positives": 0,
+        "total": 70,
+        "file_type": "Android",
+        "file_size": 97555,
+        "detected_by": {}
     }
 ]
