@@ -79048,5 +79048,71 @@
         "file_type": "Android",
         "file_size": 102360,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-all.deviantart-v1.4.6.apk",
+        "hash": "50c4dc5b3061eddf4825422d8a3808f57be7c905627b33f27b2d7288b899958f",
+        "link": "https://www.virustotal.com/gui/file/50c4dc5b3061eddf4825422d8a3808f57be7c905627b33f27b2d7288b899958f",
+        "scan_date": 1740355204,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 49582,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.manhuazonghe-v1.4.41.apk",
+        "hash": "35efe3a0af8754db4b70f21a2f6de3f9b6367783376bd0f735a66b2ab373cfea",
+        "link": "https://www.virustotal.com/gui/file/35efe3a0af8754db4b70f21a2f6de3f9b6367783376bd0f735a66b2ab373cfea",
+        "scan_date": 1740355205,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 101538,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.mangamo-v1.4.2.apk",
+        "hash": "52fdf039655c1d2f76159b373798fba2c15a1f2a7a795e7a7e883de01b05792c",
+        "link": "https://www.virustotal.com/gui/file/52fdf039655c1d2f76159b373798fba2c15a1f2a7a795e7a7e883de01b05792c",
+        "scan_date": 1740355206,
+        "positives": 0,
+        "total": 71,
+        "file_type": "Android",
+        "file_size": 86204,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-fr.lelmanga-v1.4.31.apk",
+        "hash": "01d35ce2a3645efe8076f4fd0d848e7d99e6194d776e8d0e839cdb57c02d3e2e",
+        "link": "https://www.virustotal.com/gui/file/01d35ce2a3645efe8076f4fd0d848e7d99e6194d776e8d0e839cdb57c02d3e2e",
+        "scan_date": 1740355207,
+        "positives": 0,
+        "total": 71,
+        "file_type": "Android",
+        "file_size": 72295,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.manhwafreakxyz-v1.4.40.apk",
+        "hash": "70ec1fadfa092ebdcc4dd77b2870d24080ee5552a1d8be2e8a28ae12cb686c17",
+        "link": "https://www.virustotal.com/gui/file/70ec1fadfa092ebdcc4dd77b2870d24080ee5552a1d8be2e8a28ae12cb686c17",
+        "scan_date": 1740355263,
+        "positives": 0,
+        "total": 71,
+        "file_type": "Android",
+        "file_size": 129493,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-tr.kuroimanga-v1.4.42.apk",
+        "hash": "d47fc98e76a8926c18c6aef7ca4e094b48bfe4258c370acb63dfff9de5056409",
+        "link": "https://www.virustotal.com/gui/file/d47fc98e76a8926c18c6aef7ca4e094b48bfe4258c370acb63dfff9de5056409",
+        "scan_date": 1740355265,
+        "positives": 0,
+        "total": 70,
+        "file_type": "Android",
+        "file_size": 132974,
+        "detected_by": {}
     }
 ]
