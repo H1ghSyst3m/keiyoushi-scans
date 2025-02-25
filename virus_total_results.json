@@ -79158,5 +79158,16 @@
         "file_type": "Android",
         "file_size": 71657,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-es.knightnoscanlation-v1.4.45.apk",
+        "hash": "4f8541e2c1416cb861d36d8f65c8a6e426d6ca87b1babfda1436e3366137433d",
+        "link": "https://www.virustotal.com/gui/file/4f8541e2c1416cb861d36d8f65c8a6e426d6ca87b1babfda1436e3366137433d",
+        "scan_date": 1740442267,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 94445,
+        "detected_by": {}
     }
 ]
