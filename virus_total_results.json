@@ -79345,5 +79345,27 @@
         "file_type": "Android",
         "file_size": 54647,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-es.senshimanga-v1.4.8.apk",
+        "hash": "a1ae6dcfb3ad286b1c14d823fb71628688d9eec4222635f77d3bc9c81ff1f9cf",
+        "link": "https://www.virustotal.com/gui/file/a1ae6dcfb3ad286b1c14d823fb71628688d9eec4222635f77d3bc9c81ff1f9cf",
+        "scan_date": 1740831193,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 59619,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-es.taikutsu-v1.4.3.apk",
+        "hash": "d005e8efc5b77542f2d3ad3cb5e26fd7edfb14d7bdd259af784a6ab9a5006efc",
+        "link": "https://www.virustotal.com/gui/file/d005e8efc5b77542f2d3ad3cb5e26fd7edfb14d7bdd259af784a6ab9a5006efc",
+        "scan_date": 1740831194,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 62618,
+        "detected_by": {}
     }
 ]
