@@ -79169,5 +79169,38 @@
         "file_type": "Android",
         "file_size": 94445,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-all.webtoonstranslate-v1.4.7.apk",
+        "hash": "2b4c338a57ca0cc4af77963ac1d5f6ca9495a25d7a3ac1f63c97a2dbb7a49caa",
+        "link": "https://www.virustotal.com/gui/file/2b4c338a57ca0cc4af77963ac1d5f6ca9495a25d7a3ac1f63c97a2dbb7a49caa",
+        "scan_date": 1740813301,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 72355,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-all.webtoons-v1.4.42.apk",
+        "hash": "0576423ed9d3d4a8df4d8172715f213b5dc3705de81c5d15d2da5a2c6442bd5c",
+        "link": "https://www.virustotal.com/gui/file/0576423ed9d3d4a8df4d8172715f213b5dc3705de81c5d15d2da5a2c6442bd5c",
+        "scan_date": 1740813244,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 76677,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.mangakakalot-v1.4.9.apk",
+        "hash": "3dca374fb84250d9f10af82ae6edcff9ffe29a1e3a19e65fae85dd6303725469",
+        "link": "https://www.virustotal.com/gui/file/3dca374fb84250d9f10af82ae6edcff9ffe29a1e3a19e65fae85dd6303725469",
+        "scan_date": 1740819677,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 97156,
+        "detected_by": {}
     }
 ]
