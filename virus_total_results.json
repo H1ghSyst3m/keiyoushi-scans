@@ -79455,5 +79455,16 @@
         "file_type": "Android",
         "file_size": 132339,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.aurorascans-v1.4.7.apk",
+        "hash": "e115647d3d8efc5d2196663e030abc8a2f6e23a668c776cdf9652ee803b7db0a",
+        "link": "https://www.virustotal.com/gui/file/e115647d3d8efc5d2196663e030abc8a2f6e23a668c776cdf9652ee803b7db0a",
+        "scan_date": 1741348805,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 99555,
+        "detected_by": {}
     }
 ]
