@@ -79466,5 +79466,16 @@
         "file_type": "Android",
         "file_size": 99555,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.artlapsa-v1.4.13.apk",
+        "hash": "6bdef720e5f65e89b5b2e49f1b8fef555b7473c2577a7013901ff7942f02f5a4",
+        "link": "https://www.virustotal.com/gui/file/6bdef720e5f65e89b5b2e49f1b8fef555b7473c2577a7013901ff7942f02f5a4",
+        "scan_date": 1741349409,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 75824,
+        "detected_by": {}
     }
 ]
