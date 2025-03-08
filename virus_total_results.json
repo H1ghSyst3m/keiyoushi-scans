@@ -79477,5 +79477,38 @@
         "file_type": "Android",
         "file_size": 75824,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-all.mangareaderto-v1.4.9.apk",
+        "hash": "44121c31143df00dbb0b36ca3209c8b8681053fac36049d755dff6e6c2f8373a",
+        "link": "https://www.virustotal.com/gui/file/44121c31143df00dbb0b36ca3209c8b8681053fac36049d755dff6e6c2f8373a",
+        "scan_date": 1741433174,
+        "positives": 0,
+        "total": 63,
+        "file_type": "Android",
+        "file_size": 77496,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-all.ehentai-v1.4.25.apk",
+        "hash": "b7fc55ae2a0a36e1e06f485355c26aa5cdb0f8ae84bcefa2e16a9a1770f65b67",
+        "link": "https://www.virustotal.com/gui/file/b7fc55ae2a0a36e1e06f485355c26aa5cdb0f8ae84bcefa2e16a9a1770f65b67",
+        "scan_date": 1741433167,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 58302,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-all.nhentai-v1.4.51.apk",
+        "hash": "922ac26a35815d4c8e3a307b3e55f641ec1e942b90c93c93c22b8ab93c3a5b2a",
+        "link": "https://www.virustotal.com/gui/file/922ac26a35815d4c8e3a307b3e55f641ec1e942b90c93c93c22b8ab93c3a5b2a",
+        "scan_date": 1741433177,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 65560,
+        "detected_by": {}
     }
 ]
