@@ -81897,5 +81897,27 @@
         "file_type": "Android",
         "file_size": 127424,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-ja.kisslove-v1.4.16.apk",
+        "hash": "e8ddc986b8a41c67f38cd3d78cebed4742875c823b67230616e22b77d33738d7",
+        "link": "https://www.virustotal.com/gui/file/e8ddc986b8a41c67f38cd3d78cebed4742875c823b67230616e22b77d33738d7",
+        "scan_date": 1741522691,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 70477,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.mangaforest-v1.4.19.apk",
+        "hash": "0f419d69efde5250adff6f9274b82c6f94f748bc785a8732d4cc64bd4858eb06",
+        "link": "https://www.virustotal.com/gui/file/0f419d69efde5250adff6f9274b82c6f94f748bc785a8732d4cc64bd4858eb06",
+        "scan_date": 1741522705,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 55456,
+        "detected_by": {}
     }
 ]
