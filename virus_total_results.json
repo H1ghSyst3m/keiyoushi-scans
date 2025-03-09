@@ -81512,5 +81512,27 @@
         "file_type": "Android",
         "file_size": 70477,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.ezmanga-v1.4.50.apk",
+        "hash": "ad1a3f03d69130fb6c1a5b7d16bc1f67f602d46434a014b08cd76176ee712690",
+        "link": "https://www.virustotal.com/gui/file/ad1a3f03d69130fb6c1a5b7d16bc1f67f602d46434a014b08cd76176ee712690",
+        "scan_date": 1741479919,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 109085,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-all.mangaplus-v1.4.54.apk",
+        "hash": "af9eee073ce432f82a9a6ecf974d4450ec2dae73246bd49a20b3996db10021b7",
+        "link": "https://www.virustotal.com/gui/file/af9eee073ce432f82a9a6ecf974d4450ec2dae73246bd49a20b3996db10021b7",
+        "scan_date": 1741479936,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 102553,
+        "detected_by": {}
     }
 ]
