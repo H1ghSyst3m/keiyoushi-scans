@@ -81930,5 +81930,27 @@
         "file_type": "Android",
         "file_size": 37556,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.mangadistrict-v1.4.50.apk",
+        "hash": "df2053bda8127e06c534d39b97b47f61f429b819eb0701a0c2d78dc85b8eb5ae",
+        "link": "https://www.virustotal.com/gui/file/df2053bda8127e06c534d39b97b47f61f429b819eb0701a0c2d78dc85b8eb5ae",
+        "scan_date": 1741737603,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 106478,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-pt.diskusscan-v1.4.44.apk",
+        "hash": "f3c5ce83d8bd29437285ae7fb795c981d253dc118780df2ecf688a25cc988331",
+        "link": "https://www.virustotal.com/gui/file/f3c5ce83d8bd29437285ae7fb795c981d253dc118780df2ecf688a25cc988331",
+        "scan_date": 1741737605,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 77966,
+        "detected_by": {}
     }
 ]
