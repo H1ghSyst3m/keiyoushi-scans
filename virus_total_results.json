@@ -82018,5 +82018,27 @@
         "file_type": "Android",
         "file_size": 95262,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-es.inarimanga-v1.4.51.apk",
+        "hash": "237dcf805e3e6acf610bbe6455bf82a1753b0e53f8c428e5b76509ba4ff61f63",
+        "link": "https://www.virustotal.com/gui/file/237dcf805e3e6acf610bbe6455bf82a1753b0e53f8c428e5b76509ba4ff61f63",
+        "scan_date": 1741867809,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 112598,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-es.olympusscanlation-v1.4.15.apk",
+        "hash": "5234ae803e4e8b0238969929450988c2b334644b40d3b35ee0c45297a33ae73b",
+        "link": "https://www.virustotal.com/gui/file/5234ae803e4e8b0238969929450988c2b334644b40d3b35ee0c45297a33ae73b",
+        "scan_date": 1741867811,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 99519,
+        "detected_by": {}
     }
 ]
