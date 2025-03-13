@@ -82007,5 +82007,16 @@
         "file_type": "Android",
         "file_size": 98381,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-id.shinigami-v1.4.72.apk",
+        "hash": "0ea2c1d9e81120177d454a776a79fcefb11b3ed0d2a652b5a207c107f8e7deed",
+        "link": "https://www.virustotal.com/gui/file/0ea2c1d9e81120177d454a776a79fcefb11b3ed0d2a652b5a207c107f8e7deed",
+        "scan_date": 1741867204,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 95262,
+        "detected_by": {}
     }
 ]
