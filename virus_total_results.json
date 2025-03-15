@@ -82040,5 +82040,27 @@
         "file_type": "Android",
         "file_size": 99519,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.manhuatop-v1.4.41.apk",
+        "hash": "6bb0b86297ca1fbb7d21d1d649618ef4c797631fbf02005254a2f5d19202bffb",
+        "link": "https://www.virustotal.com/gui/file/6bb0b86297ca1fbb7d21d1d649618ef4c797631fbf02005254a2f5d19202bffb",
+        "scan_date": 1741959803,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 117670,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-es.mangacrab-v1.4.53.apk",
+        "hash": "dd515f5bcb5922b6f1b701819b2cd805e86c4d03b3f809d9ced4074b19ec69be",
+        "link": "https://www.virustotal.com/gui/file/dd515f5bcb5922b6f1b701819b2cd805e86c4d03b3f809d9ced4074b19ec69be",
+        "scan_date": 1741986444,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 136767,
+        "detected_by": {}
     }
 ]
