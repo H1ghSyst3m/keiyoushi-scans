@@ -87377,5 +87377,16 @@
         "file_type": "Android",
         "file_size": 62903,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-pt.tiamanhwa-v1.4.41.apk",
+        "hash": "f3a241e6014abfc2753c34c412af17abff3063a9f0481328b801d3b55134187a",
+        "link": "https://www.virustotal.com/gui/file/f3a241e6014abfc2753c34c412af17abff3063a9f0481328b801d3b55134187a",
+        "scan_date": 1742256730,
+        "positives": 0,
+        "total": 64,
+        "file_type": "Android",
+        "file_size": 160124,
+        "detected_by": {}
     }
 ]
