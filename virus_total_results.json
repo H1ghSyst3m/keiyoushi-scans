@@ -87300,5 +87300,82 @@
         "file_type": "Android",
         "file_size": 102232,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-tr.ruyamanga-v1.4.45.apk",
+        "hash": "5c67954d9ef88c299ebad860e15f05962e9bc45e5d99c4030f24370491fbd899",
+        "link": "https://www.virustotal.com/gui/file/5c67954d9ef88c299ebad860e15f05962e9bc45e5d99c4030f24370491fbd899",
+        "scan_date": 1742256005,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 133766,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-pt.pinkrosa-v1.4.10.apk",
+        "hash": "4c16563d47cbd4b2f418e22fa9ec0a7cf0f1930a1ac47096078e5bd9c0b7e361",
+        "link": "https://www.virustotal.com/gui/file/4c16563d47cbd4b2f418e22fa9ec0a7cf0f1930a1ac47096078e5bd9c0b7e361",
+        "scan_date": 1742256006,
+        "positives": 0,
+        "total": 61,
+        "file_type": "Android",
+        "file_size": 68666,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-vi.dualeotruyen-v1.4.8.apk",
+        "hash": "5054cf8bda97465d7b6377e6c581e105f97d38ee25804b18978ca894d415af46",
+        "link": "https://www.virustotal.com/gui/file/5054cf8bda97465d7b6377e6c581e105f97d38ee25804b18978ca894d415af46",
+        "scan_date": 1742256008,
+        "positives": 0,
+        "total": 62,
+        "file_type": "Android",
+        "file_size": 53482,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-all.comickfun-v1.4.55.apk",
+        "hash": "d131386187f47bc460feae7837b663b1377735fdad27ff8019b64c7a793c9a25",
+        "link": "https://www.virustotal.com/gui/file/d131386187f47bc460feae7837b663b1377735fdad27ff8019b64c7a793c9a25",
+        "scan_date": 1742256010,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 111427,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-pt.pointzerotoons-v1.4.30.apk",
+        "hash": "e5bcbf1e3595157d568fbb553758761a0f22b15769d0c55bc4ef34176bf8b8c7",
+        "link": "https://www.virustotal.com/gui/file/e5bcbf1e3595157d568fbb553758761a0f22b15769d0c55bc4ef34176bf8b8c7",
+        "scan_date": 1742256064,
+        "positives": 0,
+        "total": 61,
+        "file_type": "Android",
+        "file_size": 82930,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-pt.windscan-v1.4.41.apk",
+        "hash": "d4f3fe1ef59026943ab68161634c3207b0b3dd9e6023b6789e34ae1681f7a3d8",
+        "link": "https://www.virustotal.com/gui/file/d4f3fe1ef59026943ab68161634c3207b0b3dd9e6023b6789e34ae1681f7a3d8",
+        "scan_date": 1742256067,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 141120,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-pt.osakascan-v1.4.10.apk",
+        "hash": "2e5e4647095ebfc57860f15a68ed959078ad7709f4051ad7dcc8004a116b9eb1",
+        "link": "https://www.virustotal.com/gui/file/2e5e4647095ebfc57860f15a68ed959078ad7709f4051ad7dcc8004a116b9eb1",
+        "scan_date": 1742256068,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 62903,
+        "detected_by": {}
     }
 ]
