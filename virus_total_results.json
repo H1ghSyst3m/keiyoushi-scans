@@ -87289,5 +87289,16 @@
         "file_type": "Android",
         "file_size": 48461,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-es.manhuaonline-v1.4.54.apk",
+        "hash": "5d70f767fba8762898e9697247de314d5f05d80272b91e3feaa515923fd8c229",
+        "link": "https://www.virustotal.com/gui/file/5d70f767fba8762898e9697247de314d5f05d80272b91e3feaa515923fd8c229",
+        "scan_date": 1742248081,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 102232,
+        "detected_by": {}
     }
 ]
