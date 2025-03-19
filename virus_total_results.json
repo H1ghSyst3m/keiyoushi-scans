@@ -87399,5 +87399,82 @@
         "file_type": "Android",
         "file_size": 75165,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-ar.mangapro-v1.4.36.apk",
+        "hash": "da9da9c72120153bafcaf7f34c5b40984e3fb4566b26eb96641b5ed8c4673deb",
+        "link": "https://www.virustotal.com/gui/file/da9da9c72120153bafcaf7f34c5b40984e3fb4566b26eb96641b5ed8c4673deb",
+        "scan_date": 1742342404,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 71835,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.infernalvoidscans-v1.4.45.apk",
+        "hash": "da096b048972bd0088fe458b12648f6b75b5ea1db1ee556de316ad7c047cd16c",
+        "link": "https://www.virustotal.com/gui/file/da096b048972bd0088fe458b12648f6b75b5ea1db1ee556de316ad7c047cd16c",
+        "scan_date": 1742342405,
+        "positives": 0,
+        "total": 64,
+        "file_type": "Android",
+        "file_size": 70349,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-vi.doctruyen3q-v1.4.12.apk",
+        "hash": "3b7a78f8c621654e847f9b956e3b41348cce2d89f894703ffb4a1b65ce08ec74",
+        "link": "https://www.virustotal.com/gui/file/3b7a78f8c621654e847f9b956e3b41348cce2d89f894703ffb4a1b65ce08ec74",
+        "scan_date": 1742342407,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 65729,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-zh.yidan-v1.4.5.apk",
+        "hash": "2caa363712fc2ecf7911e1bf86fa696d08f0528049cbd25cf28a92f5fc66de2c",
+        "link": "https://www.virustotal.com/gui/file/2caa363712fc2ecf7911e1bf86fa696d08f0528049cbd25cf28a92f5fc66de2c",
+        "scan_date": 1742342409,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 85098,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.nyxscans-v1.4.8.apk",
+        "hash": "196ed4b3f77a38d7b4d808f726905dd403cb23aae1642b5d2e77618903b2649e",
+        "link": "https://www.virustotal.com/gui/file/196ed4b3f77a38d7b4d808f726905dd403cb23aae1642b5d2e77618903b2649e",
+        "scan_date": 1742342464,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 95560,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.arvenscans-v1.4.44.apk",
+        "hash": "be24abe5397cef7b6e0e841ce7384956cfac515747b10fb29df681e7a1698f1f",
+        "link": "https://www.virustotal.com/gui/file/be24abe5397cef7b6e0e841ce7384956cfac515747b10fb29df681e7a1698f1f",
+        "scan_date": 1742342466,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 132176,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.aurorascans-v1.4.8.apk",
+        "hash": "7fe0947bd8e31bde5e9f997c5dd4fb09ffbf1af7bbfb4d0dc16e48f8e29538ae",
+        "link": "https://www.virustotal.com/gui/file/7fe0947bd8e31bde5e9f997c5dd4fb09ffbf1af7bbfb4d0dc16e48f8e29538ae",
+        "scan_date": 1742342467,
+        "positives": 0,
+        "total": 60,
+        "file_type": "Android",
+        "file_size": 99386,
+        "detected_by": {}
     }
 ]
