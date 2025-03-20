@@ -87520,5 +87520,38 @@
         "file_type": "Android",
         "file_size": 117567,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-vi.toptruyen-v1.4.16.apk",
+        "hash": "d26c8823f7bc99c4323f185d417655f0465cb9b62411b5d02534e2e48fa8d5fc",
+        "link": "https://www.virustotal.com/gui/file/d26c8823f7bc99c4323f185d417655f0465cb9b62411b5d02534e2e48fa8d5fc",
+        "scan_date": 1742472004,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 71761,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.arvenscans-v1.4.45.apk",
+        "hash": "1fae07fd2fc14d8fd8a74b95df84d65ec33198faa04639ace115671bf9ff6364",
+        "link": "https://www.virustotal.com/gui/file/1fae07fd2fc14d8fd8a74b95df84d65ec33198faa04639ace115671bf9ff6364",
+        "scan_date": 1742472005,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 132270,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.egscomics-v1.4.1.apk",
+        "hash": "04151f00831c2278b4b83e56383c3a9ccbe61e3075503e96474def05b9852d30",
+        "link": "https://www.virustotal.com/gui/file/04151f00831c2278b4b83e56383c3a9ccbe61e3075503e96474def05b9852d30",
+        "scan_date": 1742472007,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 65593,
+        "detected_by": {}
     }
 ]
