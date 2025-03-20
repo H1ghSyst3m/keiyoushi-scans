@@ -87476,5 +87476,27 @@
         "file_type": "Android",
         "file_size": 99386,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.lilymanga-v1.4.45.apk",
+        "hash": "dc097fdc4a25c8a7c18ff2461892fd18f7f2a3fd4e0e55bd98ba242a4492c31e",
+        "link": "https://www.virustotal.com/gui/file/dc097fdc4a25c8a7c18ff2461892fd18f7f2a3fd4e0e55bd98ba242a4492c31e",
+        "scan_date": 1742428807,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 104542,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.weebcentral-v1.4.13.apk",
+        "hash": "7c044c341c17a05cc596076468c7d0e4956aea6f9282ae235d823fd0707392ff",
+        "link": "https://www.virustotal.com/gui/file/7c044c341c17a05cc596076468c7d0e4956aea6f9282ae235d823fd0707392ff",
+        "scan_date": 1742428809,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 72424,
+        "detected_by": {}
     }
 ]
