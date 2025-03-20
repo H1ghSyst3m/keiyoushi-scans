@@ -87498,5 +87498,27 @@
         "file_type": "Android",
         "file_size": 72424,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-pt.taiyo-v1.4.7.apk",
+        "hash": "fabd6b8f0c5700d426a8fe976d7c6e2c766d62f78bdd0f268e92cb4405386215",
+        "link": "https://www.virustotal.com/gui/file/fabd6b8f0c5700d426a8fe976d7c6e2c766d62f78bdd0f268e92cb4405386215",
+        "scan_date": 1742429466,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 64634,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-id.otascans-v1.4.31.apk",
+        "hash": "803e503c3336c1e6706aec478304c0d317913181e168188cfc07511e65f58933",
+        "link": "https://www.virustotal.com/gui/file/803e503c3336c1e6706aec478304c0d317913181e168188cfc07511e65f58933",
+        "scan_date": 1742429467,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 117567,
+        "detected_by": {}
     }
 ]
