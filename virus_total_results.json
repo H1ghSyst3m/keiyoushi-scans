@@ -88554,5 +88554,49 @@
         "file_type": "Android",
         "file_size": 60620,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-all.coomer-v1.4.20.apk",
+        "hash": "8db38877cacfe24cb17f72f785ac2ef594f892f8f6426e6fb7bf15048e311dc0",
+        "link": "https://www.virustotal.com/gui/file/8db38877cacfe24cb17f72f785ac2ef594f892f8f6426e6fb7bf15048e311dc0",
+        "scan_date": 1742776275,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 57662,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-all.izneo-v1.4.7.apk",
+        "hash": "377df308c2813dcdb651d63631579949968b6586f569648949330645407c41ae",
+        "link": "https://www.virustotal.com/gui/file/377df308c2813dcdb651d63631579949968b6586f569648949330645407c41ae",
+        "scan_date": 1742776281,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 64038,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-it.mangaworld-v1.4.10.apk",
+        "hash": "7e57556f7c551e597e19ef0f4f8357e551838d8007e8bad00b7b9d36019becff",
+        "link": "https://www.virustotal.com/gui/file/7e57556f7c551e597e19ef0f4f8357e551838d8007e8bad00b7b9d36019becff",
+        "scan_date": 1742776307,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 48253,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-es.ravenmanga-v1.4.4.apk",
+        "hash": "626ff3177b2997f843ca27d620d5bc18f2b59436d9fd6cad2b179c8bd0c6aa81",
+        "link": "https://www.virustotal.com/gui/file/626ff3177b2997f843ca27d620d5bc18f2b59436d9fd6cad2b179c8bd0c6aa81",
+        "scan_date": 1742776308,
+        "positives": 0,
+        "total": 62,
+        "file_type": "Android",
+        "file_size": 72241,
+        "detected_by": {}
     }
 ]
