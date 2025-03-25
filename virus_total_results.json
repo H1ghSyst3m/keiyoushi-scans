@@ -88829,5 +88829,38 @@
         "file_type": "Android",
         "file_size": 68443,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.suryascans-v1.4.45.apk",
+        "hash": "bbba13d9d5a2df787f78d2cfbb694669ad4b32b72e6ad58965e9d5b6319b8085",
+        "link": "https://www.virustotal.com/gui/file/bbba13d9d5a2df787f78d2cfbb694669ad4b32b72e6ad58965e9d5b6319b8085",
+        "scan_date": 1742904916,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 75274,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-fr.reaperscans-v1.4.19.apk",
+        "hash": "97e059b179f8ac2f24863a256544194b97ccf9425e32845afff7668db2849ab5",
+        "link": "https://www.virustotal.com/gui/file/97e059b179f8ac2f24863a256544194b97ccf9425e32845afff7668db2849ab5",
+        "scan_date": 1742904917,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 69395,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.casacomic-v1.4.15.apk",
+        "hash": "cad143c3d162e65bf92bbd2d143ce8f9a026838a1aee3d7caf97e023778fb9eb",
+        "link": "https://www.virustotal.com/gui/file/cad143c3d162e65bf92bbd2d143ce8f9a026838a1aee3d7caf97e023778fb9eb",
+        "scan_date": 1742904921,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 62326,
+        "detected_by": {}
     }
 ]
