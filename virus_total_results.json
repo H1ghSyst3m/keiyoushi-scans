@@ -88598,5 +88598,16 @@
         "file_type": "Android",
         "file_size": 72241,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-es.nartag-v1.4.44.apk",
+        "hash": "c606c7b9bde7f0548949b28f5d415920aa995208670f47b38dae34dcb2acc14b",
+        "link": "https://www.virustotal.com/gui/file/c606c7b9bde7f0548949b28f5d415920aa995208670f47b38dae34dcb2acc14b",
+        "scan_date": 1742860809,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 112625,
+        "detected_by": {}
     }
 ]
