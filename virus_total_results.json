@@ -89137,5 +89137,16 @@
         "file_type": "Android",
         "file_size": 68832,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.dxdscans-v1.4.16.apk",
+        "hash": "32e5eddcf2c832e6c67d8dd3f640a6e390b6c0ded9c8550bbb5eea408778d712",
+        "link": "https://www.virustotal.com/gui/file/32e5eddcf2c832e6c67d8dd3f640a6e390b6c0ded9c8550bbb5eea408778d712",
+        "scan_date": 1743164180,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 88895,
+        "detected_by": {}
     }
 ]
