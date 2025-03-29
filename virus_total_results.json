@@ -89148,5 +89148,49 @@
         "file_type": "Android",
         "file_size": 88895,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.arvencomics-v1.4.42.apk",
+        "hash": "3bfb9b528843f4f3f1dcfd3bfc231e62092c55036d1819e9a7297bb63ba6b050",
+        "link": "https://www.virustotal.com/gui/file/3bfb9b528843f4f3f1dcfd3bfc231e62092c55036d1819e9a7297bb63ba6b050",
+        "scan_date": 1743249604,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 70922,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-vi.doctruyen3q-v1.4.13.apk",
+        "hash": "a1f418e5b8495f42014a880134fb108e50ab3e00e376950867b458d6f64b7516",
+        "link": "https://www.virustotal.com/gui/file/a1f418e5b8495f42014a880134fb108e50ab3e00e376950867b458d6f64b7516",
+        "scan_date": 1743249606,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 65788,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-vi.teamlanhlung-v1.4.22.apk",
+        "hash": "01f7abdbc8ef2e6c6b65e71e5166309747b1281f50759ec6fbd57bbb3fcc566a",
+        "link": "https://www.virustotal.com/gui/file/01f7abdbc8ef2e6c6b65e71e5166309747b1281f50759ec6fbd57bbb3fcc566a",
+        "scan_date": 1743249607,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 64511,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-all.koharu-v1.4.14.apk",
+        "hash": "6df1b0d24e43525e82037de41df9407bf8d6d9697b89d76980ab39afbf41d9e6",
+        "link": "https://www.virustotal.com/gui/file/6df1b0d24e43525e82037de41df9407bf8d6d9697b89d76980ab39afbf41d9e6",
+        "scan_date": 1743249608,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 126168,
+        "detected_by": {}
     }
 ]
