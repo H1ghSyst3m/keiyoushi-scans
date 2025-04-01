@@ -89203,5 +89203,203 @@
         "file_type": "Android",
         "file_size": 72684,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.manhuasite-v1.4.18.apk",
+        "hash": "4fede99953495f2236bc22e2db2ca54dca8b383e9e22ebe6d915b132140e6061",
+        "link": "https://www.virustotal.com/gui/file/4fede99953495f2236bc22e2db2ca54dca8b383e9e22ebe6d915b132140e6061",
+        "scan_date": 1743465605,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 56027,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.manhuarm-v1.4.41.apk",
+        "hash": "b85b35563a719b95e79301f83784210af309db16381caf17e3250567f84eebde",
+        "link": "https://www.virustotal.com/gui/file/b85b35563a719b95e79301f83784210af309db16381caf17e3250567f84eebde",
+        "scan_date": 1743465606,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 79742,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-all.baobua-v1.4.1.apk",
+        "hash": "8435dca1a75b208d8a2ede91b9e8551374e3cc1428885b4479f0cf66665d792e",
+        "link": "https://www.virustotal.com/gui/file/8435dca1a75b208d8a2ede91b9e8551374e3cc1428885b4479f0cf66665d792e",
+        "scan_date": 1743465608,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 55933,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-all.misskon-v1.4.1.apk",
+        "hash": "4ff431a1e6ac5c93d6ecb5468f1d9de1768ef96a8ebca0f2b43ce3107fff2a74",
+        "link": "https://www.virustotal.com/gui/file/4ff431a1e6ac5c93d6ecb5468f1d9de1768ef96a8ebca0f2b43ce3107fff2a74",
+        "scan_date": 1743465610,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 60583,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.mangasaga-v1.4.18.apk",
+        "hash": "895770cb239be8583c93fae847b77f24785c267ca6c44ac4ac4b4fd9764a85cf",
+        "link": "https://www.virustotal.com/gui/file/895770cb239be8583c93fae847b77f24785c267ca6c44ac4ac4b4fd9764a85cf",
+        "scan_date": 1743465663,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 58113,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.manhuanow-v1.4.18.apk",
+        "hash": "3737fcaaf7390377b7d5461dfe7fd3a8d57331204497a1a1cd3da74481045f21",
+        "link": "https://www.virustotal.com/gui/file/3737fcaaf7390377b7d5461dfe7fd3a8d57331204497a1a1cd3da74481045f21",
+        "scan_date": 1743465665,
+        "positives": 0,
+        "total": 62,
+        "file_type": "Android",
+        "file_size": 56033,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-tr.domalfansub-v1.4.44.apk",
+        "hash": "8d57d771df79de7097fd0cf5cdd06b86a27a5de5c1446c29b8debccc871b94fb",
+        "link": "https://www.virustotal.com/gui/file/8d57d771df79de7097fd0cf5cdd06b86a27a5de5c1446c29b8debccc871b94fb",
+        "scan_date": 1743465666,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 122320,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-zh.dmzj-v1.4.45.apk",
+        "hash": "80fff6d1af5eb5ac471ecb653ada164a8f9d9822d2c4d2736ba5485f201433a9",
+        "link": "https://www.virustotal.com/gui/file/80fff6d1af5eb5ac471ecb653ada164a8f9d9822d2c4d2736ba5485f201433a9",
+        "scan_date": 1743465668,
+        "positives": 0,
+        "total": 62,
+        "file_type": "Android",
+        "file_size": 94233,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.mangaspin-v1.4.18.apk",
+        "hash": "71e75d7a8d941cae391f64aab02cb658594f0d9ea21ac64829727854944893b2",
+        "link": "https://www.virustotal.com/gui/file/71e75d7a8d941cae391f64aab02cb658594f0d9ea21ac64829727854944893b2",
+        "scan_date": 1743465723,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 49129,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-tr.summertoon-v1.4.41.apk",
+        "hash": "178ba0684ec9e7602123ac8c2a2b1de648c409641ab834d1c49c402e1763dea5",
+        "link": "https://www.virustotal.com/gui/file/178ba0684ec9e7602123ac8c2a2b1de648c409641ab834d1c49c402e1763dea5",
+        "scan_date": 1743465725,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 113661,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.apcomics-v1.4.41.apk",
+        "hash": "5b138888ab0e2cff65fb698a0772fcd5d08dc3471daff19254cb4923ba8ef4fa",
+        "link": "https://www.virustotal.com/gui/file/5b138888ab0e2cff65fb698a0772fcd5d08dc3471daff19254cb4923ba8ef4fa",
+        "scan_date": 1743465726,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 95649,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-pt.readmangas-v1.4.40.apk",
+        "hash": "6c425f7d1dc0a4856d59bdcb31d075f16dcba5cab5ffd2409b6594cd363555db",
+        "link": "https://www.virustotal.com/gui/file/6c425f7d1dc0a4856d59bdcb31d075f16dcba5cab5ffd2409b6594cd363555db",
+        "scan_date": 1743465728,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 162952,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.mangakakalot-v1.4.12.apk",
+        "hash": "fe9530f5dd835f33cb68759a3f540062ff04e3dd3e19daddc51aab252cd7a795",
+        "link": "https://www.virustotal.com/gui/file/fe9530f5dd835f33cb68759a3f540062ff04e3dd3e19daddc51aab252cd7a795",
+        "scan_date": 1743465784,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 98876,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.mangafab-v1.4.18.apk",
+        "hash": "33419e2639158ac34a912c2d91f457092e0410748ca856a67664703402194450",
+        "link": "https://www.virustotal.com/gui/file/33419e2639158ac34a912c2d91f457092e0410748ca856a67664703402194450",
+        "scan_date": 1743465786,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 49242,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-pt.gekkouscans-v1.4.42.apk",
+        "hash": "3c2035ce0af4cf56d15d089ab7bb6673e0f432ad50a519871ae9ab2650bf880e",
+        "link": "https://www.virustotal.com/gui/file/3c2035ce0af4cf56d15d089ab7bb6673e0f432ad50a519871ae9ab2650bf880e",
+        "scan_date": 1743465788,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 67416,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-tr.alucardscans-v1.4.30.apk",
+        "hash": "40f4229e78ab5d3fdc4773cb1399641e97a5c73e1093dd698272a60a4858b242",
+        "link": "https://www.virustotal.com/gui/file/40f4229e78ab5d3fdc4773cb1399641e97a5c73e1093dd698272a60a4858b242",
+        "scan_date": 1743465844,
+        "positives": 0,
+        "total": 63,
+        "file_type": "Android",
+        "file_size": 76687,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.mangabat-v1.4.13.apk",
+        "hash": "1e45b8a2218162e1a3d59d9681c6febe11dc08bd7584633f1049ab9322e52b0f",
+        "link": "https://www.virustotal.com/gui/file/1e45b8a2218162e1a3d59d9681c6febe11dc08bd7584633f1049ab9322e52b0f",
+        "scan_date": 1743465845,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 56497,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-tr.mindafansub-v1.4.42.apk",
+        "hash": "dc713d430e5750e4c0facccbe1fe96d747cfac77de7f2c564ffbacc72e360204",
+        "link": "https://www.virustotal.com/gui/file/dc713d430e5750e4c0facccbe1fe96d747cfac77de7f2c564ffbacc72e360204",
+        "scan_date": 1743465846,
+        "positives": 0,
+        "total": 64,
+        "file_type": "Android",
+        "file_size": 169133,
+        "detected_by": {}
     }
 ]
