@@ -89522,5 +89522,71 @@
         "file_type": "Android",
         "file_size": 84587,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-vi.hentaivnplus-v1.4.51.apk",
+        "hash": "508ac2000d70478eef3ea798ecd94a13aa89b99f613589733c9e9927d93af4be",
+        "link": "https://www.virustotal.com/gui/file/508ac2000d70478eef3ea798ecd94a13aa89b99f613589733c9e9927d93af4be",
+        "scan_date": 1743768004,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 127481,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-vi.hentaicube-v1.4.56.apk",
+        "hash": "bf3b21ddf1a3ba8b854dd9131cd72be8724dc9d0e4cb93213e8a19983e7c09f7",
+        "link": "https://www.virustotal.com/gui/file/bf3b21ddf1a3ba8b854dd9131cd72be8724dc9d0e4cb93213e8a19983e7c09f7",
+        "scan_date": 1743768005,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 79162,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-all.batoto-v1.4.50.apk",
+        "hash": "6001331f8ffbe5257ce606f8d67774e8397b2c07addaa7300a7d3f2242b3b672",
+        "link": "https://www.virustotal.com/gui/file/6001331f8ffbe5257ce606f8d67774e8397b2c07addaa7300a7d3f2242b3b672",
+        "scan_date": 1743768006,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 74022,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-ar.stormx-v1.4.30.apk",
+        "hash": "dc4964c0c907a269da48e733dedf97f0514ea1d80339155aab548b7b78cd8f34",
+        "link": "https://www.virustotal.com/gui/file/dc4964c0c907a269da48e733dedf97f0514ea1d80339155aab548b7b78cd8f34",
+        "scan_date": 1743768008,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 70978,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-pt.mangalivre-v1.4.42.apk",
+        "hash": "99c60c0d26c12e23f47b0e4cf4f4d4fd236f5291d9ad4272aa06b3b533479fb6",
+        "link": "https://www.virustotal.com/gui/file/99c60c0d26c12e23f47b0e4cf4f4d4fd236f5291d9ad4272aa06b3b533479fb6",
+        "scan_date": 1743768063,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 75219,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-tr.mangatilkisi-v1.4.43.apk",
+        "hash": "1efe83a1cb41ed120ca17db16ead88b681d86e866a5c7245706f94844464be06",
+        "link": "https://www.virustotal.com/gui/file/1efe83a1cb41ed120ca17db16ead88b681d86e866a5c7245706f94844464be06",
+        "scan_date": 1743768065,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 123239,
+        "detected_by": {}
     }
 ]
