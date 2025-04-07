@@ -91018,5 +91018,16 @@
         "file_type": "Android",
         "file_size": 76722,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-fr.scanhentaimenu-v1.4.44.apk",
+        "hash": "ab7e6b7b7c13803a27e42884ade19df5bdeb9631345463a13f6b6c82d77551be",
+        "link": "https://www.virustotal.com/gui/file/ab7e6b7b7c13803a27e42884ade19df5bdeb9631345463a13f6b6c82d77551be",
+        "scan_date": 1743943871,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 64580,
+        "detected_by": {}
     }
 ]
