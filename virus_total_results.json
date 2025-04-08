@@ -94551,5 +94551,27 @@
         "file_type": "Android",
         "file_size": 101404,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.yaoiscan-v1.4.42.apk",
+        "hash": "60cd530e6601b3bbd3783fc743a4b423edc1c596b9ae33dd7f70ae81f9f3e281",
+        "link": "https://www.virustotal.com/gui/file/60cd530e6601b3bbd3783fc743a4b423edc1c596b9ae33dd7f70ae81f9f3e281",
+        "scan_date": 1744072098,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 82732,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-es.inventariooculto-v1.4.42.apk",
+        "hash": "251ef9d5195fc5be17dbef938308f0b82fbd23b3d7343b6ba6d076facf9cfd75",
+        "link": "https://www.virustotal.com/gui/file/251ef9d5195fc5be17dbef938308f0b82fbd23b3d7343b6ba6d076facf9cfd75",
+        "scan_date": 1744072124,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 76341,
+        "detected_by": {}
     }
 ]
