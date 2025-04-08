@@ -93647,5 +93647,38 @@
         "file_type": "Android",
         "file_size": 68007,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-vi.truyenqq-v1.4.18.apk",
+        "hash": "cb5aa59b09c9dad7e6c799f7300257842b687904e5d60897078ce71e7986891f",
+        "link": "https://www.virustotal.com/gui/file/cb5aa59b09c9dad7e6c799f7300257842b687904e5d60897078ce71e7986891f",
+        "scan_date": 1744030209,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 57154,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.woopread-v1.4.43.apk",
+        "hash": "81e7e480932e021544074fadc3cce5eb8411b1db7af1b4b879824513b08d8866",
+        "link": "https://www.virustotal.com/gui/file/81e7e480932e021544074fadc3cce5eb8411b1db7af1b4b879824513b08d8866",
+        "scan_date": 1744029603,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 92923,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-es.templescanesp-v1.4.42.apk",
+        "hash": "2b883441fe148afa4a62fc0f7468e9e8ae3f2bf1149730629ebb49cfd43dfee6",
+        "link": "https://www.virustotal.com/gui/file/2b883441fe148afa4a62fc0f7468e9e8ae3f2bf1149730629ebb49cfd43dfee6",
+        "scan_date": 1744000871,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 101137,
+        "detected_by": {}
     }
 ]
