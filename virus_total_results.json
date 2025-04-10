@@ -94584,5 +94584,16 @@
         "file_type": "Android",
         "file_size": 74945,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-all.deviantart-v1.4.8.apk",
+        "hash": "ce7f1d6730b885994fffe1a314c439df696ac55add49b0111ce30d6bc8593aec",
+        "link": "https://www.virustotal.com/gui/file/ce7f1d6730b885994fffe1a314c439df696ac55add49b0111ce30d6bc8593aec",
+        "scan_date": 1744243204,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 49542,
+        "detected_by": {}
     }
 ]
