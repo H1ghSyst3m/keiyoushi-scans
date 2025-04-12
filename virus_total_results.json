@@ -94672,5 +94672,71 @@
         "file_type": "Android",
         "file_size": 88378,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-vi.vlogtruyen-v1.4.9.apk",
+        "hash": "89f9064c64d7b90e124755b2de4fa1d8996cd395c207277596b7304da5423bc0",
+        "link": "https://www.virustotal.com/gui/file/89f9064c64d7b90e124755b2de4fa1d8996cd395c207277596b7304da5423bc0",
+        "scan_date": 1744459203,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 72796,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.readcomiconline-v1.4.30.apk",
+        "hash": "871b6a4f828f6d9198e7b866338162bd0fd80587d721557613909eaaaa535fe8",
+        "link": "https://www.virustotal.com/gui/file/871b6a4f828f6d9198e7b866338162bd0fd80587d721557613909eaaaa535fe8",
+        "scan_date": 1744459204,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 67655,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-all.coomer-v1.4.21.apk",
+        "hash": "0f421e3dbcfaf27a8e88ee45e8a9830d2d21c09ac59b8a84c18361f94d466c25",
+        "link": "https://www.virustotal.com/gui/file/0f421e3dbcfaf27a8e88ee45e8a9830d2d21c09ac59b8a84c18361f94d466c25",
+        "scan_date": 1744459206,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 57972,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-es.lectorjpg-v1.4.42.apk",
+        "hash": "7ee2c640e5a6199cc387762a164de61ba3962b9108ae25aef8d5afe11ef798e1",
+        "link": "https://www.virustotal.com/gui/file/7ee2c640e5a6199cc387762a164de61ba3962b9108ae25aef8d5afe11ef798e1",
+        "scan_date": 1744459207,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 104126,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.batcave-v1.4.3.apk",
+        "hash": "2e52b88c84b30f4eadd7f7639274de0ccadce144f60b4adebad918f68cfd2cc8",
+        "link": "https://www.virustotal.com/gui/file/2e52b88c84b30f4eadd7f7639274de0ccadce144f60b4adebad918f68cfd2cc8",
+        "scan_date": 1744459263,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 51709,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-all.kemono-v1.4.21.apk",
+        "hash": "0c581a741b5a312c3c861af42a14817d30eb47afa84608fe0ff9a020eeda2a39",
+        "link": "https://www.virustotal.com/gui/file/0c581a741b5a312c3c861af42a14817d30eb47afa84608fe0ff9a020eeda2a39",
+        "scan_date": 1744459264,
+        "positives": 0,
+        "total": 64,
+        "file_type": "Android",
+        "file_size": 70791,
+        "detected_by": {}
     }
 ]
