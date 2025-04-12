@@ -94628,5 +94628,49 @@
         "file_type": "Android",
         "file_size": 72688,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-all.komga-v1.4.62.apk",
+        "hash": "c492da21cd1e1138ae6e3c9b3be6892ad5371bb3730a91d34fcc1f5ac68a5121",
+        "link": "https://www.virustotal.com/gui/file/c492da21cd1e1138ae6e3c9b3be6892ad5371bb3730a91d34fcc1f5ac68a5121",
+        "scan_date": 1744416009,
+        "positives": 0,
+        "total": 64,
+        "file_type": "Android",
+        "file_size": 432004,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.comichubfree-v1.4.1.apk",
+        "hash": "1a991ee54aaf6a26f9e03beec00ba0c42c0fcad4b7e1060e6d6777aad2132cfe",
+        "link": "https://www.virustotal.com/gui/file/1a991ee54aaf6a26f9e03beec00ba0c42c0fcad4b7e1060e6d6777aad2132cfe",
+        "scan_date": 1744416010,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 56097,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-vi.hentaicube-v1.4.59.apk",
+        "hash": "e5abf48fe8866f06179e3a873eccaf8e85c97a08af0cdbf8e5ff4c37cdb957e9",
+        "link": "https://www.virustotal.com/gui/file/e5abf48fe8866f06179e3a873eccaf8e85c97a08af0cdbf8e5ff4c37cdb957e9",
+        "scan_date": 1744416011,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 79531,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-id.doujindesu-v1.4.10.apk",
+        "hash": "400a2efd12479cdaf98225e4fa50b47662bd9f48a62b31aec8bdd6d99f5f79d1",
+        "link": "https://www.virustotal.com/gui/file/400a2efd12479cdaf98225e4fa50b47662bd9f48a62b31aec8bdd6d99f5f79d1",
+        "scan_date": 1744416013,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 88378,
+        "detected_by": {}
     }
 ]
