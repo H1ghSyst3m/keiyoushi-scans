@@ -94804,5 +94804,27 @@
         "file_type": "Android",
         "file_size": 90564,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-ru.rumix-v1.4.34.apk",
+        "hash": "90adc075b8a834ed12e11ef677ea1262c82ff16b5889816469bf158d4ae075ee",
+        "link": "https://www.virustotal.com/gui/file/90adc075b8a834ed12e11ef677ea1262c82ff16b5889816469bf158d4ae075ee",
+        "scan_date": 1744546327,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 73487,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-ru.mintmanga-v1.4.79.apk",
+        "hash": "24c17e12acc70622d3b5b75717b06365cf74ea75c574b3213a0e80f46af8ca83",
+        "link": "https://www.virustotal.com/gui/file/24c17e12acc70622d3b5b75717b06365cf74ea75c574b3213a0e80f46af8ca83",
+        "scan_date": 1744546329,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 98426,
+        "detected_by": {}
     }
 ]
