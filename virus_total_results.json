@@ -95046,5 +95046,16 @@
         "file_type": "Android",
         "file_size": 81156,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-ru.readmanga-v1.4.80.apk",
+        "hash": "7ca2b69fe5075d319aff86dcfebbcc96340413831e6f8e7c0e03a183c9c7c12a",
+        "link": "https://www.virustotal.com/gui/file/7ca2b69fe5075d319aff86dcfebbcc96340413831e6f8e7c0e03a183c9c7c12a",
+        "scan_date": 1744676108,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 97064,
+        "detected_by": {}
     }
 ]
