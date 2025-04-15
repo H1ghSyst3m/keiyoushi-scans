@@ -95057,5 +95057,27 @@
         "file_type": "Android",
         "file_size": 97064,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-all.pornpics-v1.4.2.apk",
+        "hash": "34936088b3e9e72e54d41738247cabf875e37a19e7fc738862c5b298f41e5227",
+        "link": "https://www.virustotal.com/gui/file/34936088b3e9e72e54d41738247cabf875e37a19e7fc738862c5b298f41e5227",
+        "scan_date": 1744718403,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 230463,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.readcomiconline-v1.4.31.apk",
+        "hash": "985c55849a870ab07436ded6b620382fb86aaa8371a3173e713a03a13d10adbe",
+        "link": "https://www.virustotal.com/gui/file/985c55849a870ab07436ded6b620382fb86aaa8371a3173e713a03a13d10adbe",
+        "scan_date": 1744718405,
+        "positives": 0,
+        "total": 64,
+        "file_type": "Android",
+        "file_size": 67693,
+        "detected_by": {}
     }
 ]
