@@ -95079,5 +95079,38 @@
         "file_type": "Android",
         "file_size": 67693,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-all.comickfun-v1.4.56.apk",
+        "hash": "2d2941b6aa682e2d936e71b93c593d97bd2278b4911d0b4faeba5c3496fb234e",
+        "link": "https://www.virustotal.com/gui/file/2d2941b6aa682e2d936e71b93c593d97bd2278b4911d0b4faeba5c3496fb234e",
+        "scan_date": 1744934404,
+        "positives": 0,
+        "total": 61,
+        "file_type": "Android",
+        "file_size": 112305,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-all.mangapark-v1.4.22.apk",
+        "hash": "33c4c5b7ed5f4917118b32f3f006eeb60e5725aa6e8508386caba8fae09d52e1",
+        "link": "https://www.virustotal.com/gui/file/33c4c5b7ed5f4917118b32f3f006eeb60e5725aa6e8508386caba8fae09d52e1",
+        "scan_date": 1744934407,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 76633,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.readcomiconline-v1.4.32.apk",
+        "hash": "77259b148bb2075eb756916e2cf0fb6fc3e2056515e3bd7787be3ced43c178ff",
+        "link": "https://www.virustotal.com/gui/file/77259b148bb2075eb756916e2cf0fb6fc3e2056515e3bd7787be3ced43c178ff",
+        "scan_date": 1744934408,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 70387,
+        "detected_by": {}
     }
 ]
