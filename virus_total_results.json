@@ -95112,5 +95112,49 @@
         "file_type": "Android",
         "file_size": 70387,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-it.mangaworld-v1.4.11.apk",
+        "hash": "189fc641225d7c265ec628ee9acefaf23b39db8a9ec4f199e8e9fe26a3d74430",
+        "link": "https://www.virustotal.com/gui/file/189fc641225d7c265ec628ee9acefaf23b39db8a9ec4f199e8e9fe26a3d74430",
+        "scan_date": 1745064004,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 48546,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.readcomiconline-v1.4.34.apk",
+        "hash": "2d2f9cb8ed9f179041a5db53b357ec577a0bbca47f37d425b555636c6d6363cf",
+        "link": "https://www.virustotal.com/gui/file/2d2f9cb8ed9f179041a5db53b357ec577a0bbca47f37d425b555636c6d6363cf",
+        "scan_date": 1745064005,
+        "positives": 0,
+        "total": 62,
+        "file_type": "Android",
+        "file_size": 70444,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-it.mangaworldadult-v1.4.5.apk",
+        "hash": "ee3cb7a6ba1294cc05f89bffcf93a40221429cad667c4e21679eb643d827a608",
+        "link": "https://www.virustotal.com/gui/file/ee3cb7a6ba1294cc05f89bffcf93a40221429cad667c4e21679eb643d827a608",
+        "scan_date": 1745064006,
+        "positives": 0,
+        "total": 63,
+        "file_type": "Android",
+        "file_size": 48573,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-all.yellownote-v1.4.1.apk",
+        "hash": "d201a8a108b376ae8dc5df41f258372e98d01597e8494a2cd2623e5ed4ac1fac",
+        "link": "https://www.virustotal.com/gui/file/d201a8a108b376ae8dc5df41f258372e98d01597e8494a2cd2623e5ed4ac1fac",
+        "scan_date": 1745064007,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 64841,
+        "detected_by": {}
     }
 ]
