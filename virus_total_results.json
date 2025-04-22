@@ -95277,5 +95277,27 @@
         "file_type": "Android",
         "file_size": 157218,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.tcbscans-v1.4.11.apk",
+        "hash": "223ed30ee6f44d2b711565a30f8d81903127e9d22a21f667727cfe096db2287e",
+        "link": "https://www.virustotal.com/gui/file/223ed30ee6f44d2b711565a30f8d81903127e9d22a21f667727cfe096db2287e",
+        "scan_date": 1745238011,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 37756,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-all.webtoons-v1.4.45.apk",
+        "hash": "ad1814e0d71e011f75a3e9f3d03f18e12e7e6614a4af857e1366cdc327bbba74",
+        "link": "https://www.virustotal.com/gui/file/ad1814e0d71e011f75a3e9f3d03f18e12e7e6614a4af857e1366cdc327bbba74",
+        "scan_date": 1745238012,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 77494,
+        "detected_by": {}
     }
 ]
