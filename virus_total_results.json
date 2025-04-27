@@ -95420,5 +95420,49 @@
         "file_type": "Android",
         "file_size": 52014,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.animatedglitchedcomics-v1.4.40.apk",
+        "hash": "13598e7f7d2f9d6e1700572f9f5f2dacbf7ca6b30d74204858ca10ca2847d553",
+        "link": "https://www.virustotal.com/gui/file/13598e7f7d2f9d6e1700572f9f5f2dacbf7ca6b30d74204858ca10ca2847d553",
+        "scan_date": 1745677039,
+        "positives": 0,
+        "total": 64,
+        "file_type": "Android",
+        "file_size": 112567,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.readcomiconline-v1.4.35.apk",
+        "hash": "ec5ae06c34348183e98671de90845e40739541496ea6551231d7be61a92fa820",
+        "link": "https://www.virustotal.com/gui/file/ec5ae06c34348183e98671de90845e40739541496ea6551231d7be61a92fa820",
+        "scan_date": 1745677024,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 66200,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.arvencomics-v1.4.43.apk",
+        "hash": "72e3619c5d83f7b48a697c7c99295a4e3c8afe429f9b4386995b2ee8b3549b1a",
+        "link": "https://www.virustotal.com/gui/file/72e3619c5d83f7b48a697c7c99295a4e3c8afe429f9b4386995b2ee8b3549b1a",
+        "scan_date": 1745677068,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 71129,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.suryascans-v1.4.47.apk",
+        "hash": "02124770477fd078ee4b960f683dfefc40d6d5abb02eadd0681bcea59006359b",
+        "link": "https://www.virustotal.com/gui/file/02124770477fd078ee4b960f683dfefc40d6d5abb02eadd0681bcea59006359b",
+        "scan_date": 1745677024,
+        "positives": 0,
+        "total": 64,
+        "file_type": "Android",
+        "file_size": 75898,
+        "detected_by": {}
     }
 ]
