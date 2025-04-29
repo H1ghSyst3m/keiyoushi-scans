@@ -95937,5 +95937,159 @@
         "file_type": "Android",
         "file_size": 46039,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.mangahereonl-v1.4.34.apk",
+        "hash": "da32d9a66c5dd82e4f00a66abb763d6e6426a05734e4335b22356ee040c12ef9",
+        "link": "https://www.virustotal.com/gui/file/da32d9a66c5dd82e4f00a66abb763d6e6426a05734e4335b22356ee040c12ef9",
+        "scan_date": 1745884804,
+        "positives": 0,
+        "total": 64,
+        "file_type": "Android",
+        "file_size": 156071,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.mangapandaonl-v1.4.34.apk",
+        "hash": "9526639dfc54e956912ec2615e388ca38aed462f0b00bcfbd997cf973c64bce5",
+        "link": "https://www.virustotal.com/gui/file/9526639dfc54e956912ec2615e388ca38aed462f0b00bcfbd997cf973c64bce5",
+        "scan_date": 1745884805,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 157507,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.ohjoysextoy-v1.4.2.apk",
+        "hash": "01f67c2f81b4cdb2a38af8b96b474de7da518d79ef9fbce492ab2ae5046180e2",
+        "link": "https://www.virustotal.com/gui/file/01f67c2f81b4cdb2a38af8b96b474de7da518d79ef9fbce492ab2ae5046180e2",
+        "scan_date": 1745884807,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 34904,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.manganel-v1.4.34.apk",
+        "hash": "8ef3827fca3bd760883ab77c72fc9c99cb2bee474d237d46464732518fe52128",
+        "link": "https://www.virustotal.com/gui/file/8ef3827fca3bd760883ab77c72fc9c99cb2bee474d237d46464732518fe52128",
+        "scan_date": 1745884808,
+        "positives": 0,
+        "total": 64,
+        "file_type": "Android",
+        "file_size": 156038,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.mangatoday-v1.4.34.apk",
+        "hash": "84b4f385208b365e8bf512419dd5669bb962f6e961e0f4a7a447c516bb7a0fcc",
+        "link": "https://www.virustotal.com/gui/file/84b4f385208b365e8bf512419dd5669bb962f6e961e0f4a7a447c516bb7a0fcc",
+        "scan_date": 1745884864,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 156053,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.onemangaco-v1.4.34.apk",
+        "hash": "348f538d52796263baf389fba41d943cf258225770cddb796dd51cc63c9cf149",
+        "link": "https://www.virustotal.com/gui/file/348f538d52796263baf389fba41d943cf258225770cddb796dd51cc63c9cf149",
+        "scan_date": 1745884865,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 156055,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.mangaonlinefun-v1.4.34.apk",
+        "hash": "076abe2e15de31b312bb558bd4780dae285788ed447622001a8781bf53846983",
+        "link": "https://www.virustotal.com/gui/file/076abe2e15de31b312bb558bd4780dae285788ed447622001a8781bf53846983",
+        "scan_date": 1745884867,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 156073,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.mangakakalotfun-v1.4.34.apk",
+        "hash": "a28e9778ceab90b76d47bec0125fa1d5a0664bdd1ea5e0b008779233ca659ba7",
+        "link": "https://www.virustotal.com/gui/file/a28e9778ceab90b76d47bec0125fa1d5a0664bdd1ea5e0b008779233ca659ba7",
+        "scan_date": 1745884869,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 156072,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.mangahubio-v1.4.44.apk",
+        "hash": "3c90e91770a249d9b6530ba69f07cfc097ec56874e278e35bfc3e59398c54c05",
+        "link": "https://www.virustotal.com/gui/file/3c90e91770a249d9b6530ba69f07cfc097ec56874e278e35bfc3e59398c54c05",
+        "scan_date": 1745884924,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 159950,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.onemangainfo-v1.4.34.apk",
+        "hash": "49b631eee57bf47b29f33fb073f30b0d964aaadfbac164b4cf031f335538f63c",
+        "link": "https://www.virustotal.com/gui/file/49b631eee57bf47b29f33fb073f30b0d964aaadfbac164b4cf031f335538f63c",
+        "scan_date": 1745884926,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 156086,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.myhentaigallery-v1.4.6.apk",
+        "hash": "35a309594afd2a8d4d357b7f82fa1b59035fc98d266ba58685dd30f39bf89187",
+        "link": "https://www.virustotal.com/gui/file/35a309594afd2a8d4d357b7f82fa1b59035fc98d266ba58685dd30f39bf89187",
+        "scan_date": 1745884928,
+        "positives": 0,
+        "total": 63,
+        "file_type": "Android",
+        "file_size": 95053,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.rizzcomic-v1.4.42.apk",
+        "hash": "ad50adcc639685a7b89f977ed1ab0b904d3afc66e7d105429aff77d31f034a04",
+        "link": "https://www.virustotal.com/gui/file/ad50adcc639685a7b89f977ed1ab0b904d3afc66e7d105429aff77d31f034a04",
+        "scan_date": 1745884929,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 81744,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.mangareadersite-v1.4.34.apk",
+        "hash": "ad7f2eedbabf14f9715140b405a20a5b484213a76083fd5af17139a5909a479a",
+        "link": "https://www.virustotal.com/gui/file/ad7f2eedbabf14f9715140b405a20a5b484213a76083fd5af17139a5909a479a",
+        "scan_date": 1745884984,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 152466,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.mangafoxfun-v1.4.34.apk",
+        "hash": "823210ea03966108c5be82163015019f033af81c28a1615201812d0ac368e114",
+        "link": "https://www.virustotal.com/gui/file/823210ea03966108c5be82163015019f033af81c28a1615201812d0ac368e114",
+        "scan_date": 1745884986,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 156067,
+        "detected_by": {}
     }
 ]
