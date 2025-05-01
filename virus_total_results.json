@@ -96091,5 +96091,27 @@
         "file_type": "Android",
         "file_size": 156067,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.readallcomicscom-v1.4.4.apk",
+        "hash": "9addbba035ec4e4482741371ec1502fa4f652da17b1c86df76d36db543ed8b7c",
+        "link": "https://www.virustotal.com/gui/file/9addbba035ec4e4482741371ec1502fa4f652da17b1c86df76d36db543ed8b7c",
+        "scan_date": 1746057604,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 50173,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-all.eternalmangas-v1.4.8.apk",
+        "hash": "60d9afc9bf4f0314efe25b880f94b5a4e5a2c84a96954abdee9fcd64161a056e",
+        "link": "https://www.virustotal.com/gui/file/60d9afc9bf4f0314efe25b880f94b5a4e5a2c84a96954abdee9fcd64161a056e",
+        "scan_date": 1746057605,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 117208,
+        "detected_by": {}
     }
 ]
