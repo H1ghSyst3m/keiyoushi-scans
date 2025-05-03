@@ -96113,5 +96113,49 @@
         "file_type": "Android",
         "file_size": 117208,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.hiperdex-v1.4.60.apk",
+        "hash": "139a421e54b3ed1da542b8ae8faa1956c8bedf836e6272890d40aeee0b29e39a",
+        "link": "https://www.virustotal.com/gui/file/139a421e54b3ed1da542b8ae8faa1956c8bedf836e6272890d40aeee0b29e39a",
+        "scan_date": 1746230405,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 88980,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-th.cat300-v1.4.45.apk",
+        "hash": "e582062430dc3e748484071784db76ff3320dc85d350b885f4658617ef0b9f6d",
+        "link": "https://www.virustotal.com/gui/file/e582062430dc3e748484071784db76ff3320dc85d350b885f4658617ef0b9f6d",
+        "scan_date": 1746230407,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 109445,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-ar.onma-v1.4.14.apk",
+        "hash": "8bfb99b9610260b34e1f8e0a3f7f03c949ffd0b5bf29391aee7dcb68f9268c31",
+        "link": "https://www.virustotal.com/gui/file/8bfb99b9610260b34e1f8e0a3f7f03c949ffd0b5bf29391aee7dcb68f9268c31",
+        "scan_date": 1746230408,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 68280,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-ar.mangapro-v1.4.38.apk",
+        "hash": "824bd13f6962828dc50a7f4d6f3ac428f86eaa372749e89994ff656d60b3bf8b",
+        "link": "https://www.virustotal.com/gui/file/824bd13f6962828dc50a7f4d6f3ac428f86eaa372749e89994ff656d60b3bf8b",
+        "scan_date": 1746230410,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 72149,
+        "detected_by": {}
     }
 ]
