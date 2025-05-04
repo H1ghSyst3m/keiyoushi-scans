@@ -96157,5 +96157,93 @@
         "file_type": "Android",
         "file_size": 72149,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-tr.ruyamanganet-v1.4.42.apk",
+        "hash": "f305171c81a57e75a002c401fbee17f14a6adb027f86a7e1d19c97b40bdff511",
+        "link": "https://www.virustotal.com/gui/file/f305171c81a57e75a002c401fbee17f14a6adb027f86a7e1d19c97b40bdff511",
+        "scan_date": 1746316806,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 121171,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-all.komga-v1.4.63.apk",
+        "hash": "a5cb8baf2380b6edd48a913c0df861b0ae2805d667194e3b1535a0dc74a93ed7",
+        "link": "https://www.virustotal.com/gui/file/a5cb8baf2380b6edd48a913c0df861b0ae2805d667194e3b1535a0dc74a93ed7",
+        "scan_date": 1746316808,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 432027,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-es.darknebulus-v1.4.43.apk",
+        "hash": "eea90662987eb3f0a8c488bbe131742aaaca7c48f26f77b6749ed0c98d175ce1",
+        "link": "https://www.virustotal.com/gui/file/eea90662987eb3f0a8c488bbe131742aaaca7c48f26f77b6749ed0c98d175ce1",
+        "scan_date": 1746316809,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 148041,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.boratscans-v1.4.42.apk",
+        "hash": "5457ae5d61a2392c520826b4d235177f92d0bea15c26b3acee3fd6688c8e0600",
+        "link": "https://www.virustotal.com/gui/file/5457ae5d61a2392c520826b4d235177f92d0bea15c26b3acee3fd6688c8e0600",
+        "scan_date": 1746316810,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 131987,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-pt.miaetranslations-v1.4.42.apk",
+        "hash": "5bc3200d45667b15317665dec1a25f98727881be412ff0523c5365580beca914",
+        "link": "https://www.virustotal.com/gui/file/5bc3200d45667b15317665dec1a25f98727881be412ff0523c5365580beca914",
+        "scan_date": 1746316864,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 143830,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.plutoscans-v1.4.42.apk",
+        "hash": "0a3ceee9ca7555313b59ba8e22a25a48f449b710885782b9a057688c8bc44673",
+        "link": "https://www.virustotal.com/gui/file/0a3ceee9ca7555313b59ba8e22a25a48f449b710885782b9a057688c8bc44673",
+        "scan_date": 1746316865,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 135849,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-es.darknebulusmanga-v1.4.42.apk",
+        "hash": "b701d572a84cb6a72769149c7477e29a6934df74b85e36af882807b92b099e8c",
+        "link": "https://www.virustotal.com/gui/file/b701d572a84cb6a72769149c7477e29a6934df74b85e36af882807b92b099e8c",
+        "scan_date": 1746316867,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 147894,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-tr.ghosthentai-v1.4.42.apk",
+        "hash": "e0159e7bb66079e18a99c4dbb99a54de84064015cce976f47486096b74ff1c8f",
+        "link": "https://www.virustotal.com/gui/file/e0159e7bb66079e18a99c4dbb99a54de84064015cce976f47486096b74ff1c8f",
+        "scan_date": 1746316868,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 139367,
+        "detected_by": {}
     }
 ]
