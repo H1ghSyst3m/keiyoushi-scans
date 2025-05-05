@@ -96245,5 +96245,49 @@
         "file_type": "Android",
         "file_size": 139367,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-ru.acomics-v1.4.7.apk",
+        "hash": "1a334d0420e861d5c7134ab5c85882d52475477c8841e4d96602bdaeb973bcfd",
+        "link": "https://www.virustotal.com/gui/file/1a334d0420e861d5c7134ab5c85882d52475477c8841e4d96602bdaeb973bcfd",
+        "scan_date": 1746403204,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 63314,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-all.kiutaku-v1.4.3.apk",
+        "hash": "59039e8798d30d22acc965ab4ae849024e2bce2c634b13bfed3277d41b209242",
+        "link": "https://www.virustotal.com/gui/file/59039e8798d30d22acc965ab4ae849024e2bce2c634b13bfed3277d41b209242",
+        "scan_date": 1746403205,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 44404,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.erofus-v1.4.3.apk",
+        "hash": "c5ff44c257061583e17bbffd0ad78581875ecfab804ab714063e0d6673410bad",
+        "link": "https://www.virustotal.com/gui/file/c5ff44c257061583e17bbffd0ad78581875ecfab804ab714063e0d6673410bad",
+        "scan_date": 1746403206,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 51484,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.madokami-v1.4.12.apk",
+        "hash": "6b83de729a689d1e14dee0ae97f2ed0dc97878f64b68a5be98a061a398e08df7",
+        "link": "https://www.virustotal.com/gui/file/6b83de729a689d1e14dee0ae97f2ed0dc97878f64b68a5be98a061a398e08df7",
+        "scan_date": 1746403208,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 60859,
+        "detected_by": {}
     }
 ]
