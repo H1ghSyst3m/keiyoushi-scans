@@ -96498,5 +96498,82 @@
         "file_type": "Android",
         "file_size": 72902,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-pt.mediocretoons-v1.4.1.apk",
+        "hash": "4c2e42df8e85a9a0060765b50e8ce258b75cb6da142f41b4beed6108b777a906",
+        "link": "https://www.virustotal.com/gui/file/4c2e42df8e85a9a0060765b50e8ce258b75cb6da142f41b4beed6108b777a906",
+        "scan_date": 1746921604,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 80803,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-pt.maidscan-v1.4.46.apk",
+        "hash": "2f4d0588186bc9b434567e75bbdb36161dfa54b0e04d4575fc38883f0ef23e90",
+        "link": "https://www.virustotal.com/gui/file/2f4d0588186bc9b434567e75bbdb36161dfa54b0e04d4575fc38883f0ef23e90",
+        "scan_date": 1746921606,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 122504,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-pt.sussyscan-v1.4.57.apk",
+        "hash": "1e5fd4b2b4709a54d4424bb1593a12b0f5acc322777d0d49f45f01e694928840",
+        "link": "https://www.virustotal.com/gui/file/1e5fd4b2b4709a54d4424bb1593a12b0f5acc322777d0d49f45f01e694928840",
+        "scan_date": 1746921607,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 95480,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-all.eternalmangas-v1.4.9.apk",
+        "hash": "568b6eed5d9327bcb436ed9c5abe037587fd6199febdb271a1034e9c12daa842",
+        "link": "https://www.virustotal.com/gui/file/568b6eed5d9327bcb436ed9c5abe037587fd6199febdb271a1034e9c12daa842",
+        "scan_date": 1746921609,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 117596,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-pt.remangas-v1.4.44.apk",
+        "hash": "a27a2747724fbdb18e5b99ed64713abe2e4d8f125ba15ab987ae9dc25fb93517",
+        "link": "https://www.virustotal.com/gui/file/a27a2747724fbdb18e5b99ed64713abe2e4d8f125ba15ab987ae9dc25fb93517",
+        "scan_date": 1746921664,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 83978,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-pt.egotoons-v1.4.2.apk",
+        "hash": "448e151c5d58a42f29c8474b5d2a2bf0eb17ee8ec30063c2f63c1a4293b91a3b",
+        "link": "https://www.virustotal.com/gui/file/448e151c5d58a42f29c8474b5d2a2bf0eb17ee8ec30063c2f63c1a4293b91a3b",
+        "scan_date": 1746921665,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 78988,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-zh.boylove-v1.4.14.apk",
+        "hash": "64e199842a960091e5c5f4230f739a085af6d509d58d7fcbe719488a25bb8e17",
+        "link": "https://www.virustotal.com/gui/file/64e199842a960091e5c5f4230f739a085af6d509d58d7fcbe719488a25bb8e17",
+        "scan_date": 1746921666,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 61107,
+        "detected_by": {}
     }
 ]
