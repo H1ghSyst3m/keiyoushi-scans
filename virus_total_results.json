@@ -96630,5 +96630,16 @@
         "file_type": "Android",
         "file_size": 64133,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-es.templescanesp-v1.4.44.apk",
+        "hash": "2ea162c8cd2bef868ecb6c7c655f0784e44130f01d2ada652e9e66037ce560ee",
+        "link": "https://www.virustotal.com/gui/file/2ea162c8cd2bef868ecb6c7c655f0784e44130f01d2ada652e9e66037ce560ee",
+        "scan_date": 1747350407,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 103379,
+        "detected_by": {}
     }
 ]
