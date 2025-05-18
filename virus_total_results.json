@@ -96894,5 +96894,27 @@
         "file_type": "Android",
         "file_size": 86757,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-id.noromax-v1.4.32.apk",
+        "hash": "a1a5ba55a859d98f5bf87f55bf1f22878bcde2a35729521210a39defc7d8011e",
+        "link": "https://www.virustotal.com/gui/file/a1a5ba55a859d98f5bf87f55bf1f22878bcde2a35729521210a39defc7d8011e",
+        "scan_date": 1747570396,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 80328,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-id.komikstation-v1.4.35.apk",
+        "hash": "e1397e2127955e2dfa26bfde11995820a8cd073f1b94809f7713c2112174de94",
+        "link": "https://www.virustotal.com/gui/file/e1397e2127955e2dfa26bfde11995820a8cd073f1b94809f7713c2112174de94",
+        "scan_date": 1747570397,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 88316,
+        "detected_by": {}
     }
 ]
