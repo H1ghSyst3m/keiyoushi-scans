@@ -96971,5 +96971,16 @@
         "file_type": "Android",
         "file_size": 56884,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-es.manhwaweb-v1.4.8.apk",
+        "hash": "7f6b920bbef42da2e37099a03926c8ae6585c7df1d0ed7445a4d6310bf11d20b",
+        "link": "https://www.virustotal.com/gui/file/7f6b920bbef42da2e37099a03926c8ae6585c7df1d0ed7445a4d6310bf11d20b",
+        "scan_date": 1747829475,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 72803,
+        "detected_by": {}
     }
 ]
