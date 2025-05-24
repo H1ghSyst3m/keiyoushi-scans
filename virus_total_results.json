@@ -96982,5 +96982,38 @@
         "file_type": "Android",
         "file_size": 72803,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-all.comickfun-v1.4.57.apk",
+        "hash": "2d425d4d54803780006ec8b6debb2bd8045d9b8d08cecd6266506019fc6f654f",
+        "link": "https://www.virustotal.com/gui/file/2d425d4d54803780006ec8b6debb2bd8045d9b8d08cecd6266506019fc6f654f",
+        "scan_date": 1748088005,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 113532,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.readcomiconline-v1.4.37.apk",
+        "hash": "fac820433564cf3fb2e9670edbea84f2554706add6da88456d94a65e09178e2e",
+        "link": "https://www.virustotal.com/gui/file/fac820433564cf3fb2e9670edbea84f2554706add6da88456d94a65e09178e2e",
+        "scan_date": 1748088006,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 67505,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-vi.dualeotruyen-v1.4.9.apk",
+        "hash": "cce64523d9bd48bacf82d114e5abd23adbc9de30254ef6bbadc943dfc22b4bca",
+        "link": "https://www.virustotal.com/gui/file/cce64523d9bd48bacf82d114e5abd23adbc9de30254ef6bbadc943dfc22b4bca",
+        "scan_date": 1748088007,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 55708,
+        "detected_by": {}
     }
 ]
