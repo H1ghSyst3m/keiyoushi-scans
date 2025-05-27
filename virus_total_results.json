@@ -97015,5 +97015,60 @@
         "file_type": "Android",
         "file_size": 55708,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-es.taurusfansub-v1.4.47.apk",
+        "hash": "65d11379eee33694c20dcc779dabe899b91b057b0d451e3f479e58c8e59eb739",
+        "link": "https://www.virustotal.com/gui/file/65d11379eee33694c20dcc779dabe899b91b057b0d451e3f479e58c8e59eb739",
+        "scan_date": 1748304004,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 99091,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.magusmanga-v1.4.53.apk",
+        "hash": "01acb0273d81ef6ce92208c13d60fd7ee3644143a1ce9d1c8c2e856e4ea2e337",
+        "link": "https://www.virustotal.com/gui/file/01acb0273d81ef6ce92208c13d60fd7ee3644143a1ce9d1c8c2e856e4ea2e337",
+        "scan_date": 1748304006,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 124388,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-es.sixianfranc9-v1.4.2.apk",
+        "hash": "e872a470771e071b9ab57130efa1203833ade4034c590f6392fac107f8e17d84",
+        "link": "https://www.virustotal.com/gui/file/e872a470771e071b9ab57130efa1203833ade4034c590f6392fac107f8e17d84",
+        "scan_date": 1748304007,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 154506,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-es.mangaclub-v1.4.2.apk",
+        "hash": "9c9c2ccf603ff62a99d5e972258800f3e77efd7806f0f18db06ea71a798f4dc5",
+        "link": "https://www.virustotal.com/gui/file/9c9c2ccf603ff62a99d5e972258800f3e77efd7806f0f18db06ea71a798f4dc5",
+        "scan_date": 1748304008,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 86407,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-vi.teamlanhlung-v1.4.23.apk",
+        "hash": "28379fd36fea31e69d0a54ab1325a4afe530481daa89d82f5a0fd6f01da38841",
+        "link": "https://www.virustotal.com/gui/file/28379fd36fea31e69d0a54ab1325a4afe530481daa89d82f5a0fd6f01da38841",
+        "scan_date": 1748304064,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 64644,
+        "detected_by": {}
     }
 ]
