@@ -97070,5 +97070,49 @@
         "file_type": "Android",
         "file_size": 64644,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-th.onemanga-v1.4.30.apk",
+        "hash": "c695a8c30ece0d503c46047af21e91de7312c1e6e942ef98fb6998221771505c",
+        "link": "https://www.virustotal.com/gui/file/c695a8c30ece0d503c46047af21e91de7312c1e6e942ef98fb6998221771505c",
+        "scan_date": 1748520004,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 78304,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-es.jeazscans-v1.4.47.apk",
+        "hash": "49c540703280cdeb1c716de71e2d2db69986015a30bb07d07ab24d3ddf972f24",
+        "link": "https://www.virustotal.com/gui/file/49c540703280cdeb1c716de71e2d2db69986015a30bb07d07ab24d3ddf972f24",
+        "scan_date": 1748520005,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 86667,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.spyfakku-v1.4.11.apk",
+        "hash": "d5eaeb76d372d8de4dbd8c7d03fc551e16eb432b34a7c7d351a80c31393f573b",
+        "link": "https://www.virustotal.com/gui/file/d5eaeb76d372d8de4dbd8c7d03fc551e16eb432b34a7c7d351a80c31393f573b",
+        "scan_date": 1748520006,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 62063,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-th.moodtoon-v1.4.31.apk",
+        "hash": "28f80fcd7ba4997d9c46edd2f1c7f541c7cf49c01184cfff91b7a3f529025d8b",
+        "link": "https://www.virustotal.com/gui/file/28f80fcd7ba4997d9c46edd2f1c7f541c7cf49c01184cfff91b7a3f529025d8b",
+        "scan_date": 1748520008,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 77829,
+        "detected_by": {}
     }
 ]
