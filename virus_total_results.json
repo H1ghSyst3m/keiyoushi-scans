@@ -97114,5 +97114,38 @@
         "file_type": "Android",
         "file_size": 77829,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-pt.nextscan-v1.4.1.apk",
+        "hash": "2bd5fecb6076f37a3cf50dc924ffebe43bb602c4c72fc324977e3c42a8d6d9b4",
+        "link": "https://www.virustotal.com/gui/file/2bd5fecb6076f37a3cf50dc924ffebe43bb602c4c72fc324977e3c42a8d6d9b4",
+        "scan_date": 1748563204,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 115759,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-tr.anisamanga-v1.4.44.apk",
+        "hash": "d40068e2a58220a7bae4e99d4a9c417d50cfd1be7fc2be0f4665ce0a0fef2450",
+        "link": "https://www.virustotal.com/gui/file/d40068e2a58220a7bae4e99d4a9c417d50cfd1be7fc2be0f4665ce0a0fef2450",
+        "scan_date": 1748563206,
+        "positives": 0,
+        "total": 62,
+        "file_type": "Android",
+        "file_size": 47836,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-all.xiutaku-v1.4.1.apk",
+        "hash": "3ef0781e6bab921c2da133f22b6ad73f45fd105dda2d21447543b91487a4bde9",
+        "link": "https://www.virustotal.com/gui/file/3ef0781e6bab921c2da133f22b6ad73f45fd105dda2d21447543b91487a4bde9",
+        "scan_date": 1748563207,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 73537,
+        "detected_by": {}
     }
 ]
