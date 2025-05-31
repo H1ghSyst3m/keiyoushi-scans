@@ -97433,5 +97433,27 @@
         "file_type": "Android",
         "file_size": 51271,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.weebcentral-v1.4.14.apk",
+        "hash": "ecd42b0a6140bcfff2f360e5426827584ede44ce99984f51ae220551b8f0726f",
+        "link": "https://www.virustotal.com/gui/file/ecd42b0a6140bcfff2f360e5426827584ede44ce99984f51ae220551b8f0726f",
+        "scan_date": 1748649604,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 72764,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-fr.poseidonscans-v1.4.43.apk",
+        "hash": "6153663fbcb736513a80b31bb8a58d273e1de79475a18eb0733a5764520f4418",
+        "link": "https://www.virustotal.com/gui/file/6153663fbcb736513a80b31bb8a58d273e1de79475a18eb0733a5764520f4418",
+        "scan_date": 1748649606,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 80643,
+        "detected_by": {}
     }
 ]
