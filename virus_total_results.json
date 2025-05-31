@@ -97455,5 +97455,38 @@
         "file_type": "Android",
         "file_size": 80643,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-zh.mycomic-v1.4.1.apk",
+        "hash": "5bb3239a97c0ac6d68ed37cb03d3d0ee555d76e9cc31d4552dd9e34ce527644a",
+        "link": "https://www.virustotal.com/gui/file/5bb3239a97c0ac6d68ed37cb03d3d0ee555d76e9cc31d4552dd9e34ce527644a",
+        "scan_date": 1748692804,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 63187,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-zh.cartoonmad-v1.4.1.apk",
+        "hash": "1347f7a55b4611aa6515bcd3bfea3a3483db0b84806079cfb3ad1e439f460375",
+        "link": "https://www.virustotal.com/gui/file/1347f7a55b4611aa6515bcd3bfea3a3483db0b84806079cfb3ad1e439f460375",
+        "scan_date": 1748692806,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 76240,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-zh.happymh-v1.4.18.apk",
+        "hash": "d212dfd2b658e4d041e32ad541917c7b4b6daead0b98e06520c611fa3d90978c",
+        "link": "https://www.virustotal.com/gui/file/d212dfd2b658e4d041e32ad541917c7b4b6daead0b98e06520c611fa3d90978c",
+        "scan_date": 1748692807,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 64652,
+        "detected_by": {}
     }
 ]
