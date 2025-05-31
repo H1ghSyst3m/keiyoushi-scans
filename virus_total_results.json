@@ -97422,5 +97422,16 @@
         "file_type": "Android",
         "file_size": 70759,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-tr.mangadenizi-v1.4.6.apk",
+        "hash": "fdf5d392ffd90c0106b6064a127e7a5dc360143ebb07f44cdbe8598ef5e8ac63",
+        "link": "https://www.virustotal.com/gui/file/fdf5d392ffd90c0106b6064a127e7a5dc360143ebb07f44cdbe8598ef5e8ac63",
+        "scan_date": 1748607381,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 51271,
+        "detected_by": {}
     }
 ]
