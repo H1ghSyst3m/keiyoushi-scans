@@ -97840,5 +97840,49 @@
         "file_type": "Android",
         "file_size": 388071,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-id.cosmicscansid-v1.4.38.apk",
+        "hash": "6e28d291cbe58e9855c7b8b1fe607bcfe2b52969faf5013fb03105cbc6c4b2ee",
+        "link": "https://www.virustotal.com/gui/file/6e28d291cbe58e9855c7b8b1fe607bcfe2b52969faf5013fb03105cbc6c4b2ee",
+        "scan_date": 1748865604,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 84915,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.tercoscans-v1.4.31.apk",
+        "hash": "495eff9bc711580bb16ae8b1c0496816b33b9dccb579282b872e7cdefffd8597",
+        "link": "https://www.virustotal.com/gui/file/495eff9bc711580bb16ae8b1c0496816b33b9dccb579282b872e7cdefffd8597",
+        "scan_date": 1748865606,
+        "positives": 0,
+        "total": 62,
+        "file_type": "Android",
+        "file_size": 119623,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-pt.bryaoi-v1.4.1.apk",
+        "hash": "7a709ee2565f16b58276e643d4242398cda5ba34501bb13318ab344b30d2db90",
+        "link": "https://www.virustotal.com/gui/file/7a709ee2565f16b58276e643d4242398cda5ba34501bb13318ab344b30d2db90",
+        "scan_date": 1748865607,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 47196,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.honkaiimpact-v1.4.3.apk",
+        "hash": "d5ab14c38ef044fa0e6c48051a56271d2806db32d41e5852fc426f0b02ba248f",
+        "link": "https://www.virustotal.com/gui/file/d5ab14c38ef044fa0e6c48051a56271d2806db32d41e5852fc426f0b02ba248f",
+        "scan_date": 1748865609,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 59976,
+        "detected_by": {}
     }
 ]
