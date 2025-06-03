@@ -97884,5 +97884,49 @@
         "file_type": "Android",
         "file_size": 59976,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.mehgazone-v1.4.1.apk",
+        "hash": "82cbdb0c3a0a50454080da64260c47875690eef4ae0ab5fcff5d8f132170b3eb",
+        "link": "https://www.virustotal.com/gui/file/82cbdb0c3a0a50454080da64260c47875690eef4ae0ab5fcff5d8f132170b3eb",
+        "scan_date": 1748952003,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 126459,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-vi.manhuarock-v1.4.14.apk",
+        "hash": "d3dd1717ebf3f06db90101c4067fd392fa02e5381e1402fe5950ee257ba49ec9",
+        "link": "https://www.virustotal.com/gui/file/d3dd1717ebf3f06db90101c4067fd392fa02e5381e1402fe5950ee257ba49ec9",
+        "scan_date": 1748952005,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 59839,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-vi.vlogtruyen-v1.4.12.apk",
+        "hash": "0a629c9cd169fb8b9052017059fb52a968ed2f122848350364b142027cb231d5",
+        "link": "https://www.virustotal.com/gui/file/0a629c9cd169fb8b9052017059fb52a968ed2f122848350364b142027cb231d5",
+        "scan_date": 1748952006,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 75744,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-pt.yugenmangas-v1.4.45.apk",
+        "hash": "98c52507961dc7544f552035b60b1057685ad10fc39d96ea4db150e15ef2fbcb",
+        "link": "https://www.virustotal.com/gui/file/98c52507961dc7544f552035b60b1057685ad10fc39d96ea4db150e15ef2fbcb",
+        "scan_date": 1748952007,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 51631,
+        "detected_by": {}
     }
 ]
