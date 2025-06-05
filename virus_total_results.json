@@ -97928,5 +97928,38 @@
         "file_type": "Android",
         "file_size": 51631,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-vi.nhattruyens-v1.4.9.apk",
+        "hash": "0bed8b4751c9f59c8b26937f39ab8693d6d634e4496b509e42bdd4373981f46b",
+        "link": "https://www.virustotal.com/gui/file/0bed8b4751c9f59c8b26937f39ab8693d6d634e4496b509e42bdd4373981f46b",
+        "scan_date": 1749081603,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 48207,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-zh.mangabz-v1.4.11.apk",
+        "hash": "78fd66c351e80be10e2f9c2efe998e6ee4553428205345a3ad28f944dafc4375",
+        "link": "https://www.virustotal.com/gui/file/78fd66c351e80be10e2f9c2efe998e6ee4553428205345a3ad28f944dafc4375",
+        "scan_date": 1749081605,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 67715,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-pt.yugenmangas-v1.4.46.apk",
+        "hash": "8125166fb4aa0011d7aee30a7d095f4d6c1e8050e6ff77568b78d9403ac11ba5",
+        "link": "https://www.virustotal.com/gui/file/8125166fb4aa0011d7aee30a7d095f4d6c1e8050e6ff77568b78d9403ac11ba5",
+        "scan_date": 1749081606,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 51993,
+        "detected_by": {}
     }
 ]
