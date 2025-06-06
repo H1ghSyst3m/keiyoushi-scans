@@ -97961,5 +97961,16 @@
         "file_type": "Android",
         "file_size": 51993,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-fr.phenixscans-v1.4.34.apk",
+        "hash": "bdce4785cf57d45017238ae2cc021798e60d7fcde3c4ed4792fbcf1c6cc5d423",
+        "link": "https://www.virustotal.com/gui/file/bdce4785cf57d45017238ae2cc021798e60d7fcde3c4ed4792fbcf1c6cc5d423",
+        "scan_date": 1749126010,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 80723,
+        "detected_by": {}
     }
 ]
