@@ -97972,5 +97972,93 @@
         "file_type": "Android",
         "file_size": 80723,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-pt.mediocretoons-v1.4.4.apk",
+        "hash": "e836cb5079bfe25b091436b61ea717f26eb077ed214f94a0666b4f7f501ba531",
+        "link": "https://www.virustotal.com/gui/file/e836cb5079bfe25b091436b61ea717f26eb077ed214f94a0666b4f7f501ba531",
+        "scan_date": 1749384004,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 83522,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-pt.maidscan-v1.4.50.apk",
+        "hash": "9eb2e248943c712a5ce24f626bcd7a4876a769b5c7d4804a4d3700555a79b438",
+        "link": "https://www.virustotal.com/gui/file/9eb2e248943c712a5ce24f626bcd7a4876a769b5c7d4804a4d3700555a79b438",
+        "scan_date": 1749384005,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 125404,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.templescan-v1.4.46.apk",
+        "hash": "8df57304f32f1a06c997b95b8e7a0e9aa02541ab0784cfe49c3e2e352751eb07",
+        "link": "https://www.virustotal.com/gui/file/8df57304f32f1a06c997b95b8e7a0e9aa02541ab0784cfe49c3e2e352751eb07",
+        "scan_date": 1749384007,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 90682,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-tr.tempestscans-v1.4.31.apk",
+        "hash": "4acfcc811aee4cf12561a16833be495f07a378862609663dc4fb03db1c4b2cf4",
+        "link": "https://www.virustotal.com/gui/file/4acfcc811aee4cf12561a16833be495f07a378862609663dc4fb03db1c4b2cf4",
+        "scan_date": 1749384008,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 122254,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-pt.windscan-v1.4.45.apk",
+        "hash": "04287c7d31e7392e3996e076fdb772041b84e770a4e7e8c0aaf556188306e04e",
+        "link": "https://www.virustotal.com/gui/file/04287c7d31e7392e3996e076fdb772041b84e770a4e7e8c0aaf556188306e04e",
+        "scan_date": 1749384063,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 133320,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-pt.geasscomics-v1.4.1.apk",
+        "hash": "1ae96d50e3efe532358e903c431bafffff524838b3e4a63a772138d8b8cf43c6",
+        "link": "https://www.virustotal.com/gui/file/1ae96d50e3efe532358e903c431bafffff524838b3e4a63a772138d8b8cf43c6",
+        "scan_date": 1749384064,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 47614,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-pt.sussyscan-v1.4.60.apk",
+        "hash": "604eda8550b35870d01b397f90275980af39c8eded7c414e90b2de37de83beb0",
+        "link": "https://www.virustotal.com/gui/file/604eda8550b35870d01b397f90275980af39c8eded7c414e90b2de37de83beb0",
+        "scan_date": 1749384065,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 97382,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-es.templescanesp-v1.4.45.apk",
+        "hash": "618710bbcf8eff2d6708174ac8ed70836cafe2611a8ee3525facd15cf0fe47fb",
+        "link": "https://www.virustotal.com/gui/file/618710bbcf8eff2d6708174ac8ed70836cafe2611a8ee3525facd15cf0fe47fb",
+        "scan_date": 1749384066,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 103333,
+        "detected_by": {}
     }
 ]
