@@ -98214,5 +98214,16 @@
         "file_type": "Android",
         "file_size": 106366,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-it.phoenixscans-v1.4.8.apk",
+        "hash": "2af4756cf248de407ea4425222883b6b2462ccaec33ea0a70f99df7756c1e2d5",
+        "link": "https://www.virustotal.com/gui/file/2af4756cf248de407ea4425222883b6b2462ccaec33ea0a70f99df7756c1e2d5",
+        "scan_date": 1749471193,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 98278,
+        "detected_by": {}
     }
 ]
