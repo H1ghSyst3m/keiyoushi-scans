@@ -98060,5 +98060,16 @@
         "file_type": "Android",
         "file_size": 103333,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.weebcentral-v1.4.15.apk",
+        "hash": "7ff7aff9c6b697bd37712ceef9993bc4a0efb992d1093e1cec13f02317b75e63",
+        "link": "https://www.virustotal.com/gui/file/7ff7aff9c6b697bd37712ceef9993bc4a0efb992d1093e1cec13f02317b75e63",
+        "scan_date": 1749449319,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 75228,
+        "detected_by": {}
     }
 ]
