@@ -98225,5 +98225,71 @@
         "file_type": "Android",
         "file_size": 98278,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-ru.mangaonelove-v1.4.44.apk",
+        "hash": "850e980124cda743b0bc8ffce84abace8371dc4f1a6e26d1d346fb50d14a95e5",
+        "link": "https://www.virustotal.com/gui/file/850e980124cda743b0bc8ffce84abace8371dc4f1a6e26d1d346fb50d14a95e5",
+        "scan_date": 1749816003,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 61678,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-ja.momonga-v1.4.1.apk",
+        "hash": "50decd387b0c4e6b1c9a6af8402fcc56366c4c331328f8b15cecc24dfa1a4029",
+        "link": "https://www.virustotal.com/gui/file/50decd387b0c4e6b1c9a6af8402fcc56366c4c331328f8b15cecc24dfa1a4029",
+        "scan_date": 1749816005,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 91747,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-zh.rumanhua-v1.4.2.apk",
+        "hash": "8d0c4a32a0a697d43bb067afc1bd0a5264408baae4158cde8a91728ac1a23df7",
+        "link": "https://www.virustotal.com/gui/file/8d0c4a32a0a697d43bb067afc1bd0a5264408baae4158cde8a91728ac1a23df7",
+        "scan_date": 1749816006,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 106374,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-zh.mycomic-v1.4.2.apk",
+        "hash": "5ae6898e11323c6fe7dd2852b773074ce6daea5029898b30aa1e067be68d1d72",
+        "link": "https://www.virustotal.com/gui/file/5ae6898e11323c6fe7dd2852b773074ce6daea5029898b30aa1e067be68d1d72",
+        "scan_date": 1749816008,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 63370,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-ko.wolfdotcom-v1.4.3.apk",
+        "hash": "3451c069ff5177e36b69039c1dcd5c2bc0e71baf61fd608204a026791e980e0c",
+        "link": "https://www.virustotal.com/gui/file/3451c069ff5177e36b69039c1dcd5c2bc0e71baf61fd608204a026791e980e0c",
+        "scan_date": 1749816063,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 50728,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.mayotune-v1.4.2.apk",
+        "hash": "24ac7dc90bced2b7856a79aec7d568b4284c7087037de1c08b72c366915cf364",
+        "link": "https://www.virustotal.com/gui/file/24ac7dc90bced2b7856a79aec7d568b4284c7087037de1c08b72c366915cf364",
+        "scan_date": 1749816065,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 56599,
+        "detected_by": {}
     }
 ]
