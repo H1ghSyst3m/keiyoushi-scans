@@ -98291,5 +98291,82 @@
         "file_type": "Android",
         "file_size": 56599,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-pt.imperiodabritannia-v1.4.46.apk",
+        "hash": "bef2da5345415b2d2346a14bc48a75330049c2af5363159cff5a777aeaacc5ce",
+        "link": "https://www.virustotal.com/gui/file/bef2da5345415b2d2346a14bc48a75330049c2af5363159cff5a777aeaacc5ce",
+        "scan_date": 1749859204,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 112989,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-pt.taiyo-v1.4.8.apk",
+        "hash": "4cfcce63d0167745913170b6ff7c0d140f07d501f49cd6ae2694ebfd28433e43",
+        "link": "https://www.virustotal.com/gui/file/4cfcce63d0167745913170b6ff7c0d140f07d501f49cd6ae2694ebfd28433e43",
+        "scan_date": 1749859206,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 64766,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-zh.manwa-v1.4.12.apk",
+        "hash": "e061fc26e5df4cc9fe0ec0712683b8edf6885cc6a768d9d692e6a0960413ec10",
+        "link": "https://www.virustotal.com/gui/file/e061fc26e5df4cc9fe0ec0712683b8edf6885cc6a768d9d692e6a0960413ec10",
+        "scan_date": 1749859207,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 82708,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-pt.gekkouscans-v1.4.43.apk",
+        "hash": "14cd0271bab08f8ef2ba3811a8e0a90f8ad996462f0ae70c343d2d5f954f7eac",
+        "link": "https://www.virustotal.com/gui/file/14cd0271bab08f8ef2ba3811a8e0a90f8ad996462f0ae70c343d2d5f954f7eac",
+        "scan_date": 1749859209,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 67561,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.mangamo-v1.4.5.apk",
+        "hash": "91dfd47b4afb331883623cc93659b5c1007ed96a253652cd757a5ca1f2b0dc08",
+        "link": "https://www.virustotal.com/gui/file/91dfd47b4afb331883623cc93659b5c1007ed96a253652cd757a5ca1f2b0dc08",
+        "scan_date": 1749859264,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 86409,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.manhwatoon-v1.4.43.apk",
+        "hash": "187505df1459a305cd4a1461d051aedfc7193792b14f556e4ef06868fa5f1c31",
+        "link": "https://www.virustotal.com/gui/file/187505df1459a305cd4a1461d051aedfc7193792b14f556e4ef06868fa5f1c31",
+        "scan_date": 1749859265,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 73711,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.igniscomic-v1.4.33.apk",
+        "hash": "b9685e31c28c7701ab652fb52eac736b45796e793d9503a934ca244f889b969e",
+        "link": "https://www.virustotal.com/gui/file/b9685e31c28c7701ab652fb52eac736b45796e793d9503a934ca244f889b969e",
+        "scan_date": 1749859266,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 103742,
+        "detected_by": {}
     }
 ]
