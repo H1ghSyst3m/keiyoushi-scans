@@ -98467,5 +98467,71 @@
         "file_type": "Android",
         "file_size": 74602,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-all.webtoons-v1.4.47.apk",
+        "hash": "5cccd2f91614ade8b18aebea558550fd52d7b0875eff40d8cb5991c1874149ea",
+        "link": "https://www.virustotal.com/gui/file/5cccd2f91614ade8b18aebea558550fd52d7b0875eff40d8cb5991c1874149ea",
+        "scan_date": 1749988805,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 73652,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-vi.nhattruyen-v1.4.27.apk",
+        "hash": "d559d805cf203ea0f6c0a81274bc5771d007f4264a9c49883f360092d727c8c3",
+        "link": "https://www.virustotal.com/gui/file/d559d805cf203ea0f6c0a81274bc5771d007f4264a9c49883f360092d727c8c3",
+        "scan_date": 1749988806,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 53241,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-pt.ghostscan-v1.4.43.apk",
+        "hash": "93b165d9c00bcf9f2899c60fc774c92d9206564d2167a4139a4b6692575513ff",
+        "link": "https://www.virustotal.com/gui/file/93b165d9c00bcf9f2899c60fc774c92d9206564d2167a4139a4b6692575513ff",
+        "scan_date": 1749988807,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 88574,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-zh.dongmanmanhua-v1.4.5.apk",
+        "hash": "53f0a4c38ad3c44ab580af1ae5fd06d4c07408a78af3d55869b18d907b396b2e",
+        "link": "https://www.virustotal.com/gui/file/53f0a4c38ad3c44ab580af1ae5fd06d4c07408a78af3d55869b18d907b396b2e",
+        "scan_date": 1749988808,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 42629,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-pt.manhastro-v1.4.50.apk",
+        "hash": "b960aa85125bcd92b0b93100a0443360876277368ccec65385b071c11b91af65",
+        "link": "https://www.virustotal.com/gui/file/b960aa85125bcd92b0b93100a0443360876277368ccec65385b071c11b91af65",
+        "scan_date": 1749988864,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 142095,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-all.webtoonstranslate-v1.4.9.apk",
+        "hash": "a4b7b75d67d9a6ff504ff41fef1ed490e7132e36d6a7685d8bfc2225728ab9e0",
+        "link": "https://www.virustotal.com/gui/file/a4b7b75d67d9a6ff504ff41fef1ed490e7132e36d6a7685d8bfc2225728ab9e0",
+        "scan_date": 1749988865,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 70018,
+        "detected_by": {}
     }
 ]
