@@ -98643,5 +98643,49 @@
         "file_type": "Android",
         "file_size": 77402,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-id.bacakomik-v1.4.12.apk",
+        "hash": "354e72020f1e6ef3de05aeb34c6b59862ea425195a2c5de0f0b4b2fde2e1a65a",
+        "link": "https://www.virustotal.com/gui/file/354e72020f1e6ef3de05aeb34c6b59862ea425195a2c5de0f0b4b2fde2e1a65a",
+        "scan_date": 1750420804,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 64961,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-all.mangadex-v1.4.203.apk",
+        "hash": "68b48d8eb6b31da9d41d20a129f972be4b6e10486c5a9eeaf845d6288ecf86fb",
+        "link": "https://www.virustotal.com/gui/file/68b48d8eb6b31da9d41d20a129f972be4b6e10486c5a9eeaf845d6288ecf86fb",
+        "scan_date": 1750420805,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 145692,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-zh.yymanhua-v1.4.2.apk",
+        "hash": "86801beb348ff8e4d5d6e24e753bbfdcdf02d2bf7f1fda17ec637eb8c7e6ef9b",
+        "link": "https://www.virustotal.com/gui/file/86801beb348ff8e4d5d6e24e753bbfdcdf02d2bf7f1fda17ec637eb8c7e6ef9b",
+        "scan_date": 1750420807,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 57493,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-fr.perfscan-v1.4.30.apk",
+        "hash": "06c05558d238cc50429508fc80fffec5588c9bb3ea1c736aa63d201d2e11db14",
+        "link": "https://www.virustotal.com/gui/file/06c05558d238cc50429508fc80fffec5588c9bb3ea1c736aa63d201d2e11db14",
+        "scan_date": 1750420809,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 66780,
+        "detected_by": {}
     }
 ]
