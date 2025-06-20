@@ -98632,5 +98632,16 @@
         "file_type": "Android",
         "file_size": 64850,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-all.webtoons-v1.4.48.apk",
+        "hash": "df0304245a8fe372afd006103e58b3b45b1bec5f466d993c7b2c45a7a5a412b9",
+        "link": "https://www.virustotal.com/gui/file/df0304245a8fe372afd006103e58b3b45b1bec5f466d993c7b2c45a7a5a412b9",
+        "scan_date": 1750400445,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 77402,
+        "detected_by": {}
     }
 ]
