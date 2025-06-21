@@ -98687,5 +98687,82 @@
         "file_type": "Android",
         "file_size": 66780,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-ru.comx-v1.4.31.apk",
+        "hash": "86bf9b00edb5b1504cf68a54c772873995d8227c336d238ac07585c2ded39276",
+        "link": "https://www.virustotal.com/gui/file/86bf9b00edb5b1504cf68a54c772873995d8227c336d238ac07585c2ded39276",
+        "scan_date": 1750507204,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 42621,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-pt.spectralscan-v1.4.43.apk",
+        "hash": "0cdf28317a7e92634c5bc0a450ce69703875b9dce8bcec6e30b7b3c28355da81",
+        "link": "https://www.virustotal.com/gui/file/0cdf28317a7e92634c5bc0a450ce69703875b9dce8bcec6e30b7b3c28355da81",
+        "scan_date": 1750507205,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 111906,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.armageddon-v1.4.30.apk",
+        "hash": "6373d632b32bddf4980adc25d4b1670984dcee285ac068fe99b049cdc803d4f6",
+        "link": "https://www.virustotal.com/gui/file/6373d632b32bddf4980adc25d4b1670984dcee285ac068fe99b049cdc803d4f6",
+        "scan_date": 1750507207,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 96307,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-all.webtoons-v1.4.49.apk",
+        "hash": "2febe72d1a0fcd2c1e20b98e9f64cceba942d7372c3ff6a3366e7bb7575a574b",
+        "link": "https://www.virustotal.com/gui/file/2febe72d1a0fcd2c1e20b98e9f64cceba942d7372c3ff6a3366e7bb7575a574b",
+        "scan_date": 1750507208,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 77935,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-all.lanraragi-v1.4.20.apk",
+        "hash": "efbb677ffb2148dbb81905491f1443e28d96ef878b0843cae8414a0f4fa66566",
+        "link": "https://www.virustotal.com/gui/file/efbb677ffb2148dbb81905491f1443e28d96ef878b0843cae8414a0f4fa66566",
+        "scan_date": 1750507263,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 94129,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-id.westmanga-v1.4.36.apk",
+        "hash": "17313a5eaed181411dd092b96b83359fe084a55ddb5b7e407f408ca46aa2b10c",
+        "link": "https://www.virustotal.com/gui/file/17313a5eaed181411dd092b96b83359fe084a55ddb5b7e407f408ca46aa2b10c",
+        "scan_date": 1750507265,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 96314,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-pt.astratoons-v1.4.1.apk",
+        "hash": "e981163ffcaceeb3758ab4dde6f70cbb714c5e0233ed8745b80990b13c562b09",
+        "link": "https://www.virustotal.com/gui/file/e981163ffcaceeb3758ab4dde6f70cbb714c5e0233ed8745b80990b13c562b09",
+        "scan_date": 1750507266,
+        "positives": 0,
+        "total": 63,
+        "file_type": "Android",
+        "file_size": 86469,
+        "detected_by": {}
     }
 ]
