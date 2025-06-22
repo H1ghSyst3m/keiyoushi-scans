@@ -98920,5 +98920,16 @@
         "file_type": "Android",
         "file_size": 124720,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-id.manhwaindo-v1.4.37.apk",
+        "hash": "48c335c3dc4ec13426a802cb212f13fcc70cd5e70572fcb9a8a9e57edafd3a07",
+        "link": "https://www.virustotal.com/gui/file/48c335c3dc4ec13426a802cb212f13fcc70cd5e70572fcb9a8a9e57edafd3a07",
+        "scan_date": 1750551195,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 66711,
+        "detected_by": {}
     }
 ]
