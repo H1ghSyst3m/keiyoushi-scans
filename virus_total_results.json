@@ -98931,5 +98931,49 @@
         "file_type": "Android",
         "file_size": 66711,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-pt.sussyscan-v1.4.61.apk",
+        "hash": "710977f45801c24b7a59345884b7aaa457ffeaa715dcc7eab5fb93f97cc34b17",
+        "link": "https://www.virustotal.com/gui/file/710977f45801c24b7a59345884b7aaa457ffeaa715dcc7eab5fb93f97cc34b17",
+        "scan_date": 1750636804,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 101788,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-pt.windscan-v1.4.46.apk",
+        "hash": "4452374ac1d754b758cb8ab5c849cc4a7978e5cee70d2b73ec4fdd9feb3f230d",
+        "link": "https://www.virustotal.com/gui/file/4452374ac1d754b758cb8ab5c849cc4a7978e5cee70d2b73ec4fdd9feb3f230d",
+        "scan_date": 1750636805,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 137726,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-pt.maidscan-v1.4.51.apk",
+        "hash": "73674dd9a797d5df5476f70543257279086daf7d75e0b52ca965f06b27acdb51",
+        "link": "https://www.virustotal.com/gui/file/73674dd9a797d5df5476f70543257279086daf7d75e0b52ca965f06b27acdb51",
+        "scan_date": 1750636807,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 129819,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-pt.mediocretoons-v1.4.5.apk",
+        "hash": "9e72357d2bfb731fd01c1db1dfaa6b159054ca9600e07cf27ec7aeebba9f4448",
+        "link": "https://www.virustotal.com/gui/file/9e72357d2bfb731fd01c1db1dfaa6b159054ca9600e07cf27ec7aeebba9f4448",
+        "scan_date": 1750636808,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 87912,
+        "detected_by": {}
     }
 ]
