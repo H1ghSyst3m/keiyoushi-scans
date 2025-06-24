@@ -98975,5 +98975,49 @@
         "file_type": "Android",
         "file_size": 87912,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-all.kemono-v1.4.22.apk",
+        "hash": "bebf735eabe25b1cf333910fd6d2e6aaabc98ccd99ce1e1b0fdec9c918f20e4e",
+        "link": "https://www.virustotal.com/gui/file/bebf735eabe25b1cf333910fd6d2e6aaabc98ccd99ce1e1b0fdec9c918f20e4e",
+        "scan_date": 1750723204,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 70824,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-id.cosmicscansid-v1.4.41.apk",
+        "hash": "387276a8c5a1f99537a5deaeb196c39eef0e849d36e8cc194f6b0eaf53745089",
+        "link": "https://www.virustotal.com/gui/file/387276a8c5a1f99537a5deaeb196c39eef0e849d36e8cc194f6b0eaf53745089",
+        "scan_date": 1750723205,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 93251,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-all.coomer-v1.4.22.apk",
+        "hash": "d1a8fba9fc86564e301305ca01e7ef885ec8d57ceb53ec1d7462b42906edd45f",
+        "link": "https://www.virustotal.com/gui/file/d1a8fba9fc86564e301305ca01e7ef885ec8d57ceb53ec1d7462b42906edd45f",
+        "scan_date": 1750723207,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 57975,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-pt.animexnovel-v1.4.12.apk",
+        "hash": "61dbf08e348b65612a7b0944d9ada9893c4ade19daa962fc5f3537d9f5c8f9d4",
+        "link": "https://www.virustotal.com/gui/file/61dbf08e348b65612a7b0944d9ada9893c4ade19daa962fc5f3537d9f5c8f9d4",
+        "scan_date": 1750723209,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 92211,
+        "detected_by": {}
     }
 ]
