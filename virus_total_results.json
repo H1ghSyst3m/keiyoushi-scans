@@ -99019,5 +99019,38 @@
         "file_type": "Android",
         "file_size": 92211,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-all.hitomi-v1.4.40.apk",
+        "hash": "9ee32c73a9ebed94d2dcc569549f3cd51843d08a8526996e6b4d23a33e65e5b1",
+        "link": "https://www.virustotal.com/gui/file/9ee32c73a9ebed94d2dcc569549f3cd51843d08a8526996e6b4d23a33e65e5b1",
+        "scan_date": 1750809605,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 74882,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-id.komikcast-v1.4.66.apk",
+        "hash": "7d1eef649d0d14ad58096c3c6bc4f5832a6287b701751f75cfe46a6adb0634dd",
+        "link": "https://www.virustotal.com/gui/file/7d1eef649d0d14ad58096c3c6bc4f5832a6287b701751f75cfe46a6adb0634dd",
+        "scan_date": 1750809606,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 131470,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-zh.zazhimi-v1.4.1.apk",
+        "hash": "cd8d9a68ac667d397cb15b0e754bc552f864ebe872be4529acf0b36493f2b3fe",
+        "link": "https://www.virustotal.com/gui/file/cd8d9a68ac667d397cb15b0e754bc552f864ebe872be4529acf0b36493f2b3fe",
+        "scan_date": 1750809608,
+        "positives": 0,
+        "total": 64,
+        "file_type": "Android",
+        "file_size": 93720,
+        "detected_by": {}
     }
 ]
