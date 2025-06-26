@@ -99052,5 +99052,38 @@
         "file_type": "Android",
         "file_size": 93720,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-zh.bakamh-v1.4.43.apk",
+        "hash": "5d6395905ba110647d68e3a6ac57ce5aae8a46ca363ef3286242303cfc600c7c",
+        "link": "https://www.virustotal.com/gui/file/5d6395905ba110647d68e3a6ac57ce5aae8a46ca363ef3286242303cfc600c7c",
+        "scan_date": 1750854010,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 78630,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-all.holonometria-v1.4.3.apk",
+        "hash": "909fc19e02558a5cca868d4cda760e7e37396a32b0cfcbe42d55da9f9227a82f",
+        "link": "https://www.virustotal.com/gui/file/909fc19e02558a5cca868d4cda760e7e37396a32b0cfcbe42d55da9f9227a82f",
+        "scan_date": 1750854011,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 33792,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-ja.mangagun-v1.4.13.apk",
+        "hash": "a25c2d55e71be23386cb1a02b72ecc1dd7fca52755cfb833603176c00e3d6503",
+        "link": "https://www.virustotal.com/gui/file/a25c2d55e71be23386cb1a02b72ecc1dd7fca52755cfb833603176c00e3d6503",
+        "scan_date": 1750854013,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 68887,
+        "detected_by": {}
     }
 ]
