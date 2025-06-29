@@ -99107,5 +99107,82 @@
         "file_type": "Android",
         "file_size": 86489,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-pt.pinkrosa-v1.4.11.apk",
+        "hash": "aad551ff843d568fd439d9d7751b68258db1ea57accfbbbbd6a1e1c46fe522ef",
+        "link": "https://www.virustotal.com/gui/file/aad551ff843d568fd439d9d7751b68258db1ea57accfbbbbd6a1e1c46fe522ef",
+        "scan_date": 1751155204,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 70074,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-id.cosmicscansid-v1.4.42.apk",
+        "hash": "37d102d8b568211220848c06ee3fdcf494d621825798736a8c2753fcb46dd2c5",
+        "link": "https://www.virustotal.com/gui/file/37d102d8b568211220848c06ee3fdcf494d621825798736a8c2753fcb46dd2c5",
+        "scan_date": 1751155205,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 93259,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-id.siimanga-v1.4.43.apk",
+        "hash": "aff0139f9023fac3c71c28c08fc78b576a3a54907789aecc7cd11b215fc9960e",
+        "link": "https://www.virustotal.com/gui/file/aff0139f9023fac3c71c28c08fc78b576a3a54907789aecc7cd11b215fc9960e",
+        "scan_date": 1751155206,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 67395,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-id.masterkomik-v1.4.37.apk",
+        "hash": "a8e815b5cb876dfea29fe1de64089e5409121e81c4fd40be88a0eb0e852a258a",
+        "link": "https://www.virustotal.com/gui/file/a8e815b5cb876dfea29fe1de64089e5409121e81c4fd40be88a0eb0e852a258a",
+        "scan_date": 1751155208,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 96529,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-pt.spectralscan-v1.4.46.apk",
+        "hash": "6f7bde4570f100725f787177a71915f0736dcaf341fe6fa8d8600f1b50dcf2d3",
+        "link": "https://www.virustotal.com/gui/file/6f7bde4570f100725f787177a71915f0736dcaf341fe6fa8d8600f1b50dcf2d3",
+        "scan_date": 1751155264,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 114833,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-all.mayotune-v1.4.1.apk",
+        "hash": "941eb954120063bb96e1a33e16d5adfe1cc75cf9616ff7419711e81975576198",
+        "link": "https://www.virustotal.com/gui/file/941eb954120063bb96e1a33e16d5adfe1cc75cf9616ff7419711e81975576198",
+        "scan_date": 1751155265,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 57412,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-id.kiryuu-v1.4.41.apk",
+        "hash": "13a051cce60bbaba0c3dbe8256a9fef6b9ff08ea602d7d5382375d203c6794e6",
+        "link": "https://www.virustotal.com/gui/file/13a051cce60bbaba0c3dbe8256a9fef6b9ff08ea602d7d5382375d203c6794e6",
+        "scan_date": 1751155266,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 83036,
+        "detected_by": {}
     }
 ]
