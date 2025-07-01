@@ -99184,5 +99184,93 @@
         "file_type": "Android",
         "file_size": 83036,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.infernalvoidscans-v1.4.50.apk",
+        "hash": "da2b74ade284d73705b66b5991cd05a1f55150a0aca28f0a1898fd741a2f811d",
+        "link": "https://www.virustotal.com/gui/file/da2b74ade284d73705b66b5991cd05a1f55150a0aca28f0a1898fd741a2f811d",
+        "scan_date": 1751371204,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 70964,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-zh.mh1234-v1.4.1.apk",
+        "hash": "b91d329a7ec32aa284ed2fda73ef2f276b2bd32c909597505b7774d4c9e6cb7d",
+        "link": "https://www.virustotal.com/gui/file/b91d329a7ec32aa284ed2fda73ef2f276b2bd32c909597505b7774d4c9e6cb7d",
+        "scan_date": 1751371206,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 54975,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-pt.imperiodabritannia-v1.4.47.apk",
+        "hash": "ccc3789ca0ffc4b330320215f66c6ce0133b1ce5322dad009a39fa2c0572f260",
+        "link": "https://www.virustotal.com/gui/file/ccc3789ca0ffc4b330320215f66c6ce0133b1ce5322dad009a39fa2c0572f260",
+        "scan_date": 1751371207,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 112565,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-id.komiku-v1.4.19.apk",
+        "hash": "dd3bbde6a0597a8b07a85ff990ca56817c8577e0a298085415b5e1d6988b818a",
+        "link": "https://www.virustotal.com/gui/file/dd3bbde6a0597a8b07a85ff990ca56817c8577e0a298085415b5e1d6988b818a",
+        "scan_date": 1751371263,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 50361,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-pt.spectralscan-v1.4.47.apk",
+        "hash": "1b2787f63338ace66f98219928a474262fdf395b3b424ad21bed6ed2a0518853",
+        "link": "https://www.virustotal.com/gui/file/1b2787f63338ace66f98219928a474262fdf395b3b424ad21bed6ed2a0518853",
+        "scan_date": 1751371264,
+        "positives": 0,
+        "total": 64,
+        "file_type": "Android",
+        "file_size": 115234,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-es.catharsisworld-v1.4.47.apk",
+        "hash": "704bbebed923accc4a9b9b71533ac7e814b2a4dff4f22042669f2a2c61a473f4",
+        "link": "https://www.virustotal.com/gui/file/704bbebed923accc4a9b9b71533ac7e814b2a4dff4f22042669f2a2c61a473f4",
+        "scan_date": 1751371266,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 80846,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-id.comicaso-v1.4.33.apk",
+        "hash": "fd97287db78e9f47b7e2b2ddb79350de7f8b5cd8869940380e4eb17f3299d66f",
+        "link": "https://www.virustotal.com/gui/file/fd97287db78e9f47b7e2b2ddb79350de7f8b5cd8869940380e4eb17f3299d66f",
+        "scan_date": 1751371267,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 71010,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-es.tecnoprojects-v1.4.43.apk",
+        "hash": "99edb3bfda0239c5fa8f447657804931fc8a6727554c201f427fe9143bbcc2f0",
+        "link": "https://www.virustotal.com/gui/file/99edb3bfda0239c5fa8f447657804931fc8a6727554c201f427fe9143bbcc2f0",
+        "scan_date": 1751371325,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 84826,
+        "detected_by": {}
     }
 ]
