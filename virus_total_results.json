@@ -99272,5 +99272,27 @@
         "file_type": "Android",
         "file_size": 84826,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-tr.opiatoon-v1.4.44.apk",
+        "hash": "67fd2318348a4c69405e88d50bad116766d876e8c5a649ea274c3080ccdd16ba",
+        "link": "https://www.virustotal.com/gui/file/67fd2318348a4c69405e88d50bad116766d876e8c5a649ea274c3080ccdd16ba",
+        "scan_date": 1751371929,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 144651,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-id.manhwalistorg-v1.4.31.apk",
+        "hash": "99d5b115b291422d4b9b1446e77272effa710345cd5a23e44961a3e1101627aa",
+        "link": "https://www.virustotal.com/gui/file/99d5b115b291422d4b9b1446e77272effa710345cd5a23e44961a3e1101627aa",
+        "scan_date": 1751371933,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 125511,
+        "detected_by": {}
     }
 ]
