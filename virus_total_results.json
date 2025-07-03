@@ -99382,5 +99382,27 @@
         "file_type": "Android",
         "file_size": 122855,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-ja.rawkuma-v1.4.32.apk",
+        "hash": "0137633126da5a8a4c95894ab64863747021bfb868ee75d96de3a99764666128",
+        "link": "https://www.virustotal.com/gui/file/0137633126da5a8a4c95894ab64863747021bfb868ee75d96de3a99764666128",
+        "scan_date": 1751544005,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 85430,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-zh.jinmantiantang-v1.4.51.apk",
+        "hash": "ba70e9935b27f1846e0158a3a8cf55d5b76bd401d4a8ab5261e55ebae315a09a",
+        "link": "https://www.virustotal.com/gui/file/ba70e9935b27f1846e0158a3a8cf55d5b76bd401d4a8ab5261e55ebae315a09a",
+        "scan_date": 1751544006,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 236786,
+        "detected_by": {}
     }
 ]
