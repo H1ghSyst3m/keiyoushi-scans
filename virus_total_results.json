@@ -99525,5 +99525,27 @@
         "file_type": "Android",
         "file_size": 236789,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-es.barmanga-v1.4.45.apk",
+        "hash": "dfd0cd0cdf1aa67efa2c9f26b44e8ca0860d3ca46915814fa05d5d2f3319be6f",
+        "link": "https://www.virustotal.com/gui/file/dfd0cd0cdf1aa67efa2c9f26b44e8ca0860d3ca46915814fa05d5d2f3319be6f",
+        "scan_date": 1752011064,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 103615,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-es.noblessetranslations-v1.4.49.apk",
+        "hash": "3f110221ef00ab9d45de94c7eb56f2776630fd3b833a0cafbeb45567015ffd36",
+        "link": "https://www.virustotal.com/gui/file/3f110221ef00ab9d45de94c7eb56f2776630fd3b833a0cafbeb45567015ffd36",
+        "scan_date": 1752011027,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 92171,
+        "detected_by": {}
     }
 ]
