@@ -99635,5 +99635,49 @@
         "file_type": "Android",
         "file_size": 88029,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-all.webtoons-v1.4.50.apk",
+        "hash": "3e2fba1ec05a0a6177ad1f747b2ea442ed1aa4f64ac08872e0294e7fed753335",
+        "link": "https://www.virustotal.com/gui/file/3e2fba1ec05a0a6177ad1f747b2ea442ed1aa4f64ac08872e0294e7fed753335",
+        "scan_date": 1752062405,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 79189,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-zh.bilimanga-v1.4.1.apk",
+        "hash": "2a136aad303ee689e5b24d9020c23ddfbf1b8b819543a3d292f2aad138bb627d",
+        "link": "https://www.virustotal.com/gui/file/2a136aad303ee689e5b24d9020c23ddfbf1b8b819543a3d292f2aad138bb627d",
+        "scan_date": 1752062407,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 65859,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-pt.lertoons-v1.4.1.apk",
+        "hash": "78afaead4d2bc990f2ee123c23d6b361331de2b514af711f2e3a54d45a177b2e",
+        "link": "https://www.virustotal.com/gui/file/78afaead4d2bc990f2ee123c23d6b361331de2b514af711f2e3a54d45a177b2e",
+        "scan_date": 1752062408,
+        "positives": 0,
+        "total": 61,
+        "file_type": "Android",
+        "file_size": 47688,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.mangadistrict-v1.4.54.apk",
+        "hash": "7bea20fccbbbb4979b8c22614e03e37e1d748655528956ef8b5fbdeff10480f2",
+        "link": "https://www.virustotal.com/gui/file/7bea20fccbbbb4979b8c22614e03e37e1d748655528956ef8b5fbdeff10480f2",
+        "scan_date": 1752062410,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 107082,
+        "detected_by": {}
     }
 ]
