@@ -99690,5 +99690,38 @@
         "file_type": "Android",
         "file_size": 75063,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-fr.rimuscans-v1.4.32.apk",
+        "hash": "6b29806d479eea0c5de9954238ed7d3a527263d6d2b67b16c0df14f064b028bd",
+        "link": "https://www.virustotal.com/gui/file/6b29806d479eea0c5de9954238ed7d3a527263d6d2b67b16c0df14f064b028bd",
+        "scan_date": 1752235205,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 93107,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-zh.bilimanga-v1.4.2.apk",
+        "hash": "1f5cd8c9c02bf4e1a515e3e1155840edcb5e099d0107c7b535fdb898401413c4",
+        "link": "https://www.virustotal.com/gui/file/1f5cd8c9c02bf4e1a515e3e1155840edcb5e099d0107c7b535fdb898401413c4",
+        "scan_date": 1752235206,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 66029,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.dynasty-v1.4.27.apk",
+        "hash": "69365b7c71bc11c0154873bc77d863f37d01a2aab4edf83cd87bd10f23cd636e",
+        "link": "https://www.virustotal.com/gui/file/69365b7c71bc11c0154873bc77d863f37d01a2aab4edf83cd87bd10f23cd636e",
+        "scan_date": 1752235209,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 176062,
+        "detected_by": {}
     }
 ]
