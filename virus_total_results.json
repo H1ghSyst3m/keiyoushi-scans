@@ -99679,5 +99679,16 @@
         "file_type": "Android",
         "file_size": 107082,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-all.hitomi-v1.4.41.apk",
+        "hash": "b01dbee0141af89bb7b86ec56a43b9abc31e28354dad8c1856518ee3f5dd0c93",
+        "link": "https://www.virustotal.com/gui/file/b01dbee0141af89bb7b86ec56a43b9abc31e28354dad8c1856518ee3f5dd0c93",
+        "scan_date": 1752226170,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 75063,
+        "detected_by": {}
     }
 ]
