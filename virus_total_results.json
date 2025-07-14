@@ -99723,5 +99723,104 @@
         "file_type": "Android",
         "file_size": 176062,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-zh.sixmh-v1.4.14.apk",
+        "hash": "3a64c650d9c96944598b056002964394c59487ca231ee1f912aec9b71b09f039",
+        "link": "https://www.virustotal.com/gui/file/3a64c650d9c96944598b056002964394c59487ca231ee1f912aec9b71b09f039",
+        "scan_date": 1752494404,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 85024,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-fr.frmanga-v1.4.7.apk",
+        "hash": "3a5531e876a0a7d7c57181951f6db861efbba403d561d6dfe47549f46d51ac35",
+        "link": "https://www.virustotal.com/gui/file/3a5531e876a0a7d7c57181951f6db861efbba403d561d6dfe47549f46d51ac35",
+        "scan_date": 1752494405,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 63107,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-zh.manhuawu-v1.4.7.apk",
+        "hash": "bf7228457621063b5dabf501f2cb75aea49edaf7966aa6f243f1b3ef30f90489",
+        "link": "https://www.virustotal.com/gui/file/bf7228457621063b5dabf501f2cb75aea49edaf7966aa6f243f1b3ef30f90489",
+        "scan_date": 1752494407,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 63691,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-zh.miaoqu-v1.4.7.apk",
+        "hash": "a57e9e177e3c446a807994ff38cc808ca3dad5b8813845dbef4910bb774128fe",
+        "link": "https://www.virustotal.com/gui/file/a57e9e177e3c446a807994ff38cc808ca3dad5b8813845dbef4910bb774128fe",
+        "scan_date": 1752494408,
+        "positives": 0,
+        "total": 64,
+        "file_type": "Android",
+        "file_size": 66551,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-zh.rumanhua-v1.4.3.apk",
+        "hash": "3da3e865296796e7292bca61d024a8e2877a050a89404db01b3a666afbfb5971",
+        "link": "https://www.virustotal.com/gui/file/3da3e865296796e7292bca61d024a8e2877a050a89404db01b3a666afbfb5971",
+        "scan_date": 1752494464,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 106464,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-zh.dumanwu-v1.4.1.apk",
+        "hash": "44ef7da542ef475c7f04e9a5e2ebef9496808cead131310d13d79c081911d8b7",
+        "link": "https://www.virustotal.com/gui/file/44ef7da542ef475c7f04e9a5e2ebef9496808cead131310d13d79c081911d8b7",
+        "scan_date": 1752494465,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 68548,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-vi.truyenhentai18-v1.4.4.apk",
+        "hash": "523d583d9e6b3061d4313db18f2f1fb38ec4d3a513c4f1af88faa03c62f936ea",
+        "link": "https://www.virustotal.com/gui/file/523d583d9e6b3061d4313db18f2f1fb38ec4d3a513c4f1af88faa03c62f936ea",
+        "scan_date": 1752494466,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 93105,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-fr.enlignemanga-v1.4.7.apk",
+        "hash": "d520cf2f4e93fd8ecf48417bbd8fc6194d3ad77153bc3508208bd2088ff53ca3",
+        "link": "https://www.virustotal.com/gui/file/d520cf2f4e93fd8ecf48417bbd8fc6194d3ad77153bc3508208bd2088ff53ca3",
+        "scan_date": 1752494468,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 63211,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-fr.poseidonscans-v1.4.45.apk",
+        "hash": "3659a1c43606601516382539cf6895dba5819bcb37e4d621d8f92495ffb31a8d",
+        "link": "https://www.virustotal.com/gui/file/3659a1c43606601516382539cf6895dba5819bcb37e4d621d8f92495ffb31a8d",
+        "scan_date": 1752494524,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 81024,
+        "detected_by": {}
     }
 ]
