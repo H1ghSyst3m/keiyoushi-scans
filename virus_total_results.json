@@ -99833,5 +99833,51 @@
         "file_type": "Android",
         "file_size": 122339,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.goda-v1.4.3.apk",
+        "hash": "27706a4ab35807e5d9c538d824f3aa02ed4a0558534b514569cde7a0dd613cc2",
+        "link": "https://www.virustotal.com/gui/file/27706a4ab35807e5d9c538d824f3aa02ed4a0558534b514569cde7a0dd613cc2",
+        "scan_date": 1752624004,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 42399,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-zh.eighteenmanhua-v1.4.3.apk",
+        "hash": "4e79aa3b9220c0ef28b96271e601784de5efa391cc8d8227ea3a5162aeda6d53",
+        "link": "https://www.virustotal.com/gui/file/4e79aa3b9220c0ef28b96271e601784de5efa391cc8d8227ea3a5162aeda6d53",
+        "scan_date": 1752624006,
+        "positives": 1,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 42119,
+        "detected_by": {
+            "Microsoft": "Trojan:Script/Wacatac.C!ml"
+        }
+    },
+    {
+        "filename": "tachiyomi-zh.baozimhorg-v1.4.34.apk",
+        "hash": "ed578dff634417032bd0b59a1dc7df19c0a9e02951945b9d3064897bf93e69f9",
+        "link": "https://www.virustotal.com/gui/file/ed578dff634417032bd0b59a1dc7df19c0a9e02951945b9d3064897bf93e69f9",
+        "scan_date": 1752624008,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 54209,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-zh.manhuagui-v1.4.25.apk",
+        "hash": "73ad9787f6961f5927c9937d436b22a4401e92ebac062f99e52920f4aea41459",
+        "link": "https://www.virustotal.com/gui/file/73ad9787f6961f5927c9937d436b22a4401e92ebac062f99e52920f4aea41459",
+        "scan_date": 1752624009,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 87507,
+        "detected_by": {}
     }
 ]
