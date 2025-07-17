@@ -99890,5 +99890,38 @@
         "file_type": "Android",
         "file_size": 72580,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-pt.spectralscan-v1.4.48.apk",
+        "hash": "d125ce38e85e411cd03edcf4d1c5e88093d4c368987050b1bb3b13ad7435fcbb",
+        "link": "https://www.virustotal.com/gui/file/d125ce38e85e411cd03edcf4d1c5e88093d4c368987050b1bb3b13ad7435fcbb",
+        "scan_date": 1752710404,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 115018,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-es.templescanesp-v1.4.46.apk",
+        "hash": "238029d1dc1a8ba284e1310b67f566eec797f4a0fade7a53b047917ec4dc3372",
+        "link": "https://www.virustotal.com/gui/file/238029d1dc1a8ba284e1310b67f566eec797f4a0fade7a53b047917ec4dc3372",
+        "scan_date": 1752710406,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 104389,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-all.hentaicosplay-v1.4.5.apk",
+        "hash": "8cdb1ae02cc14a15d7a2d1fa0376214fff42bc0522d756f16c9a10262953a3ba",
+        "link": "https://www.virustotal.com/gui/file/8cdb1ae02cc14a15d7a2d1fa0376214fff42bc0522d756f16c9a10262953a3ba",
+        "scan_date": 1752710408,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 46414,
+        "detected_by": {}
     }
 ]
