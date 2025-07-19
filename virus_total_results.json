@@ -99934,5 +99934,40 @@
         "file_type": "Android",
         "file_size": 67734,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-vi.truyenhentai18-v1.4.5.apk",
+        "hash": "4b9cf9caaf7a7fcc64c85d99f9a74111f92c276906e1f9210b1a2dae7a50fd4e",
+        "link": "https://www.virustotal.com/gui/file/4b9cf9caaf7a7fcc64c85d99f9a74111f92c276906e1f9210b1a2dae7a50fd4e",
+        "scan_date": 1752926404,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 93082,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-vi.nettruyenco-v1.4.13.apk",
+        "hash": "08039dc6cd4ac4830f8c158fc16f1243c659d195f0611d85e1e0eb34f30c4202",
+        "link": "https://www.virustotal.com/gui/file/08039dc6cd4ac4830f8c158fc16f1243c659d195f0611d85e1e0eb34f30c4202",
+        "scan_date": 1752926405,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 52841,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-vi.lxhentai-v1.4.21.apk",
+        "hash": "fb89120a4de83a5546860ba1f65e7b728b2d36a62b369d04586e1876425f8046",
+        "link": "https://www.virustotal.com/gui/file/fb89120a4de83a5546860ba1f65e7b728b2d36a62b369d04586e1876425f8046",
+        "scan_date": 1752926407,
+        "positives": 1,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 41436,
+        "detected_by": {
+            "Microsoft": "Trojan:Script/Wacatac.C!ml"
+        }
     }
 ]
