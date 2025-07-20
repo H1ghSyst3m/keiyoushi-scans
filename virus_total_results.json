@@ -99969,5 +99969,16 @@
         "detected_by": {
             "Microsoft": "Trojan:Script/Wacatac.C!ml"
         }
+    },
+    {
+        "filename": "tachiyomi-zh.mangabz-v1.4.12.apk",
+        "hash": "a45d2b3e7eb7fd058198ef9530b8e6484e3012ed26a062b431485c8fe5f72a01",
+        "link": "https://www.virustotal.com/gui/file/a45d2b3e7eb7fd058198ef9530b8e6484e3012ed26a062b431485c8fe5f72a01",
+        "scan_date": 1752969604,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 67366,
+        "detected_by": {}
     }
 ]
