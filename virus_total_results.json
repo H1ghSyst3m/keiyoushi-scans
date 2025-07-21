@@ -100035,5 +100035,42 @@
         "file_type": "Android",
         "file_size": 57399,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-es.lectormonline-v1.4.1.apk",
+        "hash": "fbf466635db581694c51bf6c0cf4543fae1de7007a5d7f69f7b53b154fe213ff",
+        "link": "https://www.virustotal.com/gui/file/fbf466635db581694c51bf6c0cf4543fae1de7007a5d7f69f7b53b154fe213ff",
+        "scan_date": 1753056004,
+        "positives": 1,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 46471,
+        "detected_by": {
+            "Microsoft": "PUA:Win32/Puwaders.C!ml"
+        }
+    },
+    {
+        "filename": "tachiyomi-es.carteldemanhwas-v1.4.37.apk",
+        "hash": "ecd11218836e25205c2c9b928211932ead32a55824f1b20af9d7a9410f59e532",
+        "link": "https://www.virustotal.com/gui/file/ecd11218836e25205c2c9b928211932ead32a55824f1b20af9d7a9410f59e532",
+        "scan_date": 1753056005,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 106795,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-es.mangasx-v1.4.1.apk",
+        "hash": "8c7236307f55ee570da615c3570897dfdc63f56954bb3e5cc474c6b58c50b117",
+        "link": "https://www.virustotal.com/gui/file/8c7236307f55ee570da615c3570897dfdc63f56954bb3e5cc474c6b58c50b117",
+        "scan_date": 1753056007,
+        "positives": 1,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 46446,
+        "detected_by": {
+            "Microsoft": "PUA:Win32/Puwaders.C!ml"
+        }
     }
 ]
