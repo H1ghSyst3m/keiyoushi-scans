@@ -100072,5 +100072,27 @@
         "detected_by": {
             "Microsoft": "PUA:Win32/Puwaders.C!ml"
         }
+    },
+    {
+        "filename": "tachiyomi-fr.mangasoriginesfr-v1.4.44.apk",
+        "hash": "0456f4ae02e728c5fa63c2019af7b33f4e91a268858a55655e35e7f1987e8edc",
+        "link": "https://www.virustotal.com/gui/file/0456f4ae02e728c5fa63c2019af7b33f4e91a268858a55655e35e7f1987e8edc",
+        "scan_date": 1753142405,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 74989,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-vi.mimihentai-v1.4.1.apk",
+        "hash": "74850cddf71943cc7812d40235ac87ec209a4de8bcc1b92aa21ae2784d6de65a",
+        "link": "https://www.virustotal.com/gui/file/74850cddf71943cc7812d40235ac87ec209a4de8bcc1b92aa21ae2784d6de65a",
+        "scan_date": 1753142406,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 84284,
+        "detected_by": {}
     }
 ]
