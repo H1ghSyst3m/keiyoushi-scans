@@ -100094,5 +100094,73 @@
         "file_type": "Android",
         "file_size": 84284,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-vi.doctruyen5s-v1.4.7.apk",
+        "hash": "5cb0d17e8eaa29172c6beb007e316f94414e4509b58b68b92b9bb5a45f4cc5ac",
+        "link": "https://www.virustotal.com/gui/file/5cb0d17e8eaa29172c6beb007e316f94414e4509b58b68b92b9bb5a45f4cc5ac",
+        "scan_date": 1753228806,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 62471,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-vi.hentaicube-v1.4.62.apk",
+        "hash": "1ad4b004729191a14d56fc96262d137157831836a5d3a8f2780cae11904c5655",
+        "link": "https://www.virustotal.com/gui/file/1ad4b004729191a14d56fc96262d137157831836a5d3a8f2780cae11904c5655",
+        "scan_date": 1753228807,
+        "positives": 0,
+        "total": 63,
+        "file_type": "Android",
+        "file_size": 79869,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-vi.doctruyen3q-v1.4.17.apk",
+        "hash": "482e2d871a30c2e28d4102d8362fdb69c478a3de5c9276bccf3bf09d51dafb58",
+        "link": "https://www.virustotal.com/gui/file/482e2d871a30c2e28d4102d8362fdb69c478a3de5c9276bccf3bf09d51dafb58",
+        "scan_date": 1753228808,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 67190,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-vi.lxhentai-v1.4.22.apk",
+        "hash": "9c1bb43f23d2510e7f5fe1f86d3a8cffbdea1d4aa723c208a2a27f2a5ce21c7f",
+        "link": "https://www.virustotal.com/gui/file/9c1bb43f23d2510e7f5fe1f86d3a8cffbdea1d4aa723c208a2a27f2a5ce21c7f",
+        "scan_date": 1753228810,
+        "positives": 1,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 41424,
+        "detected_by": {
+            "Microsoft": "PUA:Win32/Puwaders.C!ml"
+        }
+    },
+    {
+        "filename": "tachiyomi-en.readtokyoghoulretokyoghoulmangaonline-v1.4.7.apk",
+        "hash": "f1f0533ab5c80ba869da38f5dbbac8072354bb870737d52a354ca4340092881e",
+        "link": "https://www.virustotal.com/gui/file/f1f0533ab5c80ba869da38f5dbbac8072354bb870737d52a354ca4340092881e",
+        "scan_date": 1753228866,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 110668,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-vi.nettruyenco-v1.4.14.apk",
+        "hash": "3f53713ee42427d9b87eff5d2a961bae086debb403de9f3a136cb11ccf2a95bf",
+        "link": "https://www.virustotal.com/gui/file/3f53713ee42427d9b87eff5d2a961bae086debb403de9f3a136cb11ccf2a95bf",
+        "scan_date": 1753228867,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 52837,
+        "detected_by": {}
     }
 ]
