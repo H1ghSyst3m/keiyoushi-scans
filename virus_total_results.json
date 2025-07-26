@@ -100162,5 +100162,71 @@
         "file_type": "Android",
         "file_size": 52837,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.ritharscans-v1.4.18.apk",
+        "hash": "50ecf3c235d2654ace027838239c3eb69fb76e4aabf592a0506ab487a69df7db",
+        "link": "https://www.virustotal.com/gui/file/50ecf3c235d2654ace027838239c3eb69fb76e4aabf592a0506ab487a69df7db",
+        "scan_date": 1753488009,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 107133,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.artlapsa-v1.4.18.apk",
+        "hash": "92aa3a1de0a8b2d30928d644bd7ed7a13df7920ac6d9bb3ba5b90c14683f6df9",
+        "link": "https://www.virustotal.com/gui/file/92aa3a1de0a8b2d30928d644bd7ed7a13df7920ac6d9bb3ba5b90c14683f6df9",
+        "scan_date": 1753488011,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 76654,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.hiperdex-v1.4.61.apk",
+        "hash": "2949dabe353debc69a56ccc275ae7b4bfbf5f0c29969ec5de993fdabce470a9e",
+        "link": "https://www.virustotal.com/gui/file/2949dabe353debc69a56ccc275ae7b4bfbf5f0c29969ec5de993fdabce470a9e",
+        "scan_date": 1753488012,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 89307,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-vi.mimihentai-v1.4.2.apk",
+        "hash": "ad15af3dcd241cdb2866f71dc94c61b68b310deb70ff38d4e483793ad39fb181",
+        "link": "https://www.virustotal.com/gui/file/ad15af3dcd241cdb2866f71dc94c61b68b310deb70ff38d4e483793ad39fb181",
+        "scan_date": 1753488014,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 88604,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-vi.goctruyentranhvui-v1.4.1.apk",
+        "hash": "c0614af46cd497ebe805ec0f80bcac8f0ac96e925a3df97cf22f0c009a536e7f",
+        "link": "https://www.virustotal.com/gui/file/c0614af46cd497ebe805ec0f80bcac8f0ac96e925a3df97cf22f0c009a536e7f",
+        "scan_date": 1753488069,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 60238,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-all.batoto-v1.4.51.apk",
+        "hash": "32dd8eb7a05e5e3884354182ba56b591aa66ec47f5e0d025269bfc84f2766c88",
+        "link": "https://www.virustotal.com/gui/file/32dd8eb7a05e5e3884354182ba56b591aa66ec47f5e0d025269bfc84f2766c88",
+        "scan_date": 1753488074,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 74516,
+        "detected_by": {}
     }
 ]
