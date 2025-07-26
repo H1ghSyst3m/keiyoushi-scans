@@ -100228,5 +100228,16 @@
         "file_type": "Android",
         "file_size": 74516,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-pt.portalyaoi-v1.4.43.apk",
+        "hash": "5689bd11a616234295e393d09d28d0bcc02c097b108cadc04cc215f628bd1c8e",
+        "link": "https://www.virustotal.com/gui/file/5689bd11a616234295e393d09d28d0bcc02c097b108cadc04cc215f628bd1c8e",
+        "scan_date": 1753488680,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 87713,
+        "detected_by": {}
     }
 ]
