@@ -100294,5 +100294,27 @@
         "file_type": "Android",
         "file_size": 62749,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-pt.animexnovel-v1.4.13.apk",
+        "hash": "118a0c10d91662635200e737979c20676bfa2eb8f0980b5ec499a962fbf3d482",
+        "link": "https://www.virustotal.com/gui/file/118a0c10d91662635200e737979c20676bfa2eb8f0980b5ec499a962fbf3d482",
+        "scan_date": 1753617604,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 93102,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-pt.manhastro-v1.4.51.apk",
+        "hash": "ae76e768ec12ba1c55ab527c01c742ee1e6f99708524735d7d94c582695e29f7",
+        "link": "https://www.virustotal.com/gui/file/ae76e768ec12ba1c55ab527c01c742ee1e6f99708524735d7d94c582695e29f7",
+        "scan_date": 1753617606,
+        "positives": 0,
+        "total": 64,
+        "file_type": "Android",
+        "file_size": 142609,
+        "detected_by": {}
     }
 ]
