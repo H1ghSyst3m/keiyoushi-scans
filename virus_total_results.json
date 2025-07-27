@@ -100250,5 +100250,49 @@
         "file_type": "Android",
         "file_size": 74660,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-pt.imperiodabritannia-v1.4.48.apk",
+        "hash": "2e83e0b425d9db0b61433468dd5cfa9b67135db25e8586313d2137cc7b4d938f",
+        "link": "https://www.virustotal.com/gui/file/2e83e0b425d9db0b61433468dd5cfa9b67135db25e8586313d2137cc7b4d938f",
+        "scan_date": 1753574404,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 112805,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.flamecomics-v1.4.43.apk",
+        "hash": "b058cd6a11c4501f297ecbd8468bdc6fbd52aa5f0b2130893be64a65ce91785d",
+        "link": "https://www.virustotal.com/gui/file/b058cd6a11c4501f297ecbd8468bdc6fbd52aa5f0b2130893be64a65ce91785d",
+        "scan_date": 1753574406,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 75627,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-pt.inkapk-v1.4.43.apk",
+        "hash": "b57985223179efc1a7a8ac8226607249bca03ef6f0e161182f6a8a104f1d019f",
+        "link": "https://www.virustotal.com/gui/file/b57985223179efc1a7a8ac8226607249bca03ef6f0e161182f6a8a104f1d019f",
+        "scan_date": 1753574408,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 130763,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-zh.zaimanhua-v1.4.9.apk",
+        "hash": "d965bd4c8876bde196b1757aba41fc85deaf1b2e7650566e1cfc7aefdbce9444",
+        "link": "https://www.virustotal.com/gui/file/d965bd4c8876bde196b1757aba41fc85deaf1b2e7650566e1cfc7aefdbce9444",
+        "scan_date": 1753574409,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 62749,
+        "detected_by": {}
     }
 ]
