@@ -100448,5 +100448,27 @@
         "file_type": "Android",
         "file_size": 91298,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-es.jeazscans-v1.4.60.apk",
+        "hash": "2d62f906daa4802d5fa2919f3640193facdd6262d11ae13091607cb30c71ad81",
+        "link": "https://www.virustotal.com/gui/file/2d62f906daa4802d5fa2919f3640193facdd6262d11ae13091607cb30c71ad81",
+        "scan_date": 1753790404,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 92473,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-es.eternalmangas-v1.4.11.apk",
+        "hash": "eada6518604151e46cab0b66af077b57e46fc0eee2a31ae201d9ba8e06fcb3ed",
+        "link": "https://www.virustotal.com/gui/file/eada6518604151e46cab0b66af077b57e46fc0eee2a31ae201d9ba8e06fcb3ed",
+        "scan_date": 1753790406,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 106599,
+        "detected_by": {}
     }
 ]
