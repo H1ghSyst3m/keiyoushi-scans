@@ -100415,5 +100415,38 @@
         "file_type": "Android",
         "file_size": 86757,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-th.mangakimi-v1.4.32.apk",
+        "hash": "417b819f34961fed383b9d0b82f3f40cd8c08fd48a35a31daf18cfdeeff5163d",
+        "link": "https://www.virustotal.com/gui/file/417b819f34961fed383b9d0b82f3f40cd8c08fd48a35a31daf18cfdeeff5163d",
+        "scan_date": 1753747205,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 83194,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-pt.yugenmangas-v1.4.48.apk",
+        "hash": "6789c94ddf912af8ad2a433cebcb42f0838c80efd030ad0b227286ba23c35845",
+        "link": "https://www.virustotal.com/gui/file/6789c94ddf912af8ad2a433cebcb42f0838c80efd030ad0b227286ba23c35845",
+        "scan_date": 1753747207,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 52460,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-pt.bakai-v1.4.13.apk",
+        "hash": "b2c37e9728aab2bd066cce35721f2ee4b81358d0c015c5124e77fff8baafea48",
+        "link": "https://www.virustotal.com/gui/file/b2c37e9728aab2bd066cce35721f2ee4b81358d0c015c5124e77fff8baafea48",
+        "scan_date": 1753747208,
+        "positives": 0,
+        "total": 61,
+        "file_type": "Android",
+        "file_size": 91298,
+        "detected_by": {}
     }
 ]
