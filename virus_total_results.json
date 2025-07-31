@@ -100481,5 +100481,16 @@
         "file_type": "Android",
         "file_size": 92124,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-vi.goctruyentranhvui-v1.4.2.apk",
+        "hash": "6798d3a8fc0c7336602f35f7ef58d4ffb3fb1f43c85827866c38fc1e3d6ccc52",
+        "link": "https://www.virustotal.com/gui/file/6798d3a8fc0c7336602f35f7ef58d4ffb3fb1f43c85827866c38fc1e3d6ccc52",
+        "scan_date": 1753920005,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 61456,
+        "detected_by": {}
     }
 ]
