@@ -100492,5 +100492,27 @@
         "file_type": "Android",
         "file_size": 61456,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-es.bibliopanda-v1.4.43.apk",
+        "hash": "9bce8723cc25aaf1e1f54911e427ac00a3455cbf62b3823994c8561e1953d1f0",
+        "link": "https://www.virustotal.com/gui/file/9bce8723cc25aaf1e1f54911e427ac00a3455cbf62b3823994c8561e1953d1f0",
+        "scan_date": 1754006403,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 123073,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-all.nhentai-v1.4.52.apk",
+        "hash": "2049da87699491ccedc8ebbe1c424b3e83dca9d170cdf5affc63b15ad8221d9c",
+        "link": "https://www.virustotal.com/gui/file/2049da87699491ccedc8ebbe1c424b3e83dca9d170cdf5affc63b15ad8221d9c",
+        "scan_date": 1754006405,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 65987,
+        "detected_by": {}
     }
 ]
