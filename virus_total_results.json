@@ -100514,5 +100514,27 @@
         "file_type": "Android",
         "file_size": 65987,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-vi.goctruyentranh-v1.4.5.apk",
+        "hash": "c8f3153b2a1b700785bcca7924c5e0a25e28d5d88e0165b63c0af52c109bcf13",
+        "link": "https://www.virustotal.com/gui/file/c8f3153b2a1b700785bcca7924c5e0a25e28d5d88e0165b63c0af52c109bcf13",
+        "scan_date": 1754049605,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 63716,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-it.mangaworld-v1.4.12.apk",
+        "hash": "dbeab3b965f7a1aaf1f478005f6c9314b56182a3ba287c84c218fff572a0b756",
+        "link": "https://www.virustotal.com/gui/file/dbeab3b965f7a1aaf1f478005f6c9314b56182a3ba287c84c218fff572a0b756",
+        "scan_date": 1754049606,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 48777,
+        "detected_by": {}
     }
 ]
