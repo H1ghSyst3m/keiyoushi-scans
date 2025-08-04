@@ -100978,5 +100978,16 @@
         "file_type": "Android",
         "file_size": 90225,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-all.mangaplus-v1.4.55.apk",
+        "hash": "0366d8cf8dc439e5e2c7c392c7fa065c094286d7aa5ae496631de0f63aa67f35",
+        "link": "https://www.virustotal.com/gui/file/0366d8cf8dc439e5e2c7c392c7fa065c094286d7aa5ae496631de0f63aa67f35",
+        "scan_date": 1754308808,
+        "positives": 0,
+        "total": 63,
+        "file_type": "Android",
+        "file_size": 103057,
+        "detected_by": {}
     }
 ]
