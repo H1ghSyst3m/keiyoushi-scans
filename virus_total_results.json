@@ -100602,5 +100602,16 @@
         "file_type": "Android",
         "file_size": 49011,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-tr.moondaisyscans-v1.4.32.apk",
+        "hash": "d3608ecb3eea9bf59ba474180a6464fdb709044b4a488740be4db039872f2b93",
+        "link": "https://www.virustotal.com/gui/file/d3608ecb3eea9bf59ba474180a6464fdb709044b4a488740be4db039872f2b93",
+        "scan_date": 1754223677,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 97290,
+        "detected_by": {}
     }
 ]
