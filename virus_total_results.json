@@ -101176,5 +101176,49 @@
         "file_type": "Android",
         "file_size": 102763,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-tr.koreliscans-v1.4.44.apk",
+        "hash": "1a592278165aec94329989b7dc8a5d78ec3695c65d51172c4060f11434e1ae12",
+        "link": "https://www.virustotal.com/gui/file/1a592278165aec94329989b7dc8a5d78ec3695c65d51172c4060f11434e1ae12",
+        "scan_date": 1754740804,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 121289,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-all.comickfun-v1.4.58.apk",
+        "hash": "29fcb79a61359e51ee8eeb9dd7deeb9396ca10bac66bd958633d9eb2a0dd432f",
+        "link": "https://www.virustotal.com/gui/file/29fcb79a61359e51ee8eeb9dd7deeb9396ca10bac66bd958633d9eb2a0dd432f",
+        "scan_date": 1754740805,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 114101,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-es.templescanesp-v1.4.47.apk",
+        "hash": "2b7ecf86cebd0a91a9acd969f9e5f9002f2c1352054c8619d2f4e63edcbb0046",
+        "link": "https://www.virustotal.com/gui/file/2b7ecf86cebd0a91a9acd969f9e5f9002f2c1352054c8619d2f4e63edcbb0046",
+        "scan_date": 1754740807,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 104409,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-ja.mangagun-v1.4.14.apk",
+        "hash": "1ccd40fba8e213e8b18bf1f014ad36c984173a72f120c91a920a7eb12b236899",
+        "link": "https://www.virustotal.com/gui/file/1ccd40fba8e213e8b18bf1f014ad36c984173a72f120c91a920a7eb12b236899",
+        "scan_date": 1754740808,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 69284,
+        "detected_by": {}
     }
 ]
