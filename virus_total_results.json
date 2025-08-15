@@ -101552,5 +101552,49 @@
         "file_type": "Android",
         "file_size": 33219,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-all.comickfun-v1.4.59.apk",
+        "hash": "7ee2b33f2cff19ede7b52116efdc94300fb8d1754c62813e3734b965884b5157",
+        "link": "https://www.virustotal.com/gui/file/7ee2b33f2cff19ede7b52116efdc94300fb8d1754c62813e3734b965884b5157",
+        "scan_date": 1755216013,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 115507,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-pt.sakuramangas-v1.4.1.apk",
+        "hash": "1d4e9821d59ab5912f3f98349b26a5d6a29604713e529989c958b64f5bb5ae2f",
+        "link": "https://www.virustotal.com/gui/file/1d4e9821d59ab5912f3f98349b26a5d6a29604713e529989c958b64f5bb5ae2f",
+        "scan_date": 1755216014,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 69625,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-tr.eldermanga-v1.4.1.apk",
+        "hash": "5490edbd65bd0070d85062e8181730b45ebada834f7e0a644ee872b62cd6a61b",
+        "link": "https://www.virustotal.com/gui/file/5490edbd65bd0070d85062e8181730b45ebada834f7e0a644ee872b62cd6a61b",
+        "scan_date": 1755216016,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 67195,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-zh.zaimanhua-v1.4.10.apk",
+        "hash": "d4492b034cdd545fde24c20075cbd152c6aa747017d26a95c084e50a148aa45e",
+        "link": "https://www.virustotal.com/gui/file/d4492b034cdd545fde24c20075cbd152c6aa747017d26a95c084e50a148aa45e",
+        "scan_date": 1755216017,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 62659,
+        "detected_by": {}
     }
 ]
