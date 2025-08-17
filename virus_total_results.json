@@ -101728,5 +101728,27 @@
         "file_type": "Android",
         "file_size": 78782,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-all.snowmtl-v1.4.15.apk",
+        "hash": "a6e85c4dee5b103a70fffba5c2bc93c9898783104e162d0fd5ec31ccad600780",
+        "link": "https://www.virustotal.com/gui/file/a6e85c4dee5b103a70fffba5c2bc93c9898783104e162d0fd5ec31ccad600780",
+        "scan_date": 1755432003,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 171113,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-all.comickfun-v1.4.61.apk",
+        "hash": "afd6a6cd632cec80d3a592e77d6f05423f88a407a16b55661aa9f41e70a8f4b0",
+        "link": "https://www.virustotal.com/gui/file/afd6a6cd632cec80d3a592e77d6f05423f88a407a16b55661aa9f41e70a8f4b0",
+        "scan_date": 1755432005,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 116794,
+        "detected_by": {}
     }
 ]
