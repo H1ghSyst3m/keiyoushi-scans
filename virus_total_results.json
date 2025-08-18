@@ -101750,5 +101750,27 @@
         "file_type": "Android",
         "file_size": 116794,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-fr.invinciblecomics-v1.4.1.apk",
+        "hash": "47e59a15ccc2b1d665c1cbef725ad458dbe6f5996d609b5d2a32022bfb11672b",
+        "link": "https://www.virustotal.com/gui/file/47e59a15ccc2b1d665c1cbef725ad458dbe6f5996d609b5d2a32022bfb11672b",
+        "scan_date": 1755475203,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 48217,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-zh.toptoon-v1.4.1.apk",
+        "hash": "6fc586f3821654ce3a40cd6342a51b4ef78454213f2b903984138ea3613f3e8e",
+        "link": "https://www.virustotal.com/gui/file/6fc586f3821654ce3a40cd6342a51b4ef78454213f2b903984138ea3613f3e8e",
+        "scan_date": 1755475205,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 64932,
+        "detected_by": {}
     }
 ]
