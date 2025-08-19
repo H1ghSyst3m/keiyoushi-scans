@@ -101772,5 +101772,38 @@
         "file_type": "Android",
         "file_size": 64932,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-all.comickfun-v1.4.62.apk",
+        "hash": "e92e60a6d38db86a36857a4d47d350715a34800396678fcf93c690c4a28f0dc2",
+        "link": "https://www.virustotal.com/gui/file/e92e60a6d38db86a36857a4d47d350715a34800396678fcf93c690c4a28f0dc2",
+        "scan_date": 1755561605,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 116816,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-zh.bilimanga-v1.4.4.apk",
+        "hash": "68c3a1de6c4a5343cb82fb2f4e372c4a7cd80365ab5ef76e86e3464e4385ff6e",
+        "link": "https://www.virustotal.com/gui/file/68c3a1de6c4a5343cb82fb2f4e372c4a7cd80365ab5ef76e86e3464e4385ff6e",
+        "scan_date": 1755561607,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 60111,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-fr.japscan-v1.4.50.apk",
+        "hash": "4d2e59897e68f3ea2b759eb14e26ee72e3921e0060d1aa244383165fe253b882",
+        "link": "https://www.virustotal.com/gui/file/4d2e59897e68f3ea2b759eb14e26ee72e3921e0060d1aa244383165fe253b882",
+        "scan_date": 1755561608,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 58537,
+        "detected_by": {}
     }
 ]
