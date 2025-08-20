@@ -101805,5 +101805,16 @@
         "file_type": "Android",
         "file_size": 58537,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-fr.japscan-v1.4.51.apk",
+        "hash": "5763848ee890e48e78c5b4512f4622a2f3b960178d7d22e8377ec6b668441def",
+        "link": "https://www.virustotal.com/gui/file/5763848ee890e48e78c5b4512f4622a2f3b960178d7d22e8377ec6b668441def",
+        "scan_date": 1755648003,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 59237,
+        "detected_by": {}
     }
 ]
