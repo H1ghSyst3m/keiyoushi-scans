@@ -101816,5 +101816,82 @@
         "file_type": "Android",
         "file_size": 59237,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-zh.boylove-v1.4.15.apk",
+        "hash": "c0e409bd09098d9d58c54f1be6e1c5ea404306f7b40497c55fce53262ac35335",
+        "link": "https://www.virustotal.com/gui/file/c0e409bd09098d9d58c54f1be6e1c5ea404306f7b40497c55fce53262ac35335",
+        "scan_date": 1755820807,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 61481,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-pt.astratoons-v1.4.4.apk",
+        "hash": "a667930e8b7cfdae3e36de2e028e3f117f3f04f436a255b2be03813b68d68f66",
+        "link": "https://www.virustotal.com/gui/file/a667930e8b7cfdae3e36de2e028e3f117f3f04f436a255b2be03813b68d68f66",
+        "scan_date": 1755820809,
+        "positives": 0,
+        "total": 61,
+        "file_type": "Android",
+        "file_size": 86641,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-id.mgkomik-v1.4.60.apk",
+        "hash": "d7406cb0fe61200a9ada48b50a2d2066cd341dff0a919f755a1d032eff0f3c9d",
+        "link": "https://www.virustotal.com/gui/file/d7406cb0fe61200a9ada48b50a2d2066cd341dff0a919f755a1d032eff0f3c9d",
+        "scan_date": 1755820810,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 120515,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-all.solarmtl-v1.4.6.apk",
+        "hash": "9c1f27e0b33758e144fdc48df518301ff26f61d6214b2db5892189ec82d7a6bb",
+        "link": "https://www.virustotal.com/gui/file/9c1f27e0b33758e144fdc48df518301ff26f61d6214b2db5892189ec82d7a6bb",
+        "scan_date": 1755820812,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 178676,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-fr.epsilonscan-v1.4.44.apk",
+        "hash": "0ab4b952532620e3422ea7b4ea8913c44b90eef84a41eae5f8e5403b9e43b9e9",
+        "link": "https://www.virustotal.com/gui/file/0ab4b952532620e3422ea7b4ea8913c44b90eef84a41eae5f8e5403b9e43b9e9",
+        "scan_date": 1755820867,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 72307,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-id.westmanga-v1.4.38.apk",
+        "hash": "69199a5c1903963a3c90b2e33609d80c7f4018e2e93eeba6778125206817d118",
+        "link": "https://www.virustotal.com/gui/file/69199a5c1903963a3c90b2e33609d80c7f4018e2e93eeba6778125206817d118",
+        "scan_date": 1755820869,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 98061,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-all.snowmtl-v1.4.16.apk",
+        "hash": "4b546afa5af41c88bfa16a0dc0324b4839502abb33a836648e0a300b4dafae51",
+        "link": "https://www.virustotal.com/gui/file/4b546afa5af41c88bfa16a0dc0324b4839502abb33a836648e0a300b4dafae51",
+        "scan_date": 1755820871,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 170507,
+        "detected_by": {}
     }
 ]
