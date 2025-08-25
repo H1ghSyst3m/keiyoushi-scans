@@ -102247,5 +102247,38 @@
         "file_type": "Android",
         "file_size": 143635,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-zh.tongli-v1.4.1.apk",
+        "hash": "dc688d1c9eb14ed1da29365f163ac7b5c1e8fbb9eb0b77a2380488232eba0636",
+        "link": "https://www.virustotal.com/gui/file/dc688d1c9eb14ed1da29365f163ac7b5c1e8fbb9eb0b77a2380488232eba0636",
+        "scan_date": 1756080004,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 75596,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-zh.roumanwu-v1.4.17.apk",
+        "hash": "d0f3cfda9bea5f10c40c5e2e8712feef8ed351e4c651676433397ad8654059b7",
+        "link": "https://www.virustotal.com/gui/file/d0f3cfda9bea5f10c40c5e2e8712feef8ed351e4c651676433397ad8654059b7",
+        "scan_date": 1756080006,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 57303,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-id.mangatale-v1.4.40.apk",
+        "hash": "82ffa2537ab173a479331b75da822e7956533a14df0cdc37d6b1ad287cb71aca",
+        "link": "https://www.virustotal.com/gui/file/82ffa2537ab173a479331b75da822e7956533a14df0cdc37d6b1ad287cb71aca",
+        "scan_date": 1756080007,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 41568,
+        "detected_by": {}
     }
 ]
