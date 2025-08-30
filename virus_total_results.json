@@ -102280,5 +102280,108 @@
         "file_type": "Android",
         "file_size": 41568,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-fr.scanmanga-v1.4.10.apk",
+        "hash": "f29253bae1da520b0568d6b69a088763a9af7afc7b436c0ea8a3330bf16c430c",
+        "link": "https://www.virustotal.com/gui/file/f29253bae1da520b0568d6b69a088763a9af7afc7b436c0ea8a3330bf16c430c",
+        "scan_date": 1756555204,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 57248,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-zh.bilimanga-v1.4.5.apk",
+        "hash": "cc5ef57f5cd5050d8fb1bf220731902e0a675d1cb2659f2009e708aa15e33263",
+        "link": "https://www.virustotal.com/gui/file/cc5ef57f5cd5050d8fb1bf220731902e0a675d1cb2659f2009e708aa15e33263",
+        "scan_date": 1756555206,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 60125,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-zh.sixmh-v1.4.15.apk",
+        "hash": "98ebef0fc13c0b4218847577c2ff122495ae80458fe95caf4506666d5025f83d",
+        "link": "https://www.virustotal.com/gui/file/98ebef0fc13c0b4218847577c2ff122495ae80458fe95caf4506666d5025f83d",
+        "scan_date": 1756555207,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 84894,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-all.snowmtl-v1.4.19.apk",
+        "hash": "f8818df945d65c1b4290d4b8d123f8f97ff34086c90b36a90687e1548f942650",
+        "link": "https://www.virustotal.com/gui/file/f8818df945d65c1b4290d4b8d123f8f97ff34086c90b36a90687e1548f942650",
+        "scan_date": 1756555209,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 249368,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-zh.dm5-v1.4.6.apk",
+        "hash": "3dca2bbbbeea902bec4308c5118f6914e7d9c585ae5587663aee217105390b19",
+        "link": "https://www.virustotal.com/gui/file/3dca2bbbbeea902bec4308c5118f6914e7d9c585ae5587663aee217105390b19",
+        "scan_date": 1756555263,
+        "positives": 1,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 45689,
+        "detected_by": {
+            "Microsoft": "Trojan:Script/Wacatac.B!ml"
+        }
+    },
+    {
+        "filename": "tachiyomi-zh.zaimanhua-v1.4.11.apk",
+        "hash": "3dea7dfd7de49a7e06780fbd02c8c06bd372cb99a4c608ddd217ea9c689d7d76",
+        "link": "https://www.virustotal.com/gui/file/3dea7dfd7de49a7e06780fbd02c8c06bd372cb99a4c608ddd217ea9c689d7d76",
+        "scan_date": 1756555265,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 67261,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-all.solarmtl-v1.4.9.apk",
+        "hash": "7d99a7643172df318e7fd1c53fc10a868755a1892c29243e1f85946d953ff8b1",
+        "link": "https://www.virustotal.com/gui/file/7d99a7643172df318e7fd1c53fc10a868755a1892c29243e1f85946d953ff8b1",
+        "scan_date": 1756555266,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 257582,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-vi.mimihentai-v1.4.3.apk",
+        "hash": "d099f417c5d02d44ddccc05a58bb65acde35a246171c455a2aabbb0878e0173d",
+        "link": "https://www.virustotal.com/gui/file/d099f417c5d02d44ddccc05a58bb65acde35a246171c455a2aabbb0878e0173d",
+        "scan_date": 1756555267,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 89523,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-id.komikindoid-v1.4.18.apk",
+        "hash": "5b1dd5505a28e222ae480b774c994be3ea36a3d766883297a15311ebb9a73b25",
+        "link": "https://www.virustotal.com/gui/file/5b1dd5505a28e222ae480b774c994be3ea36a3d766883297a15311ebb9a73b25",
+        "scan_date": 1756555323,
+        "positives": 1,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 43532,
+        "detected_by": {
+            "Microsoft": "Trojan:Script/Wacatac.B!ml"
+        }
     }
 ]
