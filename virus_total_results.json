@@ -102383,5 +102383,106 @@
         "detected_by": {
             "Microsoft": "Trojan:Script/Wacatac.B!ml"
         }
+    },
+    {
+        "filename": "tachiyomi-zh.dm5-v1.4.7.apk",
+        "hash": "98c3e9352a2f5ccba3e1e1b78cfdecb8e96e7d42b37fd4bd9c9b2d03d095237f",
+        "link": "https://www.virustotal.com/gui/file/98c3e9352a2f5ccba3e1e1b78cfdecb8e96e7d42b37fd4bd9c9b2d03d095237f",
+        "scan_date": 1756728009,
+        "positives": 0,
+        "total": 65,
+        "file_type": "Android",
+        "file_size": 47117,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.philiascans-v1.4.44.apk",
+        "hash": "3c39385b4f46dd8698d60f79a1a017f0fff2af641b53f2122b1c56d5bb7b0a0c",
+        "link": "https://www.virustotal.com/gui/file/3c39385b4f46dd8698d60f79a1a017f0fff2af641b53f2122b1c56d5bb7b0a0c",
+        "scan_date": 1756728011,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 103869,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.rdscans-v1.4.42.apk",
+        "hash": "7ef6c61cf1fd631af79811e60740fcc30f232a3f1cb7b0e2045097ab98dd6fda",
+        "link": "https://www.virustotal.com/gui/file/7ef6c61cf1fd631af79811e60740fcc30f232a3f1cb7b0e2045097ab98dd6fda",
+        "scan_date": 1756728012,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 89387,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.hiveworks-v1.4.11.apk",
+        "hash": "77f4cd8627a002e51b61d81d2803e7208f0116b8214f7f5573e51d0f805df173",
+        "link": "https://www.virustotal.com/gui/file/77f4cd8627a002e51b61d81d2803e7208f0116b8214f7f5573e51d0f805df173",
+        "scan_date": 1756728013,
+        "positives": 0,
+        "total": 62,
+        "file_type": "Android",
+        "file_size": 69640,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-zh.baozimhorg-v1.4.35.apk",
+        "hash": "603e81499f84fb25ac67d62ba2dfe5e93d1e21014f0edc332b9ce487b379d833",
+        "link": "https://www.virustotal.com/gui/file/603e81499f84fb25ac67d62ba2dfe5e93d1e21014f0edc332b9ce487b379d833",
+        "scan_date": 1756728069,
+        "positives": 1,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 54405,
+        "detected_by": {
+            "Microsoft": "Trojan:Script/Wacatac.B!ml"
+        }
+    },
+    {
+        "filename": "tachiyomi-pt.fenixmanhwas-v1.4.45.apk",
+        "hash": "96c9c467bba45a5789d86944f3f0041374786c2f3d4438b1bb27cad26f52e151",
+        "link": "https://www.virustotal.com/gui/file/96c9c467bba45a5789d86944f3f0041374786c2f3d4438b1bb27cad26f52e151",
+        "scan_date": 1756728070,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 78219,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.wearehunger-v1.4.42.apk",
+        "hash": "78800d61f0e229dd760aa73636017cf54fbbf896e3362b44d2ace04da14d78c8",
+        "link": "https://www.virustotal.com/gui/file/78800d61f0e229dd760aa73636017cf54fbbf896e3362b44d2ace04da14d78c8",
+        "scan_date": 1756728071,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 117191,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-zh.zaimanhua-v1.4.12.apk",
+        "hash": "894d8b8e2abc20998e4f27c4712797b9244e757f2fc2c9e84210b2c92b3b3472",
+        "link": "https://www.virustotal.com/gui/file/894d8b8e2abc20998e4f27c4712797b9244e757f2fc2c9e84210b2c92b3b3472",
+        "scan_date": 1756728072,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 67521,
+        "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.saturdaymorningbreakfastcomics-v1.4.1.apk",
+        "hash": "b86f4c70c9e6a409d11251a408c4143481459b40fa3b7064a9047eff33f859a2",
+        "link": "https://www.virustotal.com/gui/file/b86f4c70c9e6a409d11251a408c4143481459b40fa3b7064a9047eff33f859a2",
+        "scan_date": 1756728129,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 42208,
+        "detected_by": {}
     }
 ]
