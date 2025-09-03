@@ -102825,5 +102825,16 @@
         "file_type": "Android",
         "file_size": 82904,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-ja.rawxz-v1.4.46.apk",
+        "hash": "25ede7b61e1c2e63e9efc2920889f55042a6105338bee9429d42cd02d6dd3be5",
+        "link": "https://www.virustotal.com/gui/file/25ede7b61e1c2e63e9efc2920889f55042a6105338bee9429d42cd02d6dd3be5",
+        "scan_date": 1756848409,
+        "positives": 0,
+        "total": 66,
+        "file_type": "Android",
+        "file_size": 126112,
+        "detected_by": {}
     }
 ]
