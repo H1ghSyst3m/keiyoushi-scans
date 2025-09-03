@@ -104147,5 +104147,16 @@
         "file_type": "Android",
         "file_size": 124316,
         "detected_by": {}
+    },
+    {
+        "filename": "tachiyomi-en.manga18free-v1.4.44.apk",
+        "hash": "4e2eef9efb7ecbd9934a3fa5c2d7fe3a13c9be493e923838b2a626027cf093b9",
+        "link": "https://www.virustotal.com/gui/file/4e2eef9efb7ecbd9934a3fa5c2d7fe3a13c9be493e923838b2a626027cf093b9",
+        "scan_date": 1756860016,
+        "positives": 0,
+        "total": 67,
+        "file_type": "Android",
+        "file_size": 111957,
+        "detected_by": {}
     }
 ]
